@@ -1,0 +1,1830 @@
+200000055
+*245  $aMwanahalisi
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 14 October 2008 / Media Institute of Southern Africa (MISA), Windhoek
+*505  $aThe Tanzanian government has suspended "Mwanahalisi" newspaper for its alleged practice of running stories with the intention of "inciting public hatred" against the president and contributing
+to misunderstanding within the president's family.
+*506  $asuspended
+$bTanzanian government
+*518  $a13 October 2008
+$3newspaper
+*522  $aTanzania
+*651  $a5264
+*691  $apolitical
+*692  $asuspended
+^
+200000056
+*041  $aara
+*245  $aMedia in general
+*260  $aGaza strip
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 21 October 2008 / Reporters sans frontières (RSF), Paris
+*505  $aIsmael Haniyeh's government has announced a new system of accreditation for all telecommunications companies, Internet service providers, broadcast media and news agencies based in the Gaza
+Strip, which has been controlled by the Islamist party Hamas since June 2007. Yusef Al-Mansi, the Hamas government's minister of communication and information technology, told Reporters Without
+Borders that the aim of his directive, issued on 13 October, was "simply to regulate the work of the media in accordance with the law in effect since 1996."
+*506  $anew system of accreditation
+$bIsmael Haniyeh's government
+*518  $a13 October 2008
+$3media
+*522  $aPalestinian Territory, Occupied
+*651  $a7354
+*691  $apolitical
+*692  $anew system of accreditation
+^
+200000057
+*041  $aara
+*100  $aShafee, Magdy El
+$eauthor
+*245  $aMetro
+*260  $aCairo
+$bMalameh publishing house
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 16 April 2008 / Arabic Network for Human Rights Information (HRinfo), Cairo
+*505  $aOn 15 April 2008, a police force led by a colonel raided the Cairo-based Malameh publishing house, which is owned by blogger Muhammad Al Sharkawi, and confiscated copies of a novel entitled
+"Metro".
+*506  $aConfiscated
+$bThe police
+*518  $a15 April 2008
+$3novel
+*522  $aEgypt
+*651  $a5325
+*691  $apolitical
+*692  $aconfiscated
+*700  $aShafee, Magdy El
+$eauthor
+^
+200000058
+*041  $aspa
+*100  $aMontemayor, Sanjuana Martínez
+$eauthor
+*245  $aManto Púrpura
+*260  $aMexico
+$bGrijalbo publishing house
+$c2006
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 26 September 2008 / Center for Journalism and Public Ethics (CEPET), Mexico City
+*505  $aJournalist and author Sanjuana Martínez Montemayor has said that the Samborns bookstore chain, which is owned by powerful businessman Carlos Slim and is one of the most popular bookstores in
+Mexico, has blocked the sale of two books in which she documented cases of sexual abuse in the Catholic Church in Mexico.
+*506  $asale blocked
+$bSamborns bookstore chain
+$emoral
+*518  $a2008
+$3novel
+*522  $aMexico
+*651  $a6243
+*691  $amoral
+^
+200000059
+*041  $aspa
+*100  $aMontemayor, Sanjuana Martínez
+$eauthor
+*245  $aPrueba de Fe
+*260  $aMexico
+$bPlaneta publishing house
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 26 September 2008 / Center for Journalism and Public Ethics (CEPET), Mexico City
+*505  $aJournalist and author Sanjuana Martínez Montemayor has said that the Samborns bookstore chain, which is owned by powerful businessman Carlos Slim and is one of the most popular bookstores in
+Mexico, has blocked the sale of two books in which she documented cases of sexual abuse in the Catholic Church in Mexico.
+*506  $asale blocked
+$bSamborns bookstore chain
+*518  $a2008
+$3novel
+*522  $aMexico
+*651  $a6243
+*691  $amoral
+^
+200000060
+*041  $aara
+*100  $aBenchicou, Mohamed
+$eauthor
+*245  $aThe Free Man's Journal
+*260  $aAlgier
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 22 October 2008 / Arabic Network for Human Rights Information (ANHRI), Cairo
+*505  $aAn Algerian police order has prevented the publication of respected Algerian journalist Mohamed Benchicou's book, "The Free Man's Journal" ("Journal d'un homme libre"). The injunction has
+prevented the journalist from presenting his book at the 13th International Book Fair in Algiers, which is to take place from 27 October to 5 November 2008.
+*506  $apublication prevented
+$bthe police
+*518  $aOctober 2008
+$3book
+*522  $aAlgier
+*651  $a5311
+*691  $apolitical
+*692  $apublication prevented
+^
+200000061
+*041  $atur
+*245  $aGündem
+*260  $aAnkara
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 8 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aOn 20 March 2008, the Ankara assizes court ordered the suspension of the website of the daily paper "Gündem", http://www.ozgurgundem.org , which has been inaccessible since 1 April and, on 11
+February, that of the Firat news agency (ANF), http://www.firatnews.eu , both for alleged "propaganda in favour of the Kurdistan Workers Party."
+*506  $asuspended
+$bThe Ankara assizes court
+*518  $a20 March 2008
+$3website
+*522  $aTurkey
+*651  $a8048
+*691  $apolitical
+*692  $asuspended
+^
+200000062
+*245  $aFirat news agency (http://www.firatnews.eu)
+*260  $aAnkara
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 8 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aOn 20 March 2008, the Ankara assizes court ordered the suspension of the website of the daily paper "Gündem", http://www.ozgurgundem.org , which has been inaccessible since 1 April and, on 11
+February, that of the Firat news agency (ANF), http://www.firatnews.eu , both for alleged "propaganda in favour of the Kurdistan Workers Party."
+*506  $asuspended
+$bthe Ankara assizes court
+*518  $a20 March 2008
+$3website
+*522  $aTurkey
+*651  $a8048
+*691  $apolitical
+*692  $asuspended
+^
+200000063
+*041  $aind
+*245  $aYouTube (http://www.youtube.com)
+*260  $aIndonesia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 April 2008 / Southeast Asian Press Alliance (SEAPA), Bangkok
+*505  $aOn 31 March 2008, the Information Ministry gave YouTube ( http://www.youtube.com ) a one-week deadline to remove "Fitna" ("strife" or "disturbance" in Arabic) - a short film which features
+shots of terrorist acts juxtaposed over Quranic verses - failing which it would be blocked. On 7 April, a few ISPs started to deny access not only to YouTube but also MySpace ( http://www.myspace.com
+) and Google Video ( http://video.google.ca/ ). Around 150 other Internet service providers in the country have yet to implement the order, which stays until the websites remove the film, reports
+said.
+*506  $ablocked
+$bthe Information Ministry
+*518  $a7 April 2008
+$3website
+*522  $aIndonesia
+*651  $a7526
+*691  $apolitical
+*692  $ablocked
+^
+200000064
+*041  $aind
+*245  $aMySpace ( http://www.myspace.com )
+*260  $aIndonesia
+$c2008
+*500  $aaIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 April 2008 / Southeast Asian Press Alliance (SEAPA), Bangkok
+*505  $aOn 31 March 2008, the Information Ministry gave YouTube ( http://www.youtube.com ) a one-week deadline to remove "Fitna" ("strife" or "disturbance" in Arabic) - a short film which features
+shots of terrorist acts juxtaposed over Quranic verses - failing which it would be blocked. On 7 April, a few ISPs started to deny access not only to YouTube but also MySpace ( http://www.myspace.com
+) and Google Video ( http://video.google.ca/ ). Around 150 other Internet service providers in the country have yet to implement the order, which stays until the websites remove the film, reports
+said.
+*506  $ablocked
+$bthe Information Ministry
+*518  $a7 April 2008
+$3website
+*522  $aIndonesia
+*651  $a7526
+*691  $apolitical
+*692  $ablocked
+^
+200000065
+*041  $aind
+*245  $aGoogle Video ( http://video.google.ca/ )
+*260  $aIndonesia
+$c2008
+*500  $aaIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 April 2008 / Southeast Asian Press Alliance (SEAPA), Bangkok
+*505  $aOn 31 March 2008, the Information Ministry gave YouTube ( http://www.youtube.com ) a one-week deadline to remove "Fitna" ("strife" or "disturbance" in Arabic) - a short film which features
+shots of terrorist acts juxtaposed over Quranic verses - failing which it would be blocked. On 7 April, a few ISPs started to deny access not only to YouTube but also MySpace ( http://www.myspace.com
+) and Google Video ( http://video.google.ca/ ). Around 150 other Internet service providers in the country have yet to implement the order, which stays until the websites remove the film, reports
+said.
+*506  $ablocked
+$bthe Information Ministry
+*518  $a7 April 2008
+$3website
+*522  $aIndonesia
+*651  $a7526
+*691  $apolitical
+*692  $ablocked
+^
+200000067
+*041  $aspa
+*245  $aLa Ronda
+*260  $aSanta Cruz, Argentina
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 16 March 2007 / Reporters sans frontières (RSF), Paris
+*505  $aLU14 Radio Provincia, a public radio station in the southern province of Santa Cruz, decided on 5 March 2007 to eliminate the programme "La Ronda", which follows the cancellation of another
+programme by the same station in July 2006. "La Ronda" was a children's programme broadcast from noon until 2:00 p.m. (local time) on Sundays. During a recent broadcast, host Marta Savorido, who is
+also a teacher, invited the provincial government to pay more attention to her fellow teachers' wage demands. When the station's management announced the programme's removal on 5 March, it said this
+type of comment should not be made "on a public radio station."
+*506  $aeliminated
+$bthe radio station
+*518  $a5 March 2007
+$3radio programme
+*522  $aArgentina
+*651  $a6414
+*691  $apolitical
+*692  $aeliminated
+*700  $aSavorido, Marta
+$ehost
+^
+200000068
+*041  $aspa
+*245  $aVoces de mi Tierra
+*260  $aSanta Cruz, Argentina
+$c2006
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 16 March 2007 / Reporters sans frontières (RSF), Paris
+*505  $aThe programme "Voces de mi Tierra" was withdrawn from LU14 and LRA 59 in July 2006 after it included a report by Pablo Lagalle on the public health risks from mining operations. Lagalle told
+RSF at the time that the decision was taken at the request of a municipal councillor.
+*506  $awithdrawn
+$ba municipal councillor
+*518  $aJuly 2006
+$3radio programme
+*522  $aArgentina
+*651  $a6414
+*691  $apolitical
+*692  $awithdrawn
+^
+200000069
+*041  $aspa
+*245  $aAl tanto
+*260  $aMexico
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 10 April 2007 / Reporters sans frontières (RSF), Paris
+*505  $aThe news programme "Al tanto", that had been hosted by journalist Amado Ramírez on Radiorama Acapulco before he was murdered on 6 April 2007, was taken off the air on 9 April after the station
+received threats.
+*506  $ataken off air
+$bradio station
+*518  $a9 April 2007
+$3news programme
+*522  $aMexico
+*651  $a6243
+*691  $apolitical
+*692  $ataken off on grounds of threats
+*700  $aRamírez, Amado
+$ehost
+^
+200000070
+*041  $aara
+*245  $aAl-Jazeera International
+*260  $aAfghanistan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 13 April 2007 / Reporters sans frontières (RSF), Paris
+*505  $aLemar TV chief Saad Mohseni said the station had stopped retransmission after getting a letter from the justice ministry on 7 April ordering it to end the broadcast of programmes from
+Al-Jazeera International. He told Reporters Without Borders he had dropped the programmes "to avoid violent reprisals by security forces" and that he would bow to the president's good judgement so as
+to end the dispute." He noted that the programmes had been legally retransmitted and contained nothing blasphemous."
+*506  $aretransmission stopped
+$bthe justice ministry
+*518  $aApril 2007
+$3TV programmes
+*522  $aAfghanistan
+*651  $a7411
+*691  $apolitical
+*692  $aretransmission stopped
+*700  $aRamírez, Amado
+$ehost
+^
+200000071
+*041  $aeng
+*245  $aPrivate radio stations
+*260  $aBlantyre, Malawi
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 17 April 2007 / Committee to Protect Journalists (CPJ), New York
+*505  $aLive radio broadcasts of opposition rallies in the lead-up to presidential polls in 2009 led state regulators in the commercial city of Blantyre this week to bar all private radio stations in
+Malawi from airing live broadcasts without permission, according to local journalists and media reports. Officials accused unnamed stations of airing "hate messages" but offered no evidence. All
+private radio and television broadcasting stations must seek advance permission from the Malawi Communications Regulatory Authority (MACRA) before conducting live broadcasts, according to a statement
+released by the agency on Tuesday. The directive threatened violators with unspecified punishment. "Of late, MACRA has noted with great concern that hate messages are being broadcast by various
+broadcasting stations," the statement said.
+*506  $aLive radio broadcasts barred
+$bthe justice ministry
+*518  $aApril 2007
+$3radio programmes
+*522  $aMalawi
+*651  $a5439
+*691  $apolitical
+*692  $aLive radio broadcasts barred
+^
+200000072
+*041  $aspa
+*245  $aAncash
+*260  $aChimbote, Santa, Peru
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 23 April 200 / The World Association of Community Radio Broadcasters, (AMARC)
+*505  $aOn 18 April 2007, radio stations Ancash, Amistad and Miramar, and television stations Canal 15, Canal 27 and Canal 55, were raided and their equipment seized by order of Judge Frey Tolentino
+Cruz, of the Fifth Criminal Court of the Superior Court of Santa (Quinto Juzgado Penal de la Corte Superior de Justicia del Santa), acting on a complaint by the transportation and communications
+ministry (Ministerio de Transportes y Comunicaciones, MTC).
+*506  $aseized
+$bJudge Frey Tolentino Cruz, of the Fifth Criminal Court of the Superior Court of Santa
+*518  $a18 April 2007
+$3radio station
+*522  $aPeru
+*651  $a6448
+*691  $aPolitical
+*692  $aSeized
+^
+200000073
+*041  $aspa
+*245  $aAmistad
+*260  $aChimbote, Santa, Peru
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 24 April 2007 / The World Association of Community Radio Broadcasters, (AMARC)
+*505  $aOn 18 April 2007, radio stations Ancash, Amistad and Miramar, and television stations Canal 15, Canal 27 and Canal 55, were raided and their equipment seized by order of Judge Frey Tolentino
+Cruz, of the Fifth Criminal Court of the Superior Court of Santa (Quinto Juzgado Penal de la Corte Superior de Justicia del Santa), acting on a complaint by the transportation and communications
+ministry (Ministerio de Transportes y Comunicaciones, MTC).
+*506  $aseized
+$bJudge Frey Tolentino Cruz, of the Fifth Criminal Court of the Superior Court of Santa
+*518  $a18 April 2007
+$3radio station
+*522  $aPeru
+*651  $a6448
+*691  $aPolitical
+*692  $aSeized
+^
+200000074
+*041  $aspa
+*245  $aMiramar
+*260  $aChimbote, Santa, Peru
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 24 April 2007 / The World Association of Community Radio Broadcasters, (AMARC)
+*505  $aOn 18 April 2007, radio stations Ancash, Amistad and Miramar, and television stations Canal 15, Canal 27 and Canal 55, were raided and their equipment seized by order of Judge Frey Tolentino
+Cruz, of the Fifth Criminal Court of the Superior Court of Santa (Quinto Juzgado Penal de la Corte Superior de Justicia del Santa), acting on a complaint by the transportation and communications
+ministry (Ministerio de Transportes y Comunicaciones, MTC).
+*506  $aseized
+$bJudge Frey Tolentino Cruz, of the Fifth Criminal Court of the Superior Court of Santa
+*518  $a18 April 2007
+$3radio station
+*522  $aPeru
+*651  $a6448
+*691  $aPolitical
+*692  $aSeized
+^
+200000075
+*041  $aspa
+*245  $aCanal 15
+*260  $aChimbote, Santa, Peru
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 24 April 2007 / The World Association of Community Radio Broadcasters, (AMARC)
+*505  $aOn 18 April 2007, radio stations Ancash, Amistad and Miramar, and television stations Canal 15, Canal 27 and Canal 55, were raided and their equipment seized by order of Judge Frey Tolentino
+Cruz, of the Fifth Criminal Court of the Superior Court of Santa (Quinto Juzgado Penal de la Corte Superior de Justicia del Santa), acting on a complaint by the transportation and communications
+ministry (Ministerio de Transportes y Comunicaciones, MTC).
+*506  $aseized
+$bJudge Frey Tolentino Cruz, of the Fifth Criminal Court of the Superior Court of Santa
+*518  $a18 April 2007
+$3television station
+*522  $aPeru
+*651  $a6448
+*691  $aPolitical
+*692  $aSeized
+^
+200000076
+*041  $aspa
+*245  $aCanal 27
+*260  $aChimbote, Santa, Peru
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 24 April 2007 / The World Association of Community Radio Broadcasters, (AMARC)
+*505  $aOn 18 April 2007, radio stations Ancash, Amistad and Miramar, and television stations Canal 15, Canal 27 and Canal 55, were raided and their equipment seized by order of Judge Frey Tolentino
+Cruz, of the Fifth Criminal Court of the Superior Court of Santa (Quinto Juzgado Penal de la Corte Superior de Justicia del Santa), acting on a complaint by the transportation and communications
+ministry (Ministerio de Transportes y Comunicaciones, MTC).
+*506  $aseized
+$bJudge Frey Tolentino Cruz, of the Fifth Criminal Court of the Superior Court of Santa
+*518  $a18 April 2007
+$3television station
+*522  $aPeru
+*651  $a6448
+*691  $aPolitical
+*692  $aSeized
+^
+200000077
+*041  $aspa
+*245  $aCanal 55
+*260  $aChimbote, Santa, Peru
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 24 April 2007 / The World Association of Community Radio Broadcasters, (AMARC)
+*505  $aOn 18 April 2007, radio stations Ancash, Amistad and Miramar, and television stations Canal 15, Canal 27 and Canal 55, were raided and their equipment seized by order of Judge Frey Tolentino
+Cruz, of the Fifth Criminal Court of the Superior Court of Santa (Quinto Juzgado Penal de la Corte Superior de Justicia del Santa), acting on a complaint by the transportation and communications
+ministry (Ministerio de Transportes y Comunicaciones, MTC).
+*506  $aseized
+$bJudge Frey Tolentino Cruz, of the Fifth Criminal Court of the Superior Court of Santa
+*518  $a18 April 2007
+$3television station
+*522  $aPeru
+*651  $a6448
+*691  $aPolitical
+*692  $aSeized
+^
+200000078
+*041  $aara
+*245  $aAl-Jazeera
+*260  $aAmman
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 24 April 2007 / Reporters sans frontières (RSF), Paris
+*505  $aThe Jordanian authorities confiscated the videotapes of an interview by the pan-Arab satellite TV station Al-Jazeera with King Abdallah's uncle, Prince Hassan Bin Talal. The tapes were seized
+from Al-Jazeera journalist Ghassan Ben Jeddou at Amman airport after he interviewed the prince on 18 April 2007.
+*506  $aconfiscated
+$bThe Jordanian authorities
+*518  $a18 April 2007
+$3videotapes
+*522  $aJordan
+*651  $a7331
+*691  $apolitical
+*700  $aGhassan Ben Jeddou
+$ejournalist
+^
+200000079
+*041  $aeng
+*245  $aRoyal TV
+*260  $aIslamabad
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 26 April 2007 / Pakistan Press Foundation (PPF), Karachi
+*505  $aThe Pakistan Electronic Media Regulatory Authority (PEMRA) directed cable television operators in the capital city of Islamabad to stop transmission of Royal TV. The channel's transmission has
+been suspended in Islamabad and the adjoining city of Rawalpindi since the morning of 24 April 2007. According to a Royal TV press release, PEMRA's action was linked to the channel's coverage of the
+judicial crisis resulting from the government's actions against Pakistan's Chief Justice. PEMRA denied taking any action against Royal TV. The president and secretary general of the
+Rawalpindi/Islamabad Union of Journalists, who condemned the act as being in bad faith and contradicting the claims of the government regarding media freedom in Pakistan, rejected PEMRA's denial.
+*506  $atransmission stoppedd
+$bThe Pakistan Electronic Media RegulatoryAuthority(PEMRA)
+*518  $a24 April 2007
+$3television station
+*522  $aPakistan
+*651  $a7441
+*691  $apolitical
+^
+200000080
+*245  $aSurinam TelevisionFoundation (STVS)
+*260  $aSurinam
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 15 May 2007 / Reporters sans frontières (RSF), Paris
+*505  $aThe state-owned Surinam Television Foundation (STVS) decided to cancel its "Surinam Today" discussion programme on 10 May 2007 under direct pressure from Vice-President Ram Sardjoe. The
+offending programme was about China-Taiwan relations.
+*506  $acanceled
+$bSurinamTelevision Foundation (STVS)
+*518  $a10 May 2007
+$3television programme
+*522  $aSurinam
+*651  $a6454
+*691  $apolitical
+*692  $acanceled
+^
+200000081
+*041  $atha
+*245  $aConfidante
+*260  $aThailand
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 May 2007 / Reporters sans frontières (RSF), Paris
+*505  $aOn 17 May 2007 the military government closed three community radio stations - Confidante, Taxi Driver Community Radio and Saturday Voice Against Dictatorship - just hours after they broadcast
+an interview with deposed prime minister Thaksin Shinawatra. The authorities have also charged them with violating "national security."
+*506  $aclosed
+$bThe military government
+*518  $a17 May 2007
+$3radio station
+*522  $aThailand
+*651  $a7550
+*691  $apolitical
+^
+200000082
+*245  $aGMA Network Inc.(Television channel)
+*260  $aManila
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 22 May 2007 / Center for Media Freedom and Responsibility (CMFR), Manila
+*505  $aA local public affairs program was barred from airing a story on 12 May 2007 by a temporary restraining order (TRO). A representative from Lanao del Norte's second district secured the TRO,
+preventing GMA Network Inc.'s Imbestigador (Investigator) program from airing a segment that reported on the almost six-decade reign of the congressman's clan in the province.
+*506  $abarred
+$bA representative fromLanao del Norte's second district
+*518  $a12 May 2007
+$3television programme
+*522  $aPhilippines
+*651  $a7542
+*691  $apolitical
+^
+200000083
+*041  $afre
+*245  $aRadiotélévision DéboutKasaï (RTDK)
+*260  $aMbuji-Mayi
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 23 May 2007 / Journaliste en danger (JED), Kinshasa
+*505  $aOn 20 May 2007 the local section of the media regulatory agency (Haute Autorité des Médias, HAM) in Mbuji-Mayi decided to suspend for seven days all broadcasts by the privately-owned network,
+Radiotélévision Débout Kasaï (RTDK). The HAM has officially accused RTDK of broadcasting two "defamatory" programmes on 15 and 16 May and of uttering threats against Ngoyi Kasanji, governor of East
+Kasai province.
+*506  $asuspended
+$bthe local section of the media regulatoryagency (Haute Autorité des Médias, HAM) in Mbuji-Mayi
+*518  $a20 May 2007
+$3network broadcasts
+*522  $aCongo
+*651  $a5123
+*691  $apolitical
+^
+200000084
+*041  $atur
+*245  $aAnatolia's Voice
+*260  $aAnkara
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 24 May 2007 / IPS Communication Foundation (BIANET), Istanbul
+*505  $aAccording to representatives of the radio station Anatolia's Voice, which started broadcasting in 1999, the administrative court in Ankara has not reversed the decision of the Supreme Council
+of Radio and Television (RTUK) to revoke the station's broadcasting license. The radio station says that the court has affirmed RTUK's decision. The radio station was closed indefinitely on 9 February
+2007. Anatolia's Voice was closed for a total of three months between 2000 and 2001, and members of the management board have faced numerous trials. After each closure by RTUK, the station was taken
+to court for "spreading propaganda of an illegal organisation" and "inciting hatred".
+*506  $aclosed
+$bThe administrative court in Ankara
+*518  $a9 February 2007
+$3radio station
+*522  $aTurkey
+*651  $a8048
+*691  $apolitical
+*692  $aclosed
+^
+200000085
+*041  $aspa
+*245  $aRadio Caracas Televisión(RCTV)
+*260  $aCaracas
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 30 May 2007 / Institute for Press and Society (IPYS), Lima
+*505  $aRadio Caracas Televisión (RCTV) television station stopped broadcasting at 11:59 p.m. (local time) on 27 May 2007, after its frequency concession was not renewed by the government. The case
+began on 28 December 2006 when Chávez decided not to renew the station's concession; according to the government, the decision was taken because of the role played by the station during acts of
+violence which took place in April 2002.
+*506  $afrequency concession not renewed
+$bthe government
+*518  $a27 May 2007
+$3television station
+*522  $aVenezuela
+*651  $a6460
+*691  $apolitical,
+^
+200000086
+*041  $aurd
+*245  $aAaj TV
+*260  $aPakistan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 4 and 5 June 2007 / Pakistan Press Foundation (PPF), Karachi
+*505  $aThe Pakistan government has prohibited independent television channels from televising programmes, including live talk shows and discussions, on the issue of the president's comments regarding
+the suspended Supreme Court Chief Justice Iftikhar Mohammad Chaudhry. The transmission of Aaj TV and ARY TV television channels has been blocked intermittently since 1 June in Islamabad, Rawalpindi
+and a number of cities across the province of Punjab. Transmission of GEO TV's news channel was blocked across the country on 3 June while its popular current affairs programme "Meray Mutabiq" was
+being telecast. According to Geo TV, the channel had received telephone calls from authorities telling it not to telecast the programme. Aaj TV's transmissions were blocked again on 3 June after it
+carried a report on the Geo TV blackout in its news bulletin.
+*506  $aprohibited televising programmes
+$bThe government
+*518  $aJune 2007
+$3television channel
+*522  $aPakistan
+*651  $a7441
+*691  $apolitical
+^
+200000087
+*041  $aara
+*245  $aHornAfrik
+*260  $aMogadishu
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 8 June 2007 / Reporters sans frontières (RSF), Paris
+*505  $aThree privately-owned radio stations were closed on 6 June 2007 in Mogadishu for "supporting terrorism". Information minister Madobe Nounow Mohamuda wrote to the three stations - HornAfrik,
+Shabelle and Quran Kariim (Holy Koran) - ordering them to stop broadcasting and accusing them of "fomenting hostility, supporting terrorism, violating press freedom, sowing confusion in the population
+and mobilising anti-government forces."
+*506  $aclosed
+$binformation minister Madobe Nounow Mohamuda
+*518  $a6 June 2007
+$3radio station
+*522  $aSomalia
+*651  $a5257
+*691  $apolitical
+^
+200000088
+*041  $aara
+*245  $aShabelle
+*260  $aMogadishu
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 8 June 2007 / Reporters sans frontières (RSF), Paris
+*505  $aThree privately-owned radio stations were closed on 6 June 2007 in Mogadishu for "supporting terrorism". Information minister Madobe Nounow Mohamuda wrote to the three stations - HornAfrik,
+Shabelle and Quran Kariim (Holy Koran) - ordering them to stop broadcasting and accusing them of "fomenting hostility, supporting terrorism, violating press freedom, sowing confusion in the population
+and mobilising anti-government forces."
+*506  $aclosed
+$binformation minister Madobe Nounow Mohamuda
+*518  $a6 June 2007
+$3radio station
+*522  $aSomalia
+*651  $a5257
+*691  $apolitical
+^
+200000089
+*041  $aara
+*245  $aQuran Kariim
+*260  $aMogadishu
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 8 June 2007 / Reporters sans frontières (RSF), Paris
+*505  $aThree privately-owned radio stations were closed on 6 June 2007 in Mogadishu for "supporting terrorism". Information minister Madobe Nounow Mohamuda wrote to the three stations - HornAfrik,
+Shabelle and Quran Kariim (Holy Koran) - ordering them to stop broadcasting and accusing them of "fomenting hostility, supporting terrorism, violating press freedom, sowing confusion in the population
+and mobilising anti-government forces."
+*506  $aclosed
+$binformation minister Madobe Nounow Mohamuda
+*518  $a6 June 2007
+$3radio station
+*522  $aSomalia
+*651  $a5257
+*691  $apolitical
+^
+200000090
+*041  $aurd
+*245  $aARY TV
+*260  $aPakistan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 4 and 5 June 2007 / Pakistan Press Foundation (PPF), Karachi
+*505  $aThe Pakistan government has prohibited independent television channels from televising programmes, including live talk shows and discussions, on the issue of the president's comments regarding
+the suspended Supreme Court Chief Justice Iftikhar Mohammad Chaudhry. The transmission of Aaj TV and ARY TV television channels has been blocked intermittently since 1 June in Islamabad, Rawalpindi
+and a number of cities across the province of Punjab. Transmission of GEO TV's news channel was blocked across the country on 3 June while its popular current affairs programme "Meray Mutabiq" was
+being telecast. According to Geo TV, the channel had received telephone calls from authorities telling it not to telecast the programme. Aaj TV's transmissions were blocked again on 3 June after it
+carried a report on the Geo TV blackout in its news bulletin.
+*506  $aprohibited televising programmes
+$bThe government
+*518  $aJune 2007
+$3television channel
+*522  $aPakistan
+*651  $a7441
+*691  $apolitical
+^
+200000091
+*041  $aurd
+*245  $aGEO TV
+*260  $aPakistan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 4 and 5 June 2007 / Pakistan Press Foundation (PPF), Karachi
+*505  $aThe Pakistan government has prohibited independent television channels from televising programmes, including live talk shows and discussions, on the issue of the president's comments regarding
+the suspended Supreme Court Chief Justice Iftikhar Mohammad Chaudhry. The transmission of Aaj TV and ARY TV television channels has been blocked intermittently since 1 June in Islamabad, Rawalpindi
+and a number of cities across the province of Punjab. Transmission of GEO TV's news channel was blocked across the country on 3 June while its popular current affairs programme "Meray Mutabiq" was
+being telecast. According to Geo TV, the channel had received telephone calls from authorities telling it not to telecast the programme. Aaj TV's transmissions were blocked again on 3 June after it
+carried a report on the Geo TV blackout in its news bulletin.
+*506  $aprohibited televising programmes
+$bThe government
+*518  $aJune 2007
+$3television channel
+*522  $aPakistan
+*651  $a7441
+*691  $apolitical
+^
+200000092
+*041  $aeng
+*245  $aDocumentary on President Thabo Mbeki
+*260  $aJohannesburg
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 8 June 2007 / Freedom of Expression Institute (FXI), Johannesburg
+*505  $aThe controversial documentary on President Thabo Mbeki, which the South African Broadcasting Corporation (SABC) had scheduled for screening on Sunday, has been withdrawn by SABC.
+*506  $awithdrawn
+$bthe South African Broadcasting Corporation (SABC)
+*518  $aJune 2007
+$3documentary
+*522  $aSouth Africa
+*651  $a5458
+*691  $apolitical
+^
+200000093
+*041  $aspa
+*245  $aQué país
+*260  $aLima
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 12 June 2007 / Institute for Press and Society (IPYS), Lima
+*505  $aOn 28 May 2007, Panamericana Televisión cancelled the programme "Qué país", hosted by journalist Beto Ortiz, alleging that its ratings were low, although other company spokespersons declared
+that (the action was taken because) Ortiz, who had been hired to host an entertainment programme, entered the area of political journalism when he broadcast a tape recording by Vladimiro Montesinos,
+in which he accuses the editor of the newspaper "La República", Gustavo Mohme Seminario, of having collaborated with the National Intelligence Service (SIN), directed by Montesinos during the rule of
+Alberto Fujimori.
+*506  $acancelled
+$bPanamericana Televisión
+*518  $a28 May 2007
+$3television programme
+*522  $aPeru
+*651  $a6448
+*691  $apolitical
+*692  $acancelled
+*700  $aOrtiz, Beto
+$ejournalist
+^
+200000094
+*041  $aspa
+*245  $aLa Entrevista de Hoy
+*260  $aBarinas
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 15 June 2007 / Institute for Press and Society (IPYS), Lima
+*505  $aOn 23 May 2007, regional UHF channel Llanovisión's news programme, "La Entrevista de Hoy", was suspended after it commented on the Radio Caracas Televisión (RCTV) case. The programme was
+hosted by sociologist Laure Nicotra and was broadcast in the state of Barinas, southern Venezuela. Nicotra said that the measure was the result of an interview with lawyer Pedro Gonzáles, broadcast on
+22 May, about the government's decision not to renew RCTV's concession. The journalist received a written note from the station's administration, while the programme was being broadcast, ordering her
+to suspend the interview. She did not comply. The following day, the broadcast of the programme was halted 15 minutes after it started. According to Nicotra, the station's owner, Douglas Valero,
+stormed into the recording studio and ordered the programme be suspended, saying that he was the person who determined what could be said on his television station and that talking about RCTV was
+forbidden.
+*506  $asuspended
+$bthe station itself, regional UHF channel Llanovisión
+*518  $a23 May 2007
+$3radio programme
+*522  $aVenezuela
+*651  $a6460
+*691  $apolitical
+*692  $asuspended
+*700  $aNicotra, Laure
+$ehost
+^
+200000095
+*041  $aspa
+*245  $aCanal 7
+*260  $aSan Rafael
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 26 June 2007 / The World Association of Community Radio Broadcasters, (AMARC)
+*505  $aHéctor Acosta, a federal judge in the province of Mendoza, ordered the cessation of broadcasts by the local relay transmitter of Canal 7 television station in the city of San Rafael. The
+judge's ruling suspends the applicability of decrees 2368/2002 and 84/2005, which allow for the free and open delivery of public television services to the entire population of the country. The legal
+precedent cited to support the ruling derives from the Radio Broadcasting Law (Ley de Radiodifusión) that was passed during the military dictatorship, which stipulated that public media are to be
+considered secondary to commercial media, and that relay transmitters for the state television station could only be authorized for "reasons of national security."
+*506  $aclosed
+$bFederal judge in the province of Mendoza, Héctor Acosta
+*518  $aJune 2007
+$3television station
+*522  $aArgentina
+*651  $a6414
+*691  $ajuridicial
+*692  $aclosed
+^
+200000096
+*041  $aspa
+*245  $aRadio Monitor
+*260  $aMexico
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 12 June 2007 / National Center for Social Communication (CENCOS), Mexico City
+*505  $aOn 29 June 2007, after 33 years on air, Radio Monitor radio station broadcast its last programme, becoming the first national media outlet to disappear during the mandate of President Felipe
+Calderón Hinojosa. The station succumbed to debts after confronting, throughout the six-year tenure of former president Vicente Fox Quesada, various economic and administrative pressures, as well as a
+legal wrangle with Grupo Radio Centro over the latter's arbitrary 2004 decision to cancel its broadcast of Radio Monitor's programmes. The debts were caused by the withdrawal of government advertising
+contracts due to pressure by Fox and his wife. These pressures also led to the cancellation of private advertising contracts, leaving Radio Monitor without the income needed for survival. The
+publicity boycott was in retaliation for Radio Monitor's having covered the campaign of Andrés Manuel López Obrador, Fox's rival in the 2006 elections.
+*506  $aclosed
+$bthe radio station
+*518  $a29 June 2007
+*522  $aMexico
+*651  $a6243
+*691  $apolitical
+^
+200000097
+*041  $aspa
+*245  $aChokokue FM
+*260  $aMinga Guazú
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 16 July 2007 / The World Association of Community Radio Broadcasters, (AMARC)
+*505  $aOn 10 July 2007, the radio station Chokokue FM, located in the city of Minga Guazú and run by the Paraguayan Peasant Movement (Movimiento Campesino Paraguayo, MCP), was closed in a violent
+manner. Community members came to the station's aid to prevent the first attempted seizure of its equipment. Hours later, however, a contingent of some 50 armed anti-riot police officers arrived to
+force the community radio station's closure and confiscate its equipment. the station was closed in response to pressure from business interests; allocation of frequencies politically biased, says
+AMARC.
+*506  $aclosed
+$bpolice officers
+*518  $a10 July 2007
+$3radio station
+*522  $aParaguay
+*651  $a6447
+*691  $apolitical
+^
+200000098
+*041  $aspa
+*245  $aTenonde
+*260  $aParaguay
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 16 July 2007 / The World Association of Community Radio Broadcasters, (AMARC)
+*505  $aIn mid-June, the radio station Tenonde, which belongs to the National Peasant Organisation (Organización Nacional Campesina, ONAC), was closed in response to a complaint by the Commercial
+Radio Broadcasters' Association of Caaguazú (Asociación de Radiodifusión Comercial de Caaguazú, ARADELCA). The same organization, which campaigned strongly against the non-renewal of RCTV's
+broadcasting license in Venezuela, describing it as an "attack on freedom of expression", also brought about, through the local courts, the 7 July closure of the radio station Radio Carayao in the
+city of the same name. Caaguazú department, where these closures took place, is the political riding of the country's president, Nicanor Duarte Frutos. According to local sources, the president owns
+more than one commercial radio station in the department, run by "name-lenders" or "front men" - people paid to be the official, public owners of a business actually owned by someone else, to conceal
+the identity of the real owner. The station was closed in response to pressure from business interests; allocation of frequencies politically biased, says AMARC.
+*506  $aclosed
+$bpolice officers
+*518  $a10 July 2007
+$3radio station
+*522  $aParaguay
+*651  $a6447
+*691  $apolitical
+^
+200000099
+*041  $afre
+*245  $aRadio France Internationale (RFI)
+*260  $aNiger
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 20 July 2007 / Reporters sans frontières (RSF), Paris
+*505  $aOn 19 July 2007 a one-month ban was imposed on the retransmission of French public radio station Radio France Internationale's (RFI) programmes throughout the country by the High Council for
+Communication (CSC), accusing it of covering the fighting in the northern Agadez region in an "unbalanced and biased" manner and of broadcasting "mendacious reports hiding the reality" of what was
+taking place there.
+*506  $abanned
+$bThe High Council for Communication (CSC)
+*518  $a19 July 2007 (one month)
+$3radio station
+*522  $aNiger
+*651  $a5547
+*691  $apolitical
+^
+200000100
+*041  $afre
+*245  $aAïr-Info
+*260  $aNiger
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 20 July 2007 / Reporters sans frontières (RSF), Paris
+*505  $aThe High Council for Communication (CSC) suspended the fortnightly "Aïr-Info" for three months at the end of June for publishing reports on the fighting between the army and the Niger Movement
+for Justice (MNJ), a Tuareg rebel group. It also sent warnings to three other newspapers "Libération", "L'Opinion" and "L'Evènement" - for the same reason. All four newspapers are accused of "trying
+to justify criminal activity and violence."
+*506  $abanned
+$bThe High Council for Communication (CSC)
+*518  $aJune 2007 (three months)
+$3newspaper
+*522  $aNiger
+*651  $a5547
+*691  $apolitical
+^
+200000101
+*041  $arus
+*245  $aBolshoye Radio
+*260  $aMoscow
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 20 August 2007 / International Press Institute (IPI), Vienna
+*505  $aOn 17 August, the management of Bolshoye Radio announced that it would no longer broadcast the BBC's World Service programmes in the Russian language. The radio station is the BBC's last FM
+partner in Russia. News reports suggested that the Moscow FM radio station had been pressured by the authorities to halt the BBC's Russian Service. The parent company of the radio station, Finam,
+which only took over the radio recently, said it had removed the programming because under the terms of its license it was only allowed to broadcast original material. This is disputed by the BBC,
+which said in a press release that licensing documents reviewed last year gave Bolshoye Radio the right to broadcast external content up to a limit of approximately one-fifth of its total programming.
+*506  $aBBC's World Service programmes closed
+$bFinam
+*518  $a17 August 2007
+$3radio station
+*522  $aRussia
+*651  $a8064
+*691  $apolitical
+^
+200000102
+*041  $afre
+*245  $aBRTV station
+*260  $aKinshasa
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 27 August 2007 / Journaliste en danger (JED), Kinshasa
+*505  $aA weekend of media repression in Kinshasa has resulted in at least four journalists being questioned for several hours by the intelligence services, the closing of a private TV station, and
+the confiscation of a tape recording of an interview with a rebel leader. The signal of BRTV station was suddenly cut a few hours prior to the arrests, and broadcasts had yet to resume on 27 August.
+No official reason was given to explain these actions. According to information gathered by JED through a close colleague of Kitutu's and a BRTV manager, the ANR blames the two stations for
+broadcasting a controversial 2006 interview with General Laurent Nkunda Batware, a rebel leader based in the Masisi territory near Goma, the main city of North Kivu province, on 24 August.
+*506  $aclosed
+$bthe intelligence services
+*518  $aAugust 2007
+*522  $aCongo, Democratic Republic of
+*651  $aCongo, Democratic Republic of
+*691  $apolitical
+^
+200000103
+*041  $aeng
+*245  $aRadio Saraounya FM
+*260  $aNiamey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, August 30, 2007/ Committee to Protect Journalists (CPJ), New York
+*505  $aNiger's state-run High Council on Communications has banned the broadcast of live debates on an armed rebellion of nomadic Tuaregs in the north of the uranium-rich West African nation,
+according to local journalists. [...] The ruling on Tuesday was linked to the broadcast of a live panel Saturday morning on private station Radio Saraounya FM in the capital, Niamey, the journalists
+said. The debate contained commentary critical of the government's handling of the conflict. Broadcasters are still free to air debates and opinions as long as they are not live, Daouda Diallo, the
+council's president today told CPJ. Calling the ruling "technical" in response to a "controversial national issue," he said that the council is not monitoring content.
+*506  $alive broadcast banned
+$bHigh Council on Communications
+*518  $aAugust 2007
+$3radio station
+*522  $aNiger
+*651  $a5547
+*691  $apolitical
+*692  $abanned
+^
+200000104
+*041  $aspa
+*245  $aRadio Orión
+*260  $aPisco
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 17 September 2007 / Reporters sans frontières (RSF), Paris
+*505  $aRadio Orión in Pisco, southwestern Peru, was closed using a bogus administrative pretext to mask an act of censorship after the government made serious accusations against the station's
+proprietor. [...] Some 100 police officers, accompanied by a magistrate, raided the premises of Radio Orión on 13 September 2007 and seized all of its broadcast equipment, claiming that the radio's
+licence had expired four years before. In fact, the local and national authorities were angry at criticism aired by Radio Orión about aid and compensation delivered to victims of an earthquake which
+destroyed almost 80 percent of the city of Pisco on 15 August.
+*506  $aclosed
+$bthe authorities
+*518  $a13 September 2007
+$3radio station
+*522  $aPeru
+*651  $a6448
+*691  $apolitical
+*692  $aclosed
+^
+200000105
+*041  $aspa
+*245  $aSensación radio station
+*260  $aRequena, Loreto
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 19 September 2007 / Institute for Press and Society (IPYS), Lima
+*505  $aOn 3 September 2007, Rusbel Ferri Castro, the owner of Sensación radio station, cancelled the "Contacto Democrático" programme, hosted by journalist Wilbert Valentín Rosado Arce. According to
+the journalist, the sudden closure was due to pressure exerted by supporters of Fuerza Loretana, a political party led by Iván Vásquez Valera, current president of Loreto region, who was upset by
+criticisms of his administration voiced on the programme. The incident occurred in the town of Requena, Loreto, northeastern Peru.
+*506  $aprogramme cancelled
+$bthe owner
+*518  $a3 September 2007
+$3radio station
+*522  $aPeru
+*651  $a6448
+*691  $apolitical
+*692  $aprogramme cancelled
+*700  $aArce, Wilbert Valentín Rosado
+$ejournalist
+^
+200000106
+*041  $aeng
+*245  $a[Pakistan media]
+*260  $aPakistan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 5 November 2007 / Pakistan Press Foundation (PPF), Karachi
+*505  $aPresident General Pervez Musharraf declared the state of emergency on 3 November 2007. The measures to control and restrain the media included suspension of broadcasts of all international
+news channels as well as national private television channels throughout the country until further notice. Cable operators have been directed to only broadcast entertainment programmes. A number of
+websites of international and national news organisations were also blocked on November 3. Telephone and SMS service in the capital city of Islamabad were also suspended for some hours on that day.
+Authorities also raided a private television channel and two private FM radio stations, confiscating equipment of one radio station. There have been a number of attacks on journalists covering protest
+against the imposition of emergency measures. The government has also made important changes to the laws relating to the media. The Provisional Constitutional Order (PCO), which has replaced the
+permanent constitution of the country, specifically suspends Article 19 of the constitution relating to freedom of the press. In addition the government has introduced two separate ordinances imposing
+severe curbs on print and electronic media.
+*506  $asuspended
+$bthe president
+*518  $a3 November 2007
+$3media
+*522  $aPakistan
+*651  $a7441
+*691  $apolitical
+*692  $asuspended
+^
+200000107
+*041  $aeng
+*245  $aJoy TV station
+*260  $aMalawi
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 7 November 2007 / Media Institute of Southern Africa (MISA), Windhoek
+*505  $aOn 29 October 2007, the Malawi Communications Regulatory Authority (Macra) ordered Joy TV to immediately stop all television broadcasts until the station is issued appropriate radio and
+broadcasting licenses. Joy TV- a sister company to Joy Radio - has been held up in a wrangle with the country's communications regulator after it challenged the Macra Board in court, describing it as
+illegal. In the latest development, Joy TV's project manager Tailosi Bakili expressed surprise over the directive, saying the television station had applied for a court injunction stopping Macra from
+blocking its operations.
+*506  $astopped
+$bthe Malawi Communications Regulatory Authority (Macra)
+*518  $a29 October 2007
+*522  $aMalawi
+*651  $a5439
+*691  $alack of license
+*692  $apolitical
+*700  $aBakili, Tailosi
+$eproject manager
+^
+200000108
+*041  $ageo
+*245  $aImedi TV
+*260  $aTbilisi
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 8 November 2007 / Human Rights Watch
+*505  $aRiot police in the Georgian capital Tbilisi beat demonstrators and shot fleeing protestors with rubber bullets while trying to disperse anti-government demonstrations, Human Rights Watch said
+today. Riot police later raided the private television station, Imedi TV and forced it and the Kavkasia television station to stop broadcasting. The Georgian government then declared a state of
+emergency, claiming there had been a coup attempt, and banned news broadcasts for 15 days, except by the state-funded Georgian Public Television.
+*506  $aclosed
+$briot police
+*518  $aNovember 2007
+$3television station
+*522  $aGeorgia
+*651  $a7225
+*691  $apolitical
+*692  $aclosed
+^
+200000109
+*041  $ageo
+*245  $aKavkasia television station
+*260  $aTbilisi
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 8 November 2007 / Human Rights Watch
+*505  $aaRiot police in the Georgian capital Tbilisi beat demonstrators and shot fleeing protestors with rubber bullets while trying to disperse anti-government demonstrations, Human Rights Watch said
+today. Riot police later raided the private television station, Imedi TV and forced it and the Kavkasia television station to stop broadcasting. The Georgian government then declared a state of
+emergency, claiming there had been a coup attempt, and banned news broadcasts for 15 days, except by the state-funded Georgian Public Television.
+*506  $aclosed
+$briot police
+*518  $aNovember 2007
+$3television station
+*522  $aGeorgia1
+*651  $a7225
+*691  $apolitical
+*692  $aclosed
+^
+200000110
+*041  $asom
+*245  $aRadio Shabelle
+*260  $aMogadishu
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 13 November 2007 / Reporters sans frontières (RSF), Paris
+*505  $aOn 12 November, at around 11:30 a.m. (local time), three officers entered Radio Shabelle at the head of a military unit, ordered its immediate closure and took station manager Jafar "Kukay"
+Mohammed and programme director Abdirahman "Al-Adala" Yusuf off to the army high command, where they were told the closure order came from senior government officials but were offered no other
+explanation. They were then released.
+*506  $aclosed
+$bgovernment officials
+*518  $a12 November 2007
+$3radio station
+*522  $aSomalia
+*651  $a5257
+*691  $apolitical
+*692  $aclosed
+^
+200000111
+*041  $asom
+*245  $aRadio Banadir
+*260  $aSomalia
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 14 November 2007 / Committee to Protect Journalists (CPJ), New York
+*505  $aSomali government troops led by agents of Somalia's National Security Agency stormed the studios of Radio Banadir and Radio Simba, dispersing staffers, and ordering the stations to stop
+broadcasting until further notice, according to the same sources. Ethiopian troops later occupied the building housing the studios of Radio Simba, according to the station's chief editor, Mustafa
+Haji. [...] The closures come as government forces backed by the Ethiopian military, were pursuing suspected Islamic insurgents in city neighborhoods.
+*506  $aclosed
+$bagents of Somalia's National Security Agency
+*518  $aNovember 2007
+$3radio station
+*522  $aSomalia
+*651  $a5257
+*691  $apolitical
+*692  $aclosed
+^
+200000112
+*041  $asom
+*245  $aRadio Simba
+*260  $aSomalia
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 14 November 2007 / Committee to Protect Journalists (CPJ), New York
+*505  $aSomali government troops led by agents of Somalia's National Security Agency stormed the studios of Radio Banadir and Radio Simba, dispersing staffers, and ordering the stations to stop
+broadcasting until further notice, according to the same sources. Ethiopian troops later occupied the building housing the studios of Radio Simba, according to the station's chief editor, Mustafa
+Haji. [...] The closures come as government forces backed by the Ethiopian military, were pursuing suspected Islamic insurgents in city neighborhoods.
+*506  $aclosed
+$bagents of Somalia's National Security Agency
+*518  $aNovember 2007
+$3radio station
+*522  $aSomalia
+*651  $a5257
+*691  $apolitical
+*692  $aclosed
+^
+200000113
+*041  $aeng
+*245  $aARY One
+*260  $aPakistan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 19 November 2007 / Pakistan Press Foundation (PPF), Karachi
+*505  $aThe government of Pakistan pressured the government of United Arab Emirates to close down two leading private television networks on 16 November 2007. According to Geo TV, the authorities in
+Dubai had asked the network's administration to close down its operations by midnight (local time) on 16 November. The network further said no reason had been given for the move. A senior member of
+the network said that the channel had been ordered to go off the air as a result of the continued deadlock between the Pakistani authorities and the broadcasters, following the imposition of emergency
+measures in the country.
+*506  $aclosed
+$bthe government
+*518  $a16 November 2007
+$3television channel
+*522  $aPakistan
+*651  $a7441
+*691  $apolitical
+*692  $aclosed
+^
+200000114
+*041  $aeng
+*245  $aGeo TV
+*260  $aPakistan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 19 November 2007 / Pakistan Press Foundation (PPF), Karachi
+*505  $aThe government of Pakistan pressured the government of United Arab Emirates to close down two leading private television networks on 16 November 2007. According to Geo TV, the authorities in
+Dubai had asked the network's administration to close down its operations by midnight (local time) on 16 November. The network further said no reason had been given for the move. A senior member of
+the network said that the channel had been ordered to go off the air as a result of the continued deadlock between the Pakistani authorities and the broadcasters, following the imposition of emergency
+measures in the country.
+*506  $aclosed
+$bthe government
+*518  $a16 November 2007
+$3television channel
+*522  $aPakistan
+*651  $a7441
+*691  $apolitical
+*692  $aclosed
+^
+200000115
+*041  $aara
+*245  $aAl-Afaq
+*260  $aNablus
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 13 December 2007 / Reporters sans frontières (RSF), Paris
+*505  $aIsraeli troops carried out raids of three West Bank news media outlets on 12 December 2007. Israeli troops forced their way into Al-Afaq's studios at around 1:30 a.m. (local time) on 12
+December. After searching the premises, they seized broadcast equipment, forcing the station off the air. An employee told the Palestinian news agency Maan, "The Israeli soldiers were apparently given
+orders to close the station because of its support for Hamas, Islamic Jihad and other organisations."
+*506  $aclosed
+$bIsraeli troops
+*518  $a12 December 2007
+$3TV station
+*522  $aPalestinian Territory, Occupied
+*651  $a7354
+*691  $apolitical
+^
+200000116
+*041  $aeng
+*245  $aRadio Lyambai
+*260  $aMongu
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 13 December 2007 / Media Institute of Southern Africa (MISA), Windhoek
+*505  $aThe Ministry of Information and Broadcasting Services (MIBS) has banned Radio Lyambai in Mongu from broadcasting call-in programmes. In a letter sent to the station dated 30 November 2007,
+Juliana Mwila, the ministry's director of press and planning, said the programmes had to stop while the station was under investigation. According to Mwila, the station was under investigation for
+allegedly having failed to handle calls professionally, which resulted in the station "becoming a platform for confrontation, controversies and a channel of insults and misinformation."
+*506  $acall-in programmes banned
+$bThe Ministry of Information and Broadcasting Services (MIBS)
+*518  $a30 November 2007
+$3radion station
+*522  $aZambia
+*651  $a5466
+*691  $apolitical
+*692  $abanned
+^
+200000117
+*041  $aeng
+*245  $aStone FM
+*260  $aHarbel
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 17 December 2007 / Center For Media Studies and Peace Building (CEMESP), Monrovia
+*505  $aOn 13 December 2007, the government of Liberia, through the Ministry of Justice, unlawfully closed down Stone FM, a community radio station located in Harbel, approximately 35 miles from
+Liberia's capital, Monrovia. ... The station was accused of broadcasting "hit messages" against the government of Liberia and authorities of the Firestone Rubber Plantation in the wake of a strike
+action by employees of Firestone. ... On the night of 15 December, the government of Liberia reopened the radio station, following the intervention of freedom of expression advocates.
+*506  $aclosed
+$bthe government
+*518  $a13-15 December 2007
+$3radio station
+*522  $aLiberia
+*651  $a5536
+*691  $apolitical
+*692  $aclosed
+^
+200000118
+*041  $alit
+*245  $aVoice of Russia
+*260  $aVilnius
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 28 December 2007 / World Press Freedom Committee (WPFC), Reston
+*505  $aBy a vote of 11-1 of Lithuania's Radio and Television Commission, the commission has decided to "protect" Lithuanian citizens "from the effects of Russian propaganda" by banning radio
+transmission of the official Voice of Russia by the private Vilnius station Radio Baltic Waves.
+*506  $abanned
+$bLithuania's Radio and Television Commission
+*518  $aDecember 2007
+$3radio station
+*522  $aLithuania
+*651  $a8060
+*691  $abanned
+^
+200000119
+*041  $asom
+*245  $aSomaliweyn
+*260  $aBanadir
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 31 December 2007 / Reporters sans frontières (RSF), Paris
+*505  $aOn the 26 December 2007 the government of Banadir, the province that includes the capital Mogadishu, closed the privately-owned radio station Somaliweyn, after the station broadcast an
+interview in which an exile politician explained why he was joining the radical, armed wing of the opposition. The closure is the latest in a series of coercive measures for which there has been no
+legal authority, RSF said. The closure was ordered by Mohamed Omar Habeb, a former warlord also known as "Mohamed Dhere" who is now Mogadishu "mayor" and head of the provincial administration. He
+contacted the station directly, ordered it to stop broadcasting and told its management to report to his office. Dhere used to be the governor of Jowhar.
+*506  $aclosed
+$bthe government of Banadir
+*518  $a26 December 2007
+$3radio station
+*522  $aSomalia
+*651  $a5257
+*691  $apolitical
+^
+200000120
+*041  $afre
+*245  $aFM Liberté
+*260  $aN'Djamena
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 17 January 2008 / Reporters sans frontières (RSF), Paris
+*505  $aOn 16 January 2008 the police raided privately-owned radio FM Liberté in N'Djamena, closed it down and arrested its manager, Djekourninga Kaoutar Lazar. [...] The government has not given an
+official explanation for his arrest. Government supporters have been staging demonstrations for several weeks in protest against what they call the "Sudanese aggression that is being prepared in the
+east of the country." Opposition representatives have on several occasions criticised these demonstrations as "hypocritical" on FM Liberté.
+*506  $aclosed
+$bthe police
+*518  $a16 January 2008
+$3radio station
+*522  $aChad
+*651  $a5121
+*691  $apolitical
+*692  $aclosed
+*700  $aLazar, Djekourninga Kaoutar
+$emanager
+^
+200000121
+*041  $aeng
+*245  $aGeo News
+*260  $aDubai
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 21 January 2008 / Reporters sans frontières (RSF), Paris
+*505  $aOn 21 January 2008, Geo TV's management confirmed to Reporters Without Borders that President Musharraf gave permission on 19 January for Pakistani cable TV operators to resume distributing
+the news channel, Geo News, and its sister sports channel, Geo Super. Because of the Shiite festival of Muharram, Geo TV postponed the resumption of distribution until 21 January. The agreement
+between Geo TV's owners and the government is conditioned on the suppression of news programmes hosted by Dr. Shahid Massod and Hamid Mir, two veteran journalists and commentators. They are allowed to
+continue working as journalists for the station, but cannot present their own programmes. The authorities also requested that columns by pro-government commentators should be published more often in
+"The News" and "Jang", two newspapers owned by the Geo TV group.
+*506  $asome of the programmes suppressed
+$bTV channel
+*518  $a19 January 2008
+*522  $aPakistan
+*651  $a7441
+*691  $apolitical
+*692  $asuppressed
+^
+200000122
+*041  $aeng
+*245  $aRadio France International (RFI)
+*260  $aBanjul
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 22 January 2008 / Media Foundation for West Africa (MFWA), Accra
+*505  $aOn 15 January 2008, The Gambian authorities indefinitely suspended the broadcast of Radio France International (RFI) in Banjul for airing what they referred to as an "erroneous news story". A
+release from the Department of State for Communications, Information and Technology, on 21 January, six days after the closure, in explaining government's action, said the decision was in line with
+the professional ethics of the media in The Gambia. RFI was taken off the air following its reports that some Mauritanians accused of killing four French citizens have fled to Guinea Bissau through
+The Gambia. The RFI news bulletins are broadcast in The Gambia through the government-controlled Radio Gambia. The release also said the Department has issued a rejoinder to the suspended RFI.
+*506  $asuspended
+$bthe Gambian authorities
+*518  $a15 January 2008
+$3radio station
+*522  $aGambia
+*651  $a5529
+*691  $apolitical
+*692  $asuspended
+^
+200000123
+*041  $atha
+*245  $aFM 105 station
+*260  $aThailand
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 19 February 2008 / Committee to Protect Journalists (CPJ), New York
+*505  $aThai radio broadcaster Chirmsak Pinthong's popular talk news program has been cancelled. Chirmsak told local reporters that his program was cancelled after Jakrapob Penkair, a minister in the
+prime minister's office, called FM 105 station's concession holder, Fatima Broadcasting International Co., and requested that they remove the program known as "Chirmsak's Viewpoints" from the station,
+which is owned by the state-run Public Relations Department. [...] The cancellation of the program comes just days after the prime minister's office announced plans to establish a task force to
+monitor news balance on state-owned broadcast media. The Thai government and military currently own all of Thailand's estimated 525 radio frequencies. [...] According to local news reports, the new
+government took offense at Chirmsak's on-the-air refutation of Prime Minister Samak Sundaravej's claim in a recent CNN television interview that only one person was killed during a controversial
+government crackdown on pro-democracy student demonstrators on October 6, 1976. Chirmsak referred to independent accounts saying that at least 41 students were killed in the violence. Samak had
+broadcast a right-wing radio campaign against the student activists prior to the crackdown, according to the BBC.
+*506  $aprogramme cancelled
+$bJakrapob Penkair, a minister in the prime minister's office
+*518  $aFebruary 2008
+$3radio station
+*522  $aThailand
+*651  $a7550
+*691  $apolitical
+*692  $acancelled
+*700  $aChirmsak Pinthong
+$ejournalist
+^
+200000124
+*041  $aeng
+*245  $aEquinoxe TV
+*260  $aDouala
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 22 February 2008 / Reporters sans frontières (RSF), Paris
+*505  $aEquinoxe TV, a privately-owned station based in the commercial capital of Douala, was suspended on 21 February 2008 by the government. Communication minister Emmanuel Béyiyi Bi Essam said it
+was being shut down for failing to pay the required bond of 100 millions CFA francs (approx. 150,000 euros) for an operating licence. The suspension comes a few days after Equinoxe TV broadcast a
+debate about a proposed constitutional amendment that would end the limit on the number of terms a president can serve. The station, which has always opposed the amendment, had already received
+admonishments and threats from the authorities in Douala and Yaoundé, the capital.
+*506  $asuspended
+$bthe government
+*518  $a21 february 2008
+$3TV station
+*522  $aCameroon
+*651  $a5118
+*691  $apolitical
+*692  $asuspended
+^
+200000125
+*041  $aeng
+*245  $aAaj Television
+*260  $aPakistan
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 25 February 2008 / Committee to Protect Journalists (CPJ), New York
+*505  $aOne of Pakistan's independent broadcasters, Aaj Television, was taken off air for about two and one half hours, according to Talat Hussein, an Aaj newscaster and talk show host. The move came
+during Hussein's evening political talk show which featured discussions with Aaj management personnel who, according to Hussein, had been banned from appearing on air by the Musharraf government soon
+after emergency rule was declared on November 3.
+*506  $ataken off air
+*518  $aFebruary 2008
+$3television station
+*522  $aPakistan
+*651  $a7441
+*691  $apolitical
+*692  $ataken off air
+*700  $aHussein, Talat
+$etalk show host
+^
+200000126
+*041  $aeng
+*245  $aMagic FM
+*260  $aYaoundé
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 29 February 2008 / Committee to Protect Journalists (CPJ), New York
+*505  $aPolice in the capital, Yaoundé, today forced a popular radio station off the air and confiscated its equipment over commentary critical of the government during a call-in program, according to
+local journalists. Magic FM is the third broadcaster summarily closed by authorities within a week in response to critical coverage of public demonstrations fueled by a rise in prices and President
+Paul Biya's bid to seek another term in office, according to CPJ research.
+*506  $aclosed
+$bthe police
+*518  $a28 February 2008
+$3radio station
+*522  $aCameroon
+*651  $a5118
+*691  $apolitical
+*692  $aclosed
+^
+200000127
+*041  $amon
+*245  $a[Local radio station]
+*260  $aBayan-Ulgii
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 3 March 2008 / Globe International, Mongolia
+*505  $aOn 16 January 2008, a meeting was held at the State Center for Civil Registration in Bayan-Ulgii to discuss printing equipment that had been out of commission for a month. During the meeting,
+responsibility for the problem was placed on I. Lazat, the officer in charge of passport issues, and finance officer B. Saule. Journalist Khuangan Ainur wrote a two-minute report on the incident and
+submitted it to the local radio station; however, the bulletin was not broadcast. It transpired that B. Saule had approached the station and falsely told staff there that the laying of responsibility
+had been revoked. In taking this action, B. Saule violated Article 139 of Mongolia's Criminal Law, which states: "A person shall not interrupt the lawful and professional activities of a journalist in
+order to disseminate or not to disseminate any information which affects his or her own or other's interests."
+*506  $anews article blocked
+$bfinance officer B. Saule
+*518  $a16 January 2008
+*522  $aMongolia
+*651  $a7138
+*691  $apolitical
+*692  $ablocked
+*700  $aKhuangan Ainur
+$ejournalist
+^
+200000128
+*041  $aeng
+*245  $aABS-CBN
+*260  $aMakati City
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 5 March 2008 / Center for Media Freedom and Responsibility (CMFR), Manila
+*505  $aThe governmental Air Transport Office (ATO) prevented aerial news coverage by a local television news network of one of the largest protest rallies against President Gloria Macapagal Arroyo on
+29 February 2008. ATO declared the air space above Makati City, where the rally was held, a "no fly zone". The news helicopter of ABS-CBN, one of the largest news conglomerates in the country, could
+not take off as a result, thus preventing reporting and filming from the air that could have given the public an idea of how large the rally was. The ATO directive was issued upon the request of the
+Philippine National Police (PNP) on 27 February. The PNP website said that the ATO directive was "another precautionary measure" to ensure the safety of those attending the rally. But ATO Executive
+Director Daniel Dimagiba was quoted as saying that the directive was aimed at stopping speculations that protestors were under surveillance by government forces during the event. [...] The ban lasted
+from 5:00 p.m. to 8:00 p.m. (local time), the approximate duration of the rally.
+*506  $aprevented aerial news coverage
+$bThe governmental Air Transport Office (ATO)
+*518  $a29 February 2008
+*522  $aPhilippines
+*651  $a7542
+*691  $apolitical
+*692  $anews prevented
+^
+200000129
+*041  $afre
+*245  $aRadio France Internationale (RFI)
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 13 March 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe High Council for Communication (CSC) decided to suspend local FM retransmission of the French public radio station Radio France Internationale (RFI) for three months for "discrediting"
+Niger's institutions by holding a day of solidarity with its imprisoned correspondent, Moussa Kaka, on 10 March. [...] CSC president Daouda Diallo announced on 12 March that all of RFI's FM broadcast
+permits were suspended for three months for two reasons. One was "discrediting the institutions of the republic during broadcasts on 10 March dedicated to Moussa Kaka's arrest" and the other was
+"systematically excluding calls from Niamey during the broadcast."
+*506  $asuspended
+$bThe High Council for Communication (CSC)
+*518  $a12 March 2008
+$3radio station
+*522  $aNiger
+*651  $a5547
+*691  $apolitical
+*692  $asuspended
+*700  $aKaka, Moussa
+$ecorrespondent
+^
+200000130
+*041  $aeng
+*245  $aGeo TV
+*260  $aKarachi
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 10 April 2008 / Pakistan Press Foundation (PPF), Karachi
+*505  $aThe broadcasting of two television news channels, Geo TV and ARY TV, was suspended for over two hours on 7 April 2008 in Karachi, Pakistan's largest city, and in other cities in the province
+of Sindh. According to press reports, a political party forced cable operators to keep the two networks off the air after their news channels repeatedly showed footage of activists of the rural
+Pakistan Peoples Party mistreating former chief minister Arbab Ghulam Rahim in the Sindh Assembly. However, Federal Minister for Information and Broadcasting Sherry Rehman said the government had
+nothing to do with the suspension and she asked the Pakistan Electronic Media Regulatory Authority (PEMRA) to investigate how transmissions of these two television networks came to be suspended.
+Khalid Arain, vice-chairman of the All Pakistan Cable Operators Association, said the transmissions were suspended due to technical problems. "We are trying to determine the exact reason," he said.
+*506  $asuspended
+$ba political party
+*518  $a7 April 2008
+$3television station
+*522  $aPakistan
+*651  $a7441
+*691  $apolitical
+*692  $asuspended
+^
+200000131
+*041  $aeng
+*245  $aARY TV
+*260  $aKarachi
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 10 April 2008 / Pakistan Press Foundation (PPF), Karachi
+*505  $aThe broadcasting of two television news channels, Geo TV and ARY TV, was suspended for over two hours on 7 April 2008 in Karachi, Pakistan's largest city, and in other cities in the province
+of Sindh. According to press reports, a political party forced cable operators to keep the two networks off the air after their news channels repeatedly showed footage of activists of the rural
+Pakistan Peoples Party mistreating former chief minister Arbab Ghulam Rahim in the Sindh Assembly. However, Federal Minister for Information and Broadcasting Sherry Rehman said the government had
+nothing to do with the suspension and she asked the Pakistan Electronic Media Regulatory Authority (PEMRA) to investigate how transmissions of these two television networks came to be suspended.
+Khalid Arain, vice-chairman of the All Pakistan Cable Operators Association, said the transmissions were suspended due to technical problems. "We are trying to determine the exact reason," he said.
+*506  $asuspended
+$ba political party
+*518  $a7 April 2008
+$3television station
+*522  $aPakistan
+*651  $a7441
+*691  $apolitical
+*692  $asuspended
+^
+200000132
+*041  $aeng
+*245  $aCNS Channel 6 television
+*260  $aGuyana
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 16 April 2008 / Inter American Press Association (IAPA), Miami
+*505  $aThe IAPA expressed concern at a four-month suspension on April 12 of broadcasts by CNS Channel 6 television in Guyana on the orders of that country's President Bharrat Jagdeo, acting as
+minister of communications, on the grounds that the station "infringed the terms of its license" by airing on three occasions a call-in by one of its viewers saying the prime minister should be
+assassinated.
+*506  $asuspended
+$bPresident PharratJagdeo
+*518  $aApril 12 2008
+$3television channel
+*522  $aGuyana
+*651  $a6437
+*691  $apolitical
+*692  $asuspended
+^
+200000133
+*041  $aeng
+*245  $aCNS Channel 6 television
+*260  $aGuyana
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 16 April 2008 / Inter American Press Association (IAPA), Miami
+*505  $aThe IAPA expressed concern at a four-month suspension on April 12 of broadcasts by CNS Channel 6 television in Guyana on the orders of that country's President Bharrat Jagdeo, acting as
+minister of communications, on the grounds that the station "infringed the terms of its license" by airing on three occasions a call-in by one of its viewers saying the prime minister should be
+assassinated.
+*506  $aclosed
+$bPresident Bharrat Jagdeo
+*518  $aApril 12 2008
+$3television channel
+*522  $aGuyana
+*651  $a6437
+*691  $apolitical
+*692  $aclosed
+^
+200000134
+*041  $aeng
+*245  $aRadio Voice of Peace
+*260  $aMogadishu
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 17 April 2008 / National Union of Somali Journalists (NUSOJ), Mogadishu
+*505  $aOn the morning of 17 April 2008, heavily-armed police of the Transitional Federal Government, riding in a minibus, raided the radio station, ordered its staff to evacuate their offices and
+shut down the station, according to Mohammed Ali Irole, director of the radio station, and other of its journalists.[...] The Transitional Federal Government did not talk about the motive behind the
+raid but the journalists of Radio Voice of Peace, who spoke to NUSOJ on condition of anonymity, said that the action may relate to their coverage of the 16 April attack by insurgents in the KM4 area
+of the country.
+*506  $aclosed
+$bthe police
+*518  $a17 April 2008
+$3radio station
+*522  $aSomalia
+*651  $a5257
+*691  $apolitical
+*692  $aclosed
+*700  $aIrole, Mohammed Ali
+$edirector
+^
+200000135
+*041  $afre
+*245  $aSahara FM
+*260  $aAgadez
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 23 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aOn 22 April 2008, the CSC (Conseil supérieur de la communication) ordered the indefinite closure of Sahara FM after the radio station broadcast testimonies from victims of soldiers' attacks.
+In its official report, the CSC indicates that this decision was made "without ruling out possible criminal charges". On 18 April, Raliou Hamed-Assaleh, the radio station manager, was summoned in
+Niamey, after both the Agadez governor and police commissioner had complained about the broadcasting of allegedly "dangerous" testimonies of people living in the region, under the pretext that they
+"call for ethnic hatred and sap the army's moral." "We simply broadcast the account of things that were experienced in real life," said Hamed-Assaleh.
+*506  $aclosed
+$bthe media regulatory body in Niger, CSC
+*518  $a22 April 2008
+$3radtio station
+*522  $aNiger
+*651  $a5547
+*691  $apolitical
+*692  $aclosed
+*700  $aRaliou Hamed-Assaleh
+$emanager
+^
+200000136
+*041  $afre
+*245  $aSahara FM
+*260  $aAgadez
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 23 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aOn 22 April 2008, the CSC (Conseil supérieur de la communication) ordered the indefinite closure of Sahara FM after the radio station broadcast testimonies from victims of soldiers' attacks.
+In its official report, the CSC indicates that this decision was made "without ruling out possible criminal charges".
+*506  $aclosed
+$bConseil supérieur de la communication, CSC
+*518  $a22 April 2008
+$3radio station
+*522  $aNiger
+*651  $a5547
+*691  $apolitical
+*692  $aclosed
+^
+200000137
+*041  $atib
+*245  $aVoice of Tibet
+*260  $aTibet
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 24 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aTo prevent the Tibetan population from getting access to uncensored news reports, the authorities have stepped up the jamming of international radio stations that broadcast in Tibetan such as
+Voice of Tibet and Radio Free Asia. Violating international rules governing short and medium wave broadcasting, the Chinese authorities transmit low-pitched noise on the same frequencies as the
+foreign stations. Voice of Tibet manager Oystein Alme told Reporters Without Borders: "We have noted a significant increasing in jamming since 16 March, especially in the cities where the government
+has invested tens of millions of dollars to install antennae to prevent Tibetans from listening to us."
+*506  $ajamming
+$bChinese authorities
+*518  $aApril 2008
+$3radio station
+*522  $aTibet (CHina)
+*651  $a7151
+*691  $apolitical
+*692  $ajammed
+^
+200000138
+*041  $atib
+*245  $aRadio Free Asia
+*260  $aTibet
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 24 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aTo prevent the Tibetan population from getting access to uncensored news reports, the authorities have stepped up the jamming of international radio stations that broadcast in Tibetan such as
+Voice of Tibet and Radio Free Asia. Violating international rules governing short and medium wave broadcasting, the Chinese authorities transmit low-pitched noise on the same frequencies as the
+foreign stations. Voice of Tibet manager Oystein Alme told Reporters Without Borders: "We have noted a significant increasing in jamming since 16 March, especially in the cities where the government
+has invested tens of millions of dollars to install antennae to prevent Tibetans from listening to us."
+*506  $ajamming
+$bChinese authorities
+*518  $aApril 2008
+$3radio station
+*522  $aTibet (China)
+*651  $a7151
+*691  $apolitical
+*692  $ajammed
+^
+200000139
+*041  $aeng
+*245  $aMetro TV
+*260  $aAccra
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 30 April 2008 / Media Foundation for West Africa (MFWA), Accra
+*505  $aOn 24 April 2008, Joe Baidoo Ansah, Ghana's Minister of Trade and Industry, interrupted a live-broadcast on Metropolitan Television (Metro TV), an Accra-based TV station, to register his
+displeasure about the inclusion of Nii Moi Thompson, an opposition spokesman, in the flagship programme "Good Evening Ghana". Media Foundation for West Africa's (MFWA) correspondent reported that the
+minister, who was unhappy about Thompson's comments, stormed the studio amidst insults nd threats, forcing a break in transmission. [...] Following the Minister's behaviour, that particular edition of
+the "Good Evening Ghana" was not rebroadcast the next day as has been the practice.
+*506  $aprogramme interrupted
+$bMinister of Trade and Industry
+*518  $a24 April 2008
+$3TV station
+*522  $aGhana
+*651  $a5530
+*691  $apolitical
+*692  $aprogramme interrupted
+^
+200000140
+*041  $aara
+*245  $aAl-Jazeera TV
+$bMaghreb news programme
+*260  $aRabat
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aOn 6 May, Al-Jazeera's Rabat bureau received a fax from the National Agency for Telecom Regulation (ANRT) saying the frequency it used for broadcasting the Maghreb programme was being
+withdrawn because of "technical and legal problems." The Qatar-based TV station began producing its daily Maghreb news programme on 17 November 2006. It already had a bureau in Rabat and was obliged
+to comply with Moroccan regulations.
+*506  $afrequency withdrawn
+$bNationalAgency for Telecom Regulation
+*518  $a6 May 2008
+$3TV station
+*522  $aMorocco
+*651  $a5344
+*691  $apolitical
+*692  $afrequency withdrawn
+^
+200000141
+*041  $aspa
+*245  $aCaracol national television network
+$bSéptimo Día public affairs programme
+*260  $aBogotá
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Foundation for Press Freedom (FLIP), Bogotá
+*505  $aOn 25 April 2008, "Séptimo Día", a high-profile public affairs programme broadcast by Caracol national television network, received an order from Prosecutor 287, in Bogotá, not to broadcast a
+programme scheduled to run two days later, and was asked to turn over its investigative file on the subject of the feature. According to "Séptimo Día" general producer Francisco Bohórquez, that
+edition of the programme was going to feature an investigative report on a situation involving a beautician who had apparently performed surgical procedures, inappropriately and illegally. The main
+source for the feature was one of the beautician's former clients, who has had serious health problems as a consequence of the procedures and wanted to draw public attention to her experience. After
+receiving the court order, signed by Prosecutor Edna Patricia Cabrera, the managers of both Caracol and "Séptimo Día" opted not to broadcast the feature. The order, which was issued as part of a
+criminal investigation of the beautician for personal injuries and medical responsibilities, reads: "You are asked to deliver all of the information obtained by you to this office, in order to clarify
+the incidents in question.(. . .) Taking into account that the investigation we are engaged in, and the evidence provided for it, are necessary and are confidential, you are ordered to abstain from
+broadcasting it."
+*506  $aprogramme stopped
+$bProsecutor 287
+*518  $a25 April 2008
+$3television station
+*522  $aColombia
+*651  $a6425
+*691  $acriminal investigation
+*692  $aprogramme stopped
+^
+200000142
+*041  $aara
+*245  $aAl-Mustakbal
+*260  $aBeirut
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe terrestrial and satellite TV station Future TV, satellite TV news channel Future News, the daily newspaper "Al-Mustakbal" and Radio Orient - were forced to stop operating on 9 May 2008.
+[...] Rockets were fired early on the morning of 9 May at "Al-Mustakbal"'s headquarters, starting a fire on one of its floors. Soon afterwards, gunmen surrounded the offices of Future TV, Future News
+and Radio Orient and threatened to open fire if they did not stop broadcasting. Witnesses said Hezbollah militiamen disabled their video surveillance systems and then disconnected their broadcast
+cables. Lebanese army soldiers protected employees as they left the buildings to go home.
+*506  $aclosed
+$bHezbollah
+*518  $a9 May 2008
+$3newspaper
+*522  $aLebanon
+*651  $a7334
+*691  $apolitical
+^
+200000143
+*041  $aara
+*245  $aFuture TV
+*260  $aBeirut
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe terrestrial and satellite TV station Future TV, satellite TV news channel Future News, the daily newspaper "Al-Mustakbal" and Radio Orient - were forced to stop operating on 9 May 2008.
+[...] Rockets were fired early on the morning of 9 May at "Al-Mustakbal"'s headquarters, starting a fire on one of its floors. Soon afterwards, gunmen surrounded the offices of Future TV, Future News
+and Radio Orient and threatened to open fire if they did not stop broadcasting. Witnesses said Hezbollah militiamen disabled their video surveillance systems and then disconnected their broadcast
+cables. Lebanese army soldiers protected employees as they left the buildings to go home.
+*506  $aclosed
+$bHezbollah
+*518  $a9 May 2008
+$3TV station
+*522  $aLebanon
+*651  $a7334
+*691  $apolitical
+^
+200000144
+*041  $aara
+*245  $aRadio Orient
+*260  $aBeirut
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe terrestrial and satellite TV station Future TV, satellite TV news channel Future News, the daily newspaper "Al-Mustakbal" and Radio Orient - were forced to stop operating on 9 May 2008.
+[...] Rockets were fired early on the morning of 9 May at "Al-Mustakbal"'s headquarters, starting a fire on one of its floors. Soon afterwards, gunmen surrounded the offices of Future TV, Future News
+and Radio Orient and threatened to open fire if they did not stop broadcasting. Witnesses said Hezbollah militiamen disabled their video surveillance systems and then disconnected their broadcast
+cables. Lebanese army soldiers protected employees as they left the buildings to go home.
+*506  $aclosed
+$bHezbollah
+*518  $a9 May 2008
+$3Radio station
+*522  $aLebanon
+*651  $a7334
+*691  $apolitical
+^
+200000145
+*041  $aara
+*245  $aFuture news
+*260  $aBeirut
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe terrestrial and satellite TV station Future TV, satellite TV news channel Future News, the daily newspaper "Al-Mustakbal" and Radio Orient - were forced to stop operating on 9 May 2008.
+[...] Rockets were fired early on the morning of 9 May at "Al-Mustakbal"'s headquarters, starting a fire on one of its floors. Soon afterwards, gunmen surrounded the offices of Future TV, Future News
+and Radio Orient and threatened to open fire if they did not stop broadcasting. Witnesses said Hezbollah militiamen disabled their video surveillance systems and then disconnected their broadcast
+cables. Lebanese army soldiers protected employees as they left the buildings to go home.
+*506  $aclosed
+$bHezbollah
+*518  $a9 May 2008
+$3TV station
+*522  $aLebanon
+*651  $a7334
+*691  $apolitical
+^
+200000146
+*041  $aara
+*245  $aUnity Radio
+*260  $aSierra Leone
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 12 May 2008 / Media Foundation for West Africa (MFWA), Accra
+*505  $aOn 8 May 2008, Unity Radio, a station run by Sierra Leone People's Party (SLPP), was shut down on the orders of the Minister of Information and Communication, Alhaji Ibrahim Ben Kargbo. Media
+Foundation for West Africa's (MFWA) correspondent reported that the closure, according to Kargbo, was due to the installation of an illegal antenna which disturbed the transmission of other radio
+stations, and the fact that the SLPP did not go through the right procedures to register Unity Radio.
+*506  $aclosed
+$bMinister of Information and Communication, Alhaji Ibrahim Ben Kargbo
+*518  $a8 May 2008
+$3radio station
+*522  $aSierra Leone
+*651  $a5556
+*691  $apolitical
+^
+200000147
+*041  $aara
+*245  $aal-Ahd
+*260  $aBaghdad
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 15 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aSecurity forces reporting to the interior ministry raided the studios of al-Ahd [a privately-owned radio station linked to Shiite leader Moqtada al-Sadr] in the al-Baladiyat district of
+Baghdad on 8 May and after locking staff out of the station they shut it down for "incitement to violence".
+*506  $ashut down
+$bSecurity forces
+*518  $a8 May 2008
+$3radio station
+*522  $aIraq
+*651  $a7328
+*691  $apolitical
+^
+200000148
+*041  $akhm
+*245  $aRadio Angkor Ratha FM 105.25
+*260  $aKratie
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 10 June 2008 / Southeast Asian Press Alliance (SEAPA), Bangkok
+*505  $aon 28 May the Cambodian Ministry of Information (MOI) shut down a newly-established private radio station in Kratie province, 315 kilometers northeast of Phnom Penh, on grounds that the radio
+owner had not complied with its operating contract with the ministry. After securing permission from the MOI, Radio Angkor Ratha FM 105.25 went on air on 15 May, and opened its airtime to the full
+range of Cambodia's political parties, including the Samrainsy Party, the Human Rights Party, the Norodom Ranariddh Party, FUNCINPEC and the League for Democracy Party. Barely two weeks later, on 28
+May, the station was ordered to halt its broadcasts, allegedly for violating provisions in its operating contract with the Ministry.
+*506  $ashut down
+$bMinistry of Information (MOI)
+*518  $a28 May 2008
+$3radio station
+*522  $aCambodia
+*651  $a7520
+*691  $apolitical
+*692  $ashut down
+^
+200000149
+*041  $aspa
+*245  $aTierra y Libertad community radio station
+*260  $aMonterrey
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 11 June 2008 / The World Association of Community Radio Broadcasters, (AMARC); ARTICLE 19, Mexico City
+*505  $aTierra y Libertad community radio station [was closed] on 6 June 2008 in the city of Monterrey, Nuevo León state, when over 100 heavily-armed members of the Federal Preventive Police (Policía
+Federal Preventiva) violently burst into the station. Over 200 people tried to defend the radio station. However, in the interest of preventing the escalation of the confrontation, they finally
+allowed the police to take away the station's equipment. Representatives of the Public Ministry (Ministerio Público) were present to observe the police raid, but refused to provide the station staff
+with a copy of the search order and the record of the search itself, which they are legally obligated to do. Faced with protests by those present, the police did not take away station director Héctor
+Camero; however, the Public Ministry representatives warned him he had to appear in court on 13 June, although they declined to serve him the summons to do so required by law.
+*506  $aclosed
+$bFederal Preventive Police
+*518  $a6 June 2008
+$3radio station
+*522  $aMexico
+*651  $a6243
+*691  $apolitical
+*692  $aclosed
+^
+200000150
+*041  $aeng
+*245  $aGEO TV talk shows
+$bCapital Talk
+*260  $aIslamabad
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 12 June 2008 / International Federation of Journalists (IFJ), Brussels
+*505  $aThe Pakistan Federal Union of Journalists (PFUJ), an affiliate of the IFJ, said the owner of GEO and the Jang group of newspapers, Mir Shakeelur Rehman, confirmed that UAE authorities had
+asked GEO to discontinue broadcasting Capital Talk, hosted by Islamabad-based Hamid Mir, and Meray Mutabek, hosted by Dubai-based Shahid Masood. UAE authorities reportedly told GEO management that
+they did not want anything transmitted from Dubai to disturb UAE's relationship with friendly countries. Pakistan's Information Minister, Sherry Rehman, reportedly said that Pakistan's new civilian
+government had not asked UAE to act against GEO.
+*506  $aprogramme taken off air
+$bUnited Arab Emirates authorities
+*518  $aJune 2008
+$3TV station
+*522  $aPakistan/United Arab Emirates
+*651  $a7352
+*691  $apolitical
+*692  $aprogramme taken off air
+*700  $aHamid Mir
+$ehost
+^
+200000151
+*041  $aeng
+*245  $aGEO TV talk shows
+$bMeray Mutabek
+*260  $aIslamabad
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 12 June 2008 / International Federation of Journalists (IFJ), Brussels
+*505  $aThe Pakistan Federal Union of Journalists (PFUJ), an affiliate of the IFJ, said the owner of GEO and the Jang group of newspapers, Mir Shakeelur Rehman, confirmed that UAE authorities had
+asked GEO to discontinue broadcasting Capital Talk, hosted by Islamabad-based Hamid Mir, and Meray Mutabek, hosted by Dubai-based Shahid Masood. UAE authorities reportedly told GEO management that
+they did not want anything transmitted from Dubai to disturb UAE's relationship with friendly countries. Pakistan's Information Minister, Sherry Rehman, reportedly said that Pakistan's new civilian
+government had not asked UAE to act against GEO.
+*506  $aprogramme taken off air
+$bUnited Arab Emirates authorities
+*518  $aJune 2008
+$3TV station
+*522  $aPakistan/United Arab Emirates
+*651  $a7352
+*691  $apolitical
+*692  $aprogramme taken off air
+*700  $aShahid Masood
+$ehost
+^
+200000152
+*041  $aspa
+*245  $aPlaneta 98.7radiostation
+$bVallenatos y algo más
+*260  $aVenezuela
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 20 June 2008 / Institute for Press and Society (IPYS), Lima
+*505  $aOn 2 June 2008, the directors of Planeta 98.7 radio station suspended the "Vallenatos y algo más" news and entertainment programme after its host, Yon Espinel, criticised the poor condition of
+the streets in the town of Sabaneta, municipality of Alberto Arvelo Torrealba, Barinas state, in southeastern Venezuela. The journalist said that the programme's suspension was due to pressure exerted
+by Mayor Aníbal Chávez. [...] "The radio station's owner told me that he could not withstand the pressure being exerted by the mayor any longer and that he did not want the radio station to be closed
+down or to have any more problems," Espinel told IPYS.
+*506  $aprogramme suspended
+$bthe directors of the station
+*518  $a2 June 2008
+$3radio station
+*522  $aVenezuela
+*651  $a6460
+*691  $apolitical
+*692  $asuspended
+*700  $aEspinel, Yon
+$ehost
+^
+200000153
+*041  $aeng
+*245  $aFiji Television
+$bClose-up
+*260  $aFiji
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 24 June 2008 / Pacific Islands News Association (PINA), Suva
+*505  $aA regular Fiji Television programme was pulled off the air on the evening of 22 June 2008, on allegations that it contained "inflammatory" comments, reports the "Fiji Sun". The Sunday night
+national television programme "Close-up", hosted by Anish Chand and pre-recorded the day before, was to feature lawyer Rajendra Chaudhry. Police visited the television station on 22 June with a
+warrant to seize the recording of the programme.
+*506  $aprogramme seized
+$bthe police
+*518  $a22 June 2008
+$3television programme
+*522  $aFiji
+*651  $a9014
+*691  $apolitical
+*692  $aseized
+*700  $aAnish Chand
+$ehost
+^

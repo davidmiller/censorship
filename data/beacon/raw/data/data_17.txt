@@ -1,0 +1,1776 @@
+100000583
+*041  $achi
+*245  $aOriental Daily
+*260  $aMalaysia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Southeast Asian Press Alliance (SEAPA), Bangkok
+*505  $aThe annual publishing permits for the Tamil-language "Makkal Osai" and the Mandarin-language "Oriental Daily" newspapers lapsed in December 2007 and their applications for new ones for the year have not been approved by outgoing Deputy Internal Security Minister Fu Ah Kiow, reports SEAPA's local partner, the Centre for Independent Journalism (CIJ), in a 21 February 2008 release ( http://www.cijmalaysia.org /index.php?option=com_content&task=view&id=301&Itemid=8 ).
+*506  $aInternal Security Ministry
+*518  $a2008
+$3Newspaper
+*522  $aMalaysia
+*651  $a7536
+*691  $aPolitical
+*692  $aAnnual publishing permit withheld
+^
+100000584
+*100  $aKhalifa Omar bin Al-Khattab, Abdulla 
+$eauthor
+*245  $aOmar . . . A Martyr
+$cAbdulla Khalifa Omar bin Al-Khattab
+*260  $aUnknown
+$bUnknown
+$cUnknown
+*300  $aUnknown
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Bahrain Center for Human Rights (BCHR), Manama, 23 January 2008
+*505  $aOmar Ibn Al-Khattab was the second Islamic Caliph after the prophet Mohammed and is regarded by Muslims as one of the "four righteously guided Caliphs". Ministry of Islamic Affairs refused to approve distribution alleging that it defames a religious figure in a manner "fomenting sectarianism" in the society.
+*506  $aDistribution refused
+$bMinistry of Islamic Affairs (MIA) 
+*518  $a2007
+$3Book
+*522  $aBahrain
+*651  $a7312
+*691  $aReligious
+*693  $aBanned
+*700  $aKhalifa Omar bin Al-Khattab, Abdulla
+$eAuthor
+^
+100000585
+*100  $aKhalifa Omar bin Al-Khattab, Abdulla 
+$eauthor
+*245  $aHusain's Head
+$cAbdulla Khalifa Omar bin Al-Khattab
+*260  $aUnknown
+$bUnknown
+$cUnknown
+*300  $aUnknown
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Bahrain Center for Human Rights (BCHR), Manama / Asian Centre for human rights, 23 January 2008
+*505  $aMinistry of Information has issued a formal decision to ban Husain's Head
+*506  $b Ministry of Information 
+*518  $a2007
+$3Book
+*522  $aBahrain
+*651  $a7312
+*691  $aReligious
+*693  $aBanned
+*700  $aKhalifa Omar bin Al-Khattab, Abdulla
+$eAuthor
+^
+100000586
+*100  $aKathem, Nader
+$eauthor
+*245  $aMemory Exploitations: In a Pluralistic Society, Saddled
+with History
+$cNader Kathem
+*500  $aIFFEX / Bahrain Center for Human Rights (BCHR), Manama / Asian Centre for human rights, 23 January 2008
+*505  $aDespite repeated requests, the Publication and Press Directorate of the Ministry of Information have failed to respond and effectively prevented the publication.
+*506  $aPublication prevented
+$bMinistry of Information
+*518  $a2007
+$3Book
+*522  $aBahrain
+*651  $a7312
+*691  $aReligious
+*693  $aBanned
+*700  $aKathem, Nader
+$eAuthor
+^
+100000587
+*020  $a9780375938306
+*041  $aeng
+*100  $aPullman, Philip
+$eauthor
+*245  $aThe Golden Compass
+$cPhilip Pullman
+*260  $aNew York 
+$bAlfred A. Knopf
+$cc2006
+*300  $a399 p. : ill. ; 24 cm.
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Pen canada, Toronto, 26 Nov 2007 / Library of Congress Online Catalog (bibliography)
+*505  $aThe Halton Catholic school board has removed The Golden Compass written by Philip Pullman from its shelves following a complaint from an individual who objected to the fact that the author is a stated atheist. 
+*506  $aRemoved from shelves
+$bThe Halton Catholic school board, Ontario
+*518  $a2007
+$3Book
+*522  $aCanada
+*651  $a6322
+*691  $aReligious
+*692  $aRemoved from shelves
+*700  $aPullman, Philip
+$eauthor
+^
+100000588
+*020  $a067976402X
+*041  $aeng
+*100  $aGuterson, David
+$eauthor
+*245  $aSnow falling on cedars
+$cDavid Guterson
+*260  $aNew York 
+$bVintage Books
+$c1995
+*300  $axiii, 460 p. : maps ; 21 cm.
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Pen canada, Toronto, 1 Feb 2007 / Library of Congress Online Catalog (bibliography)
+*505  $aThe bestseller has been removed from school library shelves and English class reading lists by the Dufferin-Peel Catholic District School Board after a single parental complaint about the book's sexually explicit content.
+*506  $aRemoved from shelves
+$bDufferin-Peel Catholic District School Board, Mississauga
+*518  $a2007
+$3Book
+*522  $aCanada
+*651  $a6322
+*691  $aSexual
+*692  $aRemoved from shelves
+*710  $aGuterson, David
+$eauthor
+^
+100000589
+*020  $a0888995547
+*041  $aeng
+*100  $aEllis, Deborah 
+$eauthor
+*245  $aThree Wishes: Palestinian and Israeli Children Speak
+$cDeborah Ellis
+*260  $aToronto, ON
+$bGroundwood Books ; Berkeley, CA : Distributed in the U.S. by Publishers Group West 
+$cc2004
+*300  $a110 p. : ill. ; 22 cm.
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Pen canada, Toronto, Feb 2007 / Library of Congress Online Catalog (bibliography)
+*505  $aIn March 2006 the Toronto District School Board (TDSB) decided to restrict access for younger children to Deborah Ellis's award-wining book, Three Wishes: Palestinian and Israeli Children Speak. The Board, in reaction to a protest by the Canadian Jewish Congress, decided to remove the book from school libraries serving children below grade seven. 
+*506  $aRemoved from school libraries
+$bToronto District School Board (TDSB)
+*518  $aMarch 2006
+$3Book
+*522  $aToronto, Canada
+*651  $a6322
+*691  $aPolitical
+*692  $aRemoved from shelves
+*700  $aEllis, Deborah 
+$eauthor
+^
+100000590
+*041  $aarm
+*245  $aA1+
+*260  $aYerevan, Armenia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 3 March 2008
+*505  $aPresident Robert Kocharian declared a state of emergency on 1 March 2008. As part of the declaration, Kocharian ordered media outlets to cite only official sources when reporting on national politics. Several independent and opposition news Web sites that operate under Armenian domain names were also blocked. They included Web sites run by the pro-opposition news agency A1+ and the independent newspapers Aravot (Morning) and Aikakan Zhamanak (Armenian Time), according to the news agency Armenia Today. Armenia Today reported that local Internet users received a message that said: "Warning! As ordered by a state decree, some informational Web sites will not be accessible." The Armenian Service of the U.S.-funded Radio Free Europe/Radio Liberty (RFE/RL) was blocked within the country.
+*506  $aCensorship of independent media outlets
+$bPresident Robert Kocharian 
+*518  $a20 days from 1 March 2008
+$3Website
+*522  $aArmenia
+*651  $a7215
+*691  $aPolitical
+*692  $aBlocked
+^
+100000591
+*041  $aarm
+*245  $aAikakan Zhamanak (Armenian Time)
+*260  $aYerevan, Armenia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 3 March 2008
+*505  $aPresident Robert Kocharian declared a state of emergency on 1 March 2008. As part of the declaration, Kocharian ordered media outlets to cite only official sources when reporting on national politics. Several independent and opposition news Web sites that operate under Armenian domain names were also blocked today. They included Web sites run by the pro-opposition news agency A1+ and the independent newspapers Aravot (Morning) and Aikakan Zhamanak (Armenian Time), according to the news agency Armenia Today. Armenia Today reported that local Internet users received a message that said: "Warning! As ordered by a state decree, some informational Web sites will not be accessible." The Armenian Service of the U.S.-funded Radio Free Europe/Radio Liberty (RFE/RL) was blocked within the country.
+*506  $acensorship of independent media outlets
+$bPresident Robert Kocharian 
+*518  $a20 days from 1 March 2008
+$3Newspaper
+*522  $aArmenia
+*651  $a7215
+*691  $aPolitical
+*692  $aBlocked
+^
+100000592
+*041  $aarm
+*245  $aAravot (Morning)
+*260  $aYerevan, Armenia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 3 March 2008
+*505  $aPresident Robert Kocharian declared a state of emergency on 1 March 2008. As part of the declaration, Kocharian ordered media outlets to cite only official sources when reporting on national politics. Several independent and opposition news Web sites that operate under Armenian domain names were also blocked today. They included Web sites run by the pro-opposition news agency A1+ and the independent newspapers Aravot (Morning) and Aikakan Zhamanak (Armenian Time), according to the news agency Armenia Today. Armenia Today reported that local Internet users received a message that said: "Warning! As ordered by a state decree, some informational Web sites will not be accessible." The Armenian Service of the U.S.-funded Radio Free Europe/Radio Liberty (RFE/RL) was blocked within the country.
+*506  $acensorship of independent media outlets
+$bPresident Robert Kocharian 
+*518  $a20 days from 1 March 2008
+$3Newspaper
+*522  $aArmenia
+*651  $a7215
+*691  $aPolitical
+*692  $aBlocked
+^
+100000593
+*041  $aarm
+*245  $aRadio Free Europe/Radio Liberty (RFE/RL)
+*260  $aYerevan, Armenia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 3 March 2008
+*505  $aPresident Robert Kocharian declared a state of emergency on 1 March 2008. As part of the declaration, Kocharian ordered media outlets to cite only official sources when reporting on national politics. Several independent and opposition news Web sites that operate under Armenian domain names were also blocked today. They included Web sites run by the pro-opposition news agency A1+ and the independent newspapers Aravot (Morning) and Aikakan Zhamanak (Armenian Time), according to the news agency Armenia Today. Armenia Today reported that local Internet users received a message that said: "Warning! As ordered by a state decree, some informational Web sites will not be accessible." The Armenian Service of the U.S.-funded Radio Free Europe/Radio Liberty (RFE/RL) was blocked within the country.
+*506  $acensorship of independent media outlets
+$bPresident Robert Kocharian 
+*518  $a20 days from 1 March 2008
+$3Radio
+*522  $aArmenia
+*651  $a7215
+*691  $aPolitical
+*692  $aBlocked
+^
+100000594
+*041  $aspa
+*245  $aThe e-mails of journalist Fernando Ayude, of the daily "La Arena"
+*260  $aSanta rosa, La Pampa, Argentina
+$c2008
+*500  $aIFFEX / Reporters sans frontières (RSF), Paris, 28 Feb 2008
+*505  $aThe journalist, who specialises in local politics, said  on 23 February 2008 that someone has apparently been intercepting and spying on an exchange of e-mails between him and certain politicians opposed to Santa Rosa mayor Juan Carlos Tierno. Ayude was told by an unidentified informant on 15 February that his e-mails were being spied on. As proof, the individual showed him a printout containing the journalist's e-mail password and two messages, one sent to an opposition city councillor and the other to a former councillor responsible for budgetary questions. A colleague at "La Arena", Leonardo Santestebán, confirmed that the Santa Rosa mayor has been putting pressure on journalists and the political opposition. He added that the daily's website was targeted by hackers at the end of January.
+*506  $aintercepting and spying on e-mails
+$bSanta Rosa Mayor Juan Carlos Tierno
+*518  $aFeb 2008
+$3e-mails
+*522  $aArgentina
+*651  $a6414
+*691  $aPolitical
+*692  $aSpying
+*700  $aAyude, Fernando
+$ejournalist
+^
+100000595
+*041  $ayem
+*245  $aYemen Portal
+*260  $aYemen
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / ARTICLE 19, London, 12 Feb 2008
+*505  $aOn January 19, the Yemeni authorities blocked the original domain of the website the Yemen Portal. A few weeks later, on February 9, the authorities blocked the alternative domain. The wave of website bans is not new in Yemen. The Ministry of Telecommunications is known to screen and ban websites before or during particularly sensitive political or security events such as the presidential election in November 2006 and the ongoing conflict in Sa'ada Province.
+*506  $ablocking of websites
+$bYemeni authorities/The Ministry of Telecommunications
+*518  $aJan-Feb 2008
+$3Web-sites
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBlocked
+^
+100000596
+*041  $aeng
+*245  $aJourney to the Heart of Internet censorship
+*260  $aChina
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 1 Feb 2008
+*505  $a Reporters Without Borders and the organisation Chinese Human Rights Defenders have obtained a copy of a directive issued by the authorities responsible for Internet censorship in an attempt to prevent online circulation of the report "Journey to the Heart of Internet censorship ( http://www.rsf.org /article.php3?id_article=23924 ), which the two organisations issued on 10 October 2007. 
+Just hours after the report was issued, Yang Le, the head of the Beijing Information Office, which is in charge of Internet control, circulated an order to websites and ISPs asking them to update their lists of banned key-words. The new banned key-words, mostly relating to the Internet, were used throughout the Reporters Without Borders/Chinese Human Rights Defenders report.
+*506  $aUpdate of banned key-words relating to the Internet to prevent online circulation
+$bYang Le, the head of the Beijing Information Office
+*518  $aOct 2007
+$3Report
+*522  $aChina
+*651  $a7117
+*691  $aPolitical
+*692  $aPrevented online circulation
+^
+100000597
+*041  $ayem
+*245  $aYemenPortal
+*260  $aYemen
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 25 Jan 2008
+*505  $aSeveral Yemeni news and opinion Web sites have apparently been blocked domestically by the government-owned Internet service provider, according to news reports and a CPJ interview. Three Web sites became unavailable to domestic users on January 19, joining a list of at least five others that have disappeared within Yemen without explanation in recent months. Walid al-Saqaf, founder and administrator of the news crawler YemenPortal, told CPJ today that several overseas contacts confirmed that they were still able to view his popular site even as it was unavailable domestically. Al-Saqaf said officials with the service provider, run by the Ministry of Telecommunications, could not explain why his site was unavailable but denied deliberately blocking access. The ministry has offered no public explanation as to why the sites are unavailable.
+*506  $bThe government-owned Internet service provider
+*518  $a19 Jan 2008
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBlocked
+*700  $aAl-Saqaf, Walid
+$efounder and administrator
+^
+100000598
+*041  $ayem
+*245  $aYemenHurr
+*260  $aYemen
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 25 Jan 2008
+*505  $aSeveral Yemeni news and opinion Web sites have apparently been blocked domestically by the government-owned Internet service provider, according to news reports and a CPJ interview. Three Web sites became unavailable to domestic users on January 19, joining a list of at least five others that have disappeared within Yemen without explanation in recent months. The ministry of Telecommunications has offered no public explanation as to why the sites are unavailable.
+*506  $bThe government-owned Internet service provider
+*518  $a19 Jan 2008
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBlocked
+^
+100000599
+*041  $ayem
+*245  $aHour's News
+*260  $aYemen
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 25 Jan 2008
+*505  $aSeveral Yemeni news and opinion Web sites have apparently been blocked domestically by the government-owned Internet service provider, according to news reports and a CPJ interview. Three Web sites became unavailable to domestic users on January 19, joining a list of at least five others that have disappeared within Yemen without explanation in recent months. The ministry of Telecommunications has offered no public explanation as to why the sites are unavailable.
+*506  $bThe government-owned Internet service provider
+*518  $a19 Jan 2008
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBlocked
+^
+100000600
+*041  $ayem
+*245  $aHdramut
+*260  $aYemen
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 25 Jan 2008
+*505  $aSeveral Yemeni news and opinion Web sites have apparently been blocked domestically by the government-owned Internet service provider, according to news reports and a CPJ interview. Three Web sites became unavailable to domestic users on January 19, joining a list of at least five others that have disappeared within Yemen without explanation in recent months. The ministry of Telecommunications has offered no public explanation as to why the sites are unavailable.
+*506  $bThe government-owned Internet service provider
+*518  $a2007
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBlocked
+^
+100000601
+*041  $ayem
+*245  $aAl-Teef
+*260  $aYemen
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 25 Jan 2008
+*505  $aSeveral Yemeni news and opinion Web sites have apparently been blocked domestically by the government-owned Internet service provider, according to news reports and a CPJ interview. Three Web sites became unavailable to domestic users on January 19, joining a list of at least five others that have disappeared within Yemen without explanation in recent months. The ministry of Telecommunications has offered no public explanation as to why the sites are unavailable.
+*506  $bThe government-owned Internet service provider
+*518  $a2007
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBlocked
+^
+100000602
+*041  $ayem
+*245  $aWebsites in Yemen
+*260  $aYemen
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 25 Jan 2008
+*505  $aSeveral Yemeni news and opinion Web sites have apparently been blocked domestically by the government-owned Internet service provider, according to news reports and a CPJ interview. Three Web sites became unavailable to domestic users on January 19, joining a list of at least five others that have disappeared within Yemen without explanation in recent months. The ministry of Telecommunications has offered no public explanation as to why the sites are unavailable.
+*506  $bThe government-owned Internet service provider
+*518  $a19 Jan 2008
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBlocked
+^
+100000603
+*041  $ayem
+*245  $aAl-Yemen
+*260  $aYemen
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 25 Jan 2008
+*505  $aSeveral Yemeni news and opinion Web sites have apparently been blocked domestically by the government-owned Internet service provider, according to news reports and a CPJ interview. Three Web sites became unavailable to domestic users on January 19, joining a list of at least five others that have disappeared within Yemen without explanation in recent months. The ministry of Telecommunications has offered no public explanation as to why the sites are unavailable.
+*506  $bThe government-owned Internet service provider
+*518  $a2007
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBlocked
+^
+100000604
+*041  $ayem
+*245  $aAdenPress
+*260  $aYemen
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 25 Jan 2008
+*505  $aSeveral Yemeni news and opinion Web sites have apparently been blocked domestically by the government-owned Internet service provider, according to news reports and a CPJ interview. Three Web sites became unavailable to domestic users on January 19, joining a list of at least five others that have disappeared within Yemen without explanation in recent months. The ministry of Telecommunications has offered no public explanation as to why the sites are unavailable.
+*506  $bThe government-owned Internet service provider
+*518  $a2007
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBlocked
+^
+100000605
+*041  $ayem
+*245  $aSoutalGnoub
+*260  $aYemen
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 25 Jan 2008
+*505  $aSeveral Yemeni news and opinion Web sites have apparently been blocked domestically by the government-owned Internet service provider, according to news reports and a CPJ interview. Three Web sites became unavailable to domestic users on January 19, joining a list of at least five others that have disappeared within Yemen without explanation in recent months. The ministry of Telecommunications has offered no public explanation as to why the sites are unavailable.
+*506  $bThe government-owned Internet service provider
+*518  $a2007
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBlocked
+^
+100000606
+*041  $abur
+*245  $aBlogger.com ( http://www.blogger.com )
+*260  $aMyanmar (Burma)
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Mizzima News, New Delhi, 23 Jan 2008
+*505  $aThe Burmese military junta has put up another hurdle for Internet users in Burma by blocking the website http://www.blogger.com. Following the 'Saffron Revolution' in September 2007, the Internet Service Provider (ISP), Myanmar Teleport had restricted surfing to http://www.blogger.com. Soon afterwards, the site was also inaccessible via the other ISP in Burma, Myanmar Post and Telecommunication (MPT). 
+*506  $bthe Internet Service Provider (ISP), Myanmar Teleport
+*518  $a2008
+$3Website
+*522  $aMyanmar (Burma)
+*651  $a7516
+*691  $aPolitical
+*692  $aBlocked
+^
+100000607
+*041  $aeng, ara
+*245  $aWebsites
+*260  $aBahrain 
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Bahrain Center for Human Rights (BCHR), Manama, 3 Jan 2008
+*505  $aThe Bahrain Center for Human Rights (BCHR) expresses its concern about the persistent measures taken by the Bahraini authorities to block the flow of information by preventing access to websites and popular online forums. The Bahraini authorities have often banned citizens from certain websites which cover "subversive" or controversial topics, such as: public lands misappropriation, administrative and financial corruption, or official discrimination and favouritism. After the exposure of what is locally dubbed the "Bandergate report", the total number of blocked sites, local and international, exceeded 26. Blocked sites encompass sites run by Bahrainis and by non-Bahrainis, including those of local forums (public or belonging to villages), popular committees, political organizations, human rights organizations, religious and non-religious groupings, nationalists, electronic newspapers, news and advertisements sites, and even humour sites.
+*506  $bBahraini authorities
+*518  $3Websites
+*522  $aBahrain
+*651  $a7312
+*691  $aPolitical
+*692  $aBlocked
+^
+100000608
+*041  $achi
+*245  $aBoxun.com ( http://www.boxun.com/blog )
+*260  $aChina
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org /  Reporters sans frontières (RSF), Paris, 27 Dec 2007
+*505  $aRSF is outraged by a Distributed Denial of Service attack on the US-based Chinese news website Boxun that was probably organised by hackers based in China. Some 2,000 blogs hosted on the site are down. Boxun editor Wei Shi told RSF: "We have never before experienced such a DDOS attack, which consists of bombarding the site with an almost infinite number of connection requests. Our http://www.boxun.com/blog platform crashed on 24 December 2007. We are not even sure if we will be able to recover all the data and we will have to find a new server."
+*506  $bHackers based in China
+*518  $a24 Dec 2007
+$3Website
+*522  $aChina
+*651  $a7117
+*691  $aPolitical	
+*692  $aClosed by hacking
+^
+100000609
+*041  $aara
+*245  $aAl-Bandar report
+*260  $aBahrain
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Bahrain Center for Human Rights (BCHR), Manama, 28 Nov 2007
+*505  $aA statement by the Higher Criminal Court on 27 November 2007 affirmed the permanence of the decision to stop publishing news or press comments on the "Al-Bandar report". (For further information on instances of prosecution over articles on the "Al-Bandar report", see IFEX alerts of 22 March and 28 February 2007). The Bahraini Ministry of Information used this ban to activate articles 40 and 71 of the Press Decree Code of 2002, issuing an official order to prevent Internet access (from inside Bahrain) to many Bahraini and non-Bahraini websites that make reference to the report. This ban continues and applies to electronic forums, sites of local political and civic organizations, including religious, secular and ethnic groups based outside Bahrain. It also banned access to websites of human rights organizations BCHR and HAQ (inside Bahrain) as well as the Network of Human Rights Information (HRinfo), outside Bahrain.
+*506  $aPublication ban order 
+$bThe Higher Criminal Court of Bahrain
+*518  $a27 Nov 2007
+$3Report
+*522  $aBahrain
+*651  $a7312
+*691  $aPolitical
+*692  $aBanned
+^
+100000610
+*041  $abur
+*245  $aThe Internet
+*260  $aMayanmar (Burma)
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Mizzima News, New Delhi, 1 Nov 2007
+*505  $aAfter about two weeks of slow Internet line recovery, users in Rangoon said on 1 November 2007 that access to the World Wide Web has been cut off once again. Officials at Myanmar Teleport, one of only two Internet Service Providers (ISPs) in Burma, said the lines face interruption due to technical problems and it remains uncertain when normal service could be re-established. (Update on 8 Nov 2007: Internet service has been restored in Burma but access is at a snail's pace.)
+*506  $aMyanmar Teleport claims technical problems causes interruption
+$bMyanmar Teleport
+*518  $a1-8 Nov 2007
+$3Internet line
+*522  $aMyanmar (Burma)
+*651  $a7516
+*691  $aPolitical
+*692  $aClosed, interrupted
+^
+100000611
+*041  $abur
+*100  $aThan Win Hlaing
+$eauthor
+*245  $a[Biography of Burma’s late Prime Minister U Nu]
+$cThan Win Hlaing
+*260  $a[Mayanmar, Burma]
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 30 May 2007
+*505  $aThan Win Hlaing requested permission in February 2007 to release the book on 25 May, the centenary of his birth."They told me this was not the right time to publish a book on U Nu, and that they had passed the request to the government in [the new capital of] Nay Pyi Daw, but that the reply could take several months," said Than Win Hlaing, adding that he would try to have it published abroad if it could not be published in Burma. 
+*518  $aFebruary 2007
+$3Book
+*522  $aMyanmar (Burma)
+*651  $a7516
+*691  $aPolitical
+*692  $aBanned
+^
+100000612
+*041  $afre
+*245  $aJournal Hebdomadaire
+*260  $aMorocco
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 7 Dec 2007
+*505  $aManaging editor, Ali Amar, changed photos illustrating a feature on a work by two Moroccan artists - inspired by French artist Gustave Courbet's painting "Origin of the world" - which had been withdrawn from an exhibition in Mexico at the request of the Iranian ambassador, who found it "prejudicial to the Muslim religion". Amar told Reporters Without Borders that the printer had been convinced that the Moroccan authorities would not allow the edition in question, on 30 November 2007, to go on sale.
+*506  $aPressure to change edition in fear of seizure by the authorities
+$bThe printers
+$3Front page photo and others inside were changed
+*518  $a30 Nov 2007
+$3Newspaper
+*522  $aMorocco
+*651  $a5344
+*691  $aReligious
+*692  $aCensored
+*700  $aAmar, Ali
+$emanaging editor
+^
+100000613
+*041  $aaze
+*245  $aBizim Gundem
+*260  $aAzerbaijan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IRFS, 18 Oct 2007
+*505  $aFor the fourth consecutive day in four regions of Azerbaijan (Sabirabad, Ali-Bayramli, Saatli and Barda), all copies of "Bizim Gundem" newspaper were confiscated from newspaper kiosks by representatives of the regional executive administrations, the paper's editor, Razi Abbasbeyli, told IRFS.
+*506  $aAll copies confiscated
+$bRepresentatives of the regional executive administrations
+*518  $aSep 2007
+$3Newspaper
+*522  $aAzerbaijan
+*651  $a7216
+*691  $aPolitical
+*692  $aConfiscated
+*700  $aAbbasbeyli, Razi 
+$eeditor
+^
+100000614
+*041  $afre
+*245  $aLe Temps
+*260  $aChad
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 25 Feb 2008
+*505  $aA state of emergency was declared on 15 February 2008. The emergency includes a curfew, controlled movement of people and vehicles, house searches and control of the media, which must submit all material for approval before printing or broadcasting. Privately-owned newspapers said on 18 February they were halting publication for as long as the emergency lasted, in protest against "the suspension of civil liberties" and censorship. The papers were the weeklies "Le Temps", "L'Observateur" and the twice-weekly "N'Djamena Hebdo". Another privately-owned paper, "Notre Temps", was banned in December 2007. The privately-owned pro-government daily "Le Progrès" is now the only independent paper still appearing. 
+*506  $aClosed
+$bThe owners
+*518  $aFeb 2008
+$3Weekly paper
+*522  $aChad
+*651  $a5121
+*691  $aPolitical
+*692  $aClosed
+^
+100000615
+*041  $afre
+*245  $aL'Observateur
+*260  $aChad
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 25 Feb 2008
+*505  $aA state of emergency was declared on 15 February 2008. The emergency includes a curfew, controlled movement of people and vehicles, house searches and control of the media, which must submit all material for approval before printing or broadcasting. Privately-owned newspapers said on 18 February they were halting publication for as long as the emergency lasted, in protest against "the suspension of civil liberties" and censorship. The papers were the weeklies "Le Temps", "L'Observateur" and the twice-weekly "N'Djamena Hebdo". Another privately-owned paper, "Notre Temps", was banned in December 2007. The privately-owned pro-government daily "Le Progrès" is now the only independent paper still appearing. 
+*506  $aClosed
+$bThe owners
+*518  $aFeb 2008
+$3Weekly paper
+*522  $aChad
+*651  $a5121
+*691  $aPolitical
+*692  $aClosed
+^
+100000616
+*041  $afre
+*245  $aN'Djamena Hebdo
+*260  $aChad
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 25 Feb 2008
+*505  $aA state of emergency was declared on 15 February 2008. The emergency includes a curfew, controlled movement of people and vehicles, house searches and control of the media, which must submit all material for approval before printing or broadcasting. Privately-owned newspapers said on 18 February they were halting publication for as long as the emergency lasted, in protest against "the suspension of civil liberties" and censorship. The papers were the weeklies "Le Temps", "L'Observateur" and the twice-weekly "N'Djamena Hebdo". Another privately-owned paper, "Notre Temps", was banned in December 2007. The privately-owned pro-government daily "Le Progrès" is now the only independent paper still appearing. 
+*506  $aClosed
+$bThe owners
+*518  $aFeb 2008
+$3Twice-weekly paper
+*522  $aChad
+*651  $a5121
+*691  $aPolitical
+*692  $aClosed
+^
+100000617
+*041  $a
+*245  $aAsamiya Pratidin
+*260  $aAssam, India
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / International Federation of Journalists (IFJ), Brussels, 29 Feb 2008
+*505  $aThe International Federation of Journalists condemns the "ban" imposed on a daily newspaper, Asamiya Pratidin, by a political party in the north-eastern Indian state of Assam. According to information received from an IFJ affiliate, the Indian Journalists' Union (IJU), armed vigilantes belonging to the Bodo People's Front (BPF), intercepted a delivery van belonging to the newspaper on February 25 in Kokrajhar district of Assam, and destroyed its entire cargo of the day's edition, before setting the van ablaze.
+*506  $aA van's entire cargo of the day's edition was destroyed
+$bVigilants from the Bodo People's Front (BPF)
+$3The day's edition
+*518  $a25 Feb 2008
+$3Newspaper
+*522  $aAssam, India
+*651  $a7525
+*691  $aPolitical
+*692  $aDestroyed
+^
+100000618
+*041  $aper
+*245  $aAsar Panjshanbeh
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 4 March 2008
+*505  $aThe Press Surveillance and Authorisation Commission suspended "Asar Panjshanbeh" for "publishing articles insulting religions and the Islamic veil" and "attacking Islamic values." The monthly has been published for the past nine years.
+*506  $aSuspended
+$bThe Press Surveillance and Authorisation Commission
+*518  $aMarch 2008
+$3Monthly newspaper
+*522  $aIran
+*651  $a7327
+*691  $aReligious
+*692  $aSuspended
+^
+100000619
+*041  $afre
+*245  $aTendance Gabon
+*260  $aGabon
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 14 March 2008
+*505  $aGabon's state-run National Communications Council accused Tendance Gabon, a private semimonthly, of spreading "a campaign of denigration" against Bongo after questioning Director Edwige Anyouzoa during a nine-hour hearing, according to local journalists. Anyouzoa told CPJ she was summoned to the council shortly after Monday's edition hit the newsstands with Le Monde's story, which she headlined "Omar Bongo busted by French investigators." The decision to ban the paper for three months was final and could not be appealed under Gabon's laws, legal expert Francis Nkéa told CPJ.
+*506  $aThe paper was banned for three months
+$bNational Communications Council
+*518  $a11 march 2008
+$3Semimonthly newspaper
+*522  $aGabon
+*651  $a5128
+*691  $aPolitical
+*692  $aSuspended
+*700  $aAnyouzoa, Edwige 
+$edirector
+^
+100000620
+*041  $aeng
+*245  $aFreedom Newspaper ( http://www.freedomnewspaper.com/ )
+*260  $aGambia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Media Foundation for West Africa (MFWA), Accra
+*505  $aSince the beginning of March 2008, Gambians have been unable to access the "Freedom Newspaper" ( http://www.freedomnewspaper.com/ ), an online Gambian newspaper based in the United States of America, which has been very critical of the administration of President Yahya Jammeh. The "Freedom Newspaper", which can be accessed outside the boundaries of The Gambia, is accusing the country's telecommunication company, GAMTEL, of blocking the website's IP-address, following a story it carried about the company. On 9 March, the newspaper reported that due to mismanagement, the state-run GAMTEL was on the brink of total bankruptcy. This is not the first time the "Freedom Newspaper" has been attacked by the Gambian authorities. On 22 May 2006, the "Freedom Newspaper" and "ALL Gambian" ( http://www.allgambian.net/ ), another online newspaper, were blocked for their criticism of the regime following the hacking of the "Freedom" website.
+*506  $aThe website's IP-address has been blocked
+$bGAMTEL (Gambian telecommunication company
+*518  $aMarch 2008
+$3Online newspaper
+*522  $aGambia
+*651  $a5529
+*691  $aPolitical
+*692  $aBlocked
+^
+100000621
+*041  $aara
+*245  $aAl-Sabah
+*260  $aYemen 
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / ARTICLE 19, London, 14 March 2008
+*505  $aOn March 4, the Ministry of Information ordered the ban on the newspaper Al-Sabah for allegedly "threatening the unity of Yemen and order". Authorities have also continued censoring websites the last of which was YemenPortal.net that had its original and alternative domain blocked earlier this year.
+*506  $bMinistry of Information
+*518  $a4 March 2008
+$3Newspaper
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBanned
+^
+100000622
+*041  $aara
+*245  $aYemenPortal.net
+*260  $aYemen 
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / ARTICLE 19, London, 14 March 2008 / http://yemenportal.net/english/
+*505  $aYemenPortal.net has been blocked from access in Yemen by the Yemeni authorities since January 19, 2008 
+*506  $bThe Yemeni authorities
+*518  $a19 Jan 2008
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBlocked
+^
+100000623
+*041  $abur
+*245  $a7 Days News
+*260  $aMyanmar (Burma)
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Mizzima News, New Delhi, 18 March 2008
+*505  $aThe Burmese Press Scrutiny and Registration Board has suspended the "7 Days News" journal for a week for reporting on a multiple-murder case in its 13 March 2008 issue.
+*506  $aSuspended for a week
+$bThe Burmese Press Scrutiny and Registration Board
+*518  $aMarch 2008
+$3Weekly newspaper
+*522  $aMyanmar (Burma)
+*651  $a7516
+*691  $aPolitical
+*692  $aSuspended
+^
+100000624
+*041  $aper
+*245  $aDonya-ye Tasvir
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 20 March 2008
+*505  $aThe Press Supervisory Board, part of the Culture and Islamic Guidance ministry, banned nine lifestyle and cinema magazines for publishing "photographs of corrupt foreign artists and details about their decadent lives" and "advertising for forbidden medicines and articles contrary to morality and offensive to the ethnic minorities," Agence France-Presse reported. The magazines include Donya-ye Tasvir (World of the Image), Sobh-e Zendegi (Morning of Life), Talash (Effort), and Haft (Seven), according to AFP. The latest issue of Donya-ye Tasvir published pictures and articles about several female Hollywood stars, including Naomi Watts, Reese Witherspoon, and Nicole Kidman. The Press Supervisory Board, which is tightly controlled by hard-liners, also warned 13 other publications about the consequences of not abiding by the stringent provisions of the Iranian press law. In January, the Press Supervisory Board, which ordered the closure of at least 11 publications in 2007, according to CPJ research, banned the reform-minded Zanan (Women) magazine without official explanation after nearly 16 years in print.
+*506  $aOne of nine magazines banned
+$bThe Press Supervisory Board
+*518  $aMarch 2008
+$3Magazine
+*522  $aIran
+*651  $a7327
+*691  $aMoral
+*692  $aBanned
+^
+100000625
+*041  $aper
+*245  $aSobh-e Zendeg
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 20 March 2008
+*505  $aThe Press Supervisory Board, part of the Culture and Islamic Guidance ministry, banned nine lifestyle and cinema magazines for publishing "photographs of corrupt foreign artists and details about their decadent lives" and "advertising for forbidden medicines and articles contrary to morality and offensive to the ethnic minorities," Agence France-Presse reported. The magazines include Donya-ye Tasvir (World of the Image), Sobh-e Zendegi (Morning of Life), Talash (Effort), and Haft (Seven), according to AFP. The latest issue of Donya-ye Tasvir published pictures and articles about several female Hollywood stars, including Naomi Watts, Reese Witherspoon, and Nicole Kidman. The Press Supervisory Board, which is tightly controlled by hard-liners, also warned 13 other publications about the consequences of not abiding by the stringent provisions of the Iranian press law. In January, the Press Supervisory Board, which ordered the closure of at least 11 publications in 2007, according to CPJ research, banned the reform-minded Zanan (Women) magazine without official explanation after nearly 16 years in print.
+*506  $aOne of nine magazines banned
+$bThe Press Supervisory Board
+*518  $aMarch 2008
+$3Magazine
+*522  $aIran
+*651  $a7327
+*691  $aMoral
+*692  $aBanned
+^
+100000626
+*041  $aper
+*245  $aTalash
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 20 March 2008
+*505  $aThe Press Supervisory Board, part of the Culture and Islamic Guidance ministry, banned nine lifestyle and cinema magazines for publishing "photographs of corrupt foreign artists and details about their decadent lives" and "advertising for forbidden medicines and articles contrary to morality and offensive to the ethnic minorities," Agence France-Presse reported. The magazines include Donya-ye Tasvir (World of the Image), Sobh-e Zendegi (Morning of Life), Talash (Effort), and Haft (Seven), according to AFP. The latest issue of Donya-ye Tasvir published pictures and articles about several female Hollywood stars, including Naomi Watts, Reese Witherspoon, and Nicole Kidman. The Press Supervisory Board, which is tightly controlled by hard-liners, also warned 13 other publications about the consequences of not abiding by the stringent provisions of the Iranian press law. In January, the Press Supervisory Board, which ordered the closure of at least 11 publications in 2007, according to CPJ research, banned the reform-minded Zanan (Women) magazine without official explanation after nearly 16 years in print.
+*506  $aOne of nine magazines banned
+$bThe Press Supervisory Board
+*518  $aMarch 2008
+$3Magazine
+*522  $aIran
+*651  $a7327
+*691  $aMoral
+*692  $aBanned
+^
+100000627
+*041  $aper
+*245  $aHaft
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 20 March 2008
+*505  $aThe Press Supervisory Board, part of the Culture and Islamic Guidance ministry, banned nine lifestyle and cinema magazines for publishing "photographs of corrupt foreign artists and details about their decadent lives" and "advertising for forbidden medicines and articles contrary to morality and offensive to the ethnic minorities," Agence France-Presse reported. The magazines include Donya-ye Tasvir (World of the Image), Sobh-e Zendegi (Morning of Life), Talash (Effort), and Haft (Seven), according to AFP. The latest issue of Donya-ye Tasvir published pictures and articles about several female Hollywood stars, including Naomi Watts, Reese Witherspoon, and Nicole Kidman. The Press Supervisory Board, which is tightly controlled by hard-liners, also warned 13 other publications about the consequences of not abiding by the stringent provisions of the Iranian press law. In January, the Press Supervisory Board, which ordered the closure of at least 11 publications in 2007, according to CPJ research, banned the reform-minded Zanan (Women) magazine without official explanation after nearly 16 years in print.
+*506  $aOne of nine magazines banned
+$bThe Press Supervisory Board
+*518  $aMarch 2008
+$3Magazines
+*522  $aIran
+*651  $a7327
+*691  $aMoral
+*692  $aBanned
+^
+100000628
+*041  $aper
+*245  $aZanan 
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 20 March 2008
+*505  $aThe Press Supervisory Board, part of the Culture and Islamic Guidance ministry, banned nine lifestyle and cinema magazines for publishing "photographs of corrupt foreign artists and details about their decadent lives" and "advertising for forbidden medicines and articles contrary to morality and offensive to the ethnic minorities," Agence France-Presse reported. The magazines include Donya-ye Tasvir (World of the Image), Sobh-e Zendegi (Morning of Life), Talash (Effort), and Haft (Seven), according to AFP. The latest issue of Donya-ye Tasvir published pictures and articles about several female Hollywood stars, including Naomi Watts, Reese Witherspoon, and Nicole Kidman. The Press Supervisory Board, which is tightly controlled by hard-liners, also warned 13 other publications about the consequences of not abiding by the stringent provisions of the Iranian press law. In January, the Press Supervisory Board, which ordered the closure of at least 11 publications in 2007, according to CPJ research, banned the reform-minded Zanan (Women) magazine without official explanation after nearly 16 years in print.
+*506  $aOne of nine magazines banned
+$bThe Press Supervisory Board
+*518  $aJan 2008
+$3Magazine
+*522  $aIran
+*651  $a7327
+*691  $aMoral
+*692  $aBanned
+^
+100000629
+*041  $aara
+*245  $aAbwab
+*260  $aYemen
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 24 March 2008 
+*505  $aThe authorities banned distribution of the monthly "Abwab" and the weekly "Al-Sabbah" on 14 March 2008. The website http://www.aleshteraki.net , the press mouthpiece of the main opposition party, has been inaccessible since 12 March. The first issue of "Abwab", which was printed in Dubai, in United Arab Emirates, was seized on arrival at Sanaa airport. The magazine's editor said the cover, which showed President Ali Abdallah Al-Saleh, was deemed to be disrespectful to the president.
+*506  $aDistribution banned
+$bThe information ministry
+*518  $a14 March 2008
+$3Monthly publication
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBanned
+^
+100000630
+*041  $aara
+*245  $aAl-Sabbah
+*260  $aYemen
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 24 March 2008 
+*505  $aThe authorities banned distribution of the monthly "Abwab" and the weekly "Al-Sabbah" on 14 March 2008. The website http://www.aleshteraki.net , the press mouthpiece of the main opposition party, has been inaccessible since 12 March. The distribution of "Al-Sabbah" was banned for its alleged failure to respect legal procedures when it was created. It is very critical of the government.
+*506  $aDistribution banned
+$bThe information ministry
+*518  $a14 March 2008
+$3Weekly publication
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBanned
+^
+100000631
+*041  $aara
+*245  $aaleshteraki.net ( http://www.aleshteraki.net )
+*260  $aYemen
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 24 March 2008 
+*505  $aThe authorities banned distribution of the monthly "Abwab" and the weekly "Al-Sabbah" on 14 March 2008. The website http://www.aleshteraki.net , the press mouthpiece of the main opposition party, Yemeni Socialist Party, has been inaccessible since 12 March. The authorities have not explained why access to the website has been blocked.
+*506  $aDistribution banned
+$bThe information ministry
+*518  $a12 March 2008
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBanned
+^
+100000632
+*041  $achi
+*245  $aThe Observatoire International des Crises website ( http://www.communication-sensible.com )
+*260  $aChina
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 2 April 2007
+*505  $aAccess to the Observatoire International des Crises website within China has been blocked since late February 2007 after it posted an article, entitled "Shangaï, my love," warning companies about the risks of trading with China.
+*506  $aAccess blocked
+$bChinese authorities
+*518  $aFebruary 2007
+$3Website
+*522  $aChina
+*651  $a7117
+*691  $aPolitical
+*692  $aBlocked
+^
+100000633
+*041  $aeng
+*245  $aGoogle.com / Amazon.com / Blogspot.com
+*260  $aThailand 
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Southeast Asian Press Alliance (SEAPA), Bangkok
+, 13 April 2007
+*505  $aInternet users in Thailand reported sporadic blocking of popular websites on 11 April 2007, as the country's Ministry of Information Communication and Technology (MICT) widened its efforts to limit access to websites with content deemed insulting to the monarchy and threatening to national security. One week after ordering a ban on the popular video-sharing website YouTube (see IFEX alerts of 12 and 4 April 2007), some web surfers in Thailand, including contacts and staff members of SEAPA, on 11 April intermittently found official MICT "blocked-page announcements" diverting access from such sites as Google.com, Amazon.com, and the start page of Blogspot.com. Most complaints received by SEAPA - which were exclusively from subscribers of TRUE Corp. broadband Internet, one of the largest providers in Thailand - came in the afternoon and early evening, and access for all the above sites seemed to have returned to normal by that evening. The MICT block page appeared on the screen when some people tried to access the above sites, bearing the same message: that the website being blocked contained "inappropriate" information.
+*506  $aSporadic blocking of websites
+$bMinistry of Information Communication and Technology (MICT) 
+*518  $a11 April 2007
+$3Websites
+*522  $aThailand
+*651  $a7550
+*691  $aPolitical
+*692  $aBlocked
+^
+100000634
+*041  $atur
+*245  $aEksisozluk ( http://www.sourtimes.org )
+*260  $aTurkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul, 23 April 2007
+*505  $aResponding to a civil complaint, an Istanbul court recently banned access to the online news source Eksisozluk ( http://www.sourtimes.org ). Adnan Oktar, a self-proclaimed religious sect leader, complained to the court that the online interactive site, where members can add and edit comments on anything, contained defamatory remarks about him. Eyup's third court of first instance reviewed the complaint and ordered Turk Telecom - the main Internet service provider in Turkey - to close the site to public access. Eksisozluk lawyer Basak Purut told reporters that site moderators had already removed the articles in question but Turk Telecom carried out the court order a day before notice of the order reached them. He appealed the order and the ban was lifted on 19 April 2007. Access to another news website, http://www.Superpoligon.com, was also restricted following Oktar's complaint. Another website, http://www.antoloji.com, which features poetry, has also been blocked, but site moderator Cengiz Ekrem Teymur says they have not received notice from authorities on why the action has been taken. In a separate case, the popular video-sharing site Youtube was blocked in March following a court order after it hosted a video deemed "insulting to Ataturk", founder of modern Turkey (see IFEX alert of 9 March 2007).
+*506  $aAccess banned
+$bIstanbul court
+*518  $aApril 2007
+$3Website
+*522  $aTurkey
+*651  $a8048	
+*691  $aPolitical, moral
+*692  $aBanned
+^
+100000635
+*041  $atur
+*245  $ahttp://www.Superpoligon.com
+*260  $aTurkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul, 23 April 2007
+*505  $aResponding to a civil complaint, an Istanbul court recently banned access to the online news source Eksisozluk ( http://www.sourtimes.org ). Adnan Oktar, a self-proclaimed religious sect leader, complained to the court that the online interactive site, where members can add and edit comments on anything, contained defamatory remarks about him. Access to another news website, http://www.Superpoligon.com, was also restricted following Oktar's complaint. 
+*506  $aAccess restricted
+$bIstanbul court
+*518  $aApril 2007
+$3Website
+*522  $aTurkey
+*651  $a8048	
+*691  $aPolitical, moral
+*692  $aBanned
+^
+100000636
+*041  $atur
+*245  $aYoutube
+*260  $aTurkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul, 23 April 2007
+*505  $aThe popular video-sharing site Youtube was blocked in March following a court order after it hosted a video deemed "insulting to Ataturk", founder of modern Turkey (see IFEX alert of 9 March 2007).
+*506  $aBlocked
+$bIstanbul court
+*518  $aMarch 2007
+$3Website
+*522  $aTurkey
+*651  $a8048	
+*691  $aPolitical
+*692  $aBanned
+^
+100000637
+*041  $atur
+*245  $ahttp://www.antoloji.com
+*260  $aTurkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul, 23 April 2007
+*505  $aResponding to a civil complaint, an Istanbul court recently banned access to the online news source Eksisozluk ( http://www.sourtimes.org ). Adnan Oktar, a self-proclaimed religious sect leader, complained to the court that the online interactive site, where members can add and edit comments on anything, contained defamatory remarks about him.  Another website, http://www.antoloji.com, which features poetry, has also been blocked, but site moderator Cengiz Ekrem Teymur says they have not received notice from authorities on why the action has been taken. 
+*506  $aAccess blocked
+$bIstanbul court
+*518  $aApril 2007
+$3Website
+*522  $aTurkey
+*651  $a8048	
+*691  $aPolitical, moral
+*692  $aBanned
+*700  $aTeymur, Cengiz Ekrem
+$esite moderator 
+^
+100000638
+*041  $afij
+*245  $aResistfrankscoup ( http://www.resistfrankscoup.blogspot.com/ )
+*260  $aFiji Islands
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 22 May 2007
+*505  $aArmy commander, Colonel Pita Driti, announced that access to news websites and blogs containing "lies and representing a threat to national security" would be made impossible from 17 May 2007. Several blogs were no longer accessible as of 18 May, including resistfrankscoup ( http://www.resistfrankscoup.blogspot.com/ ) and fijishamelist ( http://fijishamelist.blogspot.com/ ), but many of them changed their addresses to get round the censorship. Col. Pita Driti said there was "still an active state of emergency and people must be aware that some freedoms need to be restrained, including freedom of expression."
+*506  $aAccess blocked
+$bThe military authorities
+*518  $a17 May 2007
+$3Website
+*522  $aFiji
+*651  $a9014
+*691  $aPolitical
+*692  $aBlocked
+^
+100000639
+*041  $afij
+*245  $afijishamelist ( http://fijishamelist.blogspot.com/ )
+*260  $aFiji Islands
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 22 May 2007
+*505  $aArmy commander, Colonel Pita Driti, announced that access to news websites and blogs containing "lies and representing a threat to national security" would be made impossible from 17 May 2007. Several blogs were no longer accessible as of 18 May, including resistfrankscoup ( http://www.resistfrankscoup.blogspot.com/ ) and fijishamelist ( http://fijishamelist.blogspot.com/ ), but many of them changed their addresses to get round the censorship. Col. Pita Driti said there was "still an active state of emergency and people must be aware that some freedoms need to be restrained, including freedom of expression."
+*506  $aAccess blocked
+$bThe military authorities
+*518  $a17 May 2007
+$3Website
+*522  $aFiji
+*651  $a9014
+*691  $aPolitical
+*692  $aBlocked
+^
+100000640
+*041  $atha
+*245  $aSeptember 19 Network ( http://www.19sep.net and http://www.19sep.org )
+*260  $aThailand
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Human Rights Watch, 25 may 2007
+*505  $aSince the current government came to power after a September 2006 coup against Prime Minister Thaksin Shinawatra, Thai authorities have been active in silencing cyber critics and dissidents. Censorship of the internet is now being carried out by the Ministry of Information and Communications Technology (MICT) and the Royal Thai Police, in collaboration with the Communications Authority of Thailand (CAT) and the Telecommunication Authority (TOT), which provide Thailand's international internet gateways.  Many of the blocked websites were established in opposition to the September 19, 2006 coup and the subsequent role of the military in Thai politics. Websites blocked include the September 19 Network ( http://www.19sep.net and http://www.19sep.org ) and websites known to be supportive of Thaksin and his Thai Rak Thai party, such as the online telecast of PTV television ( http://www.ptvthai.com ), the online broadcast of Saturday Voice ( http://www.saturdaylive.org and http://saturdayvoice.no-ip.info ) and the online broadcast of FM 87.75 Taxi Community Radio ( http://www.shinawatradio.com ). Hosts of popular political blogs used among cyber critics and dissidents, such as BlogSpot ( http://www.blogspot.com ), have also been blocked by some ISPs. The MICT has also blocked anonymous proxy servers through which Thai internet users can access a blocked webpage. The ministry has requested Google Thailand ( http://www.google.co.th ) and Google.com to block access to its cached web pages in Thailand by which blocked pages can be accessed, as well as to block by keyword search.
+*506  $aAccess blocked
+$bThe Ministry of Information and Communications Technology (MICT)
+*518  $a2007
+$3Website
+*522  $aThailand
+*651  $a7550
+*691  $aPolitical
+*692  $aBlocked
+^
+100000641
+*041  $atha
+*245  $aThe online telecast of PTV television ( http://www.ptvthai.com )
+*260  $aThailand
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Human Rights Watch, 25 may 2007
+*505  $aSince the current government came to power after a September 2006 coup against Prime Minister Thaksin Shinawatra, Thai authorities have been active in silencing cyber critics and dissidents. Censorship of the internet is now being carried out by the Ministry of Information and Communications Technology (MICT) and the Royal Thai Police, in collaboration with the Communications Authority of Thailand (CAT) and the Telecommunication Authority (TOT), which provide Thailand's international internet gateways.  Many of the blocked websites were established in opposition to the September 19, 2006 coup and the subsequent role of the military in Thai politics. Websites blocked include the September 19 Network ( http://www.19sep.net and http://www.19sep.org ) and websites known to be supportive of Thaksin and his Thai Rak Thai party, such as the online telecast of PTV television ( http://www.ptvthai.com ).
+*506  $aAccess blocked
+$bThe Ministry of Information and Communications Technology (MICT)
+*518  $a2007
+$3Website
+*522  $aThailand
+*651  $a7550
+*691  $aPolitical
+*692  $aBlocked
+^
+100000642
+*041  $atha
+*245  $aThe online broadcast of Saturday Voice ( http://www.saturdaylive.org and http://saturdayvoice.no-ip.info )
+*260  $aThailand
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Human Rights Watch, 25 may 2007
+*505  $aSince the current government came to power after a September 2006 coup against Prime Minister Thaksin Shinawatra, Thai authorities have been active in silencing cyber critics and dissidents. Censorship of the internet is now being carried out by the Ministry of Information and Communications Technology (MICT) and the Royal Thai Police, in collaboration with the Communications Authority of Thailand (CAT) and the Telecommunication Authority (TOT), which provide Thailand's international internet gateways.  Many of the blocked websites were established in opposition to the September 19, 2006 coup and the subsequent role of the military in Thai politics. Websites blocked include the September 19 Network ( http://www.19sep.net and http://www.19sep.org ) and websites known to be supportive of Thaksin and his Thai Rak Thai party, such as  the online broadcast of Saturday Voice ( http://www.saturdaylive.org and http://saturdayvoice.no-ip.info ).
+*506  $aAccess blocked
+$bThe Ministry of Information and Communications Technology (MICT)
+*518  $a2007
+$3Website
+*522  $aThailand
+*651  $a7550
+*691  $aPolitical
+*692  $aBlocked
+^
+100000643
+*041  $atha
+*245  $aThe online broadcast of FM 87.75 Taxi Community Radio ( http://www.shinawatradio.com )
+*260  $aThailand
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Human Rights Watch, 25 may 2007
+*505  $aSince the current government came to power after a September 2006 coup against Prime Minister Thaksin Shinawatra, Thai authorities have been active in silencing cyber critics and dissidents. Censorship of the internet is now being carried out by the Ministry of Information and Communications Technology (MICT) and the Royal Thai Police, in collaboration with the Communications Authority of Thailand (CAT) and the Telecommunication Authority (TOT), which provide Thailand's international internet gateways.  Many of the blocked websites were established in opposition to the September 19, 2006 coup and the subsequent role of the military in Thai politics. Websites blocked include the September 19 Network ( http://www.19sep.net and http://www.19sep.org ) and websites known to be supportive of Thaksin and his Thai Rak Thai party, such as the online broadcast of FM 87.75 Taxi Community Radio ( http://www.shinawatradio.com ).
+*506  $aAccess blocked
+$bThe Ministry of Information and Communications Technology (MICT)
+*518  $a2007
+$3Website
+*522  $aThailand
+*651  $a7550
+*691  $aPolitical
+*692  $aBlocked
+^
+100000644
+*041  $atha
+*245  $aBlogSpot ( http://www.blogspot.com )
+*260  $aThailand
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Human Rights Watch, 25 may 2007
+*505  $aSince the current government came to power after a September 2006 coup against Prime Minister Thaksin Shinawatra, Thai authorities have been active in silencing cyber critics and dissidents. Censorship of the internet is now being carried out by the Ministry of Information and Communications Technology (MICT) and the Royal Thai Police, in collaboration with the Communications Authority of Thailand (CAT) and the Telecommunication Authority (TOT), which provide Thailand's international internet gateways.  Many of the blocked websites were established in opposition to the September 19, 2006 coup and the subsequent role of the military in Thai politics. Websites blocked include the September 19 Network ( http://www.19sep.net and http://www.19sep.org ) and websites known to be supportive of Thaksin and his Thai Rak Thai party. Hosts of popular political blogs used among cyber critics and dissidents, such as BlogSpot ( http://www.blogspot.com ), have also been blocked by some ISPs. The MICT has also blocked anonymous proxy servers through which Thai internet users can access a blocked webpage. The ministry has requested Google Thailand ( http://www.google.co.th ) and Google.com to block access to its cached web pages in Thailand by which blocked pages can be accessed, as well as to block by keyword search.
+*506  $aAccess blocked
+$bThe Ministry of Information and Communications Technology (MICT)
+*518  $a2007
+$3Website
+*522  $aThailand
+*651  $a7550
+*691  $aPolitical
+*692  $aBlocked
+^
+100000645
+*041  $aeng
+*245  $aYouTube
+*260  $aMorocco
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 28 May 2007
+*505  $aReporters Without Borders has voiced concern about the blocking of access to video-sharing website YouTube by the Moroccan Internet server (ISP) Maroc Telecom since May 25 2007. The ISP failed to respond to several calls made to it by the worldwide press freedom organisation, but a European journalist reported that the firm's press officer said it was due to a "technical problem." Users of the smaller privately-owned ISPs Wana and Méditel are still able to access YouTube, which may have been blocked by Maroc Telecom after videos were posted on it of independence demonstrations for Western Sahara.
+*506  $aAccess blocked
+$bMaroc Telecom
+*518  $a25 may 2007
+$3Website
+*522  $aMorocco
+*651  $a5344
+*691  $aPolitical
+*692  $aBlocked	
+^
+100000646
+*041  $achi
+*245  $aRSF website ( http://www.rsf-chinese.org )
+*260  $aChina
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 30 May 2007
+*505  $aReporters Without Borders has condemned the Chinese government's censorship of the Chinese-language version of its website, http://www.rsf-chinese.org, as a result of which Internet users in China are deprived of information about press freedom.
+On 25 May 2007, the site was moved to a new Internet Service Provider and within a few hours - RSF estimates between five and eight hours - access had again been blocked within China. The Chinese authorities very quickly blocked access when the http://www.rsf-chinese.org site was first launched on 3 May.
+*506  $aAccess blocked
+$bThe government
+*518  $a25 May 2007
+$3Website
+*522  $aChina
+*651  $a7117
+*691  $aPolitical
+*692  $aBlocked
+^
+100000647
+*041  $atha
+*245  $aThe Hi-Thaksin website ( http://www.hi-thaksin.org )
+*260  $aThailand
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Southeast Asian Press Alliance (SEAPA), Bangkok, 30 May 2007
+*505  $aThe junta-appointed government has blocked access to a website promoting deposed prime minister Thaksin Shinawatra
+*506  $aAcccess blocked
+$bThe government
+*518  $aMay 2007
+$3Website
+*522  $aThailand
+*651  $a7550
+*691  $aPolitical
+*692  $aBlocked
+^
+100000648
+*041  $akaz
+*245  $aKaravan (website)
+*260  $aAlmaty, Kazakhstan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 6 June 2007
+*505  $aOn 4 June the prosecutor general ordered the indefinite closure of Karavan's Web site for a May 18 article headlined "Chronicle of Events," which allegedly revealed secrets of the investigation into the kidnappings of two senior managers for the commercial bank Nurbank, according to local press reports. Authorities have not given any explanation for the closure of Kazakhstan Today's Web site. The Web sites of both Karavan and Kazakhstan Today have been inaccessible since May 26, shortly after the Interior Ministry filed charges against President Nursultan Nazarbayev's estranged son-in-law, Rakhat Aliyev, in connection with the bankers' abduction, according to local press reports. Both Karavan and Kazakhstan Today are part of the Alma-Media holding company, which is owned in part by Aliyev and his wife, Dariga Nazarbayeva, the president's daughter. Aliyev is also a part owner of Nurbank.
+*506  $aClosed
+$bThe prosecutor general
+*518  $a4 June 2007
+$3Website
+*522  $aKazakhstan
+*651  $a7230
+*691  $aPolitical
+*692  $aClosed
+^
+100000649
+*041  $akaz
+*245  $aKazakhstan Today ( http://www.kz-today.kz/ )
+*260  $aAlmaty, Kazakhstan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 6 June 2007
+*505  $aOn 4 June the prosecutor general ordered the indefinite closure of Karavan's Web site for a May 18 article headlined "Chronicle of Events," which allegedly revealed secrets of the investigation into the kidnappings of two senior managers for the commercial bank Nurbank, according to local press reports. Authorities have not given any explanation for the closure of Kazakhstan Today's Web site. The Web sites of both Karavan and Kazakhstan Today have been inaccessible since May 26, shortly after the Interior Ministry filed charges against President Nursultan Nazarbayev's estranged son-in-law, Rakhat Aliyev, in connection with the bankers' abduction, according to local press reports. Both Karavan and Kazakhstan Today are part of the Alma-Media holding company, which is owned in part by Aliyev and his wife, Dariga Nazarbayeva, the president's daughter. Aliyev is also a part owner of Nurbank.
+*506  $aClosed
+$bThe prosecutor general
+*518  $a4 June 2007
+$3Website
+*522  $aKazakhstan
+*651  $a7230
+*691  $aPolitical
+*692  $aClosed
+^
+100000650
+*041  $aara
+*245  $aal-Shora ( http://www.al-shora.net/ )
+*260  $aYemen
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 13 June 2007
+*505  $aThe al-Shora website, which regularly posted opposition articles, was closed on 24 February 2007. It was finally allowed to reopen on 23 May. The socialist website aleshteraki was similarly closed for a week, from 16 to 23 May. The government was worried by the fact that they were controlled by opposition parties. It was also concerned about their coverage of the fighting with the al-Houthi rebels in Saada province.
+*506  $aClosed
+$bThe government
+*518  $a24 February 2007 - 23 May 2007
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aClosed
+^
+100000651
+*041  $aara
+*245  $aaleshteraki ( http://www.aleshteraki.net/ )
+*260  $aYemen
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 13 June 2007
+*505  $aThe al-Shora website, which regularly posted opposition articles, was closed on 24 February 2007. It was finally allowed to reopen on 23 May. The socialist website aleshteraki was similarly closed for a week, from 16 to 23 May. The government was worried by the fact that they were controlled by opposition parties. It was also concerned about their coverage of the fighting with the al-Houthi rebels in Saada province.
+*506  $aClosed
+$bThe government
+*518  $a16 May 2007 - 23 May 2007
+$3Website
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aClosed
+^
+100000652
+*041  $aara
+*245  $aMobile Phone News Distribution Services
+*260  $aYemen
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 13 June 2007
+*505  $aThe information and telecommunications ministry has banned several mobile phone news distribution services, including those proposed by the companies Nass mobile and Bela Qoyod mobile, on the grounds that they were not subject to sufficient control. The ministry nonetheless said that the authorities could offer such services. SMS messages expressing criticism of President Ali Abdullah Saleh's government had circulated in the weeks prior to the ban. The opposition parties denied being behind them. On 7 June, the government announced the start of a debate about a new press law, one concerning new media in particular.
+*506  $aBanned
+$bThe information and telecommunications ministry
+*518  $aJune 2007
+$3Mobile phone news
+*522  $aYemen
+*651  $a7355
+*691  $aPolitical
+*692  $aBanned
+^
+100000653
+*041  $aeng
+*245  $abhutantimes.com ( http://www.bhutantimes.com )
+*260  $aBhutan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / International Federation of Journalists (IFJ), Brussels, 27 June 2007
+*505  $aAccording to the Association of Press Freedom Activists (APFA), the http://www.bhutantimes.com website has been blocked from local viewing by the Information, Communication and Media Authority (BICMA), following orders issued by the government. 
+*506  $aAccess blocked from local viewing
+$bThe government, The Information, Communication and Media Authority (BICMA) 
+*518  $aJune 2007
+$3Website
+*522  $aBhutan
+*651  $a7414
+*691  $aPolitical
+*692  $aBlocked
+^
+100000654
+*041  $achi
+*245  $aZhongguo Dangdai Shige Luntan (Forum of contemporary Chinese poetry)
+*260  $aShanghai, China
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 16 July 2007
+*505  $aReporters Without Borders has condemned the Shanghai Information Bureau's decision to shut down a literary forum run by poet Lu Yang. This came after the Chinese government blocked access to Israeli literary website http://www.shvoong.com for its 20,000 Chinese users in early July 2007. Lu Yang's forum, "Zhongguo Dangdai Shige Luntan" ("Forum of contemporary Chinese poetry") was removed from its host server Lequyuan (The pleasure garden) at the request of the Information Bureau on 11 July. Two other forums run by Lu Yang have also been closed. Radio Free Asia (RFA) questioned a Lequyuan employee who confirmed that the order came from the authorities and explained, with surprising candour, the mechanism for censoring websites in China.
+*506  $aShut down
+$bThe Shanghai Information Bureau
+*518  $a11 July 2007
+$3Website
+*522  $aChina
+*651  $a7117
+*691  $aPolitical
+*692  $aClosed
+*700  $aLu Yang
+$epoet, administrator
+^
+100000655
+*041  $aeng
+*245  $aShvoong.com ( http://www.shvoong.com )
+*260  $aShanghai, China
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 16 July 2007
+*505  $aThe Chinese government blocked access to Israeli literary website http://www.shvoong.com for its 20,000 Chinese users in early July 2007. 
+*506  $aAccess blocked
+$bThe government
+*518  $aJuly 2007
+$3Website
+*522  $aChina
+*651  $a7117
+*691  $aPolitical
+*692  $aBlocked
+^
+100000656
+*041  $achi
+*245  $a64tianwang.com ( http://www.64tianwang.com )
+*260  $aShanghai, China
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 16 July 2007
+*505  $aHacker attacks on http://www.64tianwang.com, a Chinese human rights website based in the United States, forced the site to close on 18 July 2007. Launched by human rights activist Huang Qi after being released from prison in 2005, the site has been a major source of information about human rights violations in China. Part of its name refers to the Tiananmen Square massacre.
+*506  $aSite forced to close
+$bHackers 
+*518  $a18 July 2007
+$3Website
+*522  $aChina
+*651  $a7117
+*691  $aPolitical
+*692  $aClosed
+*700  $aHuang Qi
+$edministrator
+^
+100000657
+*041  $aara
+*245  $aMajan ( http://www.majan.net )
+*260  $aRas Kheima, United Arab Emirates
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Arabic Network for Human Rights Information (HRinfo), Cairo, 21 August 2007
+*505  $aOn 8 August Ras Kheima criminal court in U.A.E. issued sentence against the head administrator of Majan website ( http://www.majan.net ), Muhamed Rashid Shouhi, who was sentenced to one year in prison, and instructed to pay compensation to a government official. The ruling also called for the closure of the website. The head of Ras Kheima medical services had filed a complaint about the website's discussion forum, alleging that the contribution of an unknown user was defamatory and libellous toward him. 
+*506  $aClosed
+$bRas Kheima criminal court
+*518  $a8 August 2007
+$3Website
+*522  $aUnited Arab Emirates
+*651  $a7352
+*691  $aPolitical
+*692  $aClosed
+*700  $aMuhamed Rashid Shouhi
+$eadministrator 
+^
+100000658
+*041  $atur
+*245  $aEksisözlük ( http://sozluk.sourtimes.org /Default.asp? )
+*260  $aEyüp, Turkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul, 29 August 2007
+*505  $aThe popular Internet dictionary "Eksisözlük" was closed on 17 April by a civil court in Eyüp, Istanbul, on the grounds that it included writings that violated the religious sect leader Adnan Oktar's personal rights. A week before, the news website "Superpoligon" ( http://www.superpoligon.com/ ) was closed by the same court. At around the same time, the website Antoloji.com, which describes itself as an "Internet culture and art centre", was closed by court decree. The closure was apparently based on what a visitor to the site wrote about Adnan Oktar. The sites have since been reopened.
+*506  $aClosed
+$bThe judiciary
+*518  $a17 April 2007
+$3Website
+*522  $aTurkey
+*651  $a8048
+*691  $aReligious
+*692  $aclosed
+^
+100000659
+*041  $atur
+*245  $aSuperpoligon ( http://www.superpoligon.com/ )
+*260  $aEyüp, Turkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul, 29 August 2007
+*505  $aThe popular Internet dictionary "Eksisözlük" was closed on 17 April by a civil court in Eyüp, Istanbul, on the grounds that it included writings that violated the religious sect leader Adnan Oktar's personal rights. A week before, the news website "Superpoligon" ( http://www.superpoligon.com/ ) was closed by the same court. At around the same time, the website Antoloji.com, which describes itself as an "Internet culture and art centre", was closed by court decree. The closure was apparently based on what a visitor to the site wrote about Adnan Oktar. The sites have since been reopened.
+*506  $aClosed
+$bThe judiciary
+*518  $aApril 2007
+$3Website
+*522  $aTurkey
+*651  $a8048
+*691  $aReligious
+*692  $aclosed
+^
+100000660
+*041  $atur
+*245  $aAntoloji.com ( http://www.antoloji.com/ )
+*260  $aEyüp, Turkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul, 29 August 2007
+*505  $aThe popular Internet dictionary "Eksisözlük" was closed on 17 April by a civil court in Eyüp, Istanbul, on the grounds that it included writings that violated the religious sect leader Adnan Oktar's personal rights. A week before, the news website "Superpoligon" ( http://www.superpoligon.com/ ) was closed by the same court. At around the same time, the website Antoloji.com, which describes itself as an "Internet culture and art centre", was closed by court decree. The closure was apparently based on what a visitor to the site wrote about Adnan Oktar. The sites have since been reopened.
+*506  $aClosed
+$bThe judiciary
+*518  $aApril 2007
+$3Website
+*522  $aTurkey
+*651  $a8048
+*691  $aReligious
+*692  $aclosed
+^
+100000661
+*041  $atur
+*245  $aWordPress.com  ( http://wordpress.com/ )
+*260  $aIstanbul, Turkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul, 29 August 2007
+*505  $aA civil court of first instance in Fatih, Istanbul decreed in decision 2007/195 that access to the platform WordPress.com, which includes several Internet diaries, should be blocked, following a complaint by religious sect leader Adnan Oktar.
+*506  $aClosed
+$bThe judiciary
+*518  $aApril 2007
+$3Website
+*522  $aTurkey
+*651  $a8048
+*691  $aReligious
+*692  $aclosed
+^
+100000662
+*041  $atha
+*245  $aYoutube
+*260  $aThailand
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Southeast Asian Press Alliance (SEAPA), Bangkok, 31 August 2007
+*505  $aBangkok's English-language daily, "The Nation", and international media such as the "Sydney Morning Herald" and the "Financial Times" of London say Thai information officials have been assured by Google that filtering programs have been put in place to selectively keep content deemed insulting to the Thai monarchy from being accessed inside the country. As of 31 August 2007, YouTube is again accessible in Bangkok, five months after the Thai government moved to block local access to the site. 
+*506  $aPrograms filtered to prevent access inside the country
+$bGoogle
+*518  $a31 August 2007
+$3Website
+*522  $aThailand
+*651  $a7550
+*691  $aPolitical
+*692  $aCensured
+^
+100000663
+*041  $aeng
+*245  $aYoutube
+*260  $aMyanmar (Burma)
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Mizzima News, New Delhi, 7 September 2007
+*505  $aYou Tube, the popular website, which features videos of the ongoing protests in Burma, has been banned by the military junta. Access to the video-uploading website has been blocked since 3 September 2007. As is usual in the secretive military-ruled country, no reason has been given by the Internet service provider controlled by the Myanmar Post and Telecommunication (MPT) Department. BaganNet, the country's other Internet service provider, had also previously banned You Tube. Cyber cafés in Burma have prohibited users from browsing banned sites, which include news websites such as http://www.cnn.com , as well as dissidents' and pornographic websites. Mizzima is also on the list of hundreds of banned sites.
+*506  $aAccess blocked
+$bThe military junta
+*518  $a3 September 2007
+$3Website
+*522  $aMyanmar (Burma)
+*651  $a7516
+*691  $aPolitical
+*692  $aBlocked
+^
+100000664
+*041  $aeng
+*245  $aYouTube
+*260  $aTurkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 20 September 2007
+*505  $aA court ruling on 18 September 2007 ordered Internet Service Providers to block access to the video-sharing website YouTube because of videos deemed to insult President Abdullah Gül, Prime Minister Recep Tayyip Erdogan, the army and the Turkish republic's founder, Mustafa Kemal Atatürk. The national news agency Anatolia reported that YouTube issued a statement saying it was ready to cooperate with the authorities in order to resolve the problem. Access to YouTube was previously blocked by a court order in March, and was unblocked again following the removal of videos regarded as an insult to Atatürk (see IFEX alert of 9 March 2007).
+*506  $aAccess blocked
+$bCourt order
+*518  $a18 September 2007
+$3Website
+*522  $aTurkey
+*651  $a8048
+*691  $aPolitical
+*692  $aBlocked
+^
+100000665
+*041  $aeng
+*245  $aThe Internet
+*260  $aMyanmar (Burma)
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 2 October 2007
+*505  $aAfter restoring the Internet for a few hours on 29 September 2007, the authorities have again disconnected it. In the afternoon of the same day, troops took up position around the headquarters of the leading ISP, Myanmar Infotech, whose website ( http://www.myanmarinfotech.com.mm ), like all websites with the .mm country domain suffix, is currently down. According to Mizzima news, New Delhi, 9 october 2007, the military junta reopened Internet lines on 6 October 2007, though only at night.
+*506  $aDisconnected
+$bThe authorities
+*518  $aSeptember 2007
+$3Websites
+*522  $aMyanmar (Burma)
+*651  $a7516
+*691  $aPolitical
+*692  $aClosed
+^
+100000666
+*041  $aSpa
+*245  $aCERIGUA's website ( http://www.cerigua.org )
+*260  $aGuatemala
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Centro de Reportes Informativos sobre Guatemala (CERIGUA), Guatemala City, 26 June 2007
+*505  $aOn 22 June 2007, CERIGUA's website ( http://www.cerigua.org ) was sabotaged and made inaccessible for a number of hours. The website was the target of a similar attack in September 2006, at which time it remained out of service for a month. On this occasion, the website was apparently hacked by a party that goes by the name of "Dr. Ayoub" whose logo is a green skull on a black background, with Arabic lettering. CERIGUA does not know who is behind the attack. The organisation has not been subject to any direct hostile actions by the government. However, it is an election year in the country and the political stakes are high.
+*506  $aInaccessible for hours caused by sabotage
+$bHackers "Dr. Ayoub"
+*518  $a22 June 2007
+$3Website
+*522  $aGuatemala
+*651  $a6236
+*691  $aPolitical
+*692  $aSabotaged
+^
+100000667
+*041  $aeng
+*245  $aThe Internet
+*260  $aChina
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York, 9 October 2007
+*505  $aRecently the Internet in China suffered a crackdown in advance of the 17th Communist Party Congress. The Congress, which is held every five years, is set to begin in Beijing on October 15. In recent weeks, authorities have intensified efforts to control the media, particularly online news and discussion forums. In an unprecedented move, public security officers in various regions have ordered entire Internet Data Centers (IDCs) to close. IDCs physically house servers, often several at a time, which in turn host hundreds and sometimes thousands of Web sites each. According to widespread reports from the media and industry insiders, entire IDCs have been shut down if they host a single Web site that posts information that the government deems offensive. Waigaoqiao, one of China's largest IDCs based in Shanghai, was ordered to close on September 3, effectively shutting 30 servers at once, according to numerous reports from bloggers and industry insiders. Police turned off 1,000 computers housing servers run by Lanmang Internet Co, after they discovered blogs on the network that contained "illegal information."
+Authorities have carried out inspections and issued warnings to other IDCs throughout the country. The Public Security Bureau has ordered IDCs to close all interactive functions on Web sites that they host until the Party Congress has concluded, including Bulletin Board Systems (BBS), blogs, and comment sections.
+*506  $aCrackdown
+$bThe authorities
+*518  $aSeptember-October 2007
+$3Websites
+*522  $aChina
+*651  $a7117
+*691  $aPolitical
+*692  $aClosed
+^
+100000668
+*041  $aara
+*245  $aThe HAQ movement ( http://www.haaq.org ) 
+*260  $aBahrain
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Bahrain Center for Human Rights (BCHR), Manama, 15 October 2007
+*505  $aThe Bahraini authorities have taken measures to block access by people in Bahrain to the website of the HAQ movement ( http://www.haaq.org ). The HAQ Movement for Liberties and Democracy is a popular civic organization, established in November 2005, calling for respect for rights and democratization in Bahrain. HAQ and other popular organisations are not registered under the national Civic Organizations Law number 21 of 1989 and the Political Societies Law number 26 of 2005. These laws are believed to have been legislated to impose a legal leash on civic organizations, a suspicion substantiated by the day-to-day practices of the authorities. They are also considered to be in violation of well-known international human rights covenants and charters. Nonetheless, because HAQ, like many other popular organizations, is not registered under these laws, the authorities consider it to be illegal, and therefore a target for censorship and repression.
+*506  $aAccess blocked
+$bThe authorities
+$eLaw no. 21/1989 and 26/2005
+*518  $aOctober 2007
+$3Website
+*522  $aBahrain
+*651  $a7312
+*691  $aPolitical
+*692  $aBlocked
+^
+100000669
+*041  $aara
+*245  $aVarious Websites
+*260  $aBahrain
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Bahrain Center for Human Rights (BCHR), Manama, 15 October 2007
+*505  $aActs of Internet censorship by the Bahraini authorities are common. In 2007, BCHR was aware of over 26 blocked websites, local and international. These blockages were mainly in reaction to online reporting about political scandals in Bahrain, especially what was locally dubbed the "Bandergate report" about the misappropriation of public lands, administrative and financial corruption, discrimination and favoritism. Blocked sites included: 1. Six forums belonging to some villages in Bahrain ( http://www.juffair.com/vb , http://www.tubli.net , http://www.karzakan.com , http://alduraz.net/xforum , http://www.eskanaali.com , http://www.shahrakkan.org ); 2. Four general forums ( http://www.bahrainonline.org , http://www.montadayat.org , http://www.ahraralbahrain.com , http://www.wattani.net ); 3. Two sites of civic organizations and popular committees ( http://www.bhteachers.org /phpBB2/ , http://www.shaheedbh.com ); 4. The sites of two political organisations and movements ( http://www.vob.org  and http://www.aldemokrati.org ); 5. The sites of two human rights organizations ( http://www.bahrainrights.org , http://www.hrinfo.net ); 6. The sites of two religious groups (Copts, Arab Christians:
+http://www.freecopts.net , http://www.arabchurch.com ); 7. One Kurdish nationalist sites ( http://www.kurdtimes.com ); 8. One secular site ( http://www.ladeeni.net ); 9. Two electronic newspapers ( http://www.alsaheefa.net , http://www.rezgar.net ); 10. Two news and advertising sites ( http://www.Albawaba.com , http://www.annaqed.com ); 11. One humour site ( http://www.bahraintimes.org); 12. One blog ( http://www.Mahood.tv ). Censorship of these sites was made on the basis of the notorious Press Decree Code No. 47 of 2002. Over 14 Bahraini journalists have been interrogated, prosecuted, or taken to trial based on this law.
+$bThe authorities
+$ePress Decree Code No. 47 of 2002
+*518  $a2007
+$3Websites
+*522  $aBahrain
+*651  $a7312
+*691  $aPolitical
+*692  $aBlocked
+^
+100000670
+*041  $aeng
+*245  $aInternet connections
+*260  $aKorea, Republic of
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / International Press Institute (IPI), Vienna, 23 october 2007
+*505  $aon 11 October, the South Korean government cut Internet connections at the press rooms located within ministry buildings, in an attempt to force reporters to move to the new integrated briefing centres at the two government complexes in downtown Seoul and Gwacheon, Gyeonggi Province, according to the Korea Herald. The government also plans to complete the eviction of reporters by locking the press dispatch rooms and moving out all furniture and belongings.
+*506  $aConnections cut
+$bThe government
+*518  $a11 October 2007
+$3The Internet
+*522  $aKorea, Republic of
+*651  $a7144
+*691  $aPolitical
+*692  $aconnections cut
+^
+100000671
+*041  $akaz
+*245  $akub.kz
+*260  $aKazakhstan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Freedom House, New York, 30 October 2007
+*505  $aFour websites were blocked for approximately three days during the week of 22 October 2007: kub.kz, zonakz.net, geo.kz and inkar.info, all of which take an opposition or non-regime line. This sort of blocking activity happens on a periodic but regular basis in Kazakhstan, especially with kub.kz sites. The authorities deny being behind the blockages but the shutdown fits the earlier profile of such blocking by government. The closures of these websites have been linked to their publication of transcripts of telephone conversations alleged to involve senior government officials.
+*506  $aAccess blocked
+$bThe government?
+*518  $a22 October 2007
+$3Website
+*522  $aKazakhstan
+*651  $a7230
+*691  $aPolitical
+*692  $aBlocked
+^
+100000672
+*041  $akaz
+*245  $azonakz.net
+*260  $aKazakhstan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Freedom House, New York, 30 October 2007
+*505  $aFour websites were blocked for approximately three days during the week of 22 October 2007: kub.kz, zonakz.net, geo.kz and inkar.info, all of which take an opposition or non-regime line. This sort of blocking activity happens on a periodic but regular basis in Kazakhstan, especially with kub.kz sites. The authorities deny being behind the blockages but the shutdown fits the earlier profile of such blocking by government. The closures of these websites have been linked to their publication of transcripts of telephone conversations alleged to involve senior government officials.
+*506  $aAccess blocked
+$bThe government?
+*518  $a22 October 2007
+$3Website
+*522  $aKazakhstan
+*651  $a7230
+*691  $aPolitical
+*692  $aBlocked
+^
+100000673
+*041  $akaz
+*245  $ageo.kz
+*260  $aKazakhstan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Freedom House, New York, 30 October 2007
+*505  $aFour websites were blocked for approximately three days during the week of 22 October 2007: kub.kz, zonakz.net, geo.kz and inkar.info, all of which take an opposition or non-regime line. This sort of blocking activity happens on a periodic but regular basis in Kazakhstan, especially with kub.kz sites. The authorities deny being behind the blockages but the shutdown fits the earlier profile of such blocking by government. The closures of these websites have been linked to their publication of transcripts of telephone conversations alleged to involve senior government officials.
+*506  $aAccess blocked
+$bThe government?
+*518  $a22 October 2007
+$3Website
+*522  $aKazakhstan
+*651  $a7230
+*691  $aPolitical
+*692  $aBlocked
+^
+100000674
+*041  $akaz
+*245  $ainkar.info
+*260  $aKazakhstan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Freedom House, New York, 30 October 2007
+*505  $aFour websites were blocked for approximately three days during the week of 22 October 2007: kub.kz, zonakz.net, geo.kz and inkar.info, all of which take an opposition or non-regime line. This sort of blocking activity happens on a periodic but regular basis in Kazakhstan, especially with kub.kz sites. The authorities deny being behind the blockages but the shutdown fits the earlier profile of such blocking by government. The closures of these websites have been linked to their publication of transcripts of telephone conversations alleged to involve senior government officials.
+*506  $aAccess blocked
+$bThe government?
+*518  $a22 October 2007
+$3Website
+*522  $aKazakhstan
+*651  $a7230
+*691  $aPolitical
+*692  $aBlocked
+^
+100000675
+*041  $aeng
+*245  $aThe Internet
+*260  $aMyanmar (Burma)
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Southeast Asian Press Alliance (SEAPA), Bangkok, 10 March 2008
+*505  $aSources in Rangoon are reporting problems accessing the Internet in recent days. Exiled Burmese are also reportedly having a more difficult time than usual in calling into the country. Slower or unreliable Internet connections and the abnormal telecommunications problems coincide with what has now been a five-day mission into Burma by United Nations Special Envoy Ibrahim Gambari. Sources said they have been having problems getting online since Gambari arrived in Rangoon last week. Web-based e-mail services such as Gmail, and voice over IP (VOIP) services such as GTalk and Skype, are technically banned in Burma, but remain popular as Internet-savvy Burmese use proxy servers and other technical strategies to get around government firewalls. In recent days, however, getting online itself has become problematic, SEAPA's sources inside the country say. The military government has been restricting and even suspending Internet access - for which state-connected corporations have a monopoly - since the eruption of widespread protests and a harsh government crackdown on activists, students, and religious leaders in September 2007.
+*506  $aAccess unreliable
+$bThe authorities
+*518  $aMarch 2008
+$3The Internet
+*522  $aMyanmar (Burma)
+*651  $a7516
+*691  $aPolitical
+*692  $aRestricted
+^
+100000676
+*041  $aper
+*245  $aalborznews.net ( http://www.alborznews.net/ )
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 20 March 2008
+*505  $aSeveral newspapers have been prevented from publishing and news websites have been made inaccessible. "Journalists themselves are being watched just as much as the news they put out," the worldwide press freedom organisation said, calling for banned newspapers to be allowed to reappear and for the unblocking of websites, "which are the only way for people to get access to independent news." General news websites http://www.alborznews.net/ and http://www.asriran.com/ and the Shiite news website http://www.shia-news.com/ have been inaccessible since 14 March. The director of Asriran said he thought the site had been censored because it posted an interview with a Hezbollah leader in Iran and with a representative of the Ministry of Culture and Islamic Orientation.
+*506  $aAccess blocked
+$bThe government
+*518  $a14 March 2008
+$3Website
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aBlocked
+^
+100000677
+*041  $aper
+*245  $aasriran.com ( http://www.asriran.com/ )
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 20 March 2008
+*505  $aSeveral newspapers have been prevented from publishing and news websites have been made inaccessible. "Journalists themselves are being watched just as much as the news they put out," the worldwide press freedom organisation said, calling for banned newspapers to be allowed to reappear and for the unblocking of websites, "which are the only way for people to get access to independent news." General news websites http://www.alborznews.net/ and http://www.asriran.com/ and the Shiite news website http://www.shia-news.com/ have been inaccessible since 14 March. The director of Asriran said he thought the site had been censored because it posted an interview with a Hezbollah leader in Iran and with a representative of the Ministry of Culture and Islamic Orientation.
+*506  $aAccess blocked
+$bThe government
+*518  $a14 March 2008
+$3Website
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aBlocked
+^
+100000678
+*041  $aper
+*245  $aShia-news.com ( http://www.shia-news.com/ )
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 20 March 2008
+*505  $aSeveral newspapers have been prevented from publishing and news websites have been made inaccessible. "Journalists themselves are being watched just as much as the news they put out," the worldwide press freedom organisation said, calling for banned newspapers to be allowed to reappear and for the unblocking of websites, "which are the only way for people to get access to independent news." General news websites http://www.alborznews.net/ and http://www.asriran.com/ and the Shiite news website http://www.shia-news.com/ have been inaccessible since 14 March. The director of Asriran said he thought the site had been censored because it posted an interview with a Hezbollah leader in Iran and with a representative of the Ministry of Culture and Islamic Orientation.
+*506  $aAccess blocked
+$bThe government
+*518  $a14 March 2008
+$3Website
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aBlocked
+^
+100000679
+*041  $aper
+*245  $aBaznegar
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 20 March 2008
+*505  $aSeveral newspapers have been prevented from publishing and news websites have been made inaccessible. "Journalists themselves are being watched just as much as the news they put out," the worldwide press freedom organisation said, calling for banned newspapers to be allowed to reappear and for the unblocking of websites, "which are the only way for people to get access to independent news." The Press Authorisation and Surveillance Commission on 15 March announced a ban on nine newspapers, mainly dealing with culture and cinema, which the authorities accused of "insulting the Iranian people", by publishing "photos of foreign actresses which affronted decency". They were the monthlies "Baznegar" (Reappraisal) "Haft" (Seven), and "Shoka", the weeklies "Talash", "Bh soy Eftakhar" (Towards Honour) and "Nedai iran" (The voice of Iran), and the bi-monthlies "Donyai Tassvir" (The world of images) "Sobeh zendehghi" (the morning of life) and "Havar" (The shout) a bilingual Kurdish-Persian newspaper. A total of 13 newspapers have been banned from publishing in Iran since 1 January. 
+*506  $aBanned
+$bThe Press Authorisation and Surveillance Commissiont
+*518  $a15 March 2008
+$3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aBanned
+^
+100000680
+*041  $aper
+*245  $aHaft
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 20 March 2008
+*505  $aSeveral newspapers have been prevented from publishing and news websites have been made inaccessible. "Journalists themselves are being watched just as much as the news they put out," the worldwide press freedom organisation said, calling for banned newspapers to be allowed to reappear and for the unblocking of websites, "which are the only way for people to get access to independent news." The Press Authorisation and Surveillance Commission on 15 March announced a ban on nine newspapers, mainly dealing with culture and cinema, which the authorities accused of "insulting the Iranian people", by publishing "photos of foreign actresses which affronted decency". They were the monthlies "Baznegar" (Reappraisal) "Haft" (Seven), and "Shoka", the weeklies "Talash", "Bh soy Eftakhar" (Towards Honour) and "Nedai iran" (The voice of Iran), and the bi-monthlies "Donyai Tassvir" (The world of images) "Sobeh zendehghi" (the morning of life) and "Havar" (The shout) a bilingual Kurdish-Persian newspaper. A total of 13 newspapers have been banned from publishing in Iran since 1 January. 
+*506  $aBanned
+$bThe Press Authorisation and Surveillance Commissiont
+*518  $a15 March 2008
+$3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aBanned
+^
+100000681
+*041  $aper
+*245  $aShoka
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 20 March 2008
+*505  $aSeveral newspapers have been prevented from publishing and news websites have been made inaccessible. "Journalists themselves are being watched just as much as the news they put out," the worldwide press freedom organisation said, calling for banned newspapers to be allowed to reappear and for the unblocking of websites, "which are the only way for people to get access to independent news." The Press Authorisation and Surveillance Commission on 15 March announced a ban on nine newspapers, mainly dealing with culture and cinema, which the authorities accused of "insulting the Iranian people", by publishing "photos of foreign actresses which affronted decency". They were the monthlies "Baznegar" (Reappraisal) "Haft" (Seven), and "Shoka", the weeklies "Talash", "Bh soy Eftakhar" (Towards Honour) and "Nedai iran" (The voice of Iran), and the bi-monthlies "Donyai Tassvir" (The world of images) "Sobeh zendehghi" (the morning of life) and "Havar" (The shout) a bilingual Kurdish-Persian newspaper. A total of 13 newspapers have been banned from publishing in Iran since 1 January. 
+*506  $aBanned
+$bThe Press Authorisation and Surveillance Commissiont
+*518  $a15 March 2008
+$3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aBanned
+^
+100000682
+*041  $aper
+*245  $aTalash
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 20 March 2008
+*505  $aSeveral newspapers have been prevented from publishing and news websites have been made inaccessible. "Journalists themselves are being watched just as much as the news they put out," the worldwide press freedom organisation said, calling for banned newspapers to be allowed to reappear and for the unblocking of websites, "which are the only way for people to get access to independent news." The Press Authorisation and Surveillance Commission on 15 March announced a ban on nine newspapers, mainly dealing with culture and cinema, which the authorities accused of "insulting the Iranian people", by publishing "photos of foreign actresses which affronted decency". They were the monthlies "Baznegar" (Reappraisal) "Haft" (Seven), and "Shoka", the weeklies "Talash", "Bh soy Eftakhar" (Towards Honour) and "Nedai iran" (The voice of Iran), and the bi-monthlies "Donyai Tassvir" (The world of images) "Sobeh zendehghi" (the morning of life) and "Havar" (The shout) a bilingual Kurdish-Persian newspaper. A total of 13 newspapers have been banned from publishing in Iran since 1 January. 
+*506  $aBanned
+$bThe Press Authorisation and Surveillance Commissiont
+*518  $a15 March 2008
+$3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aBanned
+^
+100000683
+*041  $aper
+*245  $aBh soy Eftakhar
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 20 March 2008
+*505  $aSeveral newspapers have been prevented from publishing and news websites have been made inaccessible. "Journalists themselves are being watched just as much as the news they put out," the worldwide press freedom organisation said, calling for banned newspapers to be allowed to reappear and for the unblocking of websites, "which are the only way for people to get access to independent news." The Press Authorisation and Surveillance Commission on 15 March announced a ban on nine newspapers, mainly dealing with culture and cinema, which the authorities accused of "insulting the Iranian people", by publishing "photos of foreign actresses which affronted decency". They were the monthlies "Baznegar" (Reappraisal) "Haft" (Seven), and "Shoka", the weeklies "Talash", "Bh soy Eftakhar" (Towards Honour) and "Nedai iran" (The voice of Iran), and the bi-monthlies "Donyai Tassvir" (The world of images) "Sobeh zendehghi" (the morning of life) and "Havar" (The shout) a bilingual Kurdish-Persian newspaper. A total of 13 newspapers have been banned from publishing in Iran since 1 January. 
+*506  $aBanned
+$bThe Press Authorisation and Surveillance Commissiont
+*518  $a15 March 2008
+$3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aBanned
+^
+100000684
+*041  $aper
+*245  $aNedai iran
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 20 March 2008
+*505  $aSeveral newspapers have been prevented from publishing and news websites have been made inaccessible. "Journalists themselves are being watched just as much as the news they put out," the worldwide press freedom organisation said, calling for banned newspapers to be allowed to reappear and for the unblocking of websites, "which are the only way for people to get access to independent news." The Press Authorisation and Surveillance Commission on 15 March announced a ban on nine newspapers, mainly dealing with culture and cinema, which the authorities accused of "insulting the Iranian people", by publishing "photos of foreign actresses which affronted decency". They were the monthlies "Baznegar" (Reappraisal) "Haft" (Seven), and "Shoka", the weeklies "Talash", "Bh soy Eftakhar" (Towards Honour) and "Nedai iran" (The voice of Iran), and the bi-monthlies "Donyai Tassvir" (The world of images) "Sobeh zendehghi" (the morning of life) and "Havar" (The shout) a bilingual Kurdish-Persian newspaper. A total of 13 newspapers have been banned from publishing in Iran since 1 January. 
+*506  $aBanned
+$bThe Press Authorisation and Surveillance Commissiont
+*518  $a15 March 2008
+$3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aBanned
+^
+100000685
+*041  $aper
+*245  $aDonyai Tassvir
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 20 March 2008
+*505  $aSeveral newspapers have been prevented from publishing and news websites have been made inaccessible. "Journalists themselves are being watched just as much as the news they put out," the worldwide press freedom organisation said, calling for banned newspapers to be allowed to reappear and for the unblocking of websites, "which are the only way for people to get access to independent news." The Press Authorisation and Surveillance Commission on 15 March announced a ban on nine newspapers, mainly dealing with culture and cinema, which the authorities accused of "insulting the Iranian people", by publishing "photos of foreign actresses which affronted decency". They were the monthlies "Baznegar" (Reappraisal) "Haft" (Seven), and "Shoka", the weeklies "Talash", "Bh soy Eftakhar" (Towards Honour) and "Nedai iran" (The voice of Iran), and the bi-monthlies "Donyai Tassvir" (The world of images) "Sobeh zendehghi" (the morning of life) and "Havar" (The shout) a bilingual Kurdish-Persian newspaper. A total of 13 newspapers have been banned from publishing in Iran since 1 January. 
+*506  $aBanned
+$bThe Press Authorisation and Surveillance Commissiont
+*518  $a15 March 2008
+$3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aBanned
+^
+100000686
+*041  $aper
+*245  $aSobeh zendehghi
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 20 March 2008
+*505  $aSeveral newspapers have been prevented from publishing and news websites have been made inaccessible. "Journalists themselves are being watched just as much as the news they put out," the worldwide press freedom organisation said, calling for banned newspapers to be allowed to reappear and for the unblocking of websites, "which are the only way for people to get access to independent news." The Press Authorisation and Surveillance Commission on 15 March announced a ban on nine newspapers, mainly dealing with culture and cinema, which the authorities accused of "insulting the Iranian people", by publishing "photos of foreign actresses which affronted decency". They were the monthlies "Baznegar" (Reappraisal) "Haft" (Seven), and "Shoka", the weeklies "Talash", "Bh soy Eftakhar" (Towards Honour) and "Nedai iran" (The voice of Iran), and the bi-monthlies "Donyai Tassvir" (The world of images) "Sobeh zendehghi" (the morning of life) and "Havar" (The shout) a bilingual Kurdish-Persian newspaper. A total of 13 newspapers have been banned from publishing in Iran since 1 January. 
+*506  $aBanned
+$bThe Press Authorisation and Surveillance Commissiont
+*518  $a15 March 2008
+$3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aBanned
+^
+100000687
+*041  $aper
+*245  $aHavar
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF), 20 March 2008
+*505  $aSeveral newspapers have been prevented from publishing and news websites have been made inaccessible. "Journalists themselves are being watched just as much as the news they put out," the worldwide press freedom organisation said, calling for banned newspapers to be allowed to reappear and for the unblocking of websites, "which are the only way for people to get access to independent news." The Press Authorisation and Surveillance Commission on 15 March announced a ban on nine newspapers, mainly dealing with culture and cinema, which the authorities accused of "insulting the Iranian people", by publishing "photos of foreign actresses which affronted decency". They were the monthlies "Baznegar" (Reappraisal) "Haft" (Seven), and "Shoka", the weeklies "Talash", "Bh soy Eftakhar" (Towards Honour) and "Nedai iran" (The voice of Iran), and the bi-monthlies "Donyai Tassvir" (The world of images) "Sobeh zendehghi" (the morning of life) and "Havar" (The shout) a bilingual Kurdish-Persian newspaper. A total of 13 newspapers have been banned from publishing in Iran since 1 January. 
+*506  $aBanned
+$bThe Press Authorisation and Surveillance Commissiont
+*518  $a15 March 2008
+$3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aBanned
+^
+100000688
+*041  $atur
+*245  $aIndymedia-Istanbul ( http://istanbul.indymedia.org / )
+*260  $aTurkey
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul, 27 March 2008
+*505  $aThe Indymedia-Istanbul website, an independent news website, has been blocked to access since 21 March 2008, after a decree by the Gaziantep Araban Criminal Court of Peace in southeast Turkey.
+*506  $aAccess blocked
+$bHhe Gaziantep Araban Criminal Court of Peace
+*518  $a21 March 2008
+$3Website
+*522  $aTurkey
+*651  $a8048
+*691  $aPolitical
+*692  $aBlocked
+^
+100000689
+*041  $aeng
+*245  $aYoutube.com ( http://www.youtube.com/ )
+*260  $aTurkey
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul, 27 March 2008 and IFEX / Reporters sans frontières (RSF), Paris, 2 April 2008
+*505  $aFor the last two weeks, access to Youtube.com has also been blocked, because the Ankara First Criminal Court of Peace decreed that a video accessible through the site insulted Mustafa Kemal Atatürk. The Slide photo-sharing website has also been inaccessible since 25 March as a result of the decision of a court in Crivil (southwest of Ankara) in response to "photos and articles considered insulting to Atatürk."
+*506  $aAccess blocked
+$bThe Ankara First Criminal Court of Peace
+*518  $a13 to 27 March 2008
+$3Website
+*522  $aTurkey
+*651  $a8048
+*691  $aPolitical
+*692  $aBlocked
+^
+100000690
+*041  $aspa
+*245  $adesdecuba.com ( http://www.desdecuba.com )
+*260  $aCuba
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris, 31 March 2008
+*505  $aCuban Internet users face impediments when seeking access to blogs on the http://www.desdecuba.com platform that hosts, among others, one of the most popular blogs in the country, "Generación Y", run by Yoani Sánchez. The platform has been inaccessible from public connection points in cybercafés and hotels since 20 March 2008. The few private connections, used for professional reasons or in secret, take at least 20 minutes to download the homepage of the site. Editing and moderating posts has become impossible. Desdecuba.com hosts an online magazine, "Consenso", and six blogs, including "Generación Y" ( http://www.desdecuba.com/generaciony ), created in April 2007 by Yoani Sánchez and regularly visited by large numbers of Cubans. More than one million Internet users visited the young blogger's page in February 2008. There have also been difficulties accessing http://www.cu.clasificados.com and http://www.revolico.net , both of which post classified ads. The public company ETECSA, Cuba's sole access provider, has not offered any explanation.
+*506  $aAccess blocked
+$bThe authorities
+*518  $a20 March 2008
+$3Website
+*522  $aCuba
+*651  $a6127
+*691  $aPolitical
+*692  $aBlocked
+^

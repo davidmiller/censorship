@@ -1,0 +1,1014 @@
+100000519
+*041  $aeng
+*245  $aThe Independent
+*260  $aLiberia
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Center for Media Studies and Peace Building (CEMESP), Monrovia
+*505  $aSeyrius Cephus, the lawyer for "The Independent", said the paper was to appear on the newsstand on 29 March since the court has mandated that "The Independent" return to its previous position as a free agent to do its business. However, the paper did not appear on the newsstands as expected because the government of Liberia has maintained its ban on the newspaper and has instructed printing houses not to print it. The government, through the Justice Ministry, has described as "misinterpretation" reports that the ban on the paper had been lifted. The Supreme Court will hear the case in full on 4 April 2004.
+*506  $bThe government, the Justice Ministry
+*518  $aRenewed from 2007-03-29
+$3Newspaper
+*522  $aLiberia
+*651  $a5536
+*691  $aPolitical
+*692  $aBanned
+*700  $aCephus, Seyrius
+$elawyer
+^
+100000520
+*041  $aeng
+*245  $aMawbima
+*260  $aSri Lanka
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Free Media Movement (FMM), Colombo
+*505  $aDemise after financial accounts had been frozen.
+*506  $bThe Government
+*518  $a2007
+$3Newspaper
+*522  $aSri Lanka
+*651  $a7447
+*691  $aPolitical
+*692  $aClosed
+^
+100000521
+*041  $aeng
+*245  $aSunday Standard
+*260  $aSri Lanka
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Free Media Movement (FMM), Colombo
+*505  $aDemise after financial accounts had been frozen.
+*506  $bThe Government
+*518  $a2007
+$3Newspaper
+*522  $aSri Lanka
+*651  $a7447
+*691  $aPolitical
+*692  $aClosed
+^
+100000522
+*041  $arus
+*245  $aKommersant
+*260  $aRussia
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Norwegian PEN, Oslo
+*505  $aUBOP seized 60,000 copies of the second issue of a special edition of a newspaper registered by the United Civic Front. The agency focused on the coverage of the March of Dissent, under the pretext of checking the contents of the paper for signs of extremism. 
+*506  $bA special section of the Nizhny Novgorod Regional Ministry of Interior’s Department for Combating Organised Crime (UBOP)
+*518  $a2007
+$3Newspaper 
+*522  $aNizny Novgorod, Russia
+*651  $a8064
+*691  $aPolitical
+*692  $aSeized
+^
+100000523
+*041  $abur
+*245  $aPadauk Pwint Thit
+*260  $aBurma
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Mizzima News, New Delhi
+*505  $aThe February issue of the monthly publication, "Padauk Pwint Thit", a Burmese-language magazine, was suspended without any reason cited by Burma's Censorship Board, sources from Rangoon's literati said. The edition in question, whose cover featured a portrait of veteran Burmese litterateur Thakhin Ko Daw Hmine, was barred from being published although permission had been obtained in February for its cover page and the contents cleared by the scrutiny board. Loved and respected by the Burmese literary fraternity for his writings, the late writer was on the list of the censorship board. His works were banned for three decades by the junta.
+*506  $bBurma’s Censorship Board 
+*518  $a2007-02
+$3Magazine
+*522  $aRangoon, Burma
+*651  $a7516
+*691  $aPolitical
+*692  $aSuspended
+^
+100000524
+*041  $arus
+*245  $aDzerzhinets
+*260  $aUkraine
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York
+*505  $aDzerzhinets was closed on January 30, after the Zavodskoi civil district court convicted the paper of defamation and incitement of religious and national hatred. 
+*506  $bThe Zavodskoi Civil district Court
+*518  $a2007-01-30
+$3Newspaper
+*522  $aUkraine
+*651  $a8049
+*691  $aPolitical
+*692  $aClosed
+^
+100000525
+*041  $arus
+*245  $aAgym
+*260  $aKyrgyzstan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Adil Soz, Almaty
+*505  $aOn 19 April, the Office of the Prosecutor General issued an order to seize all copies of the newspapers "Agym" and "Kyrgyz Ruhu", the local AKI-Press news agency reported. The following day, about 30 State National Security Committee and police officers seized copies of the newspapers and copied the electronic files in their printing office. Local media outlets reported that copies of two other newspapers, "Apta" and "Aikyn", were also seized.
+*506  $bThe Office of the prosecutor General
+*518  $a2007-04-19
+$3Newspaper
+*522  $aKyrgyzstan
+*651  $a7231
+*691  $aPolitical
+*692  $aSeized
+^
+100000526
+*041  $arus
+*245  $aKyrgyz Ruhu
+*260  $aKyrgyzstan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Adil Soz, Almaty
+*505  $aOn 19 April, the Office of the Prosecutor General issued an order to seize all copies of the newspapers "Agym" and "Kyrgyz Ruhu", the local AKI-Press news agency reported. The following day, about 30 State National Security Committee and police officers seized copies of the newspapers and copied the electronic files in their printing office. Local media outlets reported that copies of two other newspapers, "Apta" and "Aikyn", were also seized.
+*506  $bThe Office of the prosecutor General
+*518  $a2007-04-19
+$3Newspaper
+*522  $aKyrgyzstan
+*651  $a7231
+*691  $aPolitical
+*692  $aSeized
+^
+100000527
+*041  $arus
+*245  $aApta
+*260  $aKyrgyzstan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Adil Soz, Almaty
+*505  $aOn 19 April, the Office of the Prosecutor General issued an order to seize all copies of the newspapers "Agym" and "Kyrgyz Ruhu", the local AKI-Press news agency reported. The following day, about 30 State National Security Committee and police officers seized copies of the newspapers and copied the electronic files in their printing office. Local media outlets reported that copies of two other newspapers, "Apta" and "Aikyn", were also seized.
+*506  $bThe Office of the prosecutor General
+*518  $a2007-04-19
+$3Newspaper
+*522  $aKyrgyzstan
+*651  $a7231
+*691  $aPolitical
+*692  $aSeized
+^
+100000528
+*041  $arus
+*245  $aAikyn
+*260  $a$aKyrgyzstan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Adil Soz, Almaty
+*505  $aOn 19 April, the Office of the Prosecutor General issued an order to seize all copies of the newspapers "Agym" and "Kyrgyz Ruhu", the local AKI-Press news agency reported. The following day, about 30 State National Security Committee and police officers seized copies of the newspapers and copied the electronic files in their printing office. Local media outlets reported that copies of two other newspapers, "Apta" and "Aikyn", were also seized.
+*506  $bThe Office of the prosecutor General
+*518  $a2007-04-19
+$3Newspaper
+*522  $aKyrgyzstan
+*651  $a7231
+*691  $aPolitical
+*692  $aSeized
+^
+100000529
+*041  $aara
+*245  $aAl-Majd
+*260  $aJordan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York
+*505  $aThe ban was triggered by Al-Majd's publication of a purported 16-page secret plan, devised by U.S. and unnamed Arab "sides", that would enable Palestinian President Mahmoud Abbas to oust the rival Hamas-led Palestinian government from power.
+*506  $bJordanian authorities, Security agents
+*518  $a2007-04-30 
+$3Newspaper
+*522  $aJordan
+*651  $a7331
+*691  $aPolitical
+*692  $aBanned
+^
+100000530
+*041  $arus
+*245  $aObyedinyonny Grazhdansky Front
+*260  $aRussia
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York
+*505  $aThousands of copies of a special edition of Obyedinyonny Grazhdansky Front were confiscated. The copies were to be transported to Moscow and its metropolitan region ahead of an opposition rally planned for May 1 in the Russian capital, according to local press reports. This is a weekly newspaper of the United Civic Front (OGF), a Russian opposition group headed by the Kremlin critic and former chess champion Garry Kasparov. The 52,000 seized copies represent just over half of the edition's 100,000 circulation. Copies destined for other locations were not seized.
+*506  $bThe police (“Officers from an organized crime unit of the St. Petersburg branch of the Interior Ministry”, according to the opposition Web site Namarsh.)
+*518  $a2007-04-30
+$3Newspaper
+*522  $aRussia
+*651  $a8064
+*691  $aPolitical
+*692  $aSeized
+^
+100000531
+*041  $arus
+*245  $aNovaya Gazeta v Samare
+*260  $aRussia
+$c2007
+*500  $aa IFEX/Center for Journalism in Extreme situations (CJES), Moscow
+*505  $aPolice confiscated three computers from the office of the newspaper "Novaya Gazeta v Samare" on 11 May 2007. The police accused the newspaper's journalists of using counterfeit software, reports NEWSru.com. The newspaper's director, Sergei Kurt-Adzhiyev, has announced that the publication of the paper has been suspended. He believes that the actions taken by the police are aimed at disrupting the publication of the edition of the newspaper that was to come out before a rally planned by the opposition movement, March of the Dissenting Ones, in Samara, for 17 and 18 May.
+*506  $bThe police
+*518  $a2007-05-11
+$3Newspaper
+*522  $aRussia
+*651  $a8064
+*691  $aPolitical
+*692  $aSuspended
+*700  $aKurt-Adzhiyev, Sergei
+$bdirector
+*700  $aMuratov, Dmitry 
+$beditor-in-chief
+^
+100000532
+*041  $aeng 
+*245  $aHimal Southasian 
+*260  $aBangladesh
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / International Federation of Journalists (IFJ), Brussels
+*505  $aBangladesh authorities sensored sections of the May edition of Himal Southasian, i.e. distribution was only allowed after the removal of an editorial, “Khaki Politics in Dhaka”, and one article, “The Dhaka Regime’s Messy Surgery”, which dealt with the future of democracy in Bangladesh and the growing power of the military.
+*506  $bBangladesh authorities
+*518  $a2007 May
+$3Magazine
+*522  $aBangladesh
+*651  $a7413
+*691  $aPolitical
+*692  $aCensored
+^
+100000533
+*041  $arus
+*245  $aKaravan
+*260  $aKazakhstan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / International Press Institute (IPI), Vienna and IFEX/ Committee to Protect Journalists (CPJ), New York
+*505  $aMembers from the General Prosecutors Office visited the offices of the Karavan weekly newspaper and told the staff that the newspaper was to be closed immediately; no legal basis was given for the closure. 
+*506  $bGeneral Prosecutors Office
+*518  $a2007-05-21
+$3Newspaper
+*522  $aKazakhstan
+*651  $a7230
+*691  $aPolitical
+*692  $aClosed/suspended
+^
+100000534
+*041  $anep
+*245  $aNepal Samacharpatra
+*260  $aNepal
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Federation of Nepalese Journalists (FNJ); Kathmandu 
+*505  $aThe distributors padlocked the publication and distribution office of “Nepal Samacharpatra” on 26 May 2007. According to "Nepal Samcharpatra", the distributors started the strike after making several demands on the publication group.
+*506  $bThe distributors
+*518  $a2007-05-26
+$3Newspaper
+*522  $aNepal
+*651  $a7439
+*691  $aPolitical
+*692  $aBlocked
+^
+100000535
+*041  $aspa
+*245  $aCambio
+*260  $aMexico
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / National Center for social Communication (CENCOS); Mexico City
+*505  $aOn 25 May 2007, Mario Vázquez Raña, owner of "Cambio"
+newspaper, decided to temporarily shut down the newspaper, following two fragmentation grenade attacks in one month. A one-month shutdown is planned, during which it is hoped that the conditions necessary for exercising the profession of journalism without undue risk can be established. The local authorities have not provided any support to ensure the safety of “Cambio” and its staff. 
+*506  $bThe owner
+*518  $a2007-05-25 (one month) 
+$3Newspaper
+*522  $aMexico
+*651  $a6243
+*691  $aPolitical
+*692  $aClosed
+*700  $aRaña, Mario Vázquez 
+$bowner
+^
+100000536
+*041  $aeng
+*245  $aThe Weekly Post
+*260  $aRwanda
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Media Institute, Nairobi
+*505  $aThe Rwanda government on 6 June 2007 ordered the closure of the privately owned "Weekly Post" for unknown reasons. A letter explaining the deregistration on the week-old newspaper by Information Minister Laurent Nkusi said: "After circumspect investigations of the information you had provided when you applied for the registration of an English newspaper, 'The Weekly Post', of the Rwanda Media Holdings Limited Company, I regret to inform you that the acknowledgement receipt No. 789/03.10 of 15 May 2007, which allowed you to publish the aforesaid newspaper, is from today, 6 June 2007, cancelled." An acknowledgement receipt is issued before a newspaper is allowed to operate in Rwanda and "The Weekly Post" had received one on 2 May.
+*506  $bThe government
+*518  $a2007-06-06
+$3Newspaper
+*522  $aRwanda
+*651  $a5150
+*691  $aPolitical
+*692  $aClosed
+^
+100000537
+*041  $afre
+*245  $aCambodge Soir
+*260  $aCambodia
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aThe owners of the French-language daily "Cambodge Soir" closed the newspaper, just two days after unfairly dismissing its news editor for publishing extracts from a long report on illegal logging that was critical of the government.
+*506  $bThe owners
+*518  $a2007-06-12
+$3Newspaper
+*522  $aCambodia
+*651  $a7520
+*691  $aPolitical
+*692  $aClosed
+^
+100000538
+*041  $ascr 
+*245  $aFeral Tribune
+*260  $aCroatia
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / International Federation of Journalists (IFJ), Brussels
+*505  $aIndependent newspaper closes, alleging bias after government refuses to write off debt. The Croatian government recently blocked the paper's bank account to collect a VAT debt of €68,200 and another move was announced to collect a further debt of €136.426. This proved to be a fatal blow to the finances of the paper where journalists have not received salaries for months. The paper's management accused the authorities of double standards because in the past the Croatian government has written off VAT debts to some state-owned media. The paper also accused large advertisers of discriminating against them.
+*506  $bThe editorial board
+*518  $a2007-06
+$3Newspaper
+*522  $aCroatia
+*651  $a8055
+*691  $aPolitical
+*692  $aClosed
+^
+100000539
+*041  $aeng
+*245  $aAir Info
+*260  $aNiger
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Media Foundation for West Africa (MFWA), Accra
+*505  $aAir Info was suspended on 29 June 2007 by the media regulatory body (Conseil Supérieur de la Communication, CSC) for covering the activities of a rebel group in the northern part of Niger. The CSC has also frozen the newspaper's annual subsidy provided by the government to the media under Niger's media law.
+*506  $bThe media regulatory body
+*518  $a2007-06-29
+$3Newspaper
+*522  $aNiger
+*651  $a5547
+*691  $aPolitical
+*692  $aSuspended
+^
+100000540
+*041  $aira
+*245  $aHam Mihan
+*260  $aIran
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aHam Mihan was suspended on 4 July 2007 at the request of Teheran prosecutor general Said Mortazavi, who argued that it was illegal because there were procedural "errors" in the trial in 2000, when it was suspended for calling for an improvement in relations between Iran and the United States.
+*506  $bTeheran prosecutor general Said Mortazavi 
+*518  $a2007-07-04
+$3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aSuspended
+^
+100000541
+*041  $aira
+*245  $aMoshareket
+*260  $aIran
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aOn 5 July 2007 judicial decision confirmed the definitive closure of "Moshareket", a daily which had been suspended since 2000. The former mouthpiece of the pro-reform Participation Front, it was suspended during a judicial campaign against the opposition press. Defending its closure, President Mahmoud Ahmadinejad's press adviser, Mohammad Ali Javanfekr,
+said: "When a news media puts itself at the service of a political group opposed to the government, it becomes a tool for sabotaging and weakening the government, aiming to quietly overthrow it."
+*506  $bJudicial decision
+*518  $a2007-07-05
+$3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aClosed
+^
+100000542
+*041  $aeng
+*245  $aChina Development Brief
+*260  $aChina
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / International Press Institute (IPI), Vienna
+*505  $aAccording to Nicholas Young, the founding editor of the newsletter, the editors of the print and electronic editions of the "China Development Brief" have been told by government officials to stop publishing. About 5,000 printed copies of the newsletter are distributed bimonthly in Chinese as well as monthly versions in English. On 4 July 2007, a dozen officials from the Beijing Municipality Public Security Bureau, the Beijing Municipality Statistical Bureau and the Beijing Municipality Cultural Marketing General Legal Implementation Team visited the newsletter's office in Beijing. The officials interviewed staff for about three hours before ordering the newsletter to stop publishing.
+*506  $bThe Beijing Municipality
+*506  $bThe government 
+*518  $a2007-07-04
+$3Newsletter
+*522  $aChina
+*651  $a7117
+*691  $aPolitical
+*692  $aClosed
+*700  $aYoung, Nicholas 
+$bfounding editor
+^
+100000543
+*041  $atur
+*245  $aGündem
+*260  $aTurkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul
+*505  $aAfter an article on pre-election opinions in Batman, a south-eastern province, was published in the "Gündem" newspaper on 12 July 2007, an Istanbul penal court has closed the newspaper for 15 days. Cause for the closure was an article published on 12 July (issue no. 132), entitled: "The Batman Message: Stand By the Guerrillas". The newspaper has been closed for periods of 30 and 15 days before and has now been closed for "spreading PKK propaganda in a call for violence". The 13 July issue of the newspaper was confiscated.
+*506  $bIstanbul Penal Court 
+*518  $a2007-07-15
+$3Newspaper
+*522  $aTurkey
+*651  $a8048
+*691  $aPolitical
+*692  $aClosed
+^
+100000544
+*041  $atur
+*245  $aGüncel
+*260  $aTurkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul
+*505  $aAfter the "Gündem" newspaper was closed for 15 days for "spreading terrorist propaganda", a court in Istanbul has decided to close the "Güncel" newspaper, which it sees as the continuation of "Gündem", for 12 days. Mehmet Samur, the editor-in-chief of "Güncel", said: "Only the company was the same. This is election censorship."
+*506  $bAn Istanbul court
+*518  $a2007-07-15 (12 days)
+$3Newspaper
+*522  $aTurkey
+*651  $a8048
+*691  $aPolitical
+*692  $aClosed
+*700  $aSamur, Mehmet
+$beditor-in-chief 
+^
+100000545
+*041  $aspa
+*245  $aEl Jueves
+*260  $aSpain
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aOn the 20 July 2007 Judge Juan del Olmo order seizure of an issue of the satirical weekly magazine "El Jueves". The issue carries a cartoon on the cover of Crown Prince Felipe and his wife Letizia having sex. The judge said the cartoon may have violated Article 490.3 of the Criminal Code, which punishes "insults" to the royal family by up to two years imprisonment, and also Article 491, which fines actions considered to undermine the family's reputation.
+*506  $bJudge Juan del Olmo
+$eThe Criminal Code, Article 490.3
+$eThe Criminal Code, Article 491
+*518  $a2007-07-20
+$3Magazine, Weekly
+*522  $aSpain
+*651  $a8045
+*691  $aMoral
+*692  $aSeized
+^
+100000546
+*041  $atur
+*245  $aYedinci Gündem
+*260  $aTurkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul
+*505  $aIn a 24 July 2007 decision, the European Court of Human Rights (ECHR) has condemned Turkey for "limiting freedom of expression", when the "Yedinci Gündem" newspaper was banned in the Emergency Law (OHAL) Regions by the regional governor. In its 24 July decision, the ECHR decided unanimously that interference with the newspaper's activities was "unnecessary in a democratic society" and in violation of Article 10. The newspaper, which was first published on 23 June, was banned from the OHAL regions four days later. When legal appeals were fruitless, its 10 employees applied to the ECHR.
+*506  $bThe OHAL regional governor
+*518  $a2007-06-27
+$3Newspaper
+*522  $aTurkey
+*651  $a8048
+*691  $aPolitical
+*692  $aBanned
+^
+100000547
+*041  $aara
+*245  $aAl-Rai Al-Shaab
+*260  $aSudan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aCensorship of six privately-owned Arabic-language dailies during the week of 19 August 2007 in an attempt by the security forces to suppress reports about the arrests of eight alleged terrorists. The five other Arabic-language newspapers to have been censored during the past few days are "Al-Soudani", "Al-Sahafa", "Al-Ayam", "Al-Rai Al-Ayam" and "Hikyat". The security services have been visiting them every morning and demanding the suppression of certain articles. "Al-Rai Al-Shaab" columnist Kamal Omer reported that on 21 August the security services conditioned the newspaper's publication on the withdrawal of several articles. When the editorial staff refused to comply, the entire issue was again seized, at a heavy financial loss for the newspaper. Since then, it has not been able to publish.
+*506  $bThe security forces
+*518  $a2007-08-21 
+$3Newspaper
+*522  $aSudan
+*651  $a5259
+*691  $aPolitical
+*692  $aSeized, closed
+*700  $aOmer, Kamal 
+$bcolumnist
+^
+100000548
+*041  $aara
+*245  $aAl-Soudani
+*260  $aSudan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $acensorship of six privately-owned Arabic-language dailies during the week of 19 August 2007 in an attempt by the security forces to suppress reports about the arrests of eight alleged terrorists. The five other Arabic-language newspapers to have been censored during the past few days are "Al-Rai Al-Shaab", "Al-Sahafa", "Al-Ayam", "Al-Rai Al-Ayam" and "Hikyat". The security services have been visiting them every morning and demanding the suppression of certain articles. 
+*506  $bThe security forces
+*518  $a2007-08-19-25 
+$3
+*522  $aSudan
+*651  $a5259
+*691  $aPolitical
+*692  $aSeized
+^
+100000549
+*041  $aara
+*245  $aAl-Sahafa
+*260  $aSudan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aCensorship of six privately-owned Arabic-language dailies during the week of 19 August 2007 in an attempt by the security forces to suppress reports about the arrests of eight alleged terrorists. The five other Arabic-language newspapers to have been censored during the past few days are "Al-Rai Al-Shaab", "Al-Soudani", "Al-Ayam", "Al-Rai Al-Ayam" and "Hikyat". The security services have been visiting them every morning and demanding the suppression of certain articles. 
+*506  $bThe security forces
+*518  $a2007-08-19-25
+$3Newspaper
+*522  $aSudan
+*651  $a5259
+*691  $aPolitical
+*692  $aSeized
+^
+100000550
+*041  $aara
+*245  $aAl-Ayam
+*260  $aSudan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $acensorship of six privately-owned Arabic-language dailies during the week of 19 August 2007 in an attempt by the security forces to suppress reports about the arrests of eight alleged terrorists. The five other Arabic-language newspapers to have been censored during the past few days are "Al-Rai Al-Shaab", "Al-Sahafa", "Al-Soudani", "Al-Rai Al-Ayam" and "Hikyat". The security services have been visiting them every morning and demanding the suppression of certain articles. 
+*506  $bThe security forces
+*518  $a2007-08-19-25
+$3Newspaper
+*522  $aSudan
+*651  $a5259
+*691  $aPolitical
+*692  $aSeized
+^
+100000551
+*041  $aara
+*245  $aAl-Rai Al-Ayam
+*260  $aSudan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aCensorship of six privately-owned Arabic-language dailies during the week of 19 August 2007 in an attempt by the security forces to suppress reports about the arrests of eight alleged terrorists. The five other Arabic-language newspapers to have been censored during the past few days are "Al-Rai Al-Shaab", "Al-Sahafa", "Al-Ayam", "Al-Soudani" and "Hikyat". The security services have been visiting them every morning and demanding the suppression of certain articles. 
+*506  $bThe security forces
+*518  $a2007-08-19-25
+$3Newspaper
+*522  $aSudan
+*651  $a5259
+*691  $aPolitical
+*692  $aSeized
+^
+100000552
+*041  $aara
+*245  $aHikyat
+*260  $aSudan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aCensorship of six privately-owned Arabic-language dailies during the week of 19 August 2007 in an attempt by the security forces to suppress reports about the arrests of eight alleged terrorists. The five other Arabic-language newspapers to have been censored during the past few days are "Al-Rai Al-Shaab", "Al-Sahafa", "Al-Ayam", "Al-Rai Al-Ayam" and "Al-Soudani". The security services have been visiting them every morning and demanding the suppression of certain articles. 
+*506  $bThe security forces
+*518  $a2007-08-19-25 
+$3Newspaper
+*522  $aSudan
+*651  $a5259
+*691  $aPolitical
+*692  $aSeized
+^
+100000553
+*041  $arus
+*245  $aNovaya Gazeta
+*260  $aRussia
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / ARTICLE 19, London
+*505  $aPolicemen raided the Nizhny Novgorod office of independent newspaper Novaya Gazeta on 30 August, with order No. 40 signed by the head of the Ministry of Interior's regional department, and their computers were seized.
+*506  $bThe head of the Ministry of Interior's regional department
+*518  $a2007-18-30
+$3Newspaper
+*522  $aRussia
+*651  $a8064
+*691  $aPolitical
+*692  $aComputers seized
+^
+100000554
+*041  $atam
+*245  $aMakkal Osai (The People's Voice)
+*260  $aMalaysia
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Southeast Asian Press Alliance (SEAPA), Bangkok
+*505  $aOn 21 August 2007, the Tamil daily "Makkal Osai" (The People's Voice) published a quote, "Heaven awaits those who repent", accompanied with a picture of Jesus Christ clutching what appeared to be a can of beer and a cigarette. The paper had put up the item for its regular "Thought for the Day" column, which featured quotes from famous personalities. The Ministry of Internal Security suspended the newspaper on 24 August, for "offending" religious sensibilities.
+*506  $bThe Ministry of Internal Security
+*518  $a2007-08-24
+$3Newspaper
+*522  $aMalaysia
+*651  $a7536
+*691  $aReligious
+*692  $aSuspended
+^
+100000555
+*041  $afre
+*245  $aLe Courrier de La République
+*260  $aTogo
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York
+*505  $aLe Courrier de La République was suspended for articles deemed unprofessional and against journalistic ethic by the High Authority for Audiovisual and Communication (HAAC) in June and will remain so until September 11, for the publication of two articles in the May 14 issue. The first article -- "HAAC, Isn't That a Right to Respond?" -- claimed the HAAC is not aware of the difference between printing a correction and a "right to respond." The second article, "The Black Dossier of M. Kagbara Bassabi of PDP," accused a current opposition party member, Kagbara Bassabi of the Panafrican Democratic Party (PDP), of past corruption. Kagbara Bassabi lodged a formal complaint citing defamation and non-verification of facts before publication in article 84 in the Press and Communication Code.
+*506  $bHigh Authority for Audiovisual and Communication (HAAC)
+$eThe Press and Communication Code, article 84
+*518  $a2007-06 to 2007-09-11
+$3Newspaper
+*522  $aTogo
+*651  $a5561
+*691  $aPolitical
+*692  $aSuspended
+^
+100000556
+*041  $afre
+*245  $aLa Trompette
+*260  $aTogo
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York
+*505  $aLa Trompette was suspended for articles deemed unprofessional and against journalistic ethic by the High Authority for Audiovisual and Communication (HAAC) in June and will remain so until October 11 because of a series of articles critical of the University of Lomé. The series criticized the academic staff of the university's history and archaeology departments, accusing the department heads of authoritarianism and maintaining poor academic standards. According to HAAC, the editor refused to write a correction as requested.
+*506  $bHigh Authority for Audiovisual and Communication (HAAC)
+*518  $a2007-06 to 2007-10-11
+$3Newspaper
+*522  $aTogo
+*651  $a5561
+*691  $aPolitical
+*692  $aSuspended
+^
+100000557
+*041  $afre
+*245  $aLe Perroquet
+*260  $aTogo
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York
+*505  $aLe Perroquet recommenced publication August 13 after being suspended by HAAc for two months. The paper was suspended for its article on a member of opposition group Union des Forces de Changement (UFC) in the April 25 issue, "What Can UFC Member Bleoussi Komlan Fernand Expect Back in Togo?" Citing Article 82 of the Press and Communication Code, HAAC suspected the article was a publication bought by Bleoussi Komlan to assist him in acquiring a residence permit abroad. According to HAAC, individuals seeking residency permits abroad often pay newspapers to cover their case in order to use the documented evidence for foreign residency applications.
+*506  $bHigh Authority for Audiovisual and Communication (HAAC)
+*518  $a2007-06 to 2007-08-13
+$3Newspaper
+*522  $aTogo
+*651  $a5561
+*691  $aPolitical
+*692  $aSuspended
+^
+100000558
+*041  $atur
+*245  $aGündem
+*260  $aTurkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul
+*505  $aThe Istanbul 12th Penal Court has decreed that "Gündem" newspaper be suspended for 30 days as punishment for publishing two articles by Kurdistan Workers Party (PKK) leader Murat Karayilan. The newspaper was charged with spreading PKK propaganda, under the Anti-Terrorism Law. Gündem newspaper has been closed three times before in 2007: on 6 March for 30 days, on 9 April for 15 days, on 12 July for 15 days.
+*506  $bThe Istanbul 12th Penal Court
+$eThe Anti-Terrorism Law
+*518  $a2007-09 (30 days)
+$3Newspaper
+*522  $aTurkey
+*651  $a8048
+*691  $aPolitical
+*692  $aSuspended
+*700  $aKarayilan, Murat
+$author
+^
+100000559
+*041  $afre
+*245  $aLa Nation 
+*260  $aGabon
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Journaliste en danger (JED), Kinshasa
+*505  $aOn 8 October 2007, the National Communication Council (Conseil national de la communication, CNC), Gabon's media regulatory body, suspended "La Nation" for one month based on a complaint by Blandine Marundu ma Mihindou, Gabon's minister of culture and the arts. In issue number 98, published in August, "La Nation" published an article, entitled "Does Blandine Marundi deserve to be a minister?", which denounced the minister's "resistance to change and lack of experience."
+*506  $bThe National Communication Council (Conseil national de la communication, CNC), Gabon's media regulatory body
+*518  $a2007-10-08
+$3Newspaper
+*522  $aGabon
+*651  $a5128
+*691  $aPolitical
+*692  $aSuspended
+^
+100000560
+*041  $afre
+*245  $aLe Gri-Gri International
+*260  $aGabon
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Journaliste en danger (JED), Kinshasa
+*505  $aOn 8 October 2007, the National Communication Council (Conseil national de la communication, CNC), Gabon's media regulatory body, suspended "Le Gri-Gri International", a satirical, privately-owned bi-monthly published in Paris, but distributed in Gabon. The publication and distribution in Gabon of the newspaper was banned until its status is "regularised." The reason is reportedly the fact that the newspaper's last issue was printed and distributed in Gabon even though the newspaper had allegedly never established itself as a Gabonese press outlet. On 25 September, issue number 78 of the Gabonese edition of "Le Gri-Gri International," which was to appear on 27 September, was censured "because of its content" by VDP printers, thereby preventing the distribution of this issue in Gabon. The newspaper's front page referred to the announcement, a few days earlier, by President Omar Bongo (nicknamed "Mullah Omar") of the imminent development of the iron mines in Belinga, located in the north-eastern province of Ougooué-Ivindo, describing it as a "Gabonese deception." The newspaper also expressed concern about pollution and ecosystem destruction at the local and national level as a result of this development.
+*506  $bThe National Communication Council (Conseil national de la communication, CNC), Gabon's media regulatory body
+*518  $a2007-10-08 an 2007-09-25
+$3Newspaper
+*522  $aGabon
+*651  $a5128
+*691  $aPolitical
+*692  $aSuspended
+^
+100000561
+*041  $akhm
+*245  $aKhmer Amatak
+*260  $aCambodia
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Southeast Asian Press Alliance (SEAPA), Bangkok
+*505  $aThe Cambodian Ministry of Information has suspended for a month the "Khmer Amatak" newspaper for refusing to publish a correction the ministry requested over a controversial article in the newspaper.
+*506  $bThe Cambodian Ministry of Information
+*518  $a2007-10-08
+$3Newspaper
+*522  $aCambodia
+*651  $a7520
+*691  $aPolitical
+*692  $aSuspended
+^
+100000562
+*041  $aaze
+*245  $aYeni Musavat
+*260  $aAzerbaijan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Institute for Reporter Freedom and Safety (IRFS), Baku
+*505  $aJournalist Afgan Mukhtarli, who is currently on a work-related trip to the city of Ganja, told IRFS that the 18 October 2007 edition of the newspaper for which he works, "Yeni Musavat", had been banned in Ganja. According to Mukhtarli, all copies of "Yeni Musavat" were confiscated from newspaper kiosks at the order of the head of the Ganja Executive Administration, Eldar Azizov, and the City Police Chief Garib Hasanov. The newspaper edition was banned due to its coverage of recent crimes in Ganja, Mukhtarli said, adding that on 19 October it was back on newsstands.
+*506  $bThe head of the Ganja Executive Administration and the City Police Chief
+*518  $a2007-10-18
+$3Newspaper
+*522  $aAzerbaijan
+*651  $a7216
+*691  $aPolitical
+*692  $aBanned
+*700  $aMukhtarli, Afgan 
+$bjournalist
+^
+100000563
+*041  $aaze
+*245  $a24 Saat
+*260  $aAzerbaijan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Institute for Reporter Freedom and Safety (IRFS), Baku
+*505  $aThe chief editor of "24 Saat" newspaper, Fikret Faramezoglu, told IRFS that the sale of his newspaper had been banned in Ganja on 18 October on the same day of the banning of Yeni Musavat. 
+*506  $bThe head of the Ganja Executive Administration and the City Police Chief
+*518  $a2007-10-18
+$3Newspaper
+*522  $aAzerbaijan
+*651  $a7216
+*691  $aPolitical
+*692  $aBanned
+*700  $aFaramezoglu, Fikret 
+$beditor-in-chief
+^
+100000564
+*041  $aaze
+*245  $aAzadlig
+*260  $aAzerbaijan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Institute for Reporter Freedom and Safety (IRFS), Baku
+*505  $aIn connection with the banning of the newspapers Yeni Musavat and "24 Saat", IRFS also learned that all copies of "Azadlig" newspaper were confiscated in Ganja on 19 October.
+*506  $bThe head of the Ganja Executive Administration and the City Police Chief
+*518  $a2007-10-19 
+$3Newspaper
+*522  $aAzerbaijan
+*651  $a7216
+*691  $aPolitical
+*692  $aConfiscated
+^
+100000565
+*041  $afre
+*245  $aLa Nouvelle 
+*260  $aGuinea
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Media Foundation for West Africa (MFWA), Accra
+*505  $aLa Nouvelle - and its associate managing editor, Mady Conde - was suspended by the National Communication Council (CNC), a media regulatory authority, for one month following the publication of a story that appeared on page five of its 10-29 October edition titled: "National Army heading towards another mutiny", which the CNC deemed "likely to affect the honour of the Guinean army". The story, which was not signed by its author, according to the MFWA correspondent, speculated on a probable revolt by the soldiers for "the full payment of their salary arrears".
+*506  $bThe National Communication Council (CNC)
+*518  $a2007-10 until 2007-11-29
+$3Newspaper
+*522  $aGuinea
+*651  $a5531
+*691  $aPolitical
+*692  $aSuspended
+^
+100000566
+*041  $aspa
+*245  $aProceso 
+*260  $aMexico
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Center for Journalism and Public Ethics (CEPET), San Miguel de Allende
+*505  $aIssues of the 28 October 2007 edition of "Proceso" magazine disappeared from the stands in the state of Guanajuato after a few individuals bought up almost all the copies of the publication, in an apparently concerted effort to prevent the public from reading the magazine's cover story, entitled "The Bribiesca towers". The story is about the business dealings of former first lady Marta Sahagún - Vicente Fox's wife - and her sons with a Guanajuato-based businessman. Most copies of the magazine, normally sold in newspaper kiosks and in big chain stores like Sanborn's, Mega Comercial, Wal-Mart and Vips, were bought up by a few individuals who asked for all available copies. Fox's family is presently under investigation for illicitly-gained income and influence peddling.
+*506  $bunknown individuals 
+*518  $a2007-10-28
+$3Magazine
+*522  $aMexico
+*651  $a6243
+*691  $aPolitical
+*692  $aConfiscated (circulation obstructed)
+^
+100000567
+*041  $arus
+*245  $aNovaya Gazeta v Samara
+*260  $aRussia
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York
+*505  $a Novaya Gazeta in the southern city of Samara was closed for alleged use of counterfeit software. Samara prosecutors charged the editor, Sergei Kurt-Adzhiyev, with violating copyright provisions under Russia's penal code. The pressure on the Samara edition of Novaya Gazeta started in May when the Other Russia opposition coalition, led by Garry Kasparov, was staging one of its Dissenters' Marches in the southern city. 
+*506  $bThe Samara police
+*518  $a2007-11
+$3newspaper 
+*522  $aRussia
+*651  $a8064
+*691  $aCriminal
+*692  $aClosed
+*700  $aKurt-Adzhiyev, Sergei
+$beditor
+^
+100000568
+*041  $atur
+*245  $aCoban Atesi (Shepherd's Fire)
+*260  $aTurkey
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / IPS Communication Foundation (BIANET), Istanbul
+*505  $aThe Gaziantep First Criminal Court of Peace has ordered the confiscation of the 32nd issue of the local "Coban Atesi" (Shepherd's Fire) newspaper after it published an article entitled "Mother, Don't Send Me to the Army". The newspaper stands accused of "damaging the public image of military service."
+*506  $bThe Gaziantep First Criminal Court of Peace
+$eArticle 25/2 of Press Law No. 5187
+*518  $a2007-11
+$3Newspaper
+*522  $aTurkey
+*651  $a8048
+*691  $aPolitical
+*692  $aConfiscated
+^
+100000569
+*041  $aeng 
+*245  $aFree Press Magazine
+*260  $aCambodia
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Southeast Asian Press Alliance (SEAPA), Bangkok
+*505  $aThe Cambodian Ministry of Information has confiscated a new magazine for allegedly violating the constitutional provision protecting the monarchy, though local reports said other "sensitive" articles featured in the magazine could have triggered the action. Authorities in the capital city and Battambang province seized all 2,000 copies of the inaugural issue of monthly "Free Press Magazine" when it was distributed on 2 November 2007. Information Minister said the magazine featured an article by Dr. Lao Monghai which challenged former king Norodom Sihanouk's immunity from being called as a witness or tried at the Extraordinary Chambers in the Courts of Cambodia (ECCC), established to secure justice for victims of the brutal Khmer Rouge regime that reigned from 1975 to 1979. The minister said the article is against the constitution, which states that the King "shall be inviolable".
+*506  $bThe Cambodian Ministry of Information
+*518  $a2007-11-02
+$3Magazine
+*522  $aCambodia
+*651  $a7520
+*691  $aPolitical
+*692  $aConfiscated
+*700  $aLao Monghai
+$bauthor
+^
+100000570
+*041  $afre
+*245  $aNotre Temps
+*260  $aChad
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aThe editor of Notre Temps, Nadjikimo Benoudjita, was arrested on 14 December 2007 and charged with "defamation" and "insulting the head of State", before finally being charged with "inciting tribal and religious hatred". On the morning of 15 December, judicial police searched the journalist's home, which also serves as the editorial office of "Notre Temps". The police officers also informed Nguémadki Dkimasngar, the weekly's editor-in-chief, of the information and public security minister's decision to order the "pure and simple closure of the newspaper".
+*506  $bThe information and public security minister
+*518  $a2007-12-15
+$3weekly newspaper
+*522  $aChad
+*651  $a5121
+*691  $aPolitical
+*691  $aReligious
+*692  $aClosed
+*700  $aBenoudjita, Nadjikimo 
+$beditor
+*700  $aDkimasngar, Nguémadki
+$beditor-in-chief
+^
+100000571
+*041  $afre
+*245  $aLa Vérité 
+*260  $aGuinea 
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York
+*505  $aThe state-run National Communications Council accused private weeklies La Vérité and L'Observateur of "continually publishing insulting, contemptuous, and defamatory articles" of a nature to "manipulate public opinion," according to the same sources. They summarily suspended the two private newspapers on 31 December 2007 and barred their journalists from practice for three months.
+*506  $bNational Communications Council
+*518  $a2007-12-31
+$3Weekly newspaper
+*522  $aGuinea
+*651  $a5531
+*691  $aPolitical
+*692  $aSuspended
+^
+100000572
+*041  $afre
+*245  $aL'Observateur 
+*260  $aGuinea 
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Committee to Protect Journalists (CPJ), New York
+*505  $aThe state-run National Communications Council accused private weeklies La Vérité and L'Observateur of "continually publishing insulting, contemptuous, and defamatory articles" of a nature to "manipulate public opinion," according to the same sources. They summarily suspended the two private newspapers on 31 December 2007 and barred their journalists from practice for three months.
+*506  $bNational Communications Council
+*518  $a2007-12-31
+$3weekly newspaper
+*522  $aGuinea
+*651  $a5531
+*691  $aPolitical
+*692  $aSuspended
+^
+100000573
+*041  $aira
+*245  $aArya
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aThe press department of the Ministry of Culture and Islamic Guidance banned the newspaper "Arya" on 19 January 2008 for "failing to publish regularly." Suspended in April 2000 during a wave of closures of pro-reform newspapers, "Arya" had received permission from a Tehran court in 2006 to resume publishing. A new team of journalists had been preparing to bring out a new issue.
+*506  $bThe press department of the Ministry of Culture and Islamic Guidance 
+*518  $a2008-01-19
+$3newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical?
+*692  $aBanned
+^
+100000574
+*041  $aira
+*245  $aZanan
+*260  $aIran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aThe Commission for Press Authorisation and Surveillance decided on 28 January 2008 to suspend the feminist monthly "Zanan" ("Women" in Farsi) for "publishing information detrimental to society's psychological tranquillity." The commission accused "Zanan" of "offering a sombre picture of the Islamic Republic," "compromising its readers' mental health" and "publishing morally questionable information." Dozens of news outlets have been suspended by the commission since Mahmoud Ahmadinejad became president. Deputy state prosecutor Nasser Saraji told the official news agency ISNA in October 2007 that the commission had suspended 42 publications and cancelled 24 licences since 2005. Other newspapers have been temporarily or provisionally suspended by the courts. Those suspended since October include "Krafto", "Ashati", "Arzesh", "Bilmaj" and "Madareseh". ??
+*506  $bThe Commission for Press Authorisation and Surveillance
+*518  $a2008-01-28
+$3Magazine
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aSuspended
+^
+100000575
+*041  $aaze
+*245  $aBizim Gündem
+*260  $aAzerbaijan
+$c2007
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Institute for Reporter Freedom and Safety (IRFS), Baku
+*505  $aFor the fourth consecutive day in four regions of Azerbaijan (Sabirabad, Ali-Bayramli, Saatli and Barda), all copies of "Bizim Gündem" newspaper were confiscated from newspaper kiosks by representatives of the regional executive administrations, the paper's editor, Razi Abbasbeyli, told IRFS. Abbasbeyli speculated that the newspapers were confiscated in Sabirabad due to critical articles in the newspaper about social conditions in the region and illegal activities of the local officials. 
+*506  $bRepresentatives of the regional executive administrations
+*518  $a2007-10
+$3Newspaper
+*522  $aAzerbaijan
+*651  $a7216
+*691  $aPolitical
+*692  $aConfiscated
+*700  $aAbbasbeyli, Razi
+$beditor
+^
+100000576
+*041  $afre
+*100  $aBenchicou, Mohamed  
+$d1952-
+$eauthor
+*245  $aLes geôles d'Alger 
+$ble combat d’un journaliste qui a trempé sa plume dans la plaie 
+$cMohamed Benchicou
+*260  $aAlger
+$bInas Editions
+$c2007
+*300  $a302 pages
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / International Federation of Journalists (IFJ), Brussels (2007-11-05) / www.babelmed.net / fr.wikipedia.org
+*505  $aThe International Federation of Journalists (IFJ) has condemned the banning at a book fair in Algeria of the controversial book Jailhouses of Algiers (Les geôles d'Alger) by journalist Mohamed Benchicou, a fierce critic of the government. The book stand was closed this week immediately after the opening of the international book fair in Algiers by President Abdelaziz Bouteflika.
+*506  $aBan
+$b[Algerian government]
+*518  $a2007-11
+$3Book
+*520  $a
+*522  $aAlgeria
+*650  $aJail in Algeria
+*651  $a5311
+*692  $aBanned
+*700  $aBenchicou, Mohamed
+$eauthor
+$ejournalist
+^
+100000577
+*041  $ager
+*245  $aFrankfurter Allgemeine Zeitung
+*260  $aFrankfurt, Germany
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aThe Egyptian government's decided on 19 February 2008 to ban four foreign newspapers that reprinted some of the cartoons that were published by 17 Danish newspapers on 13 February in a show of solidarity on the issue of freedom of expression. The four newspapers whose issues were banned were Germany's "Frankfurter Allgemeine Zeitung" and "Die Welt", the London-based "Observer" and the New York-based "Wall Street Journal". The ban was issued by information minister Anas Al-Feki, who told the Egyptian news agency MENA: "Any newspaper or magazine that publishes something offensive towards the Prophet (. . . ) or the three monotheistic religions will be banned."
+*506  $aThe Egyptian government
+*518  $a2008-02-19
+$3Newspaper
+*522  $aGermany
+*651  $a8025
+*651  $a5325
+*691  $aReligious
+*692  $aBanned
+^
+100000578
+*041  $ager
+*245  $aDie Welt
+*260  $aGermany
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aThe Egyptian government's decided on 19 February 2008 to ban four foreign newspapers that reprinted some of the cartoons that were published by 17 Danish newspapers on 13 February in a show of solidarity on the issue of freedom of expression. The four newspapers whose issues were banned were Germany's "Frankfurter Allgemeine Zeitung" and "Die Welt", the London-based "Observer" and the New York-based "Wall Street Journal". The ban was issued by information minister Anas Al-Feki, who told the Egyptian news agency MENA: "Any newspaper or magazine that publishes something offensive towards the Prophet (. . . ) or the three monotheistic religions will be banned."
+*506  $aThe Egyptian government
+*518  $a2008-02-19
+$3Newspaper
+*522  $aGermany
+*651  $a8025
+*651  $a5325
+*691  $aReligious
+*692  $aBanned
+^
+100000579
+*041  $aeng
+*245  $aThe Observer
+*260  $aLondon, United Kingdom
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aThe Egyptian government's decided on 19 February 2008 to ban four foreign newspapers that reprinted some of the cartoons that were published by 17 Danish newspapers on 13 February in a show of solidarity on the issue of freedom of expression. The four newspapers whose issues were banned were Germany's "Frankfurter Allgemeine Zeitung" and "Die Welt", the London-based "Observer" and the New York-based "Wall Street Journal". The ban was issued by information minister Anas Al-Feki, who told the Egyptian news agency MENA: "Any newspaper or magazine that publishes something offensive towards the Prophet (. . . ) or the three monotheistic religions will be banned."
+*506  $aThe Egyptian government
+*518  $a2008-02-19
+$3Newspaper
+*522  $aUnited Kingdom
+*651  $a8051
+*651  $a5325
+*691  $aReligious
+*692  $aBanned
+^
+100000580
+*041  $aeng
+*245  $aWall Street Journal
+*260  $aNew York, United States
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aThe Egyptian government's decided on 19 February 2008 to ban four foreign newspapers that reprinted some of the cartoons that were published by 17 Danish newspapers on 13 February in a show of solidarity on the issue of freedom of expression. The four newspapers whose issues were banned were Germany's "Frankfurter Allgemeine Zeitung" and "Die Welt", the London-based "Observer" and the New York-based "Wall Street Journal". The ban was issued by information minister Anas Al-Feki, who told the Egyptian news agency MENA: "Any newspaper or magazine that publishes something offensive towards the Prophet (. . . ) or the three monotheistic religions will be banned."
+*506  $aThe Egyptian government
+*518  $a2008-02-19
+$3Newspaper
+*522  $aUnited States
+*651  $a6357
+*651  $a5325
+*691  $aReligious
+*692  $aBanned
+^
+100000581
+*041  $atam
+*245  $aMakkal Osai
+*260  $aMalaysia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Southeast Asian Press Alliance (SEAPA), Bangkok
+*505  $aThe annual publishing permits for the Tamil-language "Makkal Osai" and the Mandarin-language "Oriental Daily" newspapers lapsed in December 2007 and their applications for new ones for the year have not been approved by outgoing Deputy Internal Security Minister Fu Ah Kiow, reports SEAPA's local partner, the Centre for Independent Journalism (CIJ), in a 21 February 2008 release (http://www.cijmalaysia.org/index.php?option=com_content&task=view&id=301&Itemid=8).
+*506  $aInternal Security Ministry
+*518  $a2008
+$3Newspaper
+*522  $aMalaysia
+*651  $a7536
+*691  $aPolitical
+*692  $aAnnual publishing permit withheld
+^
+100000582
+*041  $aara
+*245  $aAl-Ayyam
+*260  $aGaza Strip, Palestine
+$c2008
+*500  $a$aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters sans frontières (RSF), Paris
+*505  $aDistribution of Al-Ayyam banned in the Gaza following suspended sentences of six months in prison passed on 6 February on two Al-Ayyam journalists on a charge of defamation in connection with a cartoon that members of the Prime Minister's party regarded as offensive.
+*506  $aThe Hamas government
+*518  $a2008-02
+$3Newspaper
+*522  $aPalestinian Territory, Occupied
+*651  $a7354
+*691  $aPolitical
+*692  $aBanned
+^

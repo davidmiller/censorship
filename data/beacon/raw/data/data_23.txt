@@ -1,0 +1,344 @@
+200000478
+*041  $aara
+*245  $aAl-Mawkif
+*500  $aIFEX (International Freedom of Expression Exchange) 
+http://www.ifex.org 12 January 2011 / IFEX Communiqué Vol 20, No 02, 
+Committee to Protect Journalists (CPJ)
+*505  $aArrested journalists, censored opposition newspapers, denounced Al 
+Jazeera and obstructed reports and broadcasts, report members of the IFEX 
+Tunisia Monitoring Group (IFEX-TMG) and other IFEX
+members. But this time, the authorities have gone even further - harvesting 
+passwords and usernames of bloggers, reporters and political activists to 
+identify protest leaders and delete or compromise
+their email and Facebook accounts. In late December, authorities 
+confiscated from newsstands the 24 December edition of "Al-Mawkif", an 
+opposition weekly, and the 25 December issue of opposition paper
+"Al-Tariq al-Jadid", reports the Committee to Protect Journalists (CPJ). 
+Sofiene Chourabi, a reporter with "Al-Tariq al-Jadid", Security agents 
+stopped and confiscated his equipment and ID, hacked and
+disabled his blog and deleted pages from his Facebook account. Hannibal TV 
+was prevented from airing a programme about the Sidi Bouzid protests, 
+according to CPJ. Nessma Channel, also a pro-government
+private broadcaster, was blocked from re-broadcasting a programme about the 
+street protests. The Tunisian Internet Agency has blocked news websites, 
+blogs, email accounts and Facebook pages carrying
+critical content.
+*506  $aconfiscated
+$bAuthorities
+*518  $a24December2010
+$3newspaper
+*522  $aTunisia
+*650  $aAl Jazeera
+*650  $aHannibal TV
+*650  $aAl-Tariq al-Jadid
+*650  $aNessma Channel
+*651  $a5362
+*691  $apolitical
+*692  $aconfiscated
+^
+200000479
+*041  $aara
+*245  $aAl-Tariqal-Jadid
+*500  $aIFEX (International Freedom of Expression Exchange) 
+http://www.ifex.org 12 January 2011 / IFEX Communiqué Vol 20, No 02, 
+Committee to Protect Journalists (CPJ)
+*505  $aArrested journalists, censored opposition newspapers, denounced Al 
+Jazeera and obstructed reports and broadcasts, report members of the IFEX 
+Tunisia Monitoring Group (IFEX-TMG) and other IFEX
+members. But this time, the authorities have gone even further - harvesting 
+passwords and usernames of bloggers, reporters and political activists to 
+identify protest leaders and delete or compromise
+their email and Facebook accounts. In late December, authorities 
+confiscated from newsstands the 24 December edition of "Al-Mawkif", an 
+opposition weekly, and the 25 December issue of opposition paper
+"Al-Tariq al-Jadid", reports the Committee to Protect Journalists (CPJ). 
+Sofiene Chourabi, a reporter with "Al-Tariq al-Jadid", Security agents 
+stopped and confiscated his equipment and ID, hacked and
+disabled his blog and deleted pages from his Facebook account. Hannibal TV 
+was prevented from airing a programme about the Sidi Bouzid protests, 
+according to CPJ. Nessma Channel, also a pro-government
+private broadcaster, was blocked from re-broadcasting a programme about the 
+street protests. The Tunisian Internet Agency has blocked news websites, 
+blogs, email accounts and Facebook pages carrying
+critical content. CPJ research shows that the Tunisian Internet Agency is 
+"modifying web pages on the fly to steal usernames and passwords for sites 
+such as Facebook, Google and Yahoo!," deleting or
+compromising accounts and even using the information to locate bloggers and 
+their network of contacts.
+*506  $aconfiscated
+$bAuthorities
+*518  $a25 December 2010
+$3newspaper
+*522  $aTunisia
+*650  $aAl Jazeera
+*650  $aAl-Mawkif
+*650  $aAl-Tariq al-Jadid
+*650  $aFacebook
+*651  $a5362
+*691  $apolitical
+*692  $aconfiscated
+^
+200000480
+*041  $aara
+*245  $aFacebook
+*500  $aIFEX (International Freedom of Expression Exchange) 
+http://www.ifex.org 12 January 2011 / IFEX Communiqué Vol 20, No 02
+*505  $aArrested journalists, censored opposition newspapers, denounced Al 
+Jazeera and obstructed reports and broadcasts, report members of the IFEX 
+Tunisia Monitoring Group (IFEX-TMG) and other IFEX
+members. But this time, the authorities have gone even further - harvesting 
+passwords and usernames of bloggers, reporters and political activists to 
+identify protest leaders and delete or compromise
+their email and Facebook accounts. In late December, authorities 
+confiscated from newsstands the 24 December edition of "Al-Mawkif", an 
+opposition weekly, and the 25 December issue of opposition paper
+"Al-Tariq al-Jadid", reports the Committee to Protect Journalists (CPJ). 
+Sofiene Chourabi, a reporter with "Al-Tariq al-Jadid", Security agents 
+stopped and confiscated his equipment and ID, hacked and
+disabled his blog and deleted pages from his Facebook account. Hannibal TV 
+was prevented from airing a programme about the Sidi Bouzid protests, 
+according to CPJ. Nessma Channel, also a pro-government
+private broadcaster, was blocked from re-broadcasting a programme about the 
+street protests. The Tunisian Internet Agency has blocked news websites, 
+blogs, email accounts and Facebook pages carrying
+critical content. CPJ research shows that the Tunisian Internet Agency is 
+"modifying web pages on the fly to steal usernames and passwords for sites 
+such as Facebook, Google and Yahoo!," deleting or
+compromising accounts and even using the information to locate bloggers and 
+their network of contacts.
+*506  $adeleted
+$bAuthorities
+*518  $a December 2010
+$3website
+*522  $aTunisia
+*650  $aAl Jazeera
+*650  $aAl-Mawkif
+*650  $aAl-Tariq al-Jadid
+*650  $aFacebook
+*651  $a5362
+*691  $apolitical
+*692  $adeleted
+^
+200000481
+*041  $aara
+*245  $aNessma Channel
+*500  $aIFEX (International Freedom of Expression Exchange) 
+http://www.ifex.org 12 January 2011 / IFEX Communiqué Vol 20, No 02
+*505  $aArrested journalists, censored opposition newspapers, denounced Al 
+Jazeera and obstructed reports and broadcasts, report members of the IFEX 
+Tunisia Monitoring Group (IFEX-TMG) and other IFEX
+members. But this time, the authorities have gone even further - harvesting 
+passwords and usernames of bloggers, reporters and political activists to 
+identify protest leaders and delete or compromise
+their email and Facebook accounts. In late December, authorities 
+confiscated from newsstands the 24 December edition of "Al-Mawkif", an 
+opposition weekly, and the 25 December issue of opposition paper
+"Al-Tariq al-Jadid", reports the Committee to Protect Journalists (CPJ). 
+Sofiene Chourabi, a reporter with "Al-Tariq al-Jadid", Security agents 
+stopped and confiscated his equipment and ID, hacked and
+disabled his blog and deleted pages from his Facebook account. Hannibal TV 
+was prevented from airing a programme about the Sidi Bouzid protests, 
+according to CPJ. Nessma Channel, also a pro-government
+private broadcaster, was blocked from re-broadcasting a programme about the 
+street protests. The Tunisian Internet Agency has blocked news websites, 
+blogs, email accounts and Facebook pages carrying
+critical content. CPJ research shows that the Tunisian Internet Agency is 
+"modifying web pages on the fly to steal usernames and passwords for sites 
+such as Facebook, Google and Yahoo!," deleting or
+compromising accounts and even using the information to locate bloggers and 
+their network of contacts.
+*506  $aprogramme stopped
+$bAuthorities
+*518  $aDecember 2010
+$3broadcaster
+*522  $aTunisia
+*650  $aAl Jazeera
+*650  $aAl-Mawkif
+*650  $aAl-Tariq al-Jadid
+*650  $aFacebook
+*651  $a5362
+*691  $apolitical
+*692  $ablocked
+^
+200000482
+*041  $aara
+*245  $aHannibal TV
+*500  $aIFEX (International Freedom of Expression Exchange) 
+http://www.ifex.org 12 January 2011 / IFEX Communiqué Vol 20, No 02, CPJ. 
+Nessma Channel
+*505  $aArrested journalists, censored opposition newspapers, denounced Al 
+Jazeera and obstructed reports and broadcasts, report members of the IFEX 
+Tunisia Monitoring Group (IFEX-TMG) and other IFEX
+members. But this time, the authorities have gone even further - harvesting 
+passwords and usernames of bloggers, reporters and political activists to 
+identify protest leaders and delete or compromise
+their email and Facebook accounts. In late December, authorities 
+confiscated from newsstands the 24 December edition of "Al-Mawkif", an 
+opposition weekly, and the 25 December issue of opposition paper
+"Al-Tariq al-Jadid", reports the Committee to Protect Journalists (CPJ). 
+Sofiene Chourabi, a reporter with "Al-Tariq al-Jadid", Security agents 
+stopped and confiscated his equipment and ID, hacked and
+disabled his blog and deleted pages from his Facebook account. Hannibal TV 
+was prevented from airing a programme about the Sidi Bouzid protests, 
+according to CPJ. Nessma Channel, also a pro-government
+private broadcaster, was blocked from re-broadcasting a programme about the 
+street protests. The Tunisian Internet Agency has blocked news websites, 
+blogs, email accounts and Facebook pages carrying
+critical content. CPJ research shows that the Tunisian Internet Agency is 
+"modifying web pages on the fly to steal usernames and passwords for sites 
+such as Facebook, Google and Yahoo!," deleting or
+compromising accounts and even using the information to locate bloggers and 
+their network of contacts.
+*506  $aprogramme stopped
+$bAuthorities
+*518  $aDecember 2010
+$3TV channel
+*522  $aTunisia
+*650  $aAl Jazeera
+*650  $aAl-Mawkif
+*650  $aAl-Tariq al-Jadid
+*650  $aFacebook
+*651  $a5362
+*691  $apolitical
+*692  $aprogramme stopped
+^
+200000483
+*041  $aara
+*245  $aFacebook
+*500  $aIFEX Communiqué Vol 20, No 02, CPJ. Nessma Channel
+*505  $aArrested journalists, censored opposition newspapers, denounced Al 
+Jazeera and obstructed reports and broadcasts, report members of the IFEX 
+Tunisia Monitoring Group (IFEX-TMG) and other IFEX
+members. But this time, the authorities have gone even further - harvesting 
+passwords and usernames of bloggers, reporters and political activists to 
+identify protest leaders and delete or compromise
+their email and Facebook accounts. In late December, authorities 
+confiscated from newsstands the 24 December edition of "Al-Mawkif", an 
+opposition weekly, and the 25 December issue of opposition paper
+"Al-Tariq al-Jadid", reports the Committee to Protect Journalists (CPJ). 
+Sofiene Chourabi, a reporter with "Al-Tariq al-Jadid", Security agents 
+stopped and confiscated his equipment and ID, hacked and
+disabled his blog and deleted pages from his Facebook account. Hannibal TV 
+was prevented from airing a programme about the Sidi Bouzid protests, 
+according to CPJ. Nessma Channel, also a pro-government
+private broadcaster, was blocked from re-broadcasting a programme about the 
+street protests. The Tunisian Internet Agency has blocked news websites, 
+blogs, email accounts and Facebook pages carrying
+critical content. CPJ research shows that the Tunisian Internet Agency is 
+"modifying web pages on the fly to steal usernames and passwords for sites 
+such as Facebook, Google and Yahoo!," deleting or
+compromising accounts and even using the information to locate bloggers and 
+their network of contacts.
+*506  $aoperaton seized
+$bAuthorities
+*518  $aDecember 2010
+$3website
+*522  $aTunisia
+*650  $aAl Jazeera
+*650  $aAl-Mawkif
+*650  $aAl-Tariq
+*650  $aal-Jadid
+*651  $a5362
+*691  $apolitical
+*692  $ablocked
+^
+200000484
+*041  $atha
+*245  $aComputer Crime Act
+*500  $aIFEX (International Freedom of Expression Exchange) 
+http://www.ifex.org 12 January 2011 / IFEX Communiqué Vol 20, No 02, Human 
+Rights Watch Southeast Asian Press Alliance (SEAPA)
+*505  $aEight months after violent clashes between anti-government groups 
+and state security forces. The emergency decree allowed Thai authorities to 
+censor and ban media from disseminating news that
+"causes panic", say Human Rights Watch and SEAPA. Since the April violence, 
+satellite television stations, online television channels, publications, 
+community cstations and more than 1,000 websites
+have been shut down, reports Human Rights Watch. The government has other 
+tools such as the Computer Crime Act to "prosecute those with different 
+political views," the Thai Netizens Network told
+SEAPA. "
+*518  $3law
+*522  $aThailand
+*650  $aemergency decree
+*650  $atelevision stations
+*650  $apublications
+*650  $aradio station
+*651  $a7550
+*693  $ashut down
+^
+
+200000489
+*041  $aara
+*245  $aRadio Dabanga
+*500  $aIFEX (International Freedom of Expression Exchange) 
+http://www.ifex.org 22 December 2010 / IFEX Communiqué Vol 19, No 50, 
+Arabic Network for Human Rights Information (ANHRI)
+*505  $aThe Sudanese regime has controlled media coverage of the political 
+and humanitarian crisis in Darfur for years. Outraged by Radio Dabanga's 
+coverage of the Darfur conflict, authorities arrested Radio Dabanga 
+director Abdelrahman Adam Abdelrahman and closed down its office on 30 
+October, reports ANHRI. Also in November, security forces stormed the 
+office of the Human Rights and Advocacy Network for Democracy (HAND), a 
+coalition of Darfuri groups, and arrested several activists and shut down 
+the office, report ANHRI and Human Rights Watch.
+*506  $ashut down
+$bSudanese regime
+*518  $aOctober 2010
+$3Radio broadcast
+*522  $aSudan
+*650  $aradio
+*650  $aAbdelrahman Adam Abdelrahman
+*650  $aDarfur
+*651  $a5259
+*691  $apolitical
+*692  $ashut down
+
+200000470
+*041  $aara
+*245  $aAl-Hurra
+*500  $aIFEX (International Freedom of Expression Exchange) 
+http://www.ifex.org 2 February 2011 / IFEX Communiqué Vol 20, No 05, 
+Committee to Protect Journalists (CPJ) Arabic Network for Human Rights
+Information (ANHRI)
+*505  $aSudanese authorities prevented international media from 
+interviewing opposition leaders during the referendum, says CPJ. On 10 
+January, security agents prevented U.S. government-funded Al-Hurra 
+television from conducting an interview with opposition leader Mubarak al-
+Fadil by cutting the satellite link while al-Fadil was being interviewed. 
+"They don't want us to speak about the consequences and the
+dangers ahead after South Sudan breaks away," al-Fadil told "Sudan 
+Tribune".
+*506  $aProgramme stopped
+$bSecurity agents
+*518  $a10 January 2011
+$3TV broadcast
+*522  $aSudan
+*650  $aTV
+*650  $areferendum
+*650  $aMubarak al-Fadil
+*651  $a5259
+*691  $apolitical
+*692  $ablocked
+
+200000553
+*041  $a-scc
+*245  $aElectronic Communications Law
+*500  $aIFEX (International Freedom of Expression Exchange) 
+http://www.ifex.org 21 July 2010/ IFEX Communiqué Vol 19, No 29, 
+International Press Institute (IPI)
+*505  $aSerbian national security and police forces have been given the 
+power to view the contents of citizens' personal email accounts without 
+permission as a result of a new law adopted by parliament on 29 June, 
+reports the International Press Institute (IPI). Serbian parliament 
+accepted the new Electronic Communications Law in order to establish a 
+database on personal electronic communications of citizens. Serbian 
+President Boris Tadic signed the law.
+*522  $aSerbia
+*650  $a electronic communication
+*650  $anational security
+*650  $alaw
+*651  $a8090
+*693  $acensorship
+^
+

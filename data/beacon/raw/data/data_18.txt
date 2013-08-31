@@ -1,0 +1,1163 @@
+100000691
+*041  $aspa
+*245  $aCNS Channel 6 television
+*260  $aGuyana
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org / Inter American Press Association (IAPA), Miami, 15 April 2008
+*505  $aThe broadcasts by CNS Channel 6 television were suspended for four months on the grounds that the station "infringed the terms of its license" by airing on three occasions a call-in by one of its viewers saying the prime minister should be assassinated.
+*506  $asuspended for four months
+$bThe president Bharrat Jagdeo, acting as minister of communications
+*518  $aApril 12, 2008
+$3television station
+*522  $aGuyana
+*651  $a6437
+*691  $apolitical
+*692  $asuspended
+^
+100000692
+*041  $atam
+*245  $aMakkal Osai (The People's Voice)
+*260  $aMalaysia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 April 2008 / Southeast Asian Press Alliance (SEAPA), Bangkok
+*505  $aMalaysian officials have rejected a Tamil-language newspaper's application for a publishing permit - an annual requirement for periodicals under the draconian Printing Presses and Publications Act (PPPA) - in effect, banning the daily that had existed since the early 1990s. There were given no reason for the ban. According to a 17 April Malaysiakini report, Home Affairs Minister Syed Hamid Albar alleged that the daily had violated guidelines threatening racial harmony. The minister did not explain nor specify the objectionable contents.
+*506  $apublishing permit denied
+$bMalaysian officials
+*518  $a16 April 2008
+$3newspaper
+*522  $aMalaysia
+*651  $a7536
+*691  $apolitical
+*692  $abanned
+^
+100000693
+*041  $aara
+*245  $aAjras al-Huriyya
+*260  $aKhartoum, Sudan
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe National Security Service (NSS) domestic intelligence agency phoned the editors of 10 daily papers on 13 April and ordered them to henceforth submit all their content for prior approval under the censorship illegally reestablished on 6 February. But the papers all refused to comply and printed their editions in the normal way. The police then went to the printers and seized copies of "Ajras al-Huriyya", "Rai al-Shaab" and "Al-Ayyam" on 15 April. The editions of "Al-Sudani", "al-Ahdath", "Ajras al-Huriyya", "Rai al-Shaab" and the English-language daily "The Citizen" were seized on 16 April after several tens of thousands of copies had been printed. The four Arabic-language dailies had been warned not to report on the press conference held the day before by the editors of "Ajras al-Huriyya" criticising the new censorship, a local journalist told Reporters Without Borders.
+*506  $acopies seized
+$bthe police
+*518  $a15 and 16 April 2008
+$3newspaper
+*522  $aSudan
+*651  $a5259
+*691  $apolitical
+*692  $aseized
+^
+100000694
+*041  $aara
+*245  $aRai al-Shaab
+*260  $aKhartoum, Sudan
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe National Security Service (NSS) domestic intelligence agency phoned the editors of 10 daily papers on 13 April and ordered them to henceforth submit all their content for prior approval under the censorship illegally reestablished on 6 February. But the papers all refused to comply and printed their editions in the normal way. The police then went to the printers and seized copies of "Ajras al-Huriyya", "Rai al-Shaab" and "Al-Ayyam" on 15 April. The editions of "Al-Sudani", "al-Ahdath", "Ajras al-Huriyya", "Rai al-Shaab" and the English-language daily "The Citizen" were seized on 16 April after several tens of thousands of copies had been printed. The four Arabic-language dailies had been warned not to report on the press conference held the day before by the editors of "Ajras al-Huriyya" criticising the new censorship, a local journalist told Reporters Without Borders.
+*506  $acopies seized
+$bthe police
+*518  $a15 and 16 April 2008
+$3newspaper
+*522  $aSudan
+*651  $a5259
+*691  $apolitical
+*692  $aseized
+^
+100000695
+*041  $aara
+*245  $aAl-Ayyam
+*260  $aKhartoum, Sudan
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe National Security Service (NSS) domestic intelligence agency phoned the editors of 10 daily papers on 13 April and ordered them to henceforth submit all their content for prior approval under the censorship illegally reestablished on 6 February. But the papers all refused to comply and printed their editions in the normal way. The police then went to the printers and seized copies of "Ajras al-Huriyya", "Rai al-Shaab" and "Al-Ayyam" on 15 April. The editions of "Al-Sudani", "al-Ahdath", "Ajras al-Huriyya", "Rai al-Shaab" and the English-language daily "The Citizen" were seized on 16 April after several tens of thousands of copies had been printed. The four Arabic-language dailies had been warned not to report on the press conference held the day before by the editors of "Ajras al-Huriyya" criticising the new censorship, a local journalist told Reporters Without Borders.
+*506  $acopies seized
+$bthe police
+*518  $a15 April 2008
+$3newspaper
+*522  $aSudan
+*651  $a5259
+*691  $apolitical
+*692  $aseized
+^
+100000696
+*041  $aara
+*245  $aAl-Sudani
+*260  $aKhartoum, Sudan
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe National Security Service (NSS) domestic intelligence agency phoned the editors of 10 daily papers on 13 April and ordered them to henceforth submit all their content for prior approval under the censorship illegally reestablished on 6 February. But the papers all refused to comply and printed their editions in the normal way. The police then went to the printers and seized copies of "Ajras al-Huriyya", "Rai al-Shaab" and "Al-Ayyam" on 15 April. The editions of "Al-Sudani", "al-Ahdath", "Ajras al-Huriyya", "Rai al-Shaab" and the English-language daily "The Citizen" were seized on 16 April after several tens of thousands of copies had been printed. The four Arabic-language dailies had been warned not to report on the press conference held the day before by the editors of "Ajras al-Huriyya" criticising the new censorship, a local journalist told Reporters Without Borders.
+*506  $acopies seized
+$bthe police
+*518  $a16 April 2008
+$3newspaper
+*522  $aSudan
+*651  $a5259
+*691  $apolitical
+*692  $aseized
+^
+100000697
+*041  $aara
+*245  $aal-Ahdath
+*260  $aKhartoum, Sudan
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe National Security Service (NSS) domestic intelligence agency phoned the editors of 10 daily papers on 13 April and ordered them to henceforth submit all their content for prior approval under the censorship illegally reestablished on 6 February. But the papers all refused to comply and printed their editions in the normal way. The police then went to the printers and seized copies of "Ajras al-Huriyya", "Rai al-Shaab" and "Al-Ayyam" on 15 April. The editions of "Al-Sudani", "al-Ahdath", "Ajras al-Huriyya", "Rai al-Shaab" and the English-language daily "The Citizen" were seized on 16 April after several tens of thousands of copies had been printed. The four Arabic-language dailies had been warned not to report on the press conference held the day before by the editors of "Ajras al-Huriyya" criticising the new censorship, a local journalist told Reporters Without Borders.
+*506  $acopies seized
+$bthe police
+*518  $a16 April 2008
+$3newspaper
+*522  $aSudan
+*651  $a5259
+*691  $apolitical
+*692  $aseized
+^
+100000698
+*041  $aeng
+*245  $aThe Citizen
+*260  $aKhartoum, Sudan
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe National Security Service (NSS) domestic intelligence agency phoned the editors of 10 daily papers on 13 April and ordered them to henceforth submit all their content for prior approval under the censorship illegally reestablished on 6 February. But the papers all refused to comply and printed their editions in the normal way. The police then went to the printers and seized copies of "Ajras al-Huriyya", "Rai al-Shaab" and "Al-Ayyam" on 15 April. The editions of "Al-Sudani", "al-Ahdath", "Ajras al-Huriyya", "Rai al-Shaab" and the English-language daily "The Citizen" were seized on 16 April after several tens of thousands of copies had been printed. The four Arabic-language dailies had been warned not to report on the press conference held the day before by the editors of "Ajras al-Huriyya" criticising the new censorship, a local journalist told Reporters Without Borders.
+*506  $acopies seized
+$bthe police
+*518  $a16 April 2008
+$3newspaper
+*522  $aSudan
+*651  $a5259
+*691  $apolitical
+*692  $aseized
+^
+100000699
+*041  $akur
+*245  $aRouji Ha Lat
+*260  $aSanandaj, Iran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aA criminal court in Sanandaj decided to close the Kurdish-language weekly "Rouji Ha Lat" for good on the grounds that it had received money from abroad. The court took the position that it broke the law by selling copies across the border in the Kurdish part of Iraq.
+*506  $aclosed
+$bSanandaj criminal court
+*518  $a11 April 2008
+$3weekly
+*522  $aIran
+*651  $a7327
+*691  $apolitical
+*692  $aclosed
+^
+100000700
+*041  $aira
+*245  $aRah Ayandeh
+*260  $aTehran, Iran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aOn 16 April a Tehran court ordered the suspension of the newspaper "Rah Ayandeh" in response to a complaint brought by the Ministry of Culture and Islamic Orientation's press department. The newspaper's next issue, its ninth, was to have been about Labour Day and the struggle of labour unions in Iran.
+*506  $asuspended
+$bTehran court
+*518  $a16 April 2008
+$3newspaper
+*522  $aIran
+*651  $a7327
+*691  $apolitical
+*692  $asuspended
+^
+100000701
+*041  $aara
+*245  $aAl-Maoukif
+*260  $aTunisia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aFour issues of the weekly Al-Maoukif have been seized since 14 March without any announcement by the authorities and without the staff being told. The newspaper said the seizures seem to have been prompted by articles about sensitive social issues such as increases in the prices of basic staples and the distribution of contaminated cooking oil.
+*506  $aseized
+$bthe authorities
+*518  $a14 March 2008
+$3weekly newspaper
+*522  $aTunisia
+*651  $a5362
+*691  $apolitical
+*692  $aseized
+^
+100000702
+*041  $aspa
+*245  $aEl Cinco
+*260  $aCiudad La Victoria, Mexico
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 21 April 2008 / Center for Journalism and Public Ethics (CEPET), Mexico City
+*505  $aEarly on 16 April 2008, armed men invaded the premises of "El Cinco" newspaper, based in Ciudad La Victoria, capital of Tamaulipas state, abducted the printer and threatened the other employees, in an effort to prevent the newspaper's distribution. The incident occurred only hours after individuals who had been presumed to be gang members robbed the two electricity meters in an effort to cut off power to the newspaper's facilities. The newspaper had recently denounced that individuals alleged to be state ministry police (Policías Ministeriales) had "confiscated" all copies of the newspaper already on the newsstands and at street crossings. In its electronic edition, "El Cinco" indicated the attacks were in retaliation for articles in which it had criticised the state government. The newspaper commented that the copies of the issue that it did manage to get to the stands after the abduction were bought from the vendors for more than the asking price, in order to prevent the issue from reaching the public.
+*506  $adistribution prevented
+$bthe state ministry police
+*518  $a16 April 2008
+$3newspaper
+*522  $aMexico
+*651  $a6243
+*691  $apolitical
+*692  $aseized
+^
+100000703
+*041  $aira
+*245  $aHambasteghi
+*260  $aTehran, Iran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 29 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aOn 28 April 2008, Iran's press surveillance commission ordered the conditional closure of reformist daily "Hambasteghi", on a complaint from the Ministry of Culture and Islamic Orientation.
+*506  $aclosed
+$bthe Ministry of Culture and Islamic Orientation
+*518  $a28 April 2008
+$3daily, newspaper
+*522  $aIran
+*651  $a7327
+*691  $apolitical
+*692  $aclosed
+^
+100000704
+*041  $aira
+*245  $aPaygam Borujerd
+*260  $aBorujerd, Iran
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 29 April 2008 / Reporters sans frontières (RSF), Paris
+*505  $aOn 19 April, the weekly "Paygam Borujerd" was suspended on the order of the general revolutionary court of the city of Borujerd, Lorestan province, in south-western Iran, following a complaint from the Ministry of Culture and Islamic Orientation. It related to the publication of an article by the son of a leading religious figure viewed as "offensive and insulting towards the people".
+*506  $asuspended
+$bgeneral revolutionary court of the city of Borujerd
+*518  $a19 April 2008
+$3weekly, newspaper
+*522  $aIran
+*651  $a7327
+*691  $apolitical
+*692  $asuspended
+^
+100000705
+*041  $aara
+*245  $aAjras Al-Huriyya
+*260  $aKhartoum, Sudan
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 3 June 2008 / Reporters sans frontières (RSF), Paris
+*505  $aAt around 1:30 a.m. (local time) on 2 June, a unit of the Sudanese security forces raided the Khartoum printing press that prints "Ajras Al-Huriyya" and ordered the suppression of an entire page of the 2 June issue. Since it was too late to replace the missing page, the editors decided not to print the newspaper. The security forces also asked "Ajras Al-Huriyya"'s staff to sign a previously-drafted statement undertaking not to published the censored content online or elsewhere. Such last-minute raids and the signing of previously-drafted undertakings are the new methods being used to prevent newspapers from appearing since censorship was illegally re-introduced on 6 February.
+*506  $asuppressed/publishing stopped
+$bSudanese security forces/the editors
+*518  $a2 June 2008
+$3newspaper
+*522  $aSudan
+*651  $a5259
+*691  $apolitical
+*692  $asuppressed/publishing stopped
+^
+100000706
+*041  $aamh
+*245  $aEnku
+*260  $aEthiopia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 5 May 2008 / Ethiopian Free Press Journalists' Association (EFJA), Addis Ababa
+*505  $aTen thousand copies of a non-political monthly magazine, "Enku", have been impounded by police and the publisher and deputy editor of the magazine, Alemayehu Mahtemework, imprisoned. The magazine was impounded on the night of 2 May, just before it was set to hit the market early on 3 May. The magazine's cover story is about the imprisonment of Ethiopia's pop icon and critic of the government, Tewdros Kasahun, which is stirring political passions in the country.
+*506  $aseized
+$bthe police
+*518  $a3 June 2008
+$3monthly magazine
+*522  $aEhiopia
+*651  $a5227
+*691  $apolitical
+*692  $aseized
+^
+100000707
+*041  $aeng
+*245  $aSunday Times
+*260  $aPerth, Western Australia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 8 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aSixteen members of the Major Fraud Squad carried out a raid on the headquarters of the "Sunday Times" in the centre of Perth on the afternoon of 30 April. The police blocked access to the building and searched the premises for four hours, examining files and searching everyone who left. The newspaper's editor, Sam Weir, was interrogated for an hour. Documents were seized with the aim of establishing who leaked the information for a 10 February report in the newspaper that the state government's treasurer (finance minister), Eric Ripper, had proposed that 10 million euros be allocated to "strategic advertising campaigns." The article claimed that the money was to be used to finance the reelection campaign of the state's Labour Party government, led by Alan Carpenter.
+*506  $adocuments seized
+$bthe Major Fraud Squad
+*518  $aApril 30 2008
+$3a tabloid weekly
+*522  $aAustralia
+*651  $a9012
+*691  $apolitical 
+*692  $adocuments seized
+^
+100000708
+*041  $afre
+*245  $aJeune Afrique
+*260  $aAlgeria
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe government of Algeria decided to ban distribution of the 4 May 2008 issue of the Paris-based news weekly "Jeune Afrique", which has an article on the Algerian region of Kabylie. This is not the first time "Jeune Afrique" has been censored by the Algerian government. An issue with a story about Algerian businessman Rafik Abdelmoumen Khalifa was banned from sale in March 2007. In February 2004, a few weeks before the last presidential election, the authorities also banned an issue with a report headlined "Who the generals are voting for."
+*506  $adistribution banned
+$bthe government
+*518  $a4 May 2008
+$3weekly
+*522  $aAlgeria
+*651  $a5311
+*691  $apolitical
+*692  $adistribution banned
+^
+100000709
+*041  $aara
+*245  $aFuture TV
+*260  $aLebanon
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aHezbollah launched armed attacks and threats against four news media owned by the family of Saad Hariri, the head of Future Movement, the anti-Syrian majority party in the Lebanese parliament. All four news media - the terrestrial and satellite TV station Future TV, satellite TV news channel Future News, the daily newspaper "Al-Mustakbal"
+and Radio Orient - were forced to stop operating on 9 May 2008.
+*506  $astopped
+$bHezbollah
+*518  $a9 May 2008
+$3TV station
+*522  $aLebanon
+*651  $a7334
+*691  $apolitical
+*692  $astopped
+^
+100000710
+*041  $aara
+*245  $aFuture News
+*260  $aLebanon
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aHezbollah launched armed attacks and threats against four news media owned by the family of Saad Hariri, the head of Future Movement, the anti-Syrian majority party in the Lebanese parliament. All four news media - the terrestrial and satellite TV station Future TV, satellite TV news channel Future News, the daily newspaper "Al-Mustakbal"
+and Radio Orient - were forced to stop operating on 9 May 2008.
+*506  $astopped
+$bHezbollah
+*518  $a9 May 2008
+$3satellite TV news channel 
+*522  $aLebanon
+*651  $a7334
+*691  $apolitical
+*692  $astopped
+^
+100000711
+*041  $aara
+*245  $aAl-Mustakbal
+*260  $aLebanon
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aHezbollah launched armed attacks and threats against four news media owned by the family of Saad Hariri, the head of Future Movement, the anti-Syrian majority party in the Lebanese parliament. All four news media - the terrestrial and satellite TV station Future TV, satellite TV news channel Future News, the daily newspaper "Al-Mustakbal"
+and Radio Orient - were forced to stop operating on 9 May 2008.
+*506  $astopped
+$bHezbollah
+*518  $a9 May 2008
+$3newspaper
+*522  $aLebanon
+*651  $a7334
+*691  $apolitical
+*692  $astopped
+^
+100000712
+*041  $aara
+*245  $aRadio Orient
+*260  $aLebanon
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aHezbollah launched armed attacks and threats against four news media owned by the family of Saad Hariri, the head of Future Movement, the anti-Syrian majority party in the Lebanese parliament. All four news media - the terrestrial and satellite TV station Future TV, satellite TV news channel Future News, the daily newspaper "Al-Mustakbal"
+and Radio Orient - were forced to stop operating on 9 May 2008.
+*506  $astopped
+$bHezbollah
+*518  $a9 May 2008
+$3Radio station
+*522  $aLebanon
+*651  $a7334
+*691  $apolitical
+*692  $astopped
+^
+100000713
+*041  $aara
+*245  $aAl-Liwaa
+*260  $aLebanon
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aAl-Liwaa daily and Al-Shira' magazine were also forced to stop their work after Hezbollah's armed attacks and threats against Future TV, Future News, "Al-Mustakbal" and Radio Orient - they all were forced to stop operating on 9 May 2008.
+*506  $astopped
+$bHezbollah
+*518  $a9 May 2008
+$3daily
+*522  $aLebanon
+*651  $a7334
+*691  $apolitical
+*692  $astopped
+^
+100000714
+*041  $aara
+*245  $aAl-Shira
+*260  $aLebanon
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aAl-Liwaa daily and Al-Shira' magazine were also forced to stop their work after Hezbollah's armed attacks and threats against Future TV, Future News, "Al-Mustakbal" and Radio Orient - they all were forced to stop operating on 9 May 2008.
+*506  $astopped
+$bHezbollah
+*518  $a9 May 2008
+$3magazine 
+*522  $aLebanon
+*651  $a7334
+*691  $apolitical
+*692  $astopped
+^
+100000715
+*041  $aspa
+*245  $aProceso
+*260  $aSonora, Mexico
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 15 May 2008 / ARTICLE 19, London; National Center for Social Communication (CENCOS), Mexico City
+*505  $aDistribution of the 27 April 2008 edition of the weekly magazine "Proceso" was deliberately impeded through the mass purchasing of copies, between 27 April and 1 May, before they reached the public. The issue bore on its cover a picture of Sonora state governor Eduardo Bours under the headline "Drug power in Sonora", and contained a report on governor's wealth, his abuse of power to benefit his family's businesses, and the possible involvement of these businesses in drug-trafficking and money laundering."Proceso" reports that individuals identifying themselves as government employees purchased 3530 copies of the edition directly from the company responsible for its distribution. A few copies that somehow made it to local newsstands were also quickly purchased en masse before ordinary members of the public could buy individual copies. In January 2007, an edition of the magazine "Contralínea" was seized by Sonoran authorities because of an article alleging similar misconduct by the same governor. In October 2007, in Guanajuato state, there was a similar mass purchasing of an edition of "Proceso" that carried a report on the business dealings of former president Fox's in-laws, the Bribiesca family.
+*506  $aseized
+$bgovernment employees
+*518  $a27 April 2008
+$3weekly magazine
+*522  $aMexico
+*651  $a6243
+*691  $apolitical
+*692  $aseized
+^
+100000716
+*041  $a
+*245  $aAl-Wasat
+*260  $aYemen
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 16 May 2008 / ARTICLE 19, London
+*505  $aLast week a West Sana'a court revoked the ban of Al-Wasat and requested the Minister of Information Mr. Hassan Al-Lawzi to pay $250 compensation to newspaper editor Mr Jamal Amer for having illegitimately banned Al-Wasat. However ARTICLE 19 is concerned to learn about allegations made by the Al-Wasat on 7 May that publishing houses have been ordered by the Ministry of Information not to print the newspaper.
+*506  $aban revoked
+$ba West Sana'a court
+*518  $aMay 2008
+$3newspaper
+*522  $aYemen
+*651  $a7355
+*691  $apolitical
+*692  $aban revoked
+^
+100000718
+*041  $a141
+*245  $aAlwan
+*260  $aSudan
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 20 May 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe National Intelligence and Security Service's closed the independent daily newspaper "Alwan" on 14 May 2008 for an indefinite period. The censorship of the privately-owned press began in February after they ran reports referring to government support for an offensive by Chadian rebels against N'Djamen.
+*506  $aclosed
+$bthe National Intelligence and Security Service
+*518  $a14 May 2008
+$3daily newspaper
+*522  $aSudan
+*651  $a5259
+*691  $apolitical
+*692  $aclosed
+^
+100000719
+*041  $aeng
+*245  $aCambodia Daily/Burma Daily
+*260  $aPhnom Penh, Cambodia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 21 May 2008 / Southeast Asian Press Alliance (SEAPA), Bangkok
+*505  $aThe English-Khmer newspaper "Cambodia Daily" has had to stop publishing a pullout on Burma after authorities confiscated that section for two consecutive days, warning that a suspension would soon follow.
+"Cambodia Daily" started the pullout, called the "Burma Daily", on 16 May 2008, "to introduce to the Burmese people what a free and responsible newspaper looks like", its publisher Bernard Krisher was quoted as saying by the press. However, the Information Ministry said the pullout, which had the same masthead as the main paper except for the title, required a separate licence and ordered its confiscation on 19 May. Police continued to seize the pullout from newsstands the following day as Information Minister Khieu Kanharith said the publication could harm relations between Cambodia and Burma. "Cambodia Daily" was later threatened with an immediate 30-day suspension, said the Cambodian Association for the Protection of Journalists (CAPJ), a SEAPA partner, which issued a statement on 21 May deploring the seizure. Vendors said some officers even took the whole paper away, according to press reports.
+*506  $aconfiscated
+$bthe Information Ministry 
+*518  $a19-20 May 2008
+$3pullout of newspaper
+*522  $aCambodia
+*651  $a7520
+*691  $apolitical
+*692  $aconfiscated
+^
+100000720
+*041  $aman
+*245  $aNew Travel Weekly
+*260  $aChongqing, China
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 22 May 2008 / International Federation of Journalists (IFJ), Brussels
+*505  $aChinese authorities have suspended publication of the magazine New Travel Weekly and forced the dismissal of its editorial staff over coverage of last week's earthquake in Sichuan province after failing to carry mourning messages in the manner laid out in propaganda directives. In its issue dated May 19, the magazine instead published photos of models with red ink on their bodies standing in front of sites of destruction, under the title "Disaster Areas Reborn".
+*506  $asuspended
+$bthe Central Publicity Department, the Chinese government propaganda unit
+*518  $a20 May 2008
+$3weekly magazine
+*522  $aChina
+*651  $a7117
+*691  $apolitical
+*692  $asuspended
+^
+100000721
+*041  $afre
+*245  $aLa Croisade
+*260  $aConakry, Guinea
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 27 May 2008 / Media Foundation for West Africa (MFWA), Accra
+*505  $aOn 19 May 2008, the National Communication Council (CNC), Guinea's media regulator, suspended "La Croisade", a privately-owned Conakry-based newspaper, for two months for publishing an alleged falsehood. The newspaper will be out of circulation until 19 July. MFWA's correspondent reported that the sanctions followed a complaint filed against the newspaper by Kadatou Seth Conte, the second wife of Guinea's President General Lasana Conte.
+*506  $asuspended 
+$bthe National Communication Council (CNC)
+*518  $a19 May - 19 July 2008
+$3newspaper
+*522  $aGuinea
+*651  $a5531
+*691  $apolitical
+*692  $asuspended
+^
+100000722
+*041  $anep
+*245  $aKailali newspapers
+*260  $aKailali, Nepal
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 2 June 2008 / Federation of Nepali Journalists (FNJ), Kathmandu
+*505  $aNewspapers of Kailali, a far western region of Nepal, suspended operations indefinitely on 29 May 2008, accusing the state of failing to ensure the safety of journalists and other media workers.
+*506  $asuspended
+$beditors and publishers
+*518  $a29 May 2008
+$3newspapers
+*522  $aNepal
+*651  $a7439
+*691  $apolitical
+*692  $asuspended
+^
+100000723
+*041  $aspa
+*245  $aLa Verdad
+*260  $aHonda, Colombia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 16 June 2008 / International Federation of Journalists (CESO-IFJ), Brussels
+*505  $aOn 14 June 2008, at 2:20 p.m. (local time) in the national capital, Bogotá, journalist Pedro Antonio Cárdenas, the director, editor and distributor of La Verdad, was stopped by two men travelling on a motorcycle. After pointing a revolver at him, they threw him to the ground and beat him, ordering him to stop circulating his magazine in the city of Honda, in Tolima department. The incident took place downtown, half a block from a mobile police station, immediately after the government-appointed bodyguards who have been protecting him for several months left him temporarily. Due to the incident, "La Verdad" was not distributed in Honda. In a special insert in "La Verdad"'s most recent edition, Cárdenas had reported on the alleged ties and business dealings of various current and former Honda city councillors with "El Costeño", the commander of the Omar Izasa front of Autodefensas Unidas de Colombia del Magdalena Medio, a paramilitary group operating in the valley surrounding the middle section of the Magdalena River, which courses through central Colombia to the Caribbean coast.
+*506  $adistribution stopped
+$bthe director
+*518  $a14 June 2008
+$3magazine
+*522  $aColombia
+*651  $a6425
+*691  $apolitical
+*692  $adistribution stopped
+^
+100000724
+*041  $aspa
+*245  $aa.m.
+*260  $aGuanajuato, Mexico 
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 June 2008 / Inter American Press Association (IAPA), Miam 
+*505  $aThe Inter American Press Association
+(IAPA) on 16 June charged the state government of Guanajuato in Mexico for discrimination against the newspapers "a.m." and "Correo" in its placement of official advertising, in addition to insulting them and refusing to provide them with information. The state government's actions were seen as revenge for the papers' critical editorial stance.
+*506  $adiscriminated against
+$bthe state government of Guanajuato
+*518  $a16 June 2008
+$3newspaper
+*522  $aMexico
+*651  $a6243
+*691  $apolitical
+*692  $adiscriminated against
+^
+100000725
+*041  $aspa
+*245  $aCorreo
+*260  $aGuanajuato, Mexico 
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 June 2008 / Inter American Press Association (IAPA), Miam 
+*505  $aThe Inter American Press Association
+(IAPA) on 16 June charged the state government of Guanajuato in Mexico for discrimination against the newspapers "a.m." and "Correo" in its placement of official advertising, in addition to insulting them and refusing to provide them with information. The state government's actions were seen as revenge for the papers' critical editorial stance.
+*506  $adiscriminated against
+$bthe state government of Guanajuato
+*518  $a16 June 2008
+$3newspaper
+*522  $aMexico
+*651  $a6243
+*691  $apolitical
+*692  $adiscriminated against
+^
+100000726
+*041  $aurd
+*245  $aPakistan Times USA
+*260  $aHouston, USA
+$c2008
+*500  $a	 18 June 2008 / Committee to Protect Journalists (CPJ), New York 
+*505  $aThe publisher and editor of an Urdu-language newspaper in Houston, Pakistan Times USA, has received telephoned death threats, and thousands of copies of the free weekly were removed in bulk from dozens of locations in southeastern Texas. The threats and theft of the papers came after the Pakistan Times USA published an advertisement by the Ahmadiyya Muslim Community, a sect deemed heretical by some Muslims. Pakistan Times USA ran the advertisement on Thursday, May 22. The following day some Islamic clerics at local mosques in Houston denounced the paper for running the ad by the Ahmadiyya Muslim Community, Ali told CPJ.
+*506  $aseized
+$bunknown
+*518  $aMay 2008
+$3weekly newspaper
+*522  $aUSA
+*651  $a6357
+*691  $areligious
+*692  $acopies seized
+^
+100000727
+*041  $arus
+*245  $aThe eXile
+*260  $aMoscow, Russia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 20 June 2008 / Committee to Protect Journalists (CPJ), New York 
+*505  $aThe alternative English-language biweekly "The eXile" in Moscow announced on its Web site last week that it was forced to shut down after nervous investors withdrew support in the wake of a politicized audit of its content. Investors withdrew support after the publication's content was audited June
+5 by officers from Rossvyazokhrankultura, the state media regulatory agency.
+*506  $ashut down
+$bthe owners
+*518  $a2008
+$3biweekly newspaper
+*522  $aRussia
+*651  $a8064
+*691  $apolitical
+*692  $ashut down
+^
+100000728
+*041  $aeng
+*245  $aThe Crocodile of Zambezi
+*260  $aBulawayo, Zimbabwe
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 20 June 2008 / Writers in Prison Committee (WiPC), International PEN, London  
+*505  $aThe satirical play "The Crocodile of Zambezi" was banned by police in Bulawayo in May 2008.
+*506  $abanned
+$bthe police
+*518  $aMay 2008
+$3play
+*522  $aZimbabwe
+*651  $a5467
+*691  $apolitical
+*692  $abanned
+^
+100000729
+*041  $aeng
+*245  $aThe Zimbabwean
+*260  $aHarare, Zimbabwe
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 23 June 2008 / Media Institute of Southern Africa (MISA), Windhoek 
+*505  $aWilf Mbanga, the publisher of "The Zimbabwean", says the Zimbabwe Revenue Authority (ZIMRA) has refused to release a consignment of 60,000 copies of the weekly independent newspaper. Mbanga said copies of the 19 June edition of the newspapers had been flown into Harare by a commercial carrier for distribution. ZIMRA told the local distributor that the order to impound the newspapers had come from the ruling Zanu PF party. This comes hard on the heels of the burning of 60,000 copies as well as a distribution truck of the "The Zimbabwean on Sunday" newspaper on 25 May. These incidents took place as Zimbabwe was preparing for an election run-off, from which the opposition party, Movement for Democratic Change (MDC), has pulled out of because of violence and intimidation.
+*506  $aseized
+$bZanu PF party
+*518  $a19 June 2008
+$3newspaper
+*522  $aZimbabwe
+*651  $a5467
+*691  $apolitical
+*692  $aseized
+^
+100000730
+*041  $aeng
+*245  $aThe Zimbabwean on Sunday
+*260  $aHarare, Zimbabwe
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 23 June 2008 / Media Institute of Southern Africa (MISA), Windhoek 
+*505  $a 60,000 copies as well as a distribution truck of the "The Zimbabwean on Sunday" newspaper was burned on 25 May. This incident took place as Zimbabwe was preparing for an election run-off, from which the opposition party, Movement for Democratic Change (MDC), has pulled out of because of violence and intimidation.
+*506  $aseized
+$bZanu PF party (?)
+*518  $a25 May 2008
+$3newspaper
+*522  $aZimbabwe
+*651  $a5467
+*691  $apolitical
+*692  $acopies burned
+^
+100000731
+*041  $arus
+*100  $aShmakov, Viktor
+$eeditor in chief
+*245  $aProvintsialnye Vesti (Provincial News)
+*260  $aUfa
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 3 July 2008 / Committee to Protect Journalists (CPJ), New York
+*505  $aTwo journalists in Russia's Bashkortostan Republic have been convicted under the country's vague extremism law. Each has been sentenced to serve a suspended two-year prison term. Their newspaper has been shuttered. On June 25,
+the Kirov District Court in the regional capital of Ufa, in the central Russian Republic of Bashkortostan, convicted and sentenced Viktor Shmakov,editor-in-chief of the independent newspaper Provintsialnye Vesti (Provincial News), and contributing writer Airat Dilmukhametov, according to the official Web site of the Prosecutor's Office of the Republic of Bashkortostan. The two were convicted of violating the Constitution of the Russian Federation, and breaking laws on media and extremism. Shmakov told CPJ that the Kirov District
+Court ordered Provintsialnye Vesti to close in early June at the request of the local prosecutors; authorities claimed the newspaper violated media and extremism legislation by allegedly committing technical violations - such as
+failing to send free copies to state agencies and not publishing on a regular basis - and publishing extremist materials. Shmakov told CPJ he will appeal the verdict.
+*506  $aclosed
+$bKirov District Court
+*518  $aJune 2008
+$3newspaper
+*522  $aRussia
+*651  $a8064
+*691  $apolitical
+*692  $aclosed
+^
+100000732
+*041  $aara
+*245  $aAl-Hayat
+*260  $aLondon
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org,
+18 July 2008 / Reporters sans frontières (RSF), Paris
+*505  $aSyrian government banned the distribution of the 15 July 2008 issue of the London-based daily "Al-Hayat". According to the news website Elaph ( http://www.elaph.com ), it was prompted by an article by Saudi journalist DaoudAl-Sharayan criticising the position taken by President Bashar el-Assad during his visit to France for the launch of the Union for the Mediterranean
+*506  $adistribution banned
+$bSyrian government
+*518  $a15 July 2008
+$3newspaper
+*522  $aSyria
+*651  $a7348
+*691  $apolitical
+*692  $abanned
+$aAl-Sharayan, Daoud
+$ejournalist
+^
+100000733
+*041  $anep
+*245  $aKantipur
+*260  $aParsa, Nepal
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 30 July 2008 / Federation of Nepali Journalists (FNJ), Kathmandu *505  $aon 27 July, the Madhesi Jana Adhikar Forum (MJAF) district committee issued a press release prohibiting the sale and distribution of the "Kantipur" and "Annapurna Post" daily newspapers in Parsa, a Terai district located in central Nepal.According to KC Lamichhane, secretary of FNJ's Parsa chapter, MJAF district secretary Umesh Salal Sahani criticised the two national dailies for not reporting on the MJAF's "banda" (national strike) programme in Parsa district. On 28 July, MJAF supporters collected all copies of the dailies and set fire to them at Ghantaghar, Birgunj, Parsa district headquarters.
+*506  $asale prohibited
+$bMadhesi Jana Adhikar Forum (MJAF) district committee
+*518  $a27 July 2008
+$3newspaper
+*522  $aNepal
+*651  $a7439
+*691  $apolitical
+*692  $asale prohibited
+^
+100000734
+*041  $anep
+*245  $aAnnapurna Post
+*260  $aParsa, Nepal
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org,
+27 July 2008 / Federation of Nepali Journalists (FNJ), Kathmandu
+*505  $aThe Madhesi Jana Adhikar Forum (MJAF) district committee issued a press release prohibiting the sale and distribution of the "Kantipur" and "Annapurna Post" daily newspapers in Parsa, a Terai district located in central Nepal. According to KC Lamichhane, secretary of FNJ's Parsa chapter, MJAF district secretary Umesh Salal Sahani criticised the two national dailies for not reporting on the MJAF's "banda" (national strike) programme in Parsa district. On 28 July, MJAF supporters collected all copies of the dailies and set fire to hem at Ghantaghar, Birgunj, Parsa district headquarters.
+*506  $aSale prohibited
+$bMadhesi Jana Adhikar Forum (MJAF) district committee
+*518  $a27 July 2008
+$3newspaper
+*522  $aNepal
+*651  $a7439
+*691  $apolitical
+*692  $asale prohibited
+^
+100000735
+*041  $anep
+*245  $aKathmandu Post
+*260  $aKathmandu
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org,
+8 August 2008 / Federation of Nepali Journalists (FNJ), Kathmandu
+*505  $aThe president of FNJ's Dhankuta chapter, Bijaya Santoshi Rai, reported that members of the youth wing of the Communist Party of Nepal-United Marxist Leninist (CPN-UML) intercepted a  Kantipur Publications vehicle at around 8:00 a.m. (local time) on 7 August. The youths seized about 500 copies of the "Kathmandu Post" and "Kantipur"dailies, which they accuse of biased reporting against the ir group. The group also threatened "Kathmandu Post" reporter Ramesh Chandra Adhikari, also accusing him of collecting and disseminating information biased against them. The two newspapers had reported allegations of illegal tax collection carried out in the region by several groups, including the youth group.After the intervention of the FNJ's local chapter, the youth agreed to return the newspapers they had seized in the evening.
+*506  $aseized
+$bThe youth wing of the Communist Party of Nepal-United Marxist Leninist
+(CPN-UML)
+*518  $a7 August 2008
+$3newspaper
+*522  $aNepal
+*651  $a7439
+*691  $apolitical
+*692  $aseized
+^
+100000736
+*041  $anep
+*245  $aKantipur
+*260  $aKathmandu, Nepal
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org,
+8 August 2008 / Federation of Nepali Journalists (FNJ), Kathmandu
+*505  $athe president of FNJ's Dhankuta chapter, Bijaya Santoshi Rai, reported that members of the youth wing of the Communist Party of Nepal-United Marxist Leninist (CPN-UML) intercepted a Kantipur Publications vehicle at around 8:00 a.m. (local time) on 7 August. The youths seized about 500 copies of the "Kathmandu Post" and "Kantipur" dailies, which they accuse of biased reporting against their group. The group also threatened "Kathmandu Post" reporter Ramesh Chandra Adhikari, also accusing him of collecting and disseminating information biased against them. The two newspapers had reported allegations of illegal tax
+collection carried out in the region by several groups, including the youth group.After the intervention of the FNJ's local chapter, t he youth agreed to return the newspapers they had seized in the evening.
+*506  $aseized
+$bThe youth wing of the Communist Party of Nepal-United Marxist Leninist
+(CPN-UML)
+*518  $a7 August 2008
+$3newspaper
+*522  $aNepal
+*651  $a7439
+*691  $apolitical
+*692  $aseized
+^
+100000737
+*041  $aara
+*245  $aAddustour
+*260  $aCairo
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 12 August 2008 / Arabic Network for Human Rights Information (ANHRI), Cairo
+*505  $aSecurity service agents recently confiscated copies of the independent newspapers "Addustour" and "Al Badil" from stores, following the newspapers'publication of a story about an Egyptian businessman's connection to the murder of the well-known Lebanese singer Suzanne Tamim in Dubai, a city in the United Arab Emirates.
+*506  $aconfiscated
+$bSecurity service agents
+*518  $aAugust 2008
+$3newspaper
+*522  $aEgypt
+*651  $a5325
+*691  $apolitical
+*692  $aconfiscated
+^
+100000738
+*041  $aara
+*245  $aAl Badil
+*260  $aCairo, Egypt
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 12 August 2008 / Arabic Network for Human Rights Information (ANHRI), Cairo
+*505  $aSecurity service agents recently confiscated copies of the independent newspapers "Addustour" and "Al Badil" from stores, following the newspapers' publication of a story about an Egyptian businessman's connection to the murder of the well-known Lebanese singer Suzanne Tamim in Dubai, a city in the United Arab Emirates.
+*506  $aconfiscated
+$bSecurity service agents
+*518  $aAugust 2008
+$3newspaper
+*522  $aEgypt
+*651  $a5325
+*691  $apolitical
+*692  $aconfiscated
+^
+100000739
+*041  $abur
+*245  $aCherry Magazine
+*260  $aRangoon, Myanmar
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org,
+14 August 2008 / Mizzima News, New Delhi
+*505  $aThe Burmese Press Scrutiny Board's delay in reviewing the articles in "Cherry Magazine" forced the Rangoon-based monthly to skip its August 2008 issue. The August issue, scheduled for publication by the end of July, was released only on 12 August, prompting the publisher to designate it as the September 2008 issue instead.
+*506  $areview delayed
+$bBurmese Press Scrutiny Board
+*518  $aAugust 2008
+$3monthly magazine
+*522  $aMyanmar
+*651  $a7516
+*691  $apolitical
+*692  $areview delayed
+^
+100000740
+*041  $aspa
+*245  $aExtra
+*260  $aBaixada Fluminese region of Rio de Janeiro state
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org,
+1 October 2008 / Brazilian Investigative Journalism Association (ABRAJI), São Paulo
+*505  $aOn 28 September 2008, a group of armed men bought 30,000 copies of the "Extra" newspaper in the Baixada Fluminese region of Rio de Janeiro state, in order to stop the newspaper from reaching the public. The newspaper's front page carried a story entitled, "Campaigning members of congress lie in order to safeguard salary of R$13,000 [approx. US$6,800]."
+*506  $adistribution obstructed
+$bgroup of armed men
+*518  $a28 September 2008
+$3newspaper
+*522  $aBrazil
+*651  $a6420
+*691  $apolitical
+*692  $adistribution obstructed
+^
+100000741
+*041  $atur
+*245  $aBirgün
+*260  $aIstanbul, Turkey
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 19 August 2008 / Initiative for Freedom of Expression (Antenna-TR), Istanbul
+*505  $a"Birgün" daily newspaper has been ordered confiscated. The Istanbul High Criminal Court Number 12 ordered the confiscation of "Birgün" newspaper over an interview done by Hakan Tahmaz with a leader of the PKK Murat Karayilan, in Mount Kandil. The report, entitled "Unilateral Ceasefire Aggravates the problem", was published on 9 August. The newspaper was ordered confiscated for "publishing a statement of the PKK", an offence under Anti-Terror Law article
+6/2.
+*506  $aconfiscated
+$bIstanbul High Criminal Court Number 12
+*518  $a9 August 2008
+$3newspaper
+*522  $aTurkey
+*651  $a8048
+*691  $apolitical
+*692  $aconfiscated
+^
+100000742
+*041  $aeng
+*245  $aGreater Kashmir
+*260  $aKashmir
+$c2003
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org,
+26 August 2008 / Reporters sans frontières (RSF), Paris
+*505  $aAt least 13 journalists were beaten by police on 24 August 2008 in Srinagar, local TV stations are being censored and a curfew is making it hard for newspapers to bring out their issues. The curfew prevented the publication of regional newspapers on 25 August, including the daily "Greater Kashmir", which posted this message on itswebsite: "Due to unavoidable circumstances, the print edition of 'Greater Kashmir' will not be on the stands on 25 August. We regret the inconvenience to our readers. This was the first time in the past decade that 'GK' staffers could not reach the office due to restrictions."
+*506  $acurfew prevented publication
+$bIndian authorities
+*518  $a25 August 2008
+$3newspaper
+*522  $aIndian Kashmir
+*651  $a7425
+*691  $apolitical
+*692  $aprevented publication by curfew
+^
+100000743
+*041  $aara
+*245  $aAl-Badeel
+*260  $aCairo
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 27 August 2008 / Arabic Network for Human Rights Information (ANHRI), Cairo
+*505  $aOn 20 August 2008 Al Ahram Press refused to print the second edition of "Al-Badeel" daily independent newspaper. The press's decision came on the heels of the newspaper's coverage of a fire in al-Shoura  Council, which included comments by experts suggesting that "the fire was deliberately set".
+*506  $aprinting refused
+$bAl Ahram Press
+*518  $a20 August 2008
+$3newspaper
+*522  $aEgypt
+*651  $a5325
+*691  $apolitical
+*692  $aprinting refused
+^
+100000744
+*041  $aspa
+*245  $aPlayboy
+*260  $aRio de Janeiro
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 29 August 2008 / Institute for Press and Society (IPYS), Lima
+*505  $aRio de Janeiro judge Osvaldo Freixinho ordered the Brazilian version of "Playboy" magazine to recall its August issue which contained a photograph of actress Carol Castro, semi-nude and posing with a rosary. The recall was requested by the Rio-based Pela Vida Catholic youth institute and a priest from Goiás identified as Lodi.
+*506  $aordered to recall issue
+$bRio de Janeiro judge Osvaldo Freixinho
+*518  $aAugust 2008
+$3magazine
+*522  $aBrazil
+*651  $a6420
+*691  $areligious
+*692  $aordered to recall issue
+^
+100000745
+*041  $afre
+*245  $a24 Heures Chrono
+*260  $aDakar, Senegal
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 2 September 2008 / Media Foundation for West Africa (MFWA), Accra
+*505  $aOn 28 August 2008, the Senegalese police stormed the premises of "24 Heures Chrono", a privately-owned, Dakar-based daily newspaper, sealed off its offices and arrested El Malick Seck, the editor-in-chief. The police also seized the 28 August edition of the publication. A MFWA correspondent reported that the closure of the "24 Heures Chrono" and the subsequent arrest of its editor followed the lead story of the day linking President Abdoulaye Wade and his son, Abdul Karim Wade, to a case of money laundering.
+*506  $aseized
+$bThe Senegalese police
+*518  $a28 August 2008
+$3newspaper
+*522  $aSenegal
+*651  $a5554
+*691  $apolitical
+*692  $aseized
+$aEl Malick Seck
+$eeditor-in-chief
+^
+100000746
+*041  $aeng
+*245  $aThe Citizen
+*260  $aJuba, Sudan
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org,
+4 September 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe National Press and Publications Council (NPPC) decided on 1 September 2008 to suspend two privately-owned English-language national dailies based in the south of the country, "The Citizen" and "Sudan Tribune", for an
+indefinite period. The NPPC claims that, by choosing to be based in Juba, the capital of the semi-autonomous south, the editors of the two newspapers are violating their licences, which require them to be in Khartoum.
+*506  $asuspended
+$bNational Press and Publications Council (NPPC)
+*518  $a1 September 2008
+$3newspaper
+*522  $aSudan
+*651  $a5259
+*691  $apolitical
+*692  $asuspended
+^
+100000747
+*041  $aeng
+*245  $aSudan Tribune
+*260  $aJuba, Sudan
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 4 and 8 September 2008 / Reporters sans frontières (RSF), Paris
+*505  $aThe National Press and Publications Council (NPPC) decided on 1 September 2008 to suspend two privately-owned English-language national dailies based in the south of the country, "The Citizen" and "Sudan Tribune", for an indefinite period. In a letter to the "Sudan Tribune" on 1 September, the NPPC said it was closing the newspaper for "administrative" reasons. The NPPC claims that, by choosing to be based in Juba, the capital of the semi-autonomous south, the editors of the two newspapers are violating their licences, which require
+them to be in Khartoum. The suspension was lifted on 4 September 2008
+*506  $asuspended
+$bNational Press and Publications Council (NPPC)
+*518  $a1 September 2008
+$3newspaper
+*522  $aSudan
+*651  $a5259
+*691  $apolitical
+*692  $asuspended
+^
+100000748
+*041  $aspa
+*245  $aEl Periódico
+*260  $aPanama
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 September 2008 / Committee to Protect Journalists (CPJ), New York
+*505  $aA Panamanian civil court on Friday decided to order the seizure of assets belonging to the weekly newspaper El Periódico, as well as portions of two staff members' salaries. The ruling came after the publication ran a story on alleged tax evasion by a local real estate tycoon. Judge María Leticia Cedeño Suira with the Eleventh Civil Court of the First Judicial district in PanamaCity ordered the confiscation of US$1.1 million of El Periódico's assets, according to local news reports. The seizure included the premises of Editora Gráfica del Pacífico, S.A., the company that owns the weekly, El Periódico's bank accounts, and 15 percent of the wages of Omar Wong, the paper's director, and one of its journalists, according to the daily La Prensa. The judge's decision stemmed from a lawsuit filed by Panamanian real state mogul Herman Bern after Panama City-based El Peródico published an investigative piece on September 1, titled "Pobre Millonario" (Poor Millionaire), which included a copy of Bern's 2007 tax return. El Periódico said it had obtained Bern's tax filings
+through an anonymous reader.
+*506  $aassets seized
+$bPanamanian civil court
+*518  $a5 September 2008
+$3weekly newspaper
+*522  $aPanama
+*651  $a6246
+*691  $apolitical
+*692  $aseized
+^
+100000749
+*041  $afre
+*245  $aLa Vérité
+*260  $aConakry, Guinea
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 18 September 2008 / Media Foundation for West Africa (MFWA), Accra
+*505  $aOn 15 September 2008, the National Communications Council (CNC), the media regulatory body in Guinea, suspended "La Vérité", a Conakry-based weekly newspaper, for three months for allegedly using "offensive language" that the CNC said could "undermine the honour and dignity" of the public. The newspaper will be out of circulation until 15 December. In its 12 September edition, "La Vérité" published an article headlined, "Gentlemen's agreement broken!" The article claimed that a minister, whose name was not mentioned, had done a disservice to the country and referred to an "axis of evil especially as a public insulter and an expert in dirty jobs and intrigues", which the CNC found to be insulting to the public.
+*506  $asuspended
+$bNational Communications Council (CNC)
+*518  $a15 September 2008
+$3weekly newspaper
+*522  $aGuinea
+*651  $a5531
+*691  $amoral
+*692  $asuspended
+^
+100000750
+*041  $atur
+*245  $aAlternatif
+*260  $aIstanbul, Turkey
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 29 September 2008 / Initiative for Freedom of Expression (Antenna-TR), Istanbul
+*505  $aThe Istanbul High Criminal Court No. 9 has seized copies of "Alternatif" newspaper and has suspended its publication for one month. The paper, which began publishing in May 2008, is accused of violating Article 25/2 of the Press Law for "publishing the statements of the PKK/KONGRA-GEL organisation".
+*506  $asuspended
+$bIstanbul High Criminal Court No. 9
+*518  $aSeptember 2008
+$3newspaper
+*522  $aTurkey
+*651  $a8048
+*691  $apolitical
+*692  $asuspended
+^
+100000751
+*041  $atur
+*245  $aKizillasan Özgür Halk
+*260  $aIstanbul, Turkey
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 29 September 2008 / Initiative for Freedom of Expression (Antenna-TR), Istanbul
+*505  $aFollowing the seizure of "Alternatif" newspaper, another periodical, the monthly "Kizillasan Özgür Halk", was closed down for a month by the Istanbul High Criminal Court on the grounds of "making propaganda for an illegal organisation".
+*506  $aclosed
+$bIstanbul High Criminal Court
+*518  $aSeptember 2008
+$3periodical
+*522  $aTurkey
+*651  $a8048
+*691  $apolitical
+*692  $aclosed
+^
+100000752
+*041  $achi
+*245  $aChina Business Post
+*260  $aChina
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 30 September 2008 / International Federation of Journalists (IFJ), Brussels
+*505  $aChinese authorities decided to issue a three-month ban on the China Business Post over accusations that the business weekly did not attempt to get comment from a source in a story and therefore contravened media regulations.
+*506  $abanned
+$bChinese authorities
+*518  $aJuly 2008
+$3weekly newspaper
+*522  $aChina
+*651  $a7117
+*691  $apolitical
+*692  $abanned
+^
+100000753
+*041  $aeng
+*245  $aPost
+*260  $aZambia
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 1 October 2008 / Media Institute of Southern Africa (MISA), Windhoek
+*505  $aOn 27 September 2008, the Lusaka High Court granted acting President Rupiah Banda an injunction restraining the "Post" newspaper and any of its agents from publishing libellous words against him. On 28 September, the "Sunday Mail" reported that according to a court order, the "Post" was directed to stop printing, circulating or distributing libellous words until an inter party hearing set for 3 October is held or until further orders of the court.
+*506  $arestrained
+$bLusaka High Court
+*518  $a28 September 2008
+*522  $aZambia
+*651  $a5466
+*691  $apolitical
+*692  $arestrained
+^
+100000754
+*041  $abur
+*245  $aTrue news
+*260  $aRangoon
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org,
+2 October 2008 / Mizzima News, New Dehli
+*505  $aThe publishing licenses of two Rangoon-based weekly journals have been suspended for alleged violation of the policy and regulations of the Press Scrutiny Board (censor board). The censor board suspended the publishing licenses of "True News" for two months and "The Action Times" for a month, media circles in Rangoon said. A photograph of a child labourer in a construction site appeared on the front page of "True News" with the caption, "A child working in a construction site near Phuket seaside resort, Thailand". As a result, the journal was suspended for two months.
+*506  $asuspended
+$bCensor Board
+*518  $aOctober 2008
+$3weekly journal
+*522  $aMyanmar
+*651  $a7516
+*691  $apolitical
+*692  $asuspended
+^
+100000755
+*041  $abur
+*245  $aThe Action Times
+*260  $aRangoon
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 2 October 2008 / Mizzima News, New Dehli
+*505  $aThe publishing licenses of two Rangoon-based weekly journals have been suspended for alleged violation of the policy and regulations of the Press Scrutiny Board (censor board). The censor board suspended the publishing licenses of "True News" for two months and "The Action Times" for a month, media circles in Rangoon said. "The Action Times", which is published every Monday, was suspended for one month after the news of the release of U Win Tin from prison appeared in its latest issue, Vol. 38, with a slight modification from the approved version. The weekly referred to him as "Sayagyi" ("Great Master") Win Tin, contrary to the copy permitted by the censor board. "The journal was banned for this ," an editor of a weekly journal said on condition of anonymity.
+*506  $asuspended
+$bCensor Board
+*518  $aOctober 2008
+$3weekly journal
+*522  $aMyanmar
+*651  $a7516
+*691  $apolitical
+*692  $asuspended
+^
+100000756
+*041  $atam
+*245  $aSudaroli
+*260  $aSri Lanka
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 3 October 2008 / Free Media Movement (FMM), Colombo
+*505  $aIn a letter dated 25th September 2008, addressed to the Tamil language Sudaroli newspaper, military spokesperson Brigadier Udaya Nanayakakara, writing in the name of and under the official aegis of Military Headquarters, stated that a photo caption in the newspaper "will create tension among the people and confuse the Security Forces who are serving to safeguard the sovereignty of the country." The photograph in question was of five school children in the besieged Vanni districts cramped in a bunker looking at the sky with anxiety in their eyes. It was first published by the BBC Sinhala website
+*506  $aasked to change
+$bMilitary spokesperson
+*518  $a25 September 2008
+$3newspaper
+*522  $aSri Lanka
+*651  $a7447
+*691  $apolitical
+*692  $aasked to change
+^
+100000757
+*041  $aspa
+*245  $aFoco Popular
+*260  $aSeropédica, Rio de Janeiro state
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 7 October 2008 / Brazilian Investigative Journalism Association (ABRAJI), São
+Paulo
+*505  $aSimilar to the "Extra" newspaper case in the city of Rio de Janeiro on 28 September 2008, bandits have obstructed the circulation of newspapers
+containing reports related to electoral candidates in another two Brazilian
+cities. The distribution of the "Foco Popular" newspaper, which is based in
+Seropédica, Rio de Janeiro state, was affected on the afternoon of 2 October
+when three men stole ten thousand copies of the newspaper. "Foco Popular" had
+reproduced an "Extra" newspaper report about allegations of irregularities
+committed by a member of the state government and a candidate for local
+elections, Anabal Barbosa, of the Humanist Solidarity Party (Partido Humanista da Solidariedade, PHS). The elections were held on 5 October.
+*506  $acirculation obstructed
+$bbandits
+*518  $a2 October 2008
+$3newspaper
+*522  $aBrazil
+*651  $a6420
+*691  $apolitical
+*692  $acirculation obstructed
+^
+100000758
+*041  $aspa
+*245  $aImprensa Popular
+*260  $aPorto Velho, Brazil
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 7 October 2008 / Brazilian Investigative Journalism Association (ABRAJI), São
+Paulo
+*505  $aSimilar to the "Extra" newspaper case in the city of Rio de Janeiro on 28 September 2008, bandits have obstructed the circulation of newspapers
+containing reports related to electoral candidates in another two Brazilian
+cities. In yet another separate incident, in the city of Porto Velho, northern Brazil, the "Imprensa Popular" newspaper also had its distribution prevented by eight men who threatened the newspaper's distribution coordinator, João Paulo dos Santos. According to the directors of "Imprensa Popular", the men said they were acting to defend Mayor Roberto Sobrinho of the Workers Party (Partido dos Trabalhadores). Sobrinho was a candidate for re-election.
+*506  $acirculation obstructed
+$bbandits
+*518  $a2 October 2008
+$3newspaper
+*522  $aBrazil
+*651  $a6420
+*691  $apolitical
+*692  $acirculation obstructed
+^
+100000759
+*041  $aara
+*245  $aAl-Hayat
+*260  $aSyria
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 9 October 2008 / Reporters sans frontières (RSF), Paris
+*505  $a"Al-Hayat"'s Beirut bureau was notified by the Syrian information ministry's censorship office on 29 September that distribution of the newspaper was being suspended "until further notice." "Al-Hayat", which has its editorial headquarters in London, is printed in several Arab capitals including Beirut. Copies were transported by land across the border for distribution in Syria.
+*506  $adistribution suspended
+$bSyrian information ministry's censorship office 
+*518  $a29 September 2008
+$3newspaper
+*522  $aSyria
+*651  $a7348
+*691  $apolitical
+*692  $adistribution suspended
+^
+100000760
+*041  $aspa
+*245  $aPanorama
+*260  $aVenezuela
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 17 October 2008 / Institute for Press and Society (IPYS), Lima
+*505  $aOn 7 October 2008, more than 50 students from the University of Zulia stopped two buses that were going to distribute "Panorama", the newspaper with the largest readership in Maracaibo, western Venezuela, from leaving the warehouse for three hours. According to the students, the action was in protest against the unfair coverage given by the paper to the murder of the president of the university's Federation of Student Centers (Federación de Centros Universitarios, FCU), Julio Soto, who was shot to death recently by hired assassins.
+*506  $adistribution prevented for 3 hours
+$bstudents
+*518  $a7 October 2008
+$3newspaper
+*522  $aVenzuela
+*651  $a6460
+*691  $apolitical
+*692  $adistribution prevented
+^
+100000761
+*041  $a
+*245  $aPyaw Pyaw Shwin Shwin
+*260  $aRangoon, Burma
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 2008 /
+*505  $aThe Rangoon-based humour magazine, "Pyaw Pyaw Shwin Shwin"
+had to postpone publication of its October 2008 issue as the censor board rejected one-fourth of its contents. "They cannot publish in time as the censorship on this month's issue is too heavy. Most of the censored sections are from poems and stories. They are likely to suspend publishing for about two months," a person close to the magazine said. But the magazine refused to release any news regarding the censorship for fear of retaliation.
+*506  $acensored
+$bthe censor board, "Literary Kempetai"
+*518  $a2008
+$3magazine
+*522  $aMyanmar	
+*651  $a7516
+*691  $apolitical	
+*692  $acensored
+^

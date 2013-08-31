@@ -1,0 +1,3209 @@
+100000350
+*020  $a0737715804 (pbk. : alk. paper)  0737715790 (lib. : alk. paper)
+*041  $aeng
+*245  $aCensorship
+$cKate Burns, book editor
+*260  $aSan Diego, Calif. 
+$bGreenhaven Press 
+$cc2004. 
+*300  $a139 p.
+$c24 cm. 
+*440  $aContemporary issues companion
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references (p. 128-133) and index.
+*650  $aCensorship
+*650  $aUnited States
+*650  $aMass media
+*651  $a6357
+*693  $aCensorship
+*700  $aBurns, Kate, 1969-
+$eeditor
+^
+100000351
+*020  $a0814328490 (pbk. : alk. paper) 
+*041  $aeng
+*245  $aLeaving Springfield 
+$bthe Simpsons and the possibilities of oppositional culture
+$cedited by John Alberti.
+*260  $aDetroit : 
+$bWayne State University Press, 
+$cc2004.
+*300  $axxxii, 344 p.
+$c23 cm. 
+*440  $aContemporary film and television series
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aIncludes bibliographical references and index. 
+*520  $a"Use a pen, Sideshow Bob": the Simpsons and the threat of high culture / David L.G. Arnold -- Commodity culture and its discontents: Mr. Bennett, Bart Simpson, and the rhetoric of modernism / Kurt M. Koenigsberger -- The Simpsons and Hanna-Barbera's animation legacy / Megan Mullen -- Countercultural literacy: learning irony with the Simpsons / Kevin J.H. Dettmar -- Homer erectus: Homer Simpson as everyman ... and every woman / Valerie Weilunn Chow -- Who wants candy? Disenchantment in the Simpsons / Robert Sloane -- Myth or consequences: ideological fault lines in the Simpsons / Vincent Brook -- "So television's responsible!": oppositionality and the interpretive logic of satire and censorship in the Simpsons and South Park / William J. Savage, Jr. -- Looking for Amanda Hugginkiss: gay life on the Simpsons / Matthew Henry -- Releasing the hounds: the Simpsons as anti-nuclear satire / Mick Broderick -- Local satire with a global reach: ethnic stereotyping and cross-cultural conflicts in the Simpsons / Duncan Stuart Beard -- Bart Simpson: prince of irreverence / Douglass Rushkoff. 
+*650  $aCensorship
+*650  $aTelevision
+*651  $a6357
+*693  $aCensorship
+*700  $aAlberti, John
+$eeditor
+^
+100000352
+*020  $a1403921199
+*041  $aeng
+*245  $aLost libraries : 
+$bthe destruction of great book collections since antiquity /
+$cedited by James Raven.
+*260  $aHoundmills, Basingstoke, Hamsphire ; New York : 
+$bPalgrave Macmillan,
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aCensorship
+*650  $aLibraries 
+*650  $aDestruction and pillage
+*650  $aHistory 
+*651  $a0000
+*693  $aCensorship
+*700  $aRaven, James, 1959-
+$eeditor
+^
+100000353
+*020  $a0415943647 (hb : alk. paper)
+*041  $aeng
+*245  $aMusic, power, and politics
+$cedited by Annie J. Randall.
+*260  $aNew York : 
+$bRoutledge, 
+$cc2004. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aA censorship of forgetting : origins and origin myths of Battle hymn of the republic / Annie J. Randall -- Discipline and choralism : the birth of musical colonialism / G. Olwage -- Power needs names : hegemony, folklorization, and the viejitos dance of Michoacán, Mexico / R. Hellier-Tinoco -- The power to influence minds : German folk music during the Nazi era and after / B. Sweers -- The making of a national musical icon : Xian Xinghai and his Yellow River cantata / Hon-Lun Yang -- Dancing for the eternal president / K. Howard -- Después de 500 años : the role of saya in Bolivia's black cultural movement / R. W. Templeman -- The power of recently revitalized Serbian rural folk music in urban settings / J. Jovanovic -- Hands off my instrument! / H. Reddington -- Barbadian tuk music, a fusion of musical cultures / S. Meredith -- There goes the transnational neighborhood : calypso buys a bungalow / M. Eldridge -- Fighting for the right (to) party? : discursive negotiations of power in pre-unification East German popular music / E. Larkey -- Who's listening? / B. Hogg -- Subversion and counter-subversion : power, control and meaning in the new Iranian pop music / L. Nooshin. 
+*520  $aIncludes bibliographical references and index.
+*650  $aCensorship
+*650  $aMusic
+*651  $a0000
+*693  $aCensorship
+*700  $aandall, Annie Janeiro
+$eeditor
+^
+100000354
+*020  $a0275980219
+*041  $aeng
+*245  $aPolitical economy of the Internet in Asia and the Pacific : 
+$bdigital divides, economic competitiveness, and security challenges
+$cedited by Jason P. Abbott.
+*260  $aWestport, Connecticut : 
+$bPraeger Publishers, 
+$cc2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aCensorship
+*650  $aAsia
+*650  $aInternet
+*651  $a7000
+*693  $aCensorship
+*700  $aAbbott, Jason, 1971-
+$eeditor
+^
+100000355
+*020  $a1842774638
+*041  $aeng
+*245  $aShoot the singer! : 
+$bmusic censorship today /
+$cedited by Marie Korpe. 
+*260  $aNew York :
+$bZed Books,
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aIncludes index. 
+*520  $a"[Published] in association with Freemuse."
+*650  $aCensorship
+*650  $aMusic
+*651  $a0000
+*693  $aCensorship
+*700  $aKorpe, Marie, 1952-
+$eeditor
+^
+100000356
+*020  $a582430520X
+*041  $arus
+*245  $aTSenzura v Sovetskom Soiuze, 1917-1991 : 
+$bdokumenty /
+$cSostavitel´: A. V. Blium.
+*260  $aMoskva :
+$bROSSPEN (Rossiiskaia politicheskaia entsiklopediia), 
+$c2004. 
+*300  $a575 p. ;
+$c23 cm.
+*440  $aKul´tura i vlast´ ot Stalina do Gorbacheva
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIn Russian (Cyrillic).
+*650  $aCensorship
+*650  $aSocial sciences
+*650  $aHistory
+*651  $a8064
+*693  $aCensorship
+*700  $aBlium, A. V.
+$eeditor
+^
+100000357
+*020  $a2707142115
+*041  $afre
+*100  $aRasmussen, Anne
+$eeditor
+*245  $aVrai et faux dans la Grande Guerre
+$csous la direction de Christophe Prochasson et Anne Rasmussen
+*260  $aParis : 
+$bécouverte,
+$c2004.
+*300  $a360 p., [8] p. of plates : 
+$cill. ; 22 cm.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aCollection "L'espace de l'histoire"
+*520  $aIncludes bibliographical references and index. 
+*650  $aCensorship
+*650  $aWorld War, 1914-1918 
+*650  $aFrance. 
+*650  $aPropaganda.
+*651  $a8023
+*693  $aCensorship
+*700  $aProchasson, Christophe
+$eeditor
+^
+100000358
+*020  $a0879307927 (alk. paper)
+*041  $aeng
+*100  $aBlecha, Peter
+*245  $aTaboo tunes : 
+$bhistory of banned bands & censored songs
+$cby Peter Blecha.
+*260  $aSan Francisco, :
+$bBackbeat Books,
+$cc2004.
+*300  $aix, 214 p. :
+$cill. ; 24 cm.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aFear of music -- Beat crazy -- The devil in disguise -- Token drug song -- Let's talk about sex -- Killing in the name -- Find the cost of freedom. 
+*520  $aIncludes bibliographical references (p. 190-199) and index.
+*650  $aCensorship
+*650  $aMusic 
+*650  $aHistory. 
+*651  $a0000
+*693  $aCensorship
+^
+100000359
+*020  $a0415345073 (pbk.) ; 0415345065 (hardback)
+*041  $aeng
+*100  $aBrook, Timothy 1951-
+*245  $aThe Chinese state in Ming society /
+$cTimothy Brook.
+*250  $a1st ed.
+*260  $aLondon ; New York : 
+$bRoutledge, 
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*503  $a"Simultaneously published in the USA and Canada by Routledge."
+*505  $aPart 1. Surveys -- The spatial organization of subcounty administration -- The gazetteer cartography of Ye Chunji -- Part 2. Fields -- Taxing polders on the Yangzi Delta -- Growing rice in North Zhili -- Part 3. Books -- Building school libraries in the mid-Ming -- State censorship and the book trade -- Part 4. Monasteries -- At the margin of public authority: the Ming state and Buddhism -- Buddhism in the Chinese constitution: recording monasteries in North Zhili.
+*520  $aIncludes bibliographical references and index. 
+*650  $aCensorship
+*650  $aChina
+*650  $aPolitics and government,1368-1644.
+*651  $a7117
+*693  $aCensorship
+^
+100000360
+*020  $a1590183401 (alk. paper)
+*041  $aeng
+*100  $aBurns, Kate  1969-
+*245  $aFighters against censorship
+$cby Kate Burns.
+*260  $aSan Diego : 
+$bLucent Books, 
+$cc2004.
+*300  $a112 p. : 
+$cill. ; 24 cm. 
+*440  $aHistory makers
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aJames Madison : founder of American free speech -- Theodore Schroeder : testing the First Amendment -- Emma Goldman : anticensorship freedom fighter -- Pete Seeger : sing out for free speech -- Tommy Smothers : comedy against censorship -- Larry Flynt : I absolutely refuse to compromise -- Mitchell Kapor : free expression on the electronic frontier.
+*520  $aIncludes bibliographical references and index.
+*650  $aCensorship
+*650  $aUnited States 
+*650  $aJuvenile literature.
+*650  $aFreedom of expression
+*650  $aFreedom of the press
+*651  $a6357
+*693  $aCensorship
+*693  $aFreedom of expression
+*693  $aFreedom of the press
+^
+100000361
+*020  $a006055701X  0060557028 (lib. bdg.) 
+*041  $aeng
+*100  $aCirrone, Dorian
+*245  $aDancing in red shoes will kill you
+$cby Dorian Cirrone
+*250  $a1st ed.
+*260  $aNew York : 
+$bHarperCollins, 
+$c2004. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aSixteen-year-old Kayla, a ballet dancer with very large breasts, and her sister Paterson, an artist, are both helped and hindered by classmates as they confront sexism, conformity, and censorship at their high school for the arts while still managing to maintain their sense of humor.
+*650  $aCensorship
+*650  $aSexism, fiction.
+*651  $a6357
+*693  $aCensorship
+^
+100000362
+*020  $a0312235534 (alk. paper) 
+*041  $aeng
+*100  $aCulleton, Claire A.
+*245  $aJoyce and the G-men : 
+$bJ. Edgar Hoover's manipulation of modernism
+$cClaire A. Culleton. 
+*260  $aNew York : 
+$bPalgrave Macmillan, 
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aCensorship
+*650  $aAmerican literature
+*650  $aUnited States
+*650  $aFederal Bureau of Investigation
+*650  $aHistory 
+*651  $a6357
+*693  $aCensorship
+^
+100000363
+*020  $a0299196607 (alk. paper) 
+*041  $aeng
+*100  $aDean, Joan Fitzpatrick, 1949-
+*245  $aRiot and great anger : 
+$bstage censorship in twentieth-century Ireland
+$cJoan FitzPatrick Dean
+*260  $aMadison : 
+$bUniversity of Wisconsin Press, 
+$c2004.
+*440  $aIrish studies in literature and culture
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aTheatrical censorship and disorder in Ireland -- Theatre, art, and censorship -- The evil genius -- The boom of the ban -- The riot in Westport -- The freedom of the theatre in the Irish Free State, 1922-1929 -- Irish stage censorship from Salome through Roly Poly -- The fifties -- New theatrical economies.
+*520  $aIncludes bibliographical references and index.
+*650  $aCensorship
+*650  $aTheater 
+*650  $aIreland 
+*650  $aHistory 
+*651  $a8031
+*693  $aCensorship
+^
+100000364
+*020  $a051622798X (lib. bdg.)  0516279092 (pbk.) 
+*041  $aeng
+*100  $aDitchfield, Christin
+*245  $aFreedom of speech
+$cby Christin Ditchfield.
+*260  $aNew York : 
+$bChildren's Press, 
+$cc2004.
+*300  $a47 p. : 
+$cill. (some col.) ; 22 cm. 
+*440  $aA true book 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*503  $aWhat did you say? -- Speaking freely -- Speaking responsibly -- The trouble with censorship -- Finding a balance.
+*505  $aDescribes what freedom of speech is, how and why it is guaranteed in the United States, how it is expressed, what its limits are, what censorship is, and what some of the surrounding debates are.
+*520  $aIncludes bibliographical references (p. 44) and index.
+*650  $aCensorship
+*650  $aUnited States
+*651  $a6357
+*693  $aCensorship
+^
+100000365
+*020  $a0826416225 (pbk.)  0826416217 (hardcover)
+*041  $aeng
+*100  $aDowney, Katherine Brown
+*245  $aPerverse Midrash : 
+$bOscar Wilde, Andre Gide, and censorship of biblical drama
+$cKatherine Brown Downey. 
+*260  $aNew York :
+$bContinuum, 
+$cc2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aCensorship
+*650  $aReligion and literature
+*650  $aBible plays 
+*650  $aTheater 
+*651  $a0000
+*693  $aCensorship
+^
+100000366
+*020  $a0761418431
+*041  $aeng
+*100  $aGold, Susan Dudley
+*245  $aThe Pentagon papers : 
+$bnational security or the right to know /
+$cby Susan Dudley Gold.
+*260  $aNew York : 
+$bBenchmark Books,
+$cc2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aThe Pentagon study -- The leak -- Prior restraint : censorship versus censure -- The New York times goes to press -- The Washington post : keeping up the momentum -- Before the Supreme Court -- The decision -- Aftermath.
+*520  $aIncludes bibliographical references and index. 
+*650  $aCensorship
+*650  $aUnited States
+*650  $aFreedom of the press
+*650  $aVietnamese Conflict, 1961-1975 
+*651  $a6357
+*651  $a7553
+*693  $aCensorship
+*693  $aFreedom of the press
+^
+100000367
+*020  $a0520239652 (alk. paper)  0520239660 (pbk. : alk. paper) 
+*041  $aeng
+*100  $aGrieveson, Lee, 1969- 
+*245  $aPolicing cinema : 
+$bmovies and censorship in early-twentieth-century America
+$cLee Grieveson.
+*260  $aBerkeley : 
+$bUniversity of California Press, 
+$cc2004.
+*300  $axiii, 348 p. : 
+$cill. ; 24 cm.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references (p. 317-329) and index.
+*650  $aCensorship
+*650  $aMotion pictures
+*650  $aUnited States
+*651  $a6357
+*693  $aCensorship
+^
+100000368
+*020  $a2003008177  0766019462 (cloth)
+*041  $aeng
+*100  $aHerumin, Wendy
+*245  $aCensorship on the Internet : 
+$bfrom filters to freedom of speech
+$cWendy Herumin. 
+*260  $aBerkeley Heights, NJ : 
+$bEnslow Publishers, 
+$cc2004.
+*300  $a128 p. : 
+$cill. ; 24 cm.
+*440  $aIssues in focus 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aConflicts in cyberspace -- Exploring the internet -- A new form of media -- Web censorship in the United States -- Libraries and the first amendment -- Schools, free speech, and the web -- Online pornography and other controversies -- Privacy and predators -- The global debate -- Conflicting viewpoints and common ground. 
+*520  $aIncludes bibliographical references (p. 108-122) and index.
+*650  $aFreedom of expression
+*650  $aCensorship
+*650  $aInternet and children
+*650  $aUnited States
+*651  $a6357
+*693  $aFreedom of expression
+*693  $aCensorship
+^
+100000369
+*020  $a2246631718 
+*041  $afre
+*100  $aLombard, Paul
+*245  $aEnquête d'auteurs : 
+$bLa liberté d'écrire d'Homère à nos jours
+$cPaul Lombard.
+*260  $aParis : 
+$bGrasset, 
+$c2004.
+*300  $a301 p. ;
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*650  $aFreedom of expression
+*650  $aCensorship
+*650  $aUnited States
+*651  $a6357
+*693  $aCensorship
+*693  $aFreedom of expression
+^
+100000370
+*020  $a0520242319 (pbk. : alk. paper)
+*041  $aeng
+*100  $aMacArthur, John R. 
+*245  $aSecond front : 
+$bensorship and propaganda in the 1991 Gulf War /
+$cJohn R. MacArthur ; foreword by Ben H. Bagdikian. 
+*250  $aUpdated with a new pref. 
+*260  $aBerkeley : 
+$bUniversity of California Press, 
+$c2004. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references (p. ) and index.
+*650  $aCensorship
+*650  $aPersian Gulf War, 1991 
+*650  $aPress coverage 
+*650  $aUnited States.
+*650  $aGovernment and the press
+*651  $a6357
+*651  $a7300
+*693  $aCensorship
+^
+100000371
+*020  $a0300105762 (cl : alk. paper) 
+*041  $aeng
+*100  $aMalvern, Sue, 1951- 
+*245  $aWitnessing, testimony, and remembrance : 
+$bmodern art, Britain, and the Great War
+$cSue Malvern.
+*260  $aNew Haven : 
+$bYale University Press,
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aArt, propaganda, and persuasion at Wellington House -- Realism, representation, and censorship -- Making history : the British War Memorials Committee -- Modern art, modern war, and the impossible project of history painting -- Post-War modernisms : William Roberts, David Bomberg, Wyndham Lewis, and C.R.W. Nevinson -- Redeeming the War : "Englishness" and remembrance.
+*520  $aIncludes bibliographical references and index.
+*650  $aCensorship
+*650  $aWorld War, 1914-1918 
+*650  $aUnited Kingdom
+*651  $a8051
+*693  $aCensorship
+^
+100000372
+*020  $a2207255735 (alk. paper) 
+*041  $afre
+*100  $aPolastron, Lucien X. 
+*245  $aLivres en feu : 
+$bhistoire de la destruction sans fin des bibliothèques
+$cLucien X. Polastron.
+*260  $aParis : 
+$bDenoël, 
+$cc2004.
+*300  $a429 p. ;
+$c23 cm.
+*440  $aMédiations 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references (p. 393-[414]) and index.
+*650  $aCensorship
+*650  $aLibraries
+*650  $aDestruction and pillage
+*650  $aHistory. 
+*651  $a0000
+*693  $aCensorship
+^
+100000373
+*020  $a1591021820 (alk. paper) 
+*041  $aeng
+*100  $aRobb, David L. 
+*245  $aOperation Hollywood : 
+$bhow the Pentagon shapes and censors the movies
+$cDavid L. Robb.
+*260  $aAmherst, N.Y. :
+$bPrometheus Books,
+$c2004.
+*300  $a384 p. : 
+$cill. ; 24 cm.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references (p. 369-372) and index.
+*650  $aCensorship
+*650  $aUnited States.
+*650  $aMotion pictures 
+*651  $a6357
+*693  $aCensorship
+^
+100000374
+*020  $a0822333619 (cloth : alk. paper)  0822333961 (pbk. : alk. paper) 
+*041  $aeng
+*100  $aShaw, Gwendolyn DuBois,  1968-
+*245  $aSeeing the unspeakable : 
+$bthe art of Kara Walker
+$cGwendolyn DuBois Shaw
+*260  $aDurham : 
+$bDuke University Press, 
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aTracing race and representation -- The "rememory" of slavery -- The lactation of John Brown ---Censorship and reception -- Final cut.
+*520  $aIncludes bibliographical references and index.
+*650  $aCensorship
+*650  $aUnited States
+*651  $a6357
+*693  $aCensorship
+^
+100000375
+*020  $a1590181875 (hardcover : alk. paper)
+*041  $aeng
+*100  $aSteffens, Bradley,  1955-
+*245  $aCensorship 
+$cby Bradley Steffens.
+*260  $aSan Diego, Calif. : 
+$bLucent Books, 
+$c2004.
+*440  $aOverview series 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aCensorship
+*650  $aUnited States
+*650  $aJuvenile literature.
+*650  $aFreedom of expression 
+*651  $a6357
+*693  $aCensorship
+*693  $aFreedom of expression
+^
+100000376
+*020  $a0761327452 (lib. bdg.) 
+*041  $aeng
+*100  $aSullivan, George, 1927- 
+*245  $aJournalists at risk : 
+$breporting America's wars
+$cGeorge Sullivan.
+*260  $aBrookfield, Conn. : 
+$bTwenty-First Century Books, 
+$cc2004. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*503  $aDiscusses the role of reporters during war time, including the risks they take and the censorship they face, and how their jobs have changed with each conflict since the Civil War.
+*505  $aFrom the front lines -- News by wire -- Remember Pearl Harbor -- World War II up close -- Conflict in Korea -- The War in Vietnam -- Vietnam on TV -- Operation Desert Storm -- The War on Terrorism -- A fresh approach.
+*520  $aIncludes bibliographical references and index.
+*650  $aCensorship
+*650  $aPress coverage
+*650  $aUnited States.
+*650  $aWar 
+*650  $aJournalism.
+*651  $a6357
+*693  $aCensorship
+^
+100000377
+*020  $a0786418877 (softcover : alk. paper) 
+*041  $aeng
+*100  $aTurner, Anne M. 1941- 
+*245  $aIt comes with the territory : 
+$bhandling problem situations in libraries
+$cAnne M. Turner ; with a foreword by Gordon Conable.
+*250  $aRev. ed. 
+*260  $aJefferson, N.C. : 
+$bMcFarland & Co., 
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aMaking behavior rules -- Street people, the mentally disabled, substance abusers, and other symbols of our times -- Dealing with angry people -- The nasty behaviors : sexual deviancy, parental child abuse, and sexual harassment -- "It's free and it's safe" : handling problems with unattended children ---Censorship : wizards, sex, and killing animals -- E-mail, chat rooms and websites : internet use in the library -- Securing our buildings -- Writing good manuals -- Training staff.
+*520  $aIncludes bibliographical references and index. 
+*650  $aCensorship
+*650  $aLibraries and community.
+*650  $aUnited States
+*651  $a6357
+*693  $aCensorship
+*700  $aConable, Gordon
+^
+100000378
+*020  $a0472068644 (pbk. : alk. paper) 
+*041  $aeng
+*245  $aDissent in dangerous times
+$cedited by Austin Sarat. 
+*260  $aAnn Arbor : 
+$bUniversity of Michigan Press, 
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes index.
+*650  $aFreedom of expression
+*650  $aUnited States
+*650  $aPolitics and government
+*650  $aPolitical culture 
+*651  $a6357
+*693  $aFreedom of expression
+*700  $a Sarat, Austin
+$eeditor
+^
+100000379
+*020  $a1572735155  1572735147
+*041  $aeng
+*100  $aAndsager, Julie L. 
+*245  $aFree expression and five democratic publics : 
+$bsupport for individual and media rights /
+$cJulie L. Andsager, Robert O. Wyatt, Ernest L. Martin.
+*260  $aCresskill, N.J. : 
+$bHampton Press, 
+$cc2004.
+*440  $aThe Hampton Press communication series. Communication and law 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index. 
+*650  $aFreedom of expression
+*650  $aUnited States.
+*650  $aMass media and public opinion.
+*651  $a6357
+*693  $aFreedom of expression
+*700  $aWyatt, Robert O.
+*700  $aMartin, Ernest L.
+^
+100000380
+*020  $a0749434988 
+*041  $aeng
+*100  $aArnheim, Michael T. W.
+*245  $aThe handbook of human rights law : 
+$ban accessible approach to the issues and principles /
+$cMichael Arnheim. 
+*260  $aLondon ; Sterling, VA : 
+$bKogan Page, 
+$c2004. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aThe Human Rights Act -- Judicial review -- Winning strategies and tactics -- Right to life -- Prohibition of torture ---Freedom of expression ---Freedom of thought, conscience, and religion -- Privacy -- Property rights -- Liberty and equality -- Judicial rights -- Social rights.
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aGreat Britain.
+*650  $aHuman Rights Act 1998.
+*650  $aEurope.
+*651  $a8051
+*693  $aFreedom of expression
+^
+100000381
+*020  $a159221293X  1592212948 (pbk.) 
+*041  $aeng
+*100  $aBurrowes, Carl Patrick
+*245  $aPower and press freedom in Liberia, 1830-1970 : 
+$bthe impact of globalization and civil society on media-government relations
+$cCarl Patrick Burrowes. 
+*260  $aTrenton, NJ : 
+$bAfrica World Press, 
+$c2004. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aLiberian society and the press -- Theoretical framework -- Liberia in 1843 -- A press to herald a nation or illuminate all Africa? -- Institutional context of the press -- Denominational affiliation and politics -- Government-church controversies -- The press : raising national consciousness -- Race, republicanism and freedom of expression -- Geographic limits of society -- Churches, government, and the press -- Electoral politics -- Electoral politics and journalism -- The 1871 coup d'etat -- Competing ideas of status -- Johnson's attempted synthesis -- Political emergence of women -- Church affiliations and political alliances -- Fall of the King administration -- Journalism during the Barclay years -- Electoral politics -- Barclay uses the sedition law -- Tubman further restricts rights -- Institutional and cultural changes -- Journalism in the Tubman years -- Restrictions on the press -- The Independent, the Listener and the 1955 elections -- Themes and legacy of the period -- Press freedom and stability -- Press freedom and modernization -- Press freedom and power relations -- Core values and restrictions -- Policy and research implications. 
+*520  $aIncludes bibliographical references and index. 
+*650  $aLiberia 
+*650  $aFreedom of the press 
+*650  $aGovernment and the press
+*651  $a5536
+*651  $a5000
+*693  $aFreedom of the press 
+^
+100000382
+*020  $a0786418257 (softcover : alk. paper)
+*041  $aeng
+*100  $aLadutke, Lawrence Michael, 1969- 
+*245  $aFreedom of expression in El Salvador : 
+$bthe struggle for human rights and democracy
+$cLawrence Michael Ladutke.
+*260  $aJefferson, NC : 
+$bMcFarland & Co., 
+$c2004
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aPowerful obstacles to expression in Salvadoran history -- Impunity continues to constrain freedom of expression -- The dominant media continue to hinder freedom of expression -- Dealing with wartime human rights abuses -- The demilitarization and remilitarization of public security -- Death squads seek to destabilize the transition -- The unusually successful prosecution of police agents in the Vilanova Murder ---Expression for and against the vigilante death squad Sombra Negra. 
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aEl Salvador.
+*650  $aHuman rights 
+*650  $aPolitics and government 
+*651  $a6231
+*693  $aFreedom of expression
+^
+100000383
+*020  $a8388594443
+*041  $apol
+*100  $aSajó, András
+*245  $aFreedom of Expression
+$cAndrás Sajó
+*260  $aWarszawa : 
+$bInstytut Spraw Publicznych, 
+$c2004. 
+*300  $a139 p. ; 
+$c24 cm. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*650  $aFreedom of expression
+*650  $aocial and political life.
+*650  $aPoland
+*651  $a8041
+*693  $aFreedom of expression
+^
+100000384
+*020  $a9041122788 (alk. paper) 
+*041  $aeng
+*100  $aTorremans, Paul
+*245  $aCopyright and human rights : 
+$bfreedom of expression, intellectual property, privacy
+$cPaul L.C. Torremans. 
+*260  $aNew York : 
+$bKluwer Law International, 
+$c2004. 
+*440  $aInformation law series ; $v14
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes index. 
+*650  $aFreedom of expression
+*650  $aCopyright. 
+*650  $aHuman rights.
+*650  $aIntellectual property.
+*651  $a0000
+*693  $aFreedom of expression
+^
+100000385
+*020  $a0814793592 (cloth : alk. paper)
+*041  $aeng
+*100  $aWilliams, Susan Hoffman,  1960-
+*245  $aTruth, autonomy, and speech : 
+$bfeminist theory and the First Amendment
+$cSusan H. Williams.
+*260  $aNew York : 
+$bNew York University Press, 
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aThe theoretical foundations of the law of free expression : truth and autonomy -- Philosophical foundations : Cartesianism and liberalism -- The feminist critique -- The feminist dilemma -- Reconstructing truth -- Reconstructing autonomy -- Free speech and truth -- Free speech and narrative autonomy.
+*520  $aIncludes bibliographical references and index. 
+*650  $aFreedom of expression
+*650  $aUnited States.
+*650  $aFeminist theory
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000386
+*020  $a0516242504
+*041  $aeng
+*100  $aWillis, Terri
+*245  $aDemocratic Republic of the Congo
+$cby Terri Willis.
+*260  $aNew York : 
+$bChildren's Press, 
+$cc2004.
+*300  $a143 p. : 
+$cill. (chiefly col.), col. maps ; 24 cm. 
+*440  $aEnchantment of the world. |n Second series 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*503  $aDiscusses the geography and climate, history, wildlife, economy, government, people, religion, and culture of the Congo.
+*505  $aCollapsing under its weight -- The country and the river -- Congo's bountiful diversity -- Kingdoms, colonies, and corruption -- Moving toward freedom -- Poverty amidst plenty -- People of the Congo -- Overlapping faiths ---Expression through the arts -- Life in Congo -- Timeline -- Fast facts. 
+*520  $aIncludes bibliographical references (p. 134-145) and index.
+*650  $aFreedom of expression
+*650  $aCongo (Democratic Republic)
+*651  $a5123
+*693  $aFreedom of expression
+^
+100000387
+*020  $a0521603757
+*041  $aeng
+*245  $aFreedom of speech /
+$cedited by Ellen Frankel Paul, Fred D. Miller, Jr., and Jeffrey Paul.
+*260  $aCambridge ; New York : 
+$bCambridge University Press, 
+$c2004. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index. 
+*650  $aFreedom of expression
+*650  $aUnited States.
+*651  $a6357
+*693  $aFreedom of expression
+*700  $aPaul, Ellen Frankel
+*700  $aMiller, Fred Dycus, 1944-
+*700  $aPaul, Jeffrey
+^
+100000388
+*020  $a0737716754 (lib. : alk. paper)  0737716762 (pbk. : alk. paper) 
+*041  $aeng
+*245  $aCivil liberties : 
+$bopposing viewpoints
+$cAuriana Ojeda, book editor. 
+*260  $aSan Diego : 
+$bGreenhaven Press : Thomson/Gale, 
+$cc2004. 
+*300  $a204 p. : 
+$cill. ; 23 cm. 
+*440  $aOpposing viewpoints series
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references (p. 197-199) and index.
+*650  $aFreedom of expression
+*650  $aCivil rights
+*650  $aUnited States. 
+*650  $aChurch and state 
+*651  $a6357
+*693  $aFreedom of expression
+*700  $aOjeda, Auriana, 1977- 
+^
+100000389
+*020  $a0813923026 (cloth : alk. paper)  0813923034 (pbk. : alk. paper) 
+*041  $aeng
+*245  $aCreating constitutional change : 
+$bclashes over power and liberty in the Supreme Court
+$cedited by Gregg Ivers and Kevin T. McGuire.
+*260  $aCharlottesville : 
+$bUniversity of Virginia Press, 
+$c2004.
+*440  $aConstitutionalism and democracy
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aJudicial power -- Executive power -- Legislative power -- Federalism -- Establishment of religion -- Free exercise of religion ---Freedom of speech ---Freedom of association ---Freedom of the press -- Search and seizure -- Evidence -- Cruel and unusual punishment -- Racial discrimination -- Gender discrimination. 
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aUnited States 
+*650  $aConstitutional law
+*651  $a6357
+*693  $aFreedom of expression
+*693  $aFreedom of the press
+*700  $aIvers, Gregg
+*700  $aMcGuire, Kevin T.
+^
+100000390
+*020  $a1593320116 (alk. paper) 
+*041  $aeng
+*100  $aAmponsah, Peter N. (Peter Nkrumah), |d 1961-
+*245  $aLibel law, political criticism, and defamation of public figures :
+$bthe United States, Europe, and Australia
+$cPeter N. Amponsah.
+*260  $aNew York : 
+$bLFB Scholarly Pub., 
+$c2004. 
+*300  $avii, 230 p. ; 
+$c23 cm.
+*440  $aLaw and society 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aPolitical speech and the concept of democracy -- Philosophy of free speech -- Historical analysis of the four jurisdictions -- Synthesis of political speech cases in the four jurisdictions -- Conclusion : convergence of political speech protections.
+*520  $aIncludes bibliographical references (p. 205-221) and index.
+*650  $aFreedom of expression
+*650  $aLibel and slander.
+*650  $aUnited States,
+*650  $aEurope,
+*650  $aAustralia
+*651  $a6357
+*651  $a9012
+*651  $a8000
+*693  $aFreedom of expression
+^
+100000391
+*020  $a0817945520 (alk. paper) 
+*041  $aeng
+*100  $aBolick, Clint
+*245  $aLeviathan : 
+$bthe growth of local government & the erosion of liberty
+$cby Clint Bolick. 
+*260  $aStanford, Calif. : 
+$bHoover Institution Press, Stanford University, 
+$cc2004.
+*440  $aHoover Institution Press publication ; $vno. 531
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aLeviathan -- Federalism -- The curious evolution of federalism ---Freedom of commerce and enterprise -- Private property rights ---Freedom of speech -- The right to be left alone -- Racial discrimination -- The government school system -- Fighting big government at the local level.
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aUnited States.
+*650  $aLocal government
+*650  $aCivil rights
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000392
+*020  $a081334140X (alk. paper)  0813341396 (pbk. : alk. paper) 
+*041  $aeng
+*100  $aDelgado, Richard
+*245  $aUnderstanding words that wound /
+$cRichard Delgado and Jean Stefancic. 
+*260  $aBoulder, Colo. : 
+$bWestview Press, 
+$cc2004. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aHate speech
+*650  $aUnited States
+*651  $a6357
+*693  $aFreedom of expression
+*700  $aStefancic, Jean
+^
+100000393
+*020  $a0739107461 (cloth : alk. paper)  0739109316 (pbk. : alk. paper) 
+*041  $aeng
+*100  $aDry, Murray
+*245  $aCivil peace and the quest for truth : 
+$bthe First Amendment freedoms in political philosophy and American constitutionalism /
+$cMurray Dry.
+*260  $aLanham [Md.] : 
+$bLexington Books, 
+$cc2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aThe American founding and the puritan origins -- Religious freedom and freedom of speech in the state constitutions of the confederation period -- The federal constitution and the Bill of Rights -- The Sedition Act, the Kentucky and Virginia resolutions and the Virginia report -- Ancient political philosophy (Plato, Aristotle, Thucydides) -- Seventeenth century political philosophy (Bacon, Hobbes, Milton, Locke, Spinoza) -- Montesquieu (the spirit of the laws) -- Mill (on liberty) -- Seditious libel and fifty years of "clear and present danger" : from Schenck to Brandenburg -- The preferred position doctrine and the categorical approach to freedom of speech : libel -- The increased protection for "fighting words" and other "Offensive speech", obscenity, pornography, and commercial speech -- Money and speech and the public forum (or time, place, and manner) doctrine -- Free exercise clause -- The establishment clause I -- The establishment clause II.
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aFreedom of religion 
+*650  $aUnited States.
+*650  $aPhilosophy.
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000394
+*020  $a1583404236 (alk. paper)
+*041  $aeng
+*100  $aEdwards, Nicola
+*245  $aVoice
+$cby Nicola Edwards.
+*260  $aNorth Mankato, Minn. : 
+$bSmart Apple Media, 
+$c2004.
+*440  $aChildren's rights
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes index.
+*650  $aFreedom of expression
+*650  $aChildren's rights
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000395
+*020  $a0791073351
+*041  $aeng
+*100  $aGraves, Kerry A.
+*245  $aI have a dream : 
+$bthe story behind Martin Luther King, Jr.'s most famous speech
+$cby Kerry A. Graves.
+*260  $aPhiladelphia : 
+$bChelsea Clubhouse,
+$c2004.
+*440  $aAmerica in words and song
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*503  $aExplains the meaning and historical context of Martin Luther King, Jr.'s "I Have a Dream" speech, also providing biographical information about Dr. King and discussing the Civil Rights Movement.
+*520  $aIncludes bibliographical references and index. 
+*650  $aFreedom of expression
+*650  $aCivil rights.
+*650  $aAfrican Americans 
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000396
+*020  $a1932779000
+*041  $aeng
+*100  $aHart, Jonathan D.
+*245  $aWeb law : 
+$ba field guide to Internet publishing
+$cJonathan D. Hart.
+*250  $a2004 ed.
+*260  $aDenver, Colo. : 
+$bBradford Pub. Co., 
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aFreedom of speech -- Trademarks -- Domain names -- Copyright -- Defamation -- Data collection and privacy -- Electronic contracts.
+*520  $aIncludes bibliographical references and index. 
+*650  $aFreedom of expression
+*650  $aInternet publishing 
+*650  $aUnited States.
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000397
+*020  $a0415944627 (HB : alk. paper)  0415944635 (PB : alk. paper)
+*041  $aeng
+*100  $aKohn, Margaret  1970-
+*245  $aBrave new neighborhood
+$cMargaret Kohn.
+*260  $aNew York : 
+$bRoutledge, 
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aUnited States.
+*650  $aAssembly, Right of 
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000398
+*020  $a0742526879 (cloth : alk. paper)  0742526887 (pbk. : alk. paper)  0742526933 (pbk. : alk. paper)
+*041  $aeng
+*100  $aKommers, Donald P.
+*245  $aAmerican constitutional law :
+$bessays, cases, and comparative notes
+$cDonald P. Kommers, John E. Finn, Gary J. Jacobsohn. 
+*250  $a2nd ed. 
+*260  $aLanham, MD :
+$bRowman & Littlefield Publishers,
+$cc2004.
+*300  $axviii, 1095 p. : 
+$cill., map ; 27 cm. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aThe Supreme Court -- The Constitution and its interpretation -- The judicial power -- Separation of powers -- Foreign affairs and constitutional crises -- Federalism and state regulation -- Congressional powers -- Voting and political representation -- The Bill of Rights, incorporation, and capital punishment -- Liberty and property -- Fundamental rights : privacy and personhood ---Freedom of speech ---Freedom of religion in public and private life -- The equal protection clause and racial discrimination -- Gender dscrimination and other claims to equality.
+*520  $aIncludes bibliographical references and index. 
+*650  $aFreedom of expression
+*650  $aConstitutional law 
+*650  $aUnited States.
+*651  $a6357
+*693  $aFreedom of expression
+*700  $aFinn, John E.
+*700  $aJacobsohn, Gary J., 1946-
+^
+100000399
+*020  $a1594200173 (alk. paper) 
+*041  $aeng
+*100  $aLapham, Lewis H.
+*245  $aGag rule : 
+$bon the suppression of dissent and the stifling of democracy /
+$cLewis H. Lapham.
+*260  $aNew York : 
+$bPenguin Press, 
+$c2004.
+*300  $a178 p. ;
+$c20 cm.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aUnited States.
+*650  $aGovernment, Resistance to
+*650  $aWar on Terrorism, 2001- 
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000400
+*020  $a0791080889
+*041  $aeng
+*100  $aMarzilli, Alan
+*245  $aPolicing the Internet /
+$cAlan Marzilli
+*260  $aPhiladelphia : 
+$bChelsea House, 
+$c2004. 
+*440  $aPoint-counterpoint 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aWhen technology moves faster than the law -- Point : censoring the Internet threatens freedom of speech -- Counterpoint : "cleaning up" the Internet protects its usefulness -- Point : file sharing is an important technology that helps artists and promotes creativity -- Counterpoint : file sharing is online piracy that harms artists -- Point : the government should not try to regulate e-mail -- Counterpoint : government regulations are needed to stop spam -- Can the Internet be tamed? 
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aUnited States
+*650  $aInternet 
+*650  $aGovernment policy 
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000401
+*020  $a0691119856 (cloth : alk. paper) 
+*041  $aeng
+*100  $aNielsen, Laura Beth
+*245  $aLicense to harass : 
+$blaw, hierarchy, and offensive public speech /
+$cLaura Beth Nielsen.
+*260  $aPrinceton, N.J. :
+$bPrinceton University Press, 
+$cc2004.
+*440  $aThe cultural lives of law 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aUnited States.
+*650  $aHate speech
+*650  $aLibel and slander 
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000402
+*020  $a9004139257 (alk. paper) 
+*041  $aeng
+*100  $aSluiter, I. (Ineke) 
+*110  $aPenn-Leiden Colloquium on Ancient Values (2nd : 2002 :  University of Pennsylvania) 
+*245  $aFree speech in classical antiquity
+$cedited by Ineke Sluiter and Ralph M. Rosen. 
+*260  $aLeiden ; Boston :
+$bBrill, 
+$c2004.
+*440  $aMnemosyne, bibliotheca classica Batava. Supplementum, 0169-8958 ; $v254
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*503  $aConsists of a collection of papers presented at the second Penn-Leiden Colloquium on Ancient Values, held in June 2002 at the University of Pennsylvania.
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aFreedom of speech in literature 
+*650  $aGreece 
+*650  $aCongresses. 
+*651  $a8027
+*693  $aFreedom of expression
+*700  $aRosen, Ralph Mark
+^
+100000403
+*020  $a0742536661 (cloth : alk. paper)  074253667X (pbk. : alk. paper) 
+*041  $aeng
+*100  $aPohlman, H. L., 1952-
+*245  $aConstitutional debate in action. 
+$bCivil rights & liberties
+$cH.L. Pohlman.
+*250  $a2nd ed.
+*260  $aLanham, MD :
+$bRowman & Littlefield Publishers,
+$cc2004. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aRacial discrimination -- Affirmative action -- Abortion -- Hate speech -- Campaign finance regulation and freedom of speech -- Peyote use and religious freedom
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aCivil rights 
+*650  $aUnited States 
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000404
+*020  $a0735527164 
+*041  $aeng
+*100  $aSelmi, Daniel P.
+*245  $aLand use regulation : 
+$bcases and materials /
+$cDaniel P. Selmi, James A. Kushner.
+*250  $a2nd ed. 
+*260  $aNew York, NY :
+$bAspen Publishers, 
+$cc2004.
+*300  $axxxii, 783 p. : 
+$cill. ;  26 cm. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aThe regulatory setting: land, ethics, economics, and players -- Zoning -- Subdivision regulation -- Financing and development of infrastructure -- Planning -- Judicial review of land use decisions -- The takings clause : the Fifth Amendment -- The First Amendment : free speech and freedom of religion -- Limitations on local land use decisionmaking -- Alternative methods for land use decisionmaking. 
+*520  $aIncludes index.
+*650  $aFreedom of expression
+*650  $aUnited States
+*650  $aLaw and legislation 
+*651  $a6357
+*693  $aFreedom of expression
+*700  $aKushner, James A.
+^
+100000405
+*041  $aeng
+*100  $aSmith, Craig R.
+*245  $aThe four freedoms of the First Amendment : 
+$ba textbook
+$cCraig R. Smith, David M. Hunsaker.
+*260  $aLong Grove, Ill. : 
+$bWaveland Press, 
+$cc2004.
+*300  $axiii, 306 p. ; 
+$c23 cm. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aUnited States. 
+*650  $aFreedom of the press 
+*650  $aCivil rights 
+*651  $a6357
+*693  $aFreedom of expression
+*693  $aFreedom of the press
+*700  $aHunsaker, David M.
+^
+100000406
+*020  $a0393058808 (hardcover)
+*041  $aeng
+*100  $aStone, Geoffrey R.
+*245  $aPerilous times : 
+$bfree speech in wartime from the Sedition Act of 1798 to the war on terrorism
+$cGeoffrey R. Stone.
+*250  $a1st ed.
+*260  $aNew York : 
+$bW.W. Norton & Co.,
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aUnited States
+*650  $aHistory.
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000407
+*020  $a0160714605 
+*041  $aeng
+*110  $aUnited States. Congress. House. Committee on House Administration.
+*245  $aHearing on Federal Election Commission enforcement procedures : 
+$bhearing before the Committee on House Administration, House of Representatives, One Hundred Eighth Congress, first session, hearing held in Washington, DC, October 16, 2003.
+*260  $aWashington : 
+$bU.S. G.P.O. : For sale by the Supt. of Docs., U.S. G.P.O., 
+$c2004.
+*300  $aii, 131 p. ; 
+$c24 cm.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aIncludes bibliographical references.
+*520  $aDistributed to some depository libraries in microfiche. Shipping list no.: 2004-0135-P. 
+*650  $aFreedom of expression
+*650  $aUnited States.
+*650  $aPolitical corruption 
+*650  $aCampaign funds 
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000408
+*020  $a0252029399 (cloth : alk. paper) 0252071948 (pbk. : alk. paper)
+*041  $aeng
+*100  $aHine, Darlene Clark
+*245  $aBeyond bondage : 
+$bfree women of color in the Americas
+$cedited by David Barry Gaspar and Darlene Clark Hine.
+*260  $aUrbana : 
+$bUniversity of Illinois Press, 
+$cc2004. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aIncludes bibliographical references and index.
+*520  $aMaroon women in colonial Spanish America : case studies in the Circum-Caribbean, sixteenth-eighteenth centuries / Jane Landers ---Of life and freedom in the (tropical) hearth : El Cobre, Cuba, 1709-73 / Maria Elena Diaz -- In the shadow of the plantation : women of color and the libres de fait of Martinique and Guadeloupe, 1685-1848 / Bernard Moitt -- "To be free is very sweet" : the manumission of female slaves in Antigua, 1817-26 / David Barry Gaspar -- "Do thou in gentle Phibia smile" : scenes from an interracial marriage, Jamaica, 1754-86 / Trevor Burnard ---The fragile nature of freedom : free women of color in the United States South / Loren Schweninger -- "Out of bounds" : emancipated and enslaved women in Antebellum America / Wilma King -- Free Black and Colored women in early nineteenth-century Paramaribo, Suriname / Rosemarijn Hoefte and Jean Jacques Vrij -- Ana Paulinha de Queirós, Joaquina da Costa, and their neighbors : free women of color as household heads in rural Bahia (Brazil), 1835 / B. J. Barickman and Martha Few -- Libertas citadinas : free women of color in San Juan, Puerto Rico / Félix V. Matos Rodríguez -- Landlords, shopkeepers, farmers, slaveowners : free Black female property holders in Colonial New Orleans / Kimberly S. Hanger -- Free women of color in Central Brazil, 1779-1832 / Mary C. Karasch -- Henriette DeLille, free women of color, and Catholicism in Antebellum New Orleans, 1727-1852 / Virginia Meacham Gould -- Religious women of color in seventeenth-century Lima : Estefania de San Ioseph and Ursula de Jesu Christo / Alice L. Wood.
+*650  $aFreedom of expression
+*650  $aAmerica 
+*650  $aWomen, Black
+*650  $aRace relations. 
+*651  $a6000
+*693  $aFreedom of expression
+*700  $aMcBride, Dwight A.
+^
+100000409
+*020  $a0922993106 (pbk. : alk. paper)
+*041  $aeng
+*100  $aBerenger, Ralph D. 1945-
+*245  $aGlobal media go to war : 
+$brole of news and entertainment media during the 2003 Iraq war
+$cedited by Ralph D. Berenger ; preface by Cees J. Hamelink ; foreword by John C. Merrill ; afterword by Kaarle Nordenstreng. 
+*260  $aSpokane, WA : 
+$bMB Marquette Books, 
+$c2004. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aIncludes bibliographical references and index.
+*520  $aHating America : the press in Egypt and France / by James J. Napoli -- Global village disconnected? / by George Albert Gladney ---The framing of the "axis of evil" / by Jinbong Choi -- Middle East and African perspectives on events before the 2003 Iraq war / by Emmanuel C. Alozie -- Al-Jazeera : a broadcaster creating ripples in a stagnant pool / by Stephen Quinn and Tim Walters -- Global news agencies and the pre-war debate : a content analysis / by Beverly Horvit -- Language, media and war : manipulating public perceptions / by Yahya R. Kamalipour -- Metaphors of war : news reporting and the 2003 Iraq war / by Jack Lule -- An insider's assessment of media punditry and "Operation Iraqi Freedom" / by Ibrahim Al-Marashi ---The 2003 war in Iraq and perspectives on Turkish media / by Dilruba Çatalbas -- Late-night talk shows and war : entertaining and informing through humor / by Andrew Paul Williams, Justin D. Martin, Kaye D. Trammell, Kristen Landreville and Chelsea Ellis ---The press made mistakes covering the 2003 Iraq war, but it also corrected them / by Howard Schneider ---Of journalists and dogs : tales from the northern behind / by Maggy Zanger -- Embedded versus behind-the-lines reporting on the 2003 Iraq war / by Stephen Cooper and Jim A. Kuypers -- Allies down under? : the Australian at war and "the big lie" / by Martin Hirst and Robert Schutze -- U.S. and British press coverage of Iraq's missing WMD / by Kris Kodrich and Sweety Law ---The Hong Kong media during the Gulf war / by Yoichi Clark Shimatsu -- Nowhere to hide : South African media seek global perspective on Iraq war / by Christine Buchinger, Herman Wasserman and Arnold de Beer -- Arab satellite TV news : up, down and out / by S. Abdallah Schleifer -- Move over CNN : Al-Jazeera's view of the world takes on the West / by Catherine Cassara and Laura Lengel -- Indian media coverage of the 2003 Iraq war / by Janet Fine -- Iraq war ushers in web-based era / by Naila Hamdy and Radwa Mobarak ---The first hours of the war : online news coverage of "Operation Iraqi Freedom" / by Daniela V. Dimitrova, Lynda Lee Kaid, and Andrew Paul Williams -- Digital deconstruction : indymedia as a process of collective critique / by Lisa Brooten -- Iraq war news : were younger audiences bored with the news or the media? / by David Weinstock and Timothy Boudreau -- Weblogs as a source of information about the 2003 Iraq war / by Barbara K. Kaye and Thomas J. Johnson ---The cognitive and emotional effects of media coverage of the 2003 Iraq war / by Glenn G. Sparks and Will Miller --Propaganda and Arab media audiences : resisting the "hearts and minds" campaign / by Makram Khoury-Machool -- News credibility during the 2003 Iraq war : a survey of UAE students / by Muhammad I. Ayish -- War against media in the 2003 Gulf war / by Abdullah Al-Kindi -- Afterword : media monitoring : watching the watchdogs / by Kaarle Nordenstreng. 
+*650  $aFreedom of expression
+*650  $aIraq War, 2003
+*650  $aMass media and the war.
+*651  $a5000
+*651  $a6357
+*651  $a7300
+*693  $aFreedom of expression
+^
+100000410
+*020  $a1591022304 (pbk. : alk. paper)
+*041  $aeng
+*100  $aBörjesson, Kristina
+*245  $aInto the buzzsaw : 
+$bleading journalists expose the myth of a free press 
+$cedited by Kristina Borjesson. 
+*250  $aRev. and expanded ed. 
+*260  $aNew York : 
+$bPrometheus Books, 
+$c2004. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aThe patriot and the censor's necklace / Dan Rather ---The memo / Charles Reina -- Field notes from a shot messenger / Ashleigh Banfield ---The war on terror and the great game for oil: how the media missed the context / Charlotte Dennett ---The price of liberty / Gerard Colby -- Crimes and silence: the CIA's criminal acts and the media's silence / John Kelly ---The mighty Wurlitzer plays on / Gary Webb -- Mainstream media: the drug war's shills / Michael Levine ---The silence of the lambs: an American in journalistic exile / Greg Palast ---The fox, the hounds and the sacred cows / Jane Akre ---The story no one wanted to hear / J. Robert Port -- Verdict first, evidence later: the case for Bobby Garwood / Monika Jensen-Stevenson -- Into the buzzsaw / Kristina Borjesson -- Coal mine canaries / David Hendrix -- When black become white / Philip Weiss -- Stories we love, stories we hate / Helen Malmgren -- Shouting at the crocodile / Maurice Murad -- What happened to good old-fashioned muckraking? / Carl Jensen ---The rise and fall of professional journalism / Robert McChesney.
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of the press
+*650  $aUnited States.
+*651  $a6357
+*693  $aFreedom of the press
+^
+100000411
+*020  $a1565849175 (hc)  1565848551 (pbk.)
+*041  $aeng
+*100  $aMcChesney, Robert Waterman, 1952-
+*245  $aOur unfree press : 
+$b100 years of media criticism 
+$cedited by Robert W. McChesney and Ben Scott. 
+$wOur unfree press, one hundred years of media criticism 
+*260  $aNew York : 
+$bNew Press, 
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references.
+*650  $aFreedom of the press
+*650  $aUnited States.
+*650  $aMass media
+*651  $a6357
+*693  $aFreedom of the press
+*700  $aScott, Ben, 1977-
+^
+100000412
+*020  $a0804748780 (cloth : alk. paper)
+*041  $aeng
+*100  $aKirby, William C.
+*245  $aRealms of freedom in modern China 
+$cedited by William C. Kirby. 
+*260  $aStanford, Calif. : 
+$bStanford University Press, 
+$cc2004. 
+*300  $axii, 396 p. ; 
+$c24 cm. 
+*440  $aThe making of modern freedom
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of the press
+*650  $aHuman rights
+*650  $aChina. 
+*651  $a7117
+*693  $aFreedom of the press
+^
+100000413
+*020  $a1591021472 (acid-free paper) 
+*041  $aeng
+*100  $aDadge, David
+*245  $aCasualty of war : 
+$bthe Bush administration's assault on a free press 
+$cDavid Dadge.
+*260  $aAmherst, N.Y. : 
+$bPrometheus Books, 
+$c2004.
+*300  $a349 p. ; 
+$c24 cm. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aLosing America's voice -- Al-Jazeera : a platform of controversy -- Executive's privilege -- "In cipro we trust" -- Dezinformatsiya and other patriot acts -- Trading liberty for security -- "Everyone has his own Bin Laden" -- Responding to the war on terrorism.
+*520  $aIncludes bibliographical references (p. 295-328) and index. 
+*650  $aFreedom of the press
+*650  $aUnited States.
+*650  $aWar on Terrorism, 2001-
+*651  $a7328
+*651  $a6357
+*693  $aFreedom of the press
+^
+100000414
+*020  $a1566635608 (alk. paper) 
+*041  $aeng
+*100  $aLevy, Leonard Williams,  1923-
+*245  $aEmergence of a free press
+$cLeonard W. Levy.
+*260  $aChicago : 
+$bI. R. Dee, 
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aOriginally published: Oxford ; New York : Oxford University Press, 1985.
+*520  $aIncludes bibliographical references and index. 
+*650  $aFreedom of the press
+*650  $aUnited States 
+*651  $a6357
+*693  $aFreedom of the press
+^
+100000415
+*020  $a0313315973 (alk. paper) 
+*041  $aeng
+*100  $aLidsky, Lyrissa Barnett, 1968-
+*245  $aFreedom of the press : 
+$ba reference guide to the United States Constitution
+$cLyrissa Barnett Lidsky and R. George Wright.
+*260  $aWestport, Conn. : 
+$bPraeger Publishers, 
+$c2004.
+*440  $aReference guides to the United States Constitution,  1539-8986 ;
+$vno. 10
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aThe text and history of the First Amendment -- First Amendment theory & method -- Prior restraints -- Content-based restrictions on the media -- Content-neutral regulation of the press -- Liability for publications that harm reputation : defamation -- Liability for publications that invade privacy or inflict emotional distress -- Liability for publications that inflict physical harm on unconsenting or vulnerable persons -- Investigative newsgathering and "neutral limits" on press rights -- Police operations and newsgathering-hindrance, assistance and the First Amendment ---Press access to persons, sites, proceedings, and documents. 
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of the press
+*650  $aUnited States.
+*651  $a6357
+*693  $aFreedom of the press
+*700  $aWright, R. George.
+^
+100000416
+*020  $a0205343503 (alk. paper) 
+*041  $aeng
+*100  $aMiddleton, Kent.
+*245  $aThe law of public communication
+$cKent R. Middleton, William E. Lee, Bill F. Chamberlin.
+*250  $a2003 ed. 
+*260  $aBoston, MA : 
+$bAllyn and Bacon,
+$c2004.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of the press
+*650  $aPress law
+*650  $aUnited States.
+*651  $a6357
+*693  $aFreedom of the press
+*700  $aLee, William E. (William Eyre) 
+*700  $aChamberlin, Bill F., 1944-
+^
+100000417
+*020  $a8173916187 
+*041  $aeng
+*100  $aSaxena, Ambrish
+*245  $aRight to information and freedom of press 
+$cAmbrish Saxena.
+*260  $aNew Delhi : 
+$bKanishka Publishers, Distributors, 
+$c2004. 
+*300  $ax, 196 p. ; 
+$c22 cm. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aOn the Right to Freedom Act; a study on the legislation as promulgated in India.
+*520  $aIncludes bibliographical references (p. [191]-192) and index.
+*650  $aFreedom of the press
+*650  $aIndia
+*651  $a7425
+*693  $aFreedom of the press
+^
+100000418
+*041  $aeng
+*110  $aUnited States. Congress. Senate. Committee on Foreign Relations.
+*245  $aPublic diplomacy and international free press : 
+$bhearing before the Committee on Foreign Relations, United States Senate, One Hundred Eighth Congress, second session, February 26, 2004. 
+*260  $aWashington : 
+$bU.S. G.P.O. : For sale by the Supt. of Docs., U.S. G.P.O.,
+$c2004.
+*300  $aiii, 54 p. ; 
+$c24 cm.
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $a"Printed for the use of the Committee on Foreign Relations." Shipping list no.: 2004-0199-P. Distributed to some depository libraries in microfiche.
+*520  $aIncludes bibliographical references. 
+*650  $aFreedom of the press
+*650  $aDiplomatic and consular service, American 
+*650  $aMass media and public opinion
+*650  $aUnited States 
+*651  $a6357
+*693  $aFreedom of the press
+^
+100000419
+*020  $a0618159762
+*041  $aeng
+*100  $aFreedman, Russell
+*245  $aThe voice that challenged a nation : 
+$bMarian Anderson and the struggle for equal rights 
+$cby Russell Freedman. 
+*260  $aNew York : 
+$bClarion Books, 
+$cc2004.
+*300  $a114 p. : ill. ; 
+$c26 cm. 
+*500  $aLibrary of Congress online catalog: http://catalog.loc.gov/
+*505  $aEaster Sunday, April 9, 1939 -- Twenty-five cents a song -- A voice in a thousand -- Marian fever ---Banned by the DAR -- Singing to the nation -- Breaking barriers -- "What I had was singing."
+*520  $aIncludes bibliographical references (p. 101-103), discography (p. 105-106), and index. 
+*650  $aFreedom of the press
+*650  $aAfrican American singers
+*650  $aJuvenile literature. 
+*650  $aUnited States
+*651  $a6357
+*693  $aFreedom of the press
+^
+100000420
+*020  $a87-89499-17-4
+*041  $adan
+*100  $aJerichow, Anders 
+*110  $aDet Udenrigspolitiske Selskab 
+*245  $aIran 
+$brevolution eller reform? 
+$cAnders Jerichow og Michael Jarlner ; tegninger: Hadi Heidari ; redaktion Klaus Carsten Pedersen 
+*260  $a[Kbh.] 
+$bDet Udenrigspolitiske Selskab
+$c2004 
+*300  $a160 p. ; ill. 
+*440  $aUdenrigspolitiske skrifter
+$vnr. 93
+*500  $aThe Royal Danish Library, http://www.kb.dk/index-en.htm
+*503  $aIndhold: Anders Jerichow: Islamisk republik : ét land, to systemer? ; Menneskeret : kryds ikke den røde linje ; Udenrigs : fange af egen retorik ; Atomkraft : atommagt? Michael Jarlner: Økonomi : ét stort dilemma ; Revolutionens børn : ungdomsoprør, narko og familieskred. Janne Bjerre Christensen: Civilsamfundet : NGO'er et vendepunkt for Iran? ; Demokratiseringen : studenternes bevægelse. Fatemeh Sadeghi: Kvinder : fortælling om en muslimsk kvinde. Faraj Sarkouhi: Censur og film : instrueret af Gud. Ramin Jehanbegloo: Debatten : Irans intellektuelle og moderniteten
+*505  $aStatus 25 år efter den folkelige opstand mod shahen og den muslimske revolution 
+*520  $aMed litteraturhenvisninger og internetadresser
+*650  $aFreedom of expression
+*650  $aislam 
+*650  $aIran 
+*650  $aHuman Rights
+*651  $a7327
+*693  $aFreedom of expression
+*700  $aJarlner, Michael 
+^
+100000421
+*041  $adan
+*100  $aVilladsen, Jeppe 
+*110  $aSociologisk Institut, Københavns Universitet 
+*245  $aTale og tavshed ; 
+$bselv, censur og samtale i det senmoderne rettighedssamfund 
+*260  $aKbh. 
+$bKøbenhavns Universitet, Sociologisk Institut 
+$c2004 
+*300  $a122 s. 
+$c30 cm 
+*440  $aSpecialeserien ; Sociologisk Institut 
+$v44 
+*500  $aThe Royal Danish Library, http://www.kb.dk/index-en.htm
+*650  $aCensorship
+*651  $a8020
+*693  $aCensorship
+^
+100000422
+*020  $a0802089593 (bound) : 0802086365 (pbk.) 
+*041  $aeng
+*100  $aBraun, Stefan 
+*245  $aDemocracy off balance 
+$bfreedom of expression and hate propaganda law in Canada 
+$cStefan Braun 
+*260  $aToronto 
+$bUniversity of Toronto Press. 
+$c2004 
+*300  $a430 p. 
+$c229 x 152 mm. 
+*500  $aThe Royal Danish Library, http://www.kb.dk/index-en.htm
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of expression
+*650  $aCanada
+*650  $aHate speech
+*651  $a6322
+*693  $aFreedom of expression
+^
+100000423
+*020  $a951-882-409-6 (sid.) 
+*041  $afin 
+*100  $aVuortama, Timo
+*245  $aViestinnän lait ja säännöt
+$cTimo Vuortama, Lauri Kerosuo 
+*250  $aKuudes, kokonaan uud. laitos 
+*260  $aKarkkila 
+$bKustannus-Mäkelä 
+$c2004 
+*300  $a187 s. 
+$c21 cm 
+*500  $aFinland, Helsingin Yliopiston Kirjasto - Suomen kansalliskirjasto
+*650  $aFreedom of expression
+*650  $aFreedom of the press
+*650  $aJournalism
+*650  $aFinland
+*651  $a8022
+*693  $aFreedom of expression
+*693  $aFreedom of the press
+*700  $aKerosuo, Lauri
+^
+100000424
+*020  $a2-7459-1084-1
+*041  $afre
+*245  $aLa liberté de la presse 
+$bTexte imprimé ; un combat toujours actuel
+$cDaniel Junqua
+*260  $aToulouse
+$bMilan
+$c2004
+*300  $a63 p. ; ill., couv. ill. en coul.
+$c18 cm
+*440  $aLes essentiels Milan
+$v215
+*500  $aBibliothèque nationale de France http://catalogue.bnf.fr/
+*520  $aBibliogr. p. 60-61. Index
+*650  $aFreedom of the press
+*650  $aLiberté de la presse
+*650  $aFrance
+*651  $a8023
+*693  $aFreedom of the press
+^
+100000425
+*020  $a3-8322-2823-3 
+*041  $ager
+*100  $aHüper, Melanie
+*245  $aZensur und neue Kommunikationstechnologien
+$cMelanie Hüper
+*260  $aAachen : 
+$bShaker Erscheinungsjahr: 
+$c2004 
+*300  $a171, XXXIV S. ; 
+$c21 cm, 311 gr. 
+*500  $aOnline Catalogue of the Deutsche Bibliothek Frankfurt am Main: http://dbf-opac.ddb.de/index_e.htm
+*520  $aBerichte aus der Rechtswissenschaft Hochschulschrift: Zugl.: Hamburg, Univ., Diss., 2004 
+*650  $aFreedom of the press
+*650  $aGermany
+*650  $aCensorship
+*651  $a8025
+*693  $aFreedom of the press
+*693  $aCensorship
+^
+100000426
+*020  $a3-8300-1214-4 
+*041  $ager
+*100  $aOhrtmann, Jan-Peter
+*245  $aSchockierende Werbung in Deutschland und den USA : 
+$beine wettbewerbs- und verfassungsrechtliche Beurteilung 
+$cJan-Peter Ohrtmann
+*260  $aHamburg : 
+$bKovac Erscheinungsjahr: 
+$c2004 
+*300  $a234 S. ; 
+$c21 cm, 309 gr.
+*440  $aStudienreihe wirtschaftsrechtliche Forschungsergebnisse ;
+$vBd. 57 
+*500  $aOnline Catalogue of the Deutsche Bibliothek Frankfurt am Main: http://dbf-opac.ddb.de/index_e.htm
+*520  $aHochschulschrift: Zugl.: Dresden, Techn. Univ., Diss., 2003
+*650  $aFreedom of expression
+*650  $aGermany
+*650  $aUnited States
+*651  $a8025
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000427
+*020  $a3-631-52089-1 
+*041  $ager
+*100  $aKassing, Katja
+*245  $aEhrverletzende Personalsatire in Deutschland, Österreich, der Schweiz und England 
+$cKatja Kassing
+*260  $aFrankfurt am Main ; Berlin ; Bern ; Bruxelles ; New York ; Oxford ; Wien : 
+$c2004 
+*300  $aXX, 318 S. ; 
+$c21 cm
+*440  $aCriminalia ; 
+$vBd. 38
+*500  $aOnline Catalogue of the Deutsche Bibliothek Frankfurt am Main: http://dbf-opac.ddb.de/index_e.htm
+*520  $aZugl.: München, Univ., Diss., 2003 
+*650  $aFreedom of expression
+*650  $aAustria
+*650  $aGermany
+*650  $aEngland
+*650  $aSwitzerland
+*651  $a8013
+*651  $a8025
+*651  $a8051
+*651  $a8047
+*693  $aFreedom of expression
+^
+100000428
+*020  $a385842577X
+*041  $ager
+$heng
+*100  $aBorjesson , Kristina [Börjesson]
+*245  $aZensor USA : 
+$bwie die amerikanische Presse zum Schweigen gebracht wird
+$cKristina Borjesson (Hrsg.) ; mit einem Vorw. von Jean Ziegler ; aus dem Amerikan. von Helmut Dierlamm ... [et al.] 
+*260  $aZürich : 
+$bPendo-Verlag,
+$ccop. 2004 
+*300  $a432 S. ;
+$c22 cm 
+*500  $aOnline Catalogue of the Deutsche Bibliothek Frankfurt am Main: http://dbf-opac.ddb.de/index_e.htm
+*520  $aÜbers. von: Into the Buzzsaw 
+*650  $aFreedom of the press
+*650  $aCensorship
+*650  $aUnited States
+*651  $a6357
+*693  $aFreedom of the press
+*693  $aCensorship
+*700  $aZiegler, Jean 
+*700  $aDierlamm, Helmut
+^
+100000429
+*020  $a0385513259
+*041  $aeng
+*100  $aMcLeod, Kembrew, 1970-
+*245  $aFreedom of expression(r) :
+$boverzealous copyright bozos and other enemies of creativity 
+$cKembrew McLeod
+*250  $a1st ed.
+*260  $aNew York : 
+$bDoubleday, 
+$c2005.
+*500  $aNational Library of Canada ; http://www.collectionscanada.ca/ 
+*650  $aFreedom of expression
+*650  $aUnited States
+*650  $aIntellectual property
+*651  $a6357
+*693  $aFreedom of expression
+^
+100000430
+*020  $a1550288415 
+*041  $aeng
+*100  $aBruneau, William A., 1944-
+*110  $aCanadian Association of University Teachers
+*245  $aDisciplining dissent : 
+$b[the curbing of free expression in academia and the media]
+$cWilliam Bruneau and James L. Turk, editors 
+*260  $aToronto : 
+$bLorimer, 
+$cc2004. 
+*300  $a223 p. ; 
+$c23 cm. 
+*440  $a"A CAUT series title"
+*500  $aNational Library of Canada ; http://www.collectionscanada.ca/ 
+*505  $aIncludes bibliographical references and index. 
+*520  $aCo-published by the Canadian Association of University Teachers.
+*650  $aFreedom of expression
+*650  $aFreedom of the press
+*650  $aCensorship 
+*650  $aMass media
+*650  $aCanada
+*651  $a6322
+*693  $aFreedom of expression
+*693  $aFreedom of the press
+*693  $aCensorship 
+*700  $aTurk, James, 1943- 
+^
+100000431
+*020  $a2764403291
+*041  $afre
+*100  $aGravel, François
+*245  $aL'araignée sauvage : histoire d'horreur au cube
+$cFrançois Gravel 
+*260  $aPrologue, 1650, boul. Lionel-Bertrand, Boisbriand, QC J7H 1N7 Montréal : 
+$bQuébec Amérique, 
+$c2004.
+*300  $a256 p. ; 
+$c18 cm. 
+*440  $aTitan jeunesse 55 Série Sauvage ; 2 Jeunesse Gravel, François Série Sauvage 2 Collection Jeunesse (Québec/Amérique) 
+*500  $aNational Library of Canada ; http://www.collectionscanada.ca/ 
+*520  $aTarget audience: Enfants. 
+*650  $aFreedom of expression
+*650  $aJuvenile fiction
+*650  $aCanada
+*651  $a6322
+*693  $aFreedom of expression
+^
+100000432
+*020  $a185604517X (hbk.) 
+*041  $aeng
+*100  $aSmith, Kelvin
+*245  $aFreedom of information : 
+$ba practical guide to implementing the Act 
+$cKelvin Smith. 
+*260  $aLondon : 
+$bFacet, 
+$c2004.
+*300  $axi, 186 p. ill. ; 
+$c26 cm. : 
+*500  $aNational Library of Canada ; http://www.collectionscanada.ca/ 
+*505  $a"Time is running out in the countdown to full implementation of the Act by January 2005, so this guide provides all the information needed to ensure efficient and speedy compliance with the Act. It covers both preparing for implementation (staffing infrastructure, action planning, records management and training) and actual implementation (use of ICT, logging systems and handling requests). This book also includes an examination of how FOI links with other legislation such as data protection and human rights." "This is essential reading for all in public service work, particularly those involved in customer enquiries, record keeping and policy making."--BOOK JACKET.
+*520  $aIncludes index. 
+*650  $aFreedom of information
+*650  $aUnited Kingdom
+*651  $a8051
+*693  $aFreedom of information
+^
+100000433
+*020  $a0864694687 (pbk.) 
+*041  $aeng
+*110  $aBroadcasting Standards Authority.
+*245  $aReal media, real people : 
+$bprivacy and informed consent in broadcasting in New Zealand 
+$cBroadcasting Standards Authority.
+*260  $aPalmerston North, N.Z. : 
+$bDunmore Press, 
+$c2004. 
+*500  $aNational Library of Canada ; http://www.collectionscanada.ca/ 
+*650  $aFreedom of the press
+*650  $aNew Zealand.
+*650  $aFreedom of the press 
+*650  $aBroadcasting 
+*651  $a9021
+*693  $aFreedom of the press
+^
+100000434
+*020  $a0946347387 (pbk.)
+*041  $aeng
+*100  $aNurcombe, Valerie J. (Valerie Jean), 1947- 
+*110  $aChartered Institute of Library and Information Professionals (Great Britain)
+*245  $aPublic schemes : 
+$baccess to official information in the 21st century : proceedings of a one day seminar held in London at CILIP 17 November, 2003 
+$cedited by Valerie J. Nurcombe.
+*260  $a[London] : 
+$bStanding Committee on Official Publications of the Information Services Group of the Chartered Institute of Library & Information Professionals, 
+$c2004. 
+*300  $a87 p. : ill. ; 
+$c30 cm.
+*500  $aNational Library of Canada ; http://www.collectionscanada.ca/ 
+*520  $aIncludes bibliographical references.
+*650  $aFreedom of information
+*650  $aUnited Kingdom
+*651  $a8051
+*693  $aFreedom of information
+^
+100000435
+*041  $aeng
+*100  $aGan, Steven
+*245  $aAsian cyberactivism : 
+$bfreedom of expression and media censorship 
+$cedited by Steven Gan, James Gomez and Uwe Johannen. 
+*260  $aBangkok : 
+$bFriedrich Naumann Foundation in association with Journalism and Media Studies Centre, Hong Kong, 
+$c2004. 
+*300  $a644 p. 
+*500  $aNational Library of Singapore ; http://www.nlb.gov.sg/
+*650  $aFreedom of expression
+*650  $aCensorship
+*650  $aInternet
+*650  $aAsia
+*651  $a7000
+*693  $aFreedom of expression
+*693  $aCensorship
+*700  $aGomez, James
+*700  $aJohannen, Uwe
+^
+100000436
+*041  $achi
+*100  $aChen, Zhenghong
+*245  $aZhongguo jin shu jian shi 
+$cChen Zhenghong, Tan Beifang zhu.
+*260  $aShanghai : 
+$bXue lin chu ban she, 
+$c2004
+*300  $a3, 4, 4, 275 p. : ill. ; 
+$c21 cm.
+*500  $aNational Library of Singapore : http://www.nlb.gov.sg/ 
+*650  $aProhibited books
+*650  $aCensorship 
+*650  $aChina History
+*651  $a7117
+*693  $aProhibited books
+*693  $aCensorship 
+*700  $aTan, Beifang
+^
+100000437
+*020  $a0816040184 (hbk. : alk. paper)  0816050708 (pbk. : alk. paper)
+*041  $aeng
+*100  $aSova, Dawn B. 
+*245  $aBanned plays : 
+$bcensorship histories of 125 stage dramas 
+$cDawn B. Sova.
+*260  $aNew York : 
+$bFacts on File, 
+$c2004. 
+*300  $axvi, 400 p. ;
+$c24 cm. 
+*440  $aFacts on File library of world literature 
+*500  $aNational Library of Australia : http://catalogue.nla.gov.au/
+*503  $a"Throughout history, various political, social, and religious power structures have used drama as a propaganda tool, and these structures have also demanded the elimination or modification of plays that did not agree with their philosophies. The suppression of drama by organized groups remains a disturbing reality in the 21st century." "Banned Plays outlines the censorship history of 125 classic plays from ancient times to the present. Each entry presents the name(s) under which the play has appeared, the date it was produced and place of original production, a summary of the play, its censorship history, and suggestions for further readings."--BOOK JACKET.
+*520  $aIncludes bibliographical references and index.
+*650  $aCensorship 
+*650  $aTheater 
+*651  $a0000
+*693  $aCensorship
+^
+100000438
+*020  $a4582764975 
+*041  $ajap
+*100  $aJ¯o, Ichir¯o,  1922-
+*245  $aTeihon hakkinbon : 
+$bshomotsu to sono sh¯uhen
+$cJ¯o Ichir¯o.
+*250  $aShohan. 
+*260  $aT¯oky¯o : 
+$bHeibonsha,
+$c2004. 
+*300  $a477, [8] p. of leaves : ill. ; 
+$c16 cm.
+*440  $aHeibonsha raiburar¯i ; 
+$v497
+*500  $aNational Library of Australia : http://catalogue.nla.gov.au/
+*650  $aProhibited books
+*650  $aCensorship 
+*650  $aJapan
+*650  $aErotic literature
+*651  $a7130
+*693  $aProhibited books
+*693  $aCensorship
+^
+100000439
+*020  $a1920801162
+*041  $aeng
+*100  $aHealey, Justin
+*245  $aCensorship and free speech 
+$ceditor: Justin Healey. 
+*260  $aThirroul, N.S.W. : 
+$bSpinney Press, 
+$c2004.
+*300  $a1 v. 
+*440  $aIssues in society ; 
+$vv. 207 
+*500  $aNational Library of Australia : http://catalogue.nla.gov.au/
+*505  $aBibliography. 
+*520  $aIncludes index. 
+*650  $aFreedom of expression
+*650  $aCensorship 
+*650  $aAustralia. 
+*651  $a9012
+*693  $aFreedom of expression
+*693  $aCensorship
+^
+100000440
+*041  $aswe
+*100  $aNeuman, Ricki, 1947-
+*110  $aStiftelsen Institutet för mediestudier
+*245  $aFinns det inga gränser? : 
+$bom satir, massmedier och tryckfrihet
+$cRicki Neuman ; efterord av Hans-Gunnar Axberger 
+*260  $aStockholm : 
+$bStift. Institutet för mediestudier i samarbete med Sellin & partner, 
+$c2004 e (Stockholm : f Edita Norstedt) 
+*300  $a85 s. : ill. ; 
+$c20 cm 
+*500  $aLIBRIS - The Union Catalogue of Swedish Libraries: http://www.libris.kb.se/english/home.html
+*650  $aFreedom of the press
+*650  $aSweden
+*650  $aFreedom of expression
+*651  $a8046
+*693  $aFreedom of the press
+*693  $aFreedom of expression
+*700  $aAxberger, Hans-Gunnar, 1952-
+^
+100000441
+*020  $a91-44-03002-9
+*041  $aswe
+*100  $aStrömberg, Håkan, 1917-2002
+*245  $aYttrandefrihetsrätt
+$cHåkan Strömberg & Hans-Gunnar Axberger 
+*260  $aLund :
+$bStudentlitteratur, 
+$c2004
+*300  $a152 s. ; 
+$c23 cm 
+*500  $aLIBRIS - The Union Catalogue of Swedish Libraries: http://www.libris.kb.se/english/home.html
+*505  $aOmarbetad och utökad utgåva av: Tryckfrihetsrätt och annan yttrandefrihet / Håkan Strömberg 
+*650  $aFreedom of the press
+*650  $aSweden
+*650  $aFreedom of expression
+*651  $a8046
+*693  $aFreedom of the press
+*693  $aFreedom of expression
+*700  $aAxberger, Hans-Gunnar, 1952-
+^
+100000442
+*041  $aswe
+*100  $aBoman, Ellinore
+*110  $aSvensk Biblioteksförening
+*245  $aFolkbiblioteken och informationsuppgiften : 
+$bfyra biblioteksorganisationers syn på folkbibliotek, folkbibliotekens bestånd samt deras roll i samhället = [The public library and the information task] : [four library organisations view of the public library]
+$cEllinore Boman, Petra Josefsson 
+*260  $aBorås : 
+$bHögsk. i Borås, Bibliotekshögskolan/Biblioteks- och informationsvetenskap, 
+$c2004 
+*300  $a68 s. 
+*440  $aMagisteruppsats i biblioteks- och informationsvetenskap vid Bibliotekshögskolan/Biblioteks- och informationsvetenskap, 1404-0891 ; 
+$v2004:22
+*500  $aLIBRIS - The Union Catalogue of Swedish Libraries: http://www.libris.kb.se/english/home.html
+*650  $aFreedom of expression
+*650  $aFreedom of information
+*650  $aLibrary
+*650  $aSweden
+*651  $a8046
+*693  $aFreedom of expression
+*693  $aFreedom of information
+*700  $aJosefsson, Petra
+^
+100000443
+*041  $ager
+*100  $aCohen Jehoram, Herman
+*245  $aUrheberrecht und Freiheit der Meinungsäußerung, Rechtsmissbrauch und Standardschikane 
+$cHerman Cohen Jehoram 
+*500  $aLIBRIS - The Union Catalogue of Swedish Libraries: http://www.libris.kb.se/english/home.html
+*520  $aGewerblicher Rechtsschutz und Urheberrecht. p Internationaler Teil : Zeitschrift der Deutschen Vereinigung für gewerblichen Rechtsschutz und Urheberrecht
+*650  $aFreedom of expression
+*650  $aNetherlands 
+*650  $aCopyright 
+*651  $a8038
+*693  $aFreedom of expression
+^
+100000444
+*020  $a0-7496-5900-9 (pbk.) 
+*041  $aeng
+*100  $aSteele, Philip, 1948-
+*245  $aFreedom of speech 
+$cPhilip Steele. 
+*250  $aNew ed. 
+*260  $aLondon : 
+$bFranklin Watts, 
+$c2004. 
+*300  $a48 p. : b ill. ; 
+$c27 cm. 
+*440  $aWhat do we mean by human rights? 
+*500  $aLIBRIS - The Union Catalogue of Swedish Libraries: http://www.libris.kb.se/english/home.html
+*503  $aPrevious ed.: 1997. 
+*520  $aIncludes index.
+*650  $aFreedom of expression
+*650  $aJuvenile literature. 
+*651  $a0000
+*693  $aFreedom of expression
+^
+100000445
+*020  $a0-19-927464-9 : 0-19-927465-7 (pbk.) 
+*041  $aeng
+*100  $aWalker, Neil, 1960-
+*245  $aEurope's area of freedom, security, and justice
+$cedited by Neil Walker. 
+*260  $aOxford : 
+$bOxford University Press, 
+$c2004. 
+*300  $a260 p. ; 
+$c24cm. 
+*440  $aThe collected courses of the Academy of European Law 
+*500  $aLIBRIS - The Union Catalogue of Swedish Libraries: http://www.libris.kb.se/english/home.html
+*650  $aFreedom of expression
+*650  $aEmigration and immigration law 
+*650  $aEuropean Union countries.
+*651  $a8000
+*693  $aFreedom of expression
+^
+100000446
+*020  $a0-8020-8995-X (hc) ; 0-8020-8651-9 (pbk) 
+*041  $aeng
+*100  $aRutherford, Paul, 1944-
+*245  $aWeapons of mass persuasion : 
+$bmarketing the war against Iraq 
+$cPaul Rutherford 
+*260  $aToronto : 
+$bUniversity of Toronto Press, 
+$c2004 
+*300  $axii, 226 s. 
+*500  $aLIBRIS - The Union Catalogue of Swedish Libraries: http://www.libris.kb.se/english/home.html
+*650  $aFreedom of the press
+*650  $aIraq War, 2003 
+*650  $aUnited States
+*650  $aMass media and the war 
+*651  $a7328
+*651  $a6357
+*693  $aFreedom of the press
+^
+100000447
+*020  $a1-903900-89-1 (inb.)
+*041  $aeng
+*100  $aIsraeli, Raphael
+*245  $aThe Iraq war : 
+$bhidden agendas and Babylonian intrigue ; the regional impact on Shi'ites, Kurds, Sunnis and Arabs 
+$cRaphael Israeli 
+*260  $aBrighton ; Portland, Or. 
+$bSussex Academic Press, 
+$c2004 
+*300  $a278 s. 
+*500  $aLIBRIS - The Union Catalogue of Swedish Libraries: http://www.libris.kb.se/english/home.html
+*650  $aFreedom of the press
+*650  $aIraq War, 2003 
+*650  $aUnited States
+*651  $a7328
+*651  $a6357
+*693  $aFreedom of the press
+^
+100000448
+*020  $a0-7123-4865-4 (hbk.) 
+*041  $aeng
+*100  $aShellard, Dominic
+*245  $aThe Lord Chamberlain regrets 
+$cDominic Shellard and Steve Nicholson with Miriam Handley
+*260  $aLondon : 
+$bBritish Library,
+$c2004. 
+*300  $a224 p. : b ill. ;
+$c25 cm. 
+*500  $aLIBRIS - The Union Catalogue of Swedish Libraries: http://www.libris.kb.se/english/home.html
+*650  $aEnglish drama
+*650  $aCensorship 
+*650  $aGreat Britain
+*650  $aTheater 
+*651  $a8051
+*693  $aCensorship
+*700  $aNicholson, Steve
+*700  $aHandley, Miriam
+^
+100000449
+*020  $a0-9533261-6-0 (pbk.) 
+*041  $aeng
+*100  $aBryce, Allan
+*245  $aThe original video nasties : 
+$bfrom absurd to zombie flesh-eaters 
+$cAllan Bryce. 
+*260  $aCornwall : 
+$bStray Cat, 
+$c2004. 
+*300  $a170 p. : ill. ;
+$c30 cm.
+*500  $aLIBRIS - The Union Catalogue of Swedish Libraries: http://www.libris.kb.se/english/home.html
+*650  $aCensorship
+*650  $aVideo recordings
+*651  $a0000
+*693  $aCensorship
+^
+100000450
+*020  $a0907631215. m 
+*041  $aeng
+*100  $aDavies, Christie 
+*110  $aSocial Affairs Unit
+*245  $aThe right to joke. 
+$cChristie Davies 
+*260  $aLondon. 
+$bSocial Affairs Unit. 
+$c2004 
+*300  $a41 p.. 
+$c22 cm. pbk. 
+*440  $aResearch report (Social Affairs Unit). 0264-5362. 
+$v37
+*500  $aBritish Library Public Catalogue : http://blpc.bl.uk/
+*650  $aCensorship 
+*650  $aPolitical correctness
+*651  $a0000
+*693  $aCensorship
+^
+100000451
+*020  $a9042009888 
+*041  $aeng
+*100  $aMüller, Beate
+$eeditor
+*245  $aCensorship & cultural regulation in the modern age 
+$cBeate Müller, Ed.
+$bRodopi.
+$c2004 
+*440  $aCritical studies. 
+$vvol 22 
+*500  $aBritish Library Public Catalogue : http://blpc.bl.uk/
+*505  $aSelected papers
+*520  $aSponsor: Censorship: phenomenology, representation, 
+contexts. International conference. 2000 Sep. Newcastle upon Tyne
+*650  $aCensorship
+*650  $acultural regulation 
+*651  $a0000
+*693  $aCensorship
+^
+100000452
+*020  $a91-7106-524-5$bh.
+*041  $aeng
+*100  $aOlukotun, Ayo
+*245  $aRepressive state and resurgent media under Nigeria's military dictatorship, 1988-98
+$cAyo Olukotun
+*260  $aUppsala
+$bNordiska Afrikainstitutet
+$c2004
+*300  $a136 s.
+*440  $aResearch report / Nordiska Afrikainstitutet ; 812220447 ; 126
+$vno. 126
+*500  $aBIBSYS, Union Catalogue of Norwegian Libraries ; http://www.bibsys.no/english.html
+*650  $aCensorship
+*650  $aDemocratization
+*650  $aNigeria
+*650  $aPress
+*651  $a5548
+*693  $aCensorship
+^
+100000453
+*020  $a892-4-2004
+*041  $aeng
+*100  $aKilani, Sa'eda
+*245  $aFreedom fries : fried freedoms
+$bArab satellite channels strugglebetween state control and western pressure
+$cSa'eda Kilani
+*260  $aAmman Jordan, 
+$bArab Archives Institute in Amman, 
+$c2004
+*300  $a233 p.
+*500  $aBIBSYS, Union Catalogue of Norwegian Libraries ; http://www.bibsys.no/english.html
+*520  $aPlace of purchase: Arab Archives Institute in Amman, Jebel Amman -- Sixth Circle -- POBox: 815454, Jordan : e-mail: aainstitute@yahoo.com
+*650  $aFreedom of expression
+*650  $aFreedom of the press
+*650  $aCensorship
+*650  $aMiddle East
+*651  $a7300
+*693  $aFreedom of expression
+*693  $aFreedom of the press
+*693  $aCensorship
+^
+100000454
+*041  $anor
+*110  $aJustis- og politidepartementet
+*245  $aOm endring av Grunnloven § 100
+$cDet Kongelige justis- og politidepartement
+*260  $a[Oslo]
+$bDepartementet
+$c2004
+*440  $aSt.meld. : 952247356 : 2003-2004:26
+$vnr 26 (2003-2004)
+*500  $aBIBSYS, Union Catalogue of Norwegian Libraries ; http://www.bibsys.no/english.html
+*650  $aFreedom of expression
+*650  $aNorway
+*650  $aLaw reform
+*650  $aLegislation
+*651  $a8040
+*693  $aFreedom of expression
+^
+100000455
+*020  $a0-465-08984-4
+*041  $aeng
+*100  $aVaidhyanathan, Siva
+*245  $aThe anarchist in the library
+$bhow the clash between freedom and control is hacking the real world and crashing the system
+$cSiva Vaidhyanathan
+*260  $aNew York
+$bBasic Books
+$cc2004
+*500  $aBIBSYS, Union Catalogue of Norwegian Libraries ; http://www.bibsys.no/english.html
+*505  $aContents: Public noises -- The ideology of peer-to-peer -- Hacking the currency : cybercynicism and cyberanarchy -- The peer-to-peer revolution and the future of music -- A work in progress or the final edit? -- Imagineering : to control the culture is to control the future -- Culture as anarchy -- The perfect library -- The anarchy and oligarchy of science and math -- The nation state vs. networks -- The empire strikes back -- Conclusion : the heartbreak of oligarchy and anarchy.
+*520  $aIncludes bibliographical references and index.
+*650  $aFreedom of information
+*650  $aInternet
+*650  $aPolitical aspect
+*650  $aSocial aspects
+*651  $a0000
+*693  $aFreedom of information
+^
+100000456
+*020  $a0-19-925056-1  bib.
+*041  $aeng
+*100  $aRozenberg, Joshua
+*245  $aPrivacy and the press
+$cJoshua Rozenberg
+*260  $aOxford
+$bOxford University Press
+$c2004
+*300  $aXII, 274 s.
+*500  $aBIBSYS, Union Catalogue of Norwegian Libraries ; http://www.bibsys.no/english.html
+*650  $aFreedom of the press
+*650  $aMass media
+*650  $aUnited Kingdom
+*650  $aNational law
+*651  $a8051
+*693  $aFreedom of the press
+^
+100000457
+*020  $a82-02-22653-8 bh.
+*041  $anor
+*100  $aLippe, Gerd von der
+*245  $aMedier, politikk og samfunn
+$cBerit von der Lippe (red.)
+*250  $a4. utgave
+*260  $aOslo
+$bCappelen akademisk
+$c2004
+*300  $a383 s.
+*500  $aBIBSYS, Union Catalogue of Norwegian Libraries ; http://www.bibsys.no/english.html
+*520  $aTidligere utgaver med tittel "Medier, påvirkning og samfunn"
+*650  $aFreedom of the press
+*650  $aFreedom of expression
+*650  $aNorway
+*650  $aMass media
+*650  $aJournalism
+*651  $a8040
+*693  $aFreedom of the press
+*693  $aFreedom of expression
+^
+100000458
+*020  $a0-421-77470-3 bib.
+*041  $aeng
+*100  $aCoppel, Philip
+*245  $aInformation rights
+$cby Philip Coppel ; contributors: Hodge Malek ... [et al.]
+*260  $aLondon
+$bSweet and Maxwell
+$c2004
+*300  $a1 b.(flere pag.)
+*500  $aBIBSYS, Union Catalogue of Norwegian Libraries ; http://www.bibsys.no/english.html
+*650  $aFreedom of information
+*650  $aUnited Kingdom
+*651  $a8051
+*693  $aFreedom of information
+^
+100000459
+*041  $afre
+*245  $aLe Matin
+*260  $aAlgeria
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF) 
+*505  $a"Le Matin" was not available in newsstands since 24 July 2004. The state-run printing company, Société d'impression d'Alger (Simpral), which is demanding 38 million dinars (approx. US$601,700; 500,000 euros) in backpayments for the months of February, March and April, has refused the debt repayment schedule requested by the newspaper. The paper's managing editor, Mohammed Benchicou, has been in prison since 14 June. The on-line edition of "Le Matin" has managed to continue its operations. The Arabic-language daily "El Djarida" and the French-language daily "Le Nouvel Algérie Actualité" have also had their printing operations suspended for non-payment of debts. 
+*506  $aNot available in newsstands
+*506  $bThe state-run printing company, Société d'impression d'Alger (Simpral)
+*518  $aJuly 2004
+*518  $3Newspaper
+*522  $aAlgeria
+*651  $a5311
+*691  $aOther
+*692  $aCensored
+*700  $aBenchicou, Mohammed
+$emanaging editor
+^
+100000460
+*041  $aara
+*245  $aEl Djarida
+*260  $aAlgeria
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF) 
+*505  $a"Le Matin" was not available in newsstands since 24 July 2004. The state-run printing company, Société d'impression d'Alger (Simpral), which is demanding 38 million dinars (approx. US$601,700; 500,000 euros) in backpayments for the months of February, March and April, has refused the debt repayment schedule requested by the newspaper. The paper's managing editor, Mohammed Benchicou, has been in prison since 14 June. The on-line edition of "Le Matin" has managed to continue its operations. The Arabic-language daily "El Djarida" and the French-language daily "Le Nouvel Algérie Actualité" have also had their printing operations suspended for non-payment of debts. 
+*506  $aNot available in newsstands
+*506  $bThe state-run printing company, Société d'impression d'Alger (Simpral)
+*518  $aJuly 2004
+*518  $3Newspaper
+*522  $aAlgeria
+*651  $a5311
+*691  $aOther
+*692  $aCensored
+^
+100000461
+*041  $afre
+*245  $aLe Nouvel Algérie Actualité
+*260  $aAlgeria
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org / Reporters Without Borders (RSF) 
+*505  $a"Le Matin" was not available in newsstands since 24 July 2004. The state-run printing company, Société d'impression d'Alger (Simpral), which is demanding 38 million dinars (approx. US$601,700; 500,000 euros) in backpayments for the months of February, March and April, has refused the debt repayment schedule requested by the newspaper. The paper's managing editor, Mohammed Benchicou, has been in prison since 14 June. The on-line edition of "Le Matin" has managed to continue its operations. The Arabic-language daily "El Djarida" and the French-language daily "Le Nouvel Algérie Actualité" have also had their printing operations suspended for non-payment of debts. 
+*506  $aNot available in newsstands
+*506  $bThe state-run printing company, Société d'impression d'Alger (Simpral)
+*518  $aJuly 2004
+*518  $3Newspaper
+*522  $aAlgeria
+*651  $a5311
+*691  $aOther
+*692  $aCensored
+^
+100000462
+*041  $afre
+*245  $aJeune Afrique-l'intelligent
+*250  $aIssue 2248
+*260  $aAlgeria
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF) 
+*505  $aRSF expressed concern that the weekly magazine "Jeune Afrique-l'intelligent" may had fallen victim to censorship, as issue 2248 did not appeared on newsstands. The 8 to 14 February 2004 issue examined the role of the army in Algeria's recent history. The magazine's management said it was given no explanation as to why the issue was not distributed. Issue 2248 of "Jeune Afrique-l'intelligent" magazine appears to have been held back by the Communications and Culture Ministry's press section, which is responsible for authorising the distribution of foreign publications. 
+*506  $aNot available in newsstands
+*506  $bCommunications and Culture Ministry's press section
+*518  $aFebruary 2004
+*518  $3Magazine
+*522  $aAlgeria
+*651  $a5311
+*691  $aPolitical
+*692  $aCensored
+*700  $aYahmed, Marwane Ben
+$eeditor-in-chief
+^
+100000463
+*041  $aspa
+*245  $aEl Tribuno
+*260  $aSalta, Argentina
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Inter American Press Association (IAPA) 
+*505  $aOn February 2, 2004, Judge Guillermo Félix Díaz decided to censor the editors of El Tribuno, under threat of a fine, ordering them "to abstain from using expressions, sentences, phrases, or words that could influence a presumption of innocence, or publishing the picture of Francisco José Alvarez." Alvarez is accused of murder but his case was dismissed on a legal technicality. The ruling, on the request of Alvarez's brother, who is an attorney, covers "articles, commentaries, signed or unsigned, whatever the circumstance, relating to the acts that were investigated" in the criminal case, whose details captured the attention of the local community. Some government officials in Salta have called for a new investigation. 
+*506  $bJudge Guillermo Félix Díaz
+*518  $aFebruary 2004
+*518  $3Newspaper
+*522  $aArgentina
+*651  $a6414
+*691  $aPolitical
+*692  $aCensored
+^
+100000464
+*041  $abel
+*245  $aRabochaya Solidarnost
+*260  $aBelarus
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Committee to Protect Journalists (CPJ) 
+*505  $aA 3 June 2004 government order suspended the opposition weekly "Rabochaya Solidarnost" for three months. The paper was suspended for an alleged violation of the press law. The information minister suspended the weekly for its alleged failure to inform the authorities of an address change. 
+*506  $bThe information minister
+*518  $aJune 2004
+*518  $3Newspaper
+*522  $aBelarus
+*651  $a8016
+*691  $aPolitical
+*692  $aSuspended
+^
+100000465
+*041  $abel
+*245  $aDen
+*260  $aBelarus
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF) 
+*505  $aThe independent weekly newspaper "Den" faced the threat of eviction from Grodno, a city near the Polish border, just days after police seized the newspaper's entire print run. Mikolai Markevich, former editor-in-chief of the newspaper "Pagonya", shut down in 2001, took over "Den" after serving 18 months of hard labour for insulting President Alexander Lukashenko. The harassment of "Den" had gone on for several months. The paper faced repeated obstruction to its publication, from abrupt confiscations to the refusal of local printing companies to work with the newspaper, forcing its publishers to move the printing to neighbouring Russia. Police seized 4,800 copies of "Den" in the town of Ivye, approximately 130 kilometres from Grodno. The copies were being transported to Belarus from the printers in Smolensk, Russia. No reason was given for the seizure and the copies remained in the police's possession. The seized issue carried an article criticising the police's refusal to take action against two men who were arrested on 18 March while attempting to break into the offices of Batskaushchyna, the organisation that hosts the "Den" team. Markevich recognised one of the men as a KGB officer. 
+*506  $bPolice
+*518  $aApril 2004
+*518  $3Newspaper
+*522  $aBelarus
+*651  $a8016
+*691  $aPolitical
+*692  $aSeizure
+*700  $aMarkevich, Mikolai
+$eeditor-in-chief
+^
+100000466
+*041  $abel
+*245  $aBelorusskaya Delovaya Gazeta
+*260  $aBelarus
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF) 
+*505  $aThe Belarus postal service, Belpochta, which delivers newspapers to subscribers country-wide, and state distributor Belsayuzdruk both cancelled their 2004 contracts with the newspaper 'Belorusskaya Delovaya Gazeta'. In addition, Irina Makovetskaya, the paper's correspondent in Gomel, southern Belarus, received several death threats in anonymous telephone calls during the night of 10 to 11 January. In a 28 December letter, Belpochta said it would not renew its contract with "Belorusskaya Delovaya Gazeta" on the grounds that the paper was only published sporadically in 2003. In fact, the authorities suspended "Belorusskaya Delovaya Gazeta" for three months in May over an article deemed offensive to President Lukashenko (see IFEX alerts of 26 and 2 June and 30 May 2003). The paper subsequently encountered difficulties in resuming publication. "Belorusskaya Delovaya Gazeta" has been printed in Smolensk, Russia, since September. The Belarusian state distributor Belsayuzdruk, which has a virtual monopoly, has refused to distribute the paper in Minsk, Brest and Vitsebsk since 9 January.
+*506  $bThe Belarus postal service, Belpochta, and state distributor Belsayuzdruk 
+*518  $aJanuary 2004
+*518  $3Newspaper
+*522  $aBelarus
+*651  $a8016
+*691  $aPolitical
+*692  $aCensored
+*700  $aMakovetskaya, Irina
+$eJournalist
+^
+100000467
+*041  $abur
+*245  $a[All media]
+*260  $aBurma
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporteros Sin Fronteras (RSF) 
+*505  $aBurma's military government has moved to block effective coverage of the National Convention that opens on 17 May 2004. The authorities have refused to grant journalists visas, subjected them to intimidation, imposed advance censorship and secured the convention centre. Dozens of foreign media outlets, including Agence France-Presse, Voice of America, and the Burmese and English services of the BBC World Service, applied for visas to cover the convention but received no reply from the Burmese authorities. 
+*506  $bBurma's military government
+*518  $aMay 2004
+*518  $3All media
+*522  $aBurma
+*651  $a7516
+*691  $aPolitical
+*692  $aCensored
+^
+100000468
+*041  $abur
+*245  $aHsenpai ("Variety")
+*260  $aBurma
+$c2003
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporteros Sin Fronteras (RSF) 
+*505  $aThe Burmese-language entertainment magazine "Hsenpai" ("Variety") was ordered to shut down after it began to publish political news. "Hsenpai" was published in the northeastern state of Shan. The eighth and final issue of the magazine, published in June 2003, included a report on a meeting between the United Nationalities Alliance and United Nations special envoy to Burma Razali Ismail. After the issue appeared, the Military Intelligence Service threatened editor-in-chief Sai Nood with prosecution if he continued to publish "Hsenpai". 
+The magazine's seventh issue, published in March 2003, had announced that future issues of "Hsenpai" would include political news. Sai Nood was imprisoned from February to May 2003. 
+*506  $bMilitary Intelligence Service
+*518  $a2003
+*518  $3Magazine
+*522  $aBurma
+*651  $a7516
+*691  $aPolitical
+*692  $aClosed
+*700  $aNood, Sai
+$eeditor-in-chief
+^
+100000469
+*041  $afre
+*245  $aJeune Afrique L'Intelligent
+*250  $aissue 2261
+*260  $aFrance
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Media Institute of Southern Africa (MISA) 
+*505  $aThe Ministry of Local Government (ministère de l'Administration du Territoire et de la Décentralisation, MATD) banned the sale of the 9 to 15 May 2004 edition (issue 2261) of the news weekly "Jeune Afrique L'Intelligent".  Evidently, the MATD was displeased with an article entitled, "Searching desperately for François Fall", published on page 12 of the paper. The article, written by "Jeune Afrique L'Intelligent" staff writer Cheick Yerim Seck, referred to measures which it claimed President Lansana Conté used to persuade François Lonceny Fall to rescind his decision to resign from his position as prime minister.That was the second time in two weeks that an edition of the newspaper had been prevented from going on sale. Issue 2260 of the paper (dated 2 to 8 May) remains in the MATD's possession. The ministry prevented circulation of the previous issue for similar reasons. 
+*506  $bThe Ministry of Local Government (ministère de l'Administration du Territoire et de la Décentralisation, MATD)
+*518  $aMay 2004
+*518  $3Newspaper
+*522  $aGuinea
+*651  $a5531
+*691  $aPolitical
+*692  $aBanned
+^
+100000470
+*041  $aira
+*245  $aVaghayeh ettefaghieh
+*260  $aIran
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF)
+*505  $a"Vaghayeh ettefaghieh" was suspended indefinitely on 17 July for "anti-regime propaganda", "publishing false information" and "insulting the Supreme Guide". The paper, largely staffed by journalists from the reformist daily "Yas-e no", which was suspended on 18 February, the eve of the parliamentary elections, has sharply criticised the regime's hardliners and the new Parliament dominated by their supporters. The suspension order from Mortazavi mentioned specifically that the paper's editorial team came largely from the defunct "Yas-e no". 
+*506  $aIndefinitely
+*506  $bTehran's Chief Prosecutor Said Mortazavi
+*518  $aJuly 2004
+*518  $3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aSuspended
+^
+100000471
+*041  $aira
+*245  $aJomhouriat
+*260  $aIran
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF)
+*505  $a"Jomhouriat", a new paper which had published only 12 issues, was suspended on 18 July for "anti-regime propaganda", "publishing false information" and "insulting the Supreme Guide". The suspension order came only days after publisher Javad Khorami Moaghadam was summoned by Mortazavi, who demanded in vain that Moaghadam fire the paper's editor-in-chief, Emadoldin Baghi, a leading figure of the reformist press and staunch free expression advocate. "Vaghayeh ettefaghieh" was suspended indefinitely on 17 July for "anti-regime propaganda", "publishing false information" and "insulting the Supreme Guide". The paper, largely staffed by journalists from the reformist daily "Yas-e no", which was suspended on 18 February, the eve of the parliamentary elections, has sharply criticised the regime's hardliners and the new Parliament dominated by their supporters. The suspension order from Mortazavi mentioned specifically that the paper's editorial team came largely from the defunct "Yas-e no". 
+*506  $aIndefinitely
+*506  $bTehran's Chief Prosecutor Said Mortazavi
+*518  $aJuly 2004
+*518  $3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aSuspended
+*700  $aBaghi, Emadoldin
+$eeditor-in-chief
+^
+100000472
+*041  $aira
+*245  $aAftab
+*260  $aIran
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF)
+*505  $aOn 11 July, the monthly "Aftab" was suspended for "insulting the Supreme Guide" and "circulating false news". "Aftab" had been published since 2000 by a group of writers and intellectuals. In 2003, "Aftab" editor Issa Saharkhiz was arrested for "propaganda against the regime". 
+*506  $aIndefinitely
+*506  $bTehran's Chief Prosecutor Said Mortazavi
+*518  $aJuly 2004
+*518  $3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aSuspended
+*700  $aSaharkhiz, Issa
+$eEditor
+^
+100000473
+*041  $aira
+*245  $aSedai é Zanjan
+*260  $aIran
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF)
+*505  $aOn 13 May 2004, the managing editor of the weekly "Sedai é Zanjan", Massiolah Soltani, was summoned to appear before a court in Zanjan, northwestern Iran. Following questioning, Soltani was remanded in custody. He is accused of "disseminating false news" and "disturbing public opinion and public order". On 15 May, his colleague Massud Almassi was arrested on the same grounds. The newspaper has suspended its publication in protest, calling the charges "illegal and arbitrary". The arrests appear to be linked to a story carried by the newspaper about the rape of a four-year-old girl. 
+*506  $bThe newspaper
+*518  $aMay 2004
+*518  $3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aSuspended
+*700  $aSoltani, Massiolah
+$emanaging editor
+*700  $aAlmassi, Massud
+$eJournalist
+^
+100000474
+*041  $aaze
+*245  $aNedai Azarabadegan
+*260  $aIran
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF)
+*505  $aA Tabriz court suspended the Azeri-language daily "Nedai Azarabadegan" on 5 May for two months and fined the paper three million rials (approx. US$3,600; 3,000 euros). The paper's editor, Abolfazle Vésali, claimed that various institutions had filed complaints against "Nedai Azarabadegan" but that he believed it had "merely done its job by providing news." 
+*506  $aSuspended for two months
+*506  $bIranian authorities
+*518  $aMay 2004
+*518  $3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aSuspended
+*700  $aVésali, Abolfazle
+$eEditor
+^
+100000475
+*041  $aira
+*245  $aGorgan é Emrouz
+*260  $aIran
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF)
+*505  $aOn 6 May, the weekly "Gorgan é Emrouz" was suspended. The paper's editor, Mostafa Sabti, has been imprisoned since 19 March, following the decision of a court in Gorgan, northern Iran. On 1 September 2003, Sabti was given a three-month prison sentence with no parole and an additional four-month suspended sentence for publishing an open letter from residents of a Gorgan neighbourhood, protesting a local park's takeover by public authorities. The courts, which were implicated in the case, filed a defamation complaint. Sabti had been on provisional release until the court's sentence. 
+*506  $bIranian authorities
+*518  $aJuly 2004
+*518  $3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aSuspended
+*700  $aSabti, Mostafa
+$eEditor
+^
+100000476
+*041  $aira
+*245  $aKalam-e Moalem
+*260  $aIran
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF)
+*505  $aThe weekly "Kalam-e Moalem" was suspended in March 2004 for carrying news about a major teachers' strike. 
+*506  $bIranian authorities
+*518  $aMarch 2004
+*518  $3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aSuspended
+^
+100000477
+*041  $aira
+*245  $aVaght
+*260  $aIran
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF)
+*505  $aIn March 2004, the weekly "Vaght" was suspended for "undermining moral standards". "Vaght"'s managing editor, Shahram Mohammad Nia, was given a six-month suspended sentence. 
+*506  $bIranian authorities
+*518  $aMarch 2004
+*518  $3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aMoral
+*692  $aSuspended
+*700  $aNia, Shahram Mohammad
+$emanaging editor
+^
+100000478
+*041  $aira
+*245  $aYas e No
+*260  $aIran
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Committee to Protect Journalists (CPJ) 
+*505  $aOn February 18, two Iranian reformist-leaning dailies were suspended by Tehran's Press Court. The suspensions came just before Iran's controversial parliamentary elections. The suspensions came after the newspapers published portions of an open letter on February 18 from several reformists who had resigned from Parliament. The letter criticized Iran's spiritual leader, Ali Khamenei, and asked if he was complicit in the decision to bar several reformists from running for parliamentary seats. Iranian authorities consider criticism of Khamenei intolerable, and therefore it rarely appears in Iranian newspapers. The court orders said the suspensions were temporary, but most newspapers in Iran that the Press Court has temporarily banned have not reopened. 
+*506  $bTehran's Press Court
+*518  $aFebruary 2004
+*518  $3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aSuspended
+^
+100000479
+*041  $aira
+*245  $aSharq 
+*260  $aIran
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Committee to Protect Journalists (CPJ) 
+*505  $aOn February 18, the two Iranian reformist-leaning dailies 'Yas e No' and 'Sharq', were suspended by Tehran's Press Court. The suspensions came just before Iran's controversial parliamentary elections. The suspensions came after the newspapers published portions of an open letter on February 18 from several reformists who had resigned from Parliament. The letter criticized Iran's spiritual leader, Ali Khamenei, and asked if he was complicit in the decision to bar several reformists from running for parliamentary seats. Iranian authorities consider criticism of Khamenei intolerable, and therefore it rarely appears in Iranian newspapers. The court orders said the suspensions were temporary, but most newspapers in Iran that the Press Court has temporarily banned have not reopened. 
+*506  $bTehran's Press Court
+*518  $aFebruary 2004
+*518  $3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aSuspended
+^
+100000480
+*041  $aira
+*245  $aNo Andish
+*260  $aIran
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Committee to Protect Journalists (CPJ) 
+*505  $a"No Andish", a Khorrassan province weekly, was suspended for one year on 4 February on the order of the Seventh Appeals Court in Mashhad, on the basis of a complaint from the Prosecutor's Office. The editor-in-chief, publisher and a journalist from the paper were fined five million rials (approx. US$600; 470 euros at the official rate) and another journalist was fined 1 million rials (approx. US$120; 94 euros).
+*506  $aSuspended for one year
+*506  $bSeventh Appeals Court in Mashhad
+*518  $aFebruary 2004
+*518  $3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aSuspended
+^
+100000481
+*041  $aira
+*245  $aHadith-e Kerman
+*260  $aIran
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Committee to Protect Journalists (CPJ) 
+*505  $aThe weekly "Hadith-e Kerman", in Kerman province, was closed on 7 February because of its coverage in 2003 of serial killings committed by armed militia groups.
+*506  $bIranian authorities
+*518  $aFebruary 2004
+*518  $3Newspaper
+*522  $aIran
+*651  $a7327
+*691  $aPolitical
+*692  $aClosed
+^
+100000482
+*041  $aara
+*245  $aAl-Hawza
+*260  $aIraq
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Committee to Protect Journalists (CPJ)
+*505  $aOn March 28, dozens of U.S. troops sealed the offices of the Baghdad weekly Al-Hawza, which is affiliated with radical Shiite cleric Moktada al-Sadr, and ordered the paper closed for 60 days. A letter signed by CPA administrator L. Paul Bremer was hand-delivered by a CPA spokesman to the paper's staff, saying that the publication had violated a CPA decree promulgated last June that prohibits "incitement" in the media. Specifically, the letter said the paper had published "many articles" containing false information and intended to "disturb public order and incite violence against the coalition forces and the employees of the CPA." CPA spokesman Alaaeddin Elsadr told CPJ that Al-Hawza could appeal the closure decision, however, he did not make clear the procedures for doing so, other than stating that the newspaper could phone him to openly discuss the matter. 
+*506  $bCoalition Provisional Authority (CPA)
+*518  $aMarch 2004
+*518  $3Newspaper
+*522  $aIraq
+*651  $a6357
+*651  $a7328
+*691  $aPolitical
+*692  $aClosed
+^
+100000483
+*041  $aara
+*245  $aAl-Mustaqaillah
+*260  $aIraq
+$c2003
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Committee to Protect Journalists (CPJ)
+*505  $aIn July 2003, the Coalition Provisional Authority (CPA) closed the publication Al-Mustaqaillah, which had cited the calls of Islamic clerics for the death of "spies" who cooperate with U.S. troops. The clerics said killing spies was a religious duty. 
+*506  $bCoalition Provisional Authority (CPA)
+*518  $aJuly 2003
+*518  $3Newspaper
+*522  $aIraq
+*651  $a6357
+*651  $a7328
+*691  $aPolitical
+*692  $aClosed
+^
+100000484
+*041  $akaz
+*245  $aRespublika
+$bLater named 'Assandi Times'
+*260  $aKazakhstan
+$c2003
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF) 
+*505  $aOn 6 August 2003, the Kazakh opposition weekly "Respublika", later named "Assandi Times", was banned for three months on the basis of a complaint from the Kazakh Information Ministry that the newspaper was not legally registered. On 4 July 2002, Irina Petrushova, editor-in-chief of "Respublika", was sentenced to 18 months in prison and immediately amnestied, for not having declared her Russian nationality. On 22 May 2002, the weekly's offices were destroyed after a Molotov cocktail attack. Three days earlier, the decapitated body of a dog was found hanging in front of the entrance to the newspaper. On 8 March 2002, the journalist received a funeral wreath.
+*506  $aBanned for three months
+*506  $bKazakh Information Ministry
+*518  $aAugust 2003
+*518  $3Newspaper
+*522  $aKazakhstan/Russia
+*651  $a7230
+*691  $aOther
+*692  $aBanned
+*700  $aPetrushova, Irina 
+$eeditor-in-chief
+^
+100000485
+*041  $aeng
+*245  $aIndependent
+*260  $aKenya
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Network for the Defence of Independent Media in Africa (NDIMA)
+*505  $aOn 10 January 2004, police raided news stands in major Kenyan towns and confiscated copies of newspapers published by the "alternative press". Scores of vendors were arrested in the well-coordinated crackdown, which Tourism and Information Minister Raphael Tuju said was aimed at getting rid of illegal newspapers. He added that the action was taken because the newspapers had not complied with the law on "registration, execution of a bond and making returns". On 12 December 2003, the minister warned that a crackdown would be carried out because the owners of the "alternative press" had failed to respect journalistic principles with respect to balance and fairness. Newspapers that were confiscated include the "Independent", "Kenya Confidential", "Citizen", "News Post", "Weekly Wembe" and "Summit". Police also arrested "News Post" publisher Ndirangu Kariuki, but later released him. In the coastal town of Mombasa, police impounded bundles of the Nation Media Group's "The Coast Express" at one news stand. Five vendors were arrested and police said they would appear in court on 12 January. Coast Province Criminal Investigation Officer Dida Dilicha said the crackdown on the "gutter press" would continue. Police also raided news stands in the towns of Nakuru and Kisumu. 
+*506  $bInformation Minister Raphael Tuju
+*518  $aJanuary 200
+*518  $3Newspaper
+*522  $aKenya
+*651  $a5234
+*691  $aOther
+*692  $aSeized
+^
+100000486
+*041  $aeng
+*245  $aKenya Confidential
+*260  $aKenya
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Network for the Defence of Independent Media in Africa (NDIMA)
+*505  $aOn 10 January 2004, police raided news stands in major Kenyan towns and confiscated copies of newspapers published by the "alternative press". Scores of vendors were arrested in the well-coordinated crackdown, which Tourism and Information Minister Raphael Tuju said was aimed at getting rid of illegal newspapers. He added that the action was taken because the newspapers had not complied with the law on "registration, execution of a bond and making returns". On 12 December 2003, the minister warned that a crackdown would be carried out because the owners of the "alternative press" had failed to respect journalistic principles with respect to balance and fairness. Newspapers that were confiscated include the "Independent", "Kenya Confidential", "Citizen", "News Post", "Weekly Wembe" and "Summit". Police also arrested "News Post" publisher Ndirangu Kariuki, but later released him. In the coastal town of Mombasa, police impounded bundles of the Nation Media Group's "The Coast Express" at one news stand. Five vendors were arrested and police said they would appear in court on 12 January. Coast Province Criminal Investigation Officer Dida Dilicha said the crackdown on the "gutter press" would continue. Police also raided news stands in the towns of Nakuru and Kisumu. 
+*506  $bInformation Minister Raphael Tuju
+*518  $aJanuary 200
+*518  $3Newspaper
+*522  $aKenya
+*651  $a5234
+*691  $aOther
+*692  $aSeized
+^
+100000487
+*041  $aeng
+*245  $aCitizen
+*260  $aKenya
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Network for the Defence of Independent Media in Africa (NDIMA)
+*505  $aOn 10 January 2004, police raided news stands in major Kenyan towns and confiscated copies of newspapers published by the "alternative press". Scores of vendors were arrested in the well-coordinated crackdown, which Tourism and Information Minister Raphael Tuju said was aimed at getting rid of illegal newspapers. He added that the action was taken because the newspapers had not complied with the law on "registration, execution of a bond and making returns". On 12 December 2003, the minister warned that a crackdown would be carried out because the owners of the "alternative press" had failed to respect journalistic principles with respect to balance and fairness. Newspapers that were confiscated include the "Independent", "Kenya Confidential", "Citizen", "News Post", "Weekly Wembe" and "Summit". Police also arrested "News Post" publisher Ndirangu Kariuki, but later released him. In the coastal town of Mombasa, police impounded bundles of the Nation Media Group's "The Coast Express" at one news stand. Five vendors were arrested and police said they would appear in court on 12 January. Coast Province Criminal Investigation Officer Dida Dilicha said the crackdown on the "gutter press" would continue. Police also raided news stands in the towns of Nakuru and Kisumu. 
+*506  $bInformation Minister Raphael Tuju
+*518  $aJanuary 200
+*518  $3Newspaper
+*522  $aKenya
+*651  $a5234
+*691  $aOther
+*692  $aSeized
+^
+100000488
+*041  $aeng
+*245  $aNews Post
+*260  $aKenya
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Network for the Defence of Independent Media in Africa (NDIMA)
+*505  $aOn 10 January 2004, police raided news stands in major Kenyan towns and confiscated copies of newspapers published by the "alternative press". Scores of vendors were arrested in the well-coordinated crackdown, which Tourism and Information Minister Raphael Tuju said was aimed at getting rid of illegal newspapers. He added that the action was taken because the newspapers had not complied with the law on "registration, execution of a bond and making returns". On 12 December 2003, the minister warned that a crackdown would be carried out because the owners of the "alternative press" had failed to respect journalistic principles with respect to balance and fairness. Newspapers that were confiscated include the "Independent", "Kenya Confidential", "Citizen", "News Post", "Weekly Wembe" and "Summit". Police also arrested "News Post" publisher Ndirangu Kariuki, but later released him. In the coastal town of Mombasa, police impounded bundles of the Nation Media Group's "The Coast Express" at one news stand. Five vendors were arrested and police said they would appear in court on 12 January. Coast Province Criminal Investigation Officer Dida Dilicha said the crackdown on the "gutter press" would continue. Police also raided news stands in the towns of Nakuru and Kisumu. 
+*506  $bInformation Minister Raphael Tuju
+*518  $aJanuary 200
+*518  $3Newspaper
+*522  $aKenya
+*651  $a5234
+*691  $aOther
+*692  $aSeized
+^
+100000489
+*041  $aeng
+*245  $aWeekly Wembe
+*260  $aKenya
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Network for the Defence of Independent Media in Africa (NDIMA)
+*505  $aOn 10 January 2004, police raided news stands in major Kenyan towns and confiscated copies of newspapers published by the "alternative press". Scores of vendors were arrested in the well-coordinated crackdown, which Tourism and Information Minister Raphael Tuju said was aimed at getting rid of illegal newspapers. He added that the action was taken because the newspapers had not complied with the law on "registration, execution of a bond and making returns". On 12 December 2003, the minister warned that a crackdown would be carried out because the owners of the "alternative press" had failed to respect journalistic principles with respect to balance and fairness. Newspapers that were confiscated include the "Independent", "Kenya Confidential", "Citizen", "News Post", "Weekly Wembe" and "Summit". Police also arrested "News Post" publisher Ndirangu Kariuki, but later released him. In the coastal town of Mombasa, police impounded bundles of the Nation Media Group's "The Coast Express" at one news stand. Five vendors were arrested and police said they would appear in court on 12 January. Coast Province Criminal Investigation Officer Dida Dilicha said the crackdown on the "gutter press" would continue. Police also raided news stands in the towns of Nakuru and Kisumu. 
+*506  $bInformation Minister Raphael Tuju
+*518  $aJanuary 200
+*518  $3Newspaper
+*522  $aKenya
+*651  $a5234
+*691  $aOther
+*692  $aSeized
+^
+100000490
+*041  $aeng
+*245  $aSummit
+*260  $aKenya
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Network for the Defence of Independent Media in Africa (NDIMA)
+*505  $aOn 10 January 2004, police raided news stands in major Kenyan towns and confiscated copies of newspapers published by the "alternative press". Scores of vendors were arrested in the well-coordinated crackdown, which Tourism and Information Minister Raphael Tuju said was aimed at getting rid of illegal newspapers. He added that the action was taken because the newspapers had not complied with the law on "registration, execution of a bond and making returns". On 12 December 2003, the minister warned that a crackdown would be carried out because the owners of the "alternative press" had failed to respect journalistic principles with respect to balance and fairness. Newspapers that were confiscated include the "Independent", "Kenya Confidential", "Citizen", "News Post", "Weekly Wembe" and "Summit". Police also arrested "News Post" publisher Ndirangu Kariuki, but later released him. In the coastal town of Mombasa, police impounded bundles of the Nation Media Group's "The Coast Express" at one news stand. Five vendors were arrested and police said they would appear in court on 12 January. Coast Province Criminal Investigation Officer Dida Dilicha said the crackdown on the "gutter press" would continue. Police also raided news stands in the towns of Nakuru and Kisumu. 
+*506  $bInformation Minister Raphael Tuju
+*518  $aJanuary 200
+*518  $3Newspaper
+*522  $aKenya
+*651  $a5234
+*691  $aOther
+*692  $aSeized
+^
+100000491
+*041  $aeng
+*245  $aThe Coast Express
+*260  $aKenya
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Network for the Defence of Independent Media in Africa (NDIMA)
+*505  $aOn 10 January 2004, police raided news stands in major Kenyan towns and confiscated copies of newspapers published by the "alternative press". Scores of vendors were arrested in the well-coordinated crackdown, which Tourism and Information Minister Raphael Tuju said was aimed at getting rid of illegal newspapers. He added that the action was taken because the newspapers had not complied with the law on "registration, execution of a bond and making returns". On 12 December 2003, the minister warned that a crackdown would be carried out because the owners of the "alternative press" had failed to respect journalistic principles with respect to balance and fairness. Newspapers that were confiscated include the "Independent", "Kenya Confidential", "Citizen", "News Post", "Weekly Wembe" and "Summit". Police also arrested "News Post" publisher Ndirangu Kariuki, but later released him. In the coastal town of Mombasa, police impounded bundles of the Nation Media Group's "The Coast Express" at one news stand. Five vendors were arrested and police said they would appear in court on 12 January. Coast Province Criminal Investigation Officer Dida Dilicha said the crackdown on the "gutter press" would continue. Police also raided news stands in the towns of Nakuru and Kisumu. 
+*506  $bInformation Minister Raphael Tuju
+*518  $aJanuary 200
+*518  $3Newspaper
+*522  $aKenya
+*651  $a5234
+*691  $aOther
+*692  $aSeized
+^
+100000492
+*041  $aeng
+*245  $aNew Broom
+*260  $aLiberia
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Media Foundation for West Africa (MFWA) 
+*505  $aA magisterial court in Monrovia, presided over by Judge Joseph Fayiah, has placed an injunction on publication of the privately-owned "New Broom" newspaper. According to MFWA sources in Liberia, a 14 July 2004 letter signed by the court clerk instructed all printing houses in the country not to print "New Broom" because the newspaper's management had failed to appear in court to answer to contempt charges.  Managing editor Roland Worwee and "New Broom" staff were served with a writ of summons to appear in court on 11 June 2004 to answer to charges of "criminal malevolence" brought against them by Bureau of Immigration and Naturalisation (BIN) Commissioner Abraham Mitchell. The newspaper's management, however, failed to respond to the summons. The BIN commissioner's suit followed a publication in the "New Broom" in which he was alleged to have received a bribe from the Sierra Leonean ambassador to Liberia, Patrick Foyah, for the release of a number of Sierra Leonean nationals who had been detained for breaking Liberia's immigration laws. Mitchell denied the allegation and gave a three-day ultimatum for the newspaper to retract the story and issue an apology. He took legal action when the paper failed to comply.
+*506  $bA magisterial court in Monrovia
+*518  $aJuly 2004
+*518  $3Newspaper
+*522  $aLiberia
+*651  $a5536
+*691  $aOther
+*692  $aBanned
+*700  $aWorwee, Roland 
+$eManaging editor
+^
+100000493
+*041  $aara
+*245  $aAl-Zahf al-Akhdar
+$bIn English: "The Green Step"
+*260  $aLibya
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /
+*505  $aThe government daily "Al-Zahf al-Akhdar" ("The Green Step") was suspended for one week on 27 January 2004 for suggesting that Colonel Muammar Gaddafi should no longer be referred to as the "guide of the revolution" and should instead start behaving as a genuine head of state. The Libyan authorities said "Al-Zahf al-Akhdar" was suspended for making "serious mistakes" and for "publishing articles contrary to the power of the masses." 
+*506  $aSuspended for one week
+*506  $bLibyan authorities
+*518  $aJanuary 2004
+*518  $3Newspaper
+*522  $aLibya
+*651  $a5337
+*691  $aPolitical
+*692  $aSuspended
+^
+100000494
+*041  $aeng
+*245  $aThe Dispatch
+*260  $aMalawi
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Media Institute of Southern Africa (MISA) 
+*505  $aOn 29 January 2004, Thom Chiumia and Chikumbutso Mtumodzi, two journalists who are also politicians, halted printing of the privately owned "The Dispatch" newspaper and seized the printed copy and plates. Chiumia is president of the New Dawn for Africa (NDA) political party and Mtumodzi is the NDA's secretary-general. The NDA supports the ruling United Democratic Front (UDF) party and is widely believed to be funded by UDF supporters. According to Lusungu Mhango, production manager of the Karora printing and publishing company, Chiumia and Mtumodzi went to his printing press to print their own newspaper, "The Informer". When they arrived, they became angry after discovering that "The Dispatch" newspaper was being printed. 
+*506  $bThom Chiumia and Chikumbutso Mtumodzi
+*518  $aFebruary 2004
+*518  $3Newspaper
+*522  $aMalawi
+*651  $a5439
+*691  $aPolitical
+*692  $aSeized
+*700  $aMhango, Lusungu
+$eproduction manager
+^
+100000495
+*041  $afre
+$aara
+*245  $aDemain. Douman
+*260  $aMorocco
+$c2003
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /World Press Freedom Committee (WPFC) 
+*505  $aJournalist Ali Lmrabet, the director of the French-language Demain and its Arabic sister publication, Douman, was in May 2003, found guilty by a court in Rabat of "insulting the person of the king," committing an "offence against the monarchy" and "challenging the territorial integrity of the state." The sentence was severe -- four years in prison (later reduced to three) and a fine of 20,000 Moroccan dirhams (approximately US$2,300). The court imposed the even more extreme punishment of ordering Ali Lmrabet's two weekly papers to be closed. King Muhammad VI pardoned journalist Ali Lmrabet in February 2004.
+*506  $aIndefinetly
+*506  $bThe Moroccan courts 
+*518  $aMay 2003
+*518  $3Newspaper
+*522  $aMorocco
+*651  $a5344
+*691  $aPolitical
+*692  $aBanned
+*700  $aLmrabet, Ali
+$eJournalist
+^
+100000496
+*041  $aurd
+*245  $aJinnah
+*260  $aPakistan
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Pakistan Press Foundation (PPF) 
+*505  $aThe Pakistani government's Ministry of Information has effectively banned the publication of all official advertisements in the independent, Urdu-language daily "Jinnah", which began publishing in the capital, Islamabad, on 22 October 2003. The newspaper believes that the step was taken in retaliation for its independent editorial policy. Government advertisements constitute a vital source of revenue for newspapers, and successive governments, including the present one, have pledged not to use advertisements as a tool to punish or reward media outlets. The circulation figures of publications are audited by the official Audit Bureau of Circulation (ABC). Publications are then issued ABC certificates and placed on the Central Media List. "Jinnah" went through this process and was placed on the Central Media List on 6 December. However, on 9 July 2004, the daily was abruptly removed from the Central Media List, depriving it of access to official advertisements. 
+*506  $bMinistry of Information
+*518  $aJuly 2004
+*518  $3Newspaper
+*522  $aPakistan
+*651  $a7441
+*691  $aPolitical
+*692  $aBanned
+^
+100000497
+*041  $aurd
+*245  $aNawa-e-Waqt
+*260  $aPakistan
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Pakistan Press Foundation (PPF) 
+*505  $aIn February 2004, the Pakistani government's Ministry of Information has effectively banned the publication of all official advertisements in "Nawa-e-Waqt". Government advertisements constitute a vital source of revenue for newspapers, and successive governments, including the present one, have pledged not to use advertisements as a tool to punish or reward media outlets. The circulation figures of publications are audited by the official Audit Bureau of Circulation (ABC). Publications are then issued ABC certificates and placed on the Central Media List. 
+*506  $bMinistry of Information
+*518  $aFebruary 2004
+*518  $3Newspaper
+*522  $aPakistan
+*651  $a7441
+*691  $aPolitical
+*692  $aBanned
+^
+100000498
+*041  $aeng
+*245  $aThe Nation
+*260  $aPakistan
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Pakistan Press Foundation (PPF) 
+*505  $aIn February 2004, the Pakistani government's Ministry of Information has effectively banned the publication of all official advertisements in "The Nation". Government advertisements constitute a vital source of revenue for newspapers, and successive governments, including the present one, have pledged not to use advertisements as a tool to punish or reward media outlets. The circulation figures of publications are audited by the official Audit Bureau of Circulation (ABC). Publications are then issued ABC certificates and placed on the Central Media List.
+*506  $bMinistry of Information
+*518  $aFebruary 2004
+*518  $3Newspaper
+*522  $aPakistan
+*651  $a7441
+*691  $aPolitical
+*692  $aBanned
+^
+100000499
+*041  $aurd
+*245  $aMorning Special
+*260  $aPakistan
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Pakistan Press Foundation (PPF) 
+*505  $aOn 25 May 2004, the provincial government in Pakistan's southern province of Sindh banned eight newspapers in the city of Karachi on charges of "publishing obscene photographs" and "blackmail". Police also sealed their offices and arrested newspaper owners and staff. According to press reports, heavy contingents of police raided the offices of "Morning Special", "Evening Special", "Zamana", "Daily Special" and "Mid Special", as well as the Mashriq Press, where the newspapers are printed. The provincial Home Department claimed that it took action after receiving complaints that the newspapers were involved in blackmailing and publishing obscene material. 
+*506  $bThe provincial government in Pakistan's southern province of Sindh
+*518  $aMay 2004
+*518  $3Newspaper
+*522  $aPakistan
+*651  $a7441
+*691  $aPolitical
+*692  $aBanned
+^
+100000500
+*041  $aurd
+*245  $aEvening Special
+*260  $aPakistan
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Pakistan Press Foundation (PPF) 
+*505  $aOn 25 May 2004, the provincial government in Pakistan's southern province of Sindh banned eight newspapers in the city of Karachi on charges of "publishing obscene photographs" and "blackmail". Police also sealed their offices and arrested newspaper owners and staff. According to press reports, heavy contingents of police raided the offices of "Morning Special", "Evening Special", "Zamana", "Daily Special" and "Mid Special", as well as the Mashriq Press, where the newspapers are printed. The provincial Home Department claimed that it took action after receiving complaints that the newspapers were involved in blackmailing and publishing obscene material. 
+*506  $bThe provincial government in Pakistan's southern province of Sindh
+*518  $aMay 2004
+*518  $3Newspaper
+*522  $aPakistan
+*651  $a7441
+*691  $aPolitical
+*692  $aBanned
+^
+100000501
+*041  $aurd
+*245  $aZamana
+*260  $aPakistan
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Pakistan Press Foundation (PPF) 
+*505  $aOn 25 May 2004, the provincial government in Pakistan's southern province of Sindh banned eight newspapers in the city of Karachi on charges of "publishing obscene photographs" and "blackmail". Police also sealed their offices and arrested newspaper owners and staff. According to press reports, heavy contingents of police raided the offices of "Morning Special", "Evening Special", "Zamana", "Daily Special" and "Mid Special", as well as the Mashriq Press, where the newspapers are printed. The provincial Home Department claimed that it took action after receiving complaints that the newspapers were involved in blackmailing and publishing obscene material. 
+*506  $bThe provincial government in Pakistan's southern province of Sindh
+*518  $aMay 2004
+*518  $3Newspaper
+*522  $aPakistan
+*651  $a7441
+*691  $aPolitical
+*692  $aBanned
+^
+100000502
+*041  $aurd
+*245  $aDaily Special
+*260  $aPakistan
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Pakistan Press Foundation (PPF) 
+*505  $aOn 25 May 2004, the provincial government in Pakistan's southern province of Sindh banned eight newspapers in the city of Karachi on charges of "publishing obscene photographs" and "blackmail". Police also sealed their offices and arrested newspaper owners and staff. According to press reports, heavy contingents of police raided the offices of "Morning Special", "Evening Special", "Zamana", "Daily Special" and "Mid Special", as well as the Mashriq Press, where the newspapers are printed. The provincial Home Department claimed that it took action after receiving complaints that the newspapers were involved in blackmailing and publishing obscene material. 
+*506  $bThe provincial government in Pakistan's southern province of Sindh
+*518  $aMay 2004
+*518  $3Newspaper
+*522  $aPakistan
+*651  $a7441
+*691  $aPolitical
+*692  $aBanned
+^
+100000503
+*041  $aurd
+*245  $aMid Special
+*260  $aPakistan
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Pakistan Press Foundation (PPF) 
+*505  $aOn 25 May 2004, the provincial government in Pakistan's southern province of Sindh banned eight newspapers in the city of Karachi on charges of "publishing obscene photographs" and "blackmail". Police also sealed their offices and arrested newspaper owners and staff. According to press reports, heavy contingents of police raided the offices of "Morning Special", "Evening Special", "Zamana", "Daily Special" and "Mid Special", as well as the Mashriq Press, where the newspapers are printed. The provincial Home Department claimed that it took action after receiving complaints that the newspapers were involved in blackmailing and publishing obscene material. 
+*506  $bThe provincial government in Pakistan's southern province of Sindh
+*518  $aMay 2004
+*518  $3Newspaper
+*522  $aPakistan
+*651  $a7441
+*691  $aPolitical
+*692  $aBanned
+^
+100000504
+*041  $aeng
+*245  $aStandard Times
+*260  $aSierra Leone
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Media Foundation for West Africa (MFWA) 
+*505  $aOn 27 July 2004, Justice Edmond Cowan, speaker of the Sierra Leonean Parliament, banned the privately-owned "Standard Times" newspaper from covering parliamentary sessions for one month. The speaker's action came after the publication in early July of an article in the newspaper, under the caption, "MP Thrown Out of Parliament", which the legislative body considered disparaging. 
+*506  $aBanned from covering parliamentary sessions for one month. 
+*506  $bJustice Edmond Cowan
+*518  $aJuly 2004
+*518  $3Newspaper
+*522  $aSierra Leone
+*651  $a5556
+*691  $aPolitical
+*692  $aCensored
+^
+100000505
+*041  $atam
+*245  $aThinakural 
+*260  $aSri Lanka
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Free Media Movement (FMM) 
+*505  $aIn Mrach 2004, thousands of copies of the Tamil-language newspapers Thinakural and Veerakesaree were confiscated and set on fire by politically-motivated gangs in eastern Sri Lanka, where a major spilt has taken place in the ranks of the Liberation Tigers of Tamil Eelam. FMM condemns those responsible for this anti-media attitude, as well as the act itself, and earnestly hopes that the media will be able to report on political developments related to the split without any further hindrance. 
+*506  $bPolitically-motivated gangs
+*518  $aMarch 2004
+*518  $3Newspaper
+*522  $aSri Lanka
+*651  $a7447
+*691  $aPolitical
+*692  $aSeized
+^
+100000506
+*041  $atam
+*245  $aVeerakesaree
+*260  $aSri Lanka
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Free Media Movement (FMM) 
+*505  $aIn Mrach 2004, thousands of copies of the Tamil-language newspapers Thinakural and Veerakesaree were confiscated and set on fire by politically-motivated gangs in eastern Sri Lanka, where a major spilt has taken place in the ranks of the Liberation Tigers of Tamil Eelam. FMM condemns those responsible for this anti-media attitude, as well as the act itself, and earnestly hopes that the media will be able to report on political developments related to the split without any further hindrance. 
+*506  $bPolitically-motivated gangs
+*518  $aMarch 2004
+*518  $3Newspaper
+*522  $aSri Lanka
+*651  $a7447
+*691  $aPolitical
+*692  $aSeized
+^
+100000507
+*041  $aeng
+*245  $aAl-Ayam
+*260  $aSudan
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF) 
+*505  $aDuring the summer of 2003, President Beshir proclaimed his commitment to press freedom, saying censorship of the press would be halted. But the newspaper suspensions continued unabated throughout the autumn, on the orders of the prosecutor in charge of crimes against the state. Publications that were censored included "Al-Ayam", one of Sudan's oldest established dailies, which was suspended for nearly three months before reappearing on 2 March 2004, and the English-language daily "Khartoum Monitor", which has the dubious distinction of holding the record for suspensions, having been suspended for a total of 219 days in 2003. The paper was allowed to reappear on 21 March 2004 after the Justice Minister Ali Mohamed Osman Yassin tok the initiative to limit suspensions of newspapers to 24 hours. On 16 March 2004, Yassin said he had taken steps under Article 130 of the 1991 Criminal Procedure Code to limit suspensions to 24 hours, preventing the suspension for unlimited periods of newspapers that are the subject of investigations. 
+*506  $bJustice Minister Ali Mohamed Osman Yassin
+*506  $eArticle 130 of the 1991 Criminal Procedure Code
+*518  $aMarch 2004
+*518  $3Newspaper
+*522  $aSudan
+*651  $a5259
+*691  $aPolitical
+*692  $aSuspended
+^
+100000508
+*041  $aeng
+*245  $aKhartoum Monitor
+*260  $aSudan
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF) 
+*505  $aDuring the summer of 2003, President Beshir proclaimed his commitment to press freedom, saying censorship of the press would be halted. But the newspaper suspensions continued unabated throughout the autumn, on the orders of the prosecutor in charge of crimes against the state. Publications that were censored included "Al-Ayam", one of Sudan's oldest established dailies, which was suspended for nearly three months before reappearing on 2 March 2004, and the English-language daily "Khartoum Monitor", which has the dubious distinction of holding the record for suspensions, having been suspended for a total of 219 days in 2003. The paper was allowed to reappear on 21 March 2004 after the Justice Minister Ali Mohamed Osman Yassin tok the initiative to limit suspensions of newspapers to 24 hours. On 16 March 2004, Yassin said he had taken steps under Article 130 of the 1991 Criminal Procedure Code to limit suspensions to 24 hours, preventing the suspension for unlimited periods of newspapers that are the subject of investigations. 
+*506  $bJustice Minister Ali Mohamed Osman Yassin
+*506  $eArticle 130 of the 1991 Criminal Procedure Code
+*518  $aMarch 2004
+*518  $3Newspaper
+*522  $aSudan
+*651  $a5259
+*691  $aPolitical
+*692  $aSuspended
+^
+100000509
+*041  $aton
+*245  $aTaimi 'o Tonga
+*260  $aTonga
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Comité para la Protección de los Periodistas (CPJ) 
+*505  $aIn 2003, the government passed two new regulations governing the media. The Newspaper Act requires all publications in Tonga to be licensed by the government. The Media Operators' Act stipulates that foreigners may not own more than a 20 percent stake in media companies in the country. The deadline for license registration was set for 31 January 2004. Violation of the Newspaper Act is punishable by a 10,000 Tongan Pa'anga (approx. US$5,200) fine or imprisonment of up to a year. Since 31 January 2004, the government has only granted licenses to a few publications, most of which are owned by the government or the church. All independent publications in Tonga, including "Taimi 'o Tonga" and the quarterly news magazine "Matangi Tonga", have been denied licenses. "Kele'a", a newspaper owned by a pro-democracy member of Parliament, was also banned. 
+*506  $bThe government
+*506  $eThe Media Operators' Act
+*518  $aJanuary 2004
+*518  $3Newspaper
+*522  $aTonga
+*651  $a9029
+*691  $aPolitical
+*692  $aBanned
+^
+100000510
+*041  $aton
+*245  $aMatangi Tonga
+*260  $aTonga
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Comité para la Protección de los Periodistas (CPJ) 
+*505  $aIn 2003, the government passed two new regulations governing the media. The Newspaper Act requires all publications in Tonga to be licensed by the government. The Media Operators' Act stipulates that foreigners may not own more than a 20 percent stake in media companies in the country. The deadline for license registration was set for 31 January 2004. Violation of the Newspaper Act is punishable by a 10,000 Tongan Pa'anga (approx. US$5,200) fine or imprisonment of up to a year. Since 31 January 2004, the government has only granted licenses to a few publications, most of which are owned by the government or the church. All independent publications in Tonga, including "Taimi 'o Tonga" and the quarterly news magazine "Matangi Tonga", have been denied licenses. "Kele'a", a newspaper owned by a pro-democracy member of Parliament, was also banned. 
+*506  $bThe government
+*506  $eThe Media Operators' Act
+*518  $aJanuary 2004
+*518  $3Newspaper
+*522  $aTonga
+*651  $a9029
+*691  $aPolitical
+*692  $aBanned
+^
+100000511
+*041  $aton
+*245  $aKele'a
+*260  $aTonga
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Comité para la Protección de los Periodistas (CPJ) 
+*505  $aIn 2003, the government passed two new regulations governing the media. The Newspaper Act requires all publications in Tonga to be licensed by the government. The Media Operators' Act stipulates that foreigners may not own more than a 20 percent stake in media companies in the country. The deadline for license registration was set for 31 January 2004. Violation of the Newspaper Act is punishable by a 10,000 Tongan Pa'anga (approx. US$5,200) fine or imprisonment of up to a year. Since 31 January 2004, the government has only granted licenses to a few publications, most of which are owned by the government or the church. All independent publications in Tonga, including "Taimi 'o Tonga" and the quarterly news magazine "Matangi Tonga", have been denied licenses. "Kele'a", a newspaper owned by a pro-democracy member of Parliament, was also banned. 
+*506  $bThe government
+*506  $eThe Media Operators' Act
+*518  $aJanuary 2004
+*518  $3Newspaper
+*522  $aTonga
+*651  $a9029
+*691  $aPolitical
+*692  $aBanned
+^
+100000512
+*041  $aara
+$afre
+*245  $aKalima
+*260  $aTunisia
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Reporters Without Borders (RSF) 
+*505  $aJournalist Sihem Bensedrine failed in her attempt to register the weekly newspaper "Kalima". Bensedrine was turned away when she tried to begin the registration process for the bilingual publication at the Interior Ministry's offices on 13 January 2004. This is the third time since 1999 that Bensedrine has attempted to file a "preliminary statement" for "Kalima" with the Interior Ministry. A home-produced version of the newspaper is currently published on an irregular basis and distributed unofficially. 
+*506  $bTunisian authorities
+*518  $aJanuary 2004
+*518  $3Newspaper
+*522  $aTunisia
+*651  $a5362
+*691  $aPolitical
+*692  $aBanned
+*700  $aBensedrine, Sihem
+$eJournalist
+^
+100000513
+*041  $aeng
+*245  $aThe Monitor
+*260  $aUganda
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Committee to Protect Journalists (CPJ) 
+*505  $aOn February 5, 2004, after the Monitor published an article about an ongoing inquiry into so-called ghost soldiers in the national army-or names on the army's personnel lists that do not correspond to real soldiers even though salaries are being drawn for them-the government obtained a High Court injunction stopping The Monitor from publishing any other details about the investigation. The injunction was granted based on authorities' claims that the details of the inquiry are "of a highly sensitive and classified security nature," according to The Monitor. 
+*506  $bthe government
+*518  $aFebruary 2004
+*518  $3Newspaper
+*522  $aUganda
+*651  $a5263
+*691  $aPolitical
+*692  $aCensored
+^
+100000514
+*041  $aukr
+*245  $aSilski Visti
+*260  $aUkraine
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Committee to Protect Journalists (CPJ) 
+*505  $aIn January 2004, the Shevchenkivskyy District Court ordered the closure of the opposition daily "Silski Visti", which is based in the capital, Kyiv, allegedly for publishing two advertisements in September 2003 for a book that was widely considered anti-Semitic. Local and international reports, however, suggest that the issue of anti-Semitism was used as a pretext to close "Silski Visti", which was widely read, critical of the government, and supportive of the opposition Socialist Party of Ukraine (SPU), in an election year. 
+*506  $bShevchenkivskyy District Court
+*518  $aMarch 2004
+*518  $3Newspaper
+*522  $aUkraine
+*651  $a8049
+*691  $aPolitical
+*692  $aClosed
+^
+100000515
+*041  $aeng
+*245  $aThe Tribune
+*260  $aZimbabwe
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Committee to Protect Journalists (CPJ) 
+*505  $aThe government-controlled Media and Information Commission (MIC) decided on 10 June 2004 to suspend the private weekly "The Tribune" for one year. "The Tribune" is the second newspaper to be shuttered under Zimbabwe's repressive Access to Information and Protection of Privacy Act (AIPPA). According to sources in Harare, on 10 June, the MIC chairman, Tafataona Mahoso, said in a press statement that "The Tribune" would be closed for one year. The statement claimed that African Tribune Newspapers (ATN), the company that publishes "The Tribune", had violated Section 67 of AIPPA by failing to notify the commission of changes in ownership, name, and frequency of publication. The statement also alleged that the newspaper had employed an unaccredited  journalist. Under the AIPPA, all journalists must be accredited by the MIC to work. Ownership of "The Tribune" changed hands in March, when the newspaper's current management bought out the former owners. Publication frequency also changed in January when ATN merged its two weekly publications into one newspaper. 
+*506  $aSuspended for one year
+*506  $bMedia and Information Commission (MIC)
+*506  $eAccess to Information and Protection of Privacy Act (AIPPA), Section 67.
+*518  $aJune 2004
+*518  $3Newspaper
+*522  $aZimbabwe
+*651  $a5467
+*691  $aPolitical
+*692  $aSuspended
+^
+100000516
+*041  $aeng
+*245  $aDaily News
+*260  $aZimbabwe
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Committee to Protect Journalists (CPJ) 
+*505  $aOn 6 February, the newspaper was forced to close after the Media and Information Commission (MIC) refused to license either the publication or its journalists in spite of two court orders directing it to do so. The newspaper resumed publication on January 22, after being closed for four months.
+*506  $bMedia and Information Commission (MIC)
+*506  $eAccess to Information and Protection of Privacy Act (AIPPA), Section 67.
+*518  $aMarch 2004
+*518  $3Newspaper
+*522  $aZimbabwe
+*651  $a5467
+*691  $aPolitical
+*692  $aSuspended
+^
+100000517
+*041  $aeng
+*245  $aThe Daily News on Sunday
+*260  $aZimbabwe
+$c2004
+*500  $aSource: IFEX (International Freedom of Expression eXchange) http://www.ifex.org /Committee to Protect Journalists (CPJ) 
+*505  $aOn 6 February, the newspaper was forced to close after the Media and Information Commission (MIC) refused to license either the publication or its journalists in spite of two court orders directing it to do so. 
+*506  $bMedia and Information Commission (MIC)
+*506  $eAccess to Information and Protection of Privacy Act (AIPPA), Section 67.
+*518  $aMarch 2004
+*518  $3Newspaper
+*522  $aZimbabwe
+*651  $a5467
+*691  $aPolitical
+*692  $aSuspended
+^
+100000518
+*020  $a91-7106-534-2 ISSN: 0280-2171 
+*041  $aeng
+*100  $aMelber, Henning
+*110  $aNordic Africa Institute
+*245  $aMedia, Public Discourse and Political Contestation in Zimbabwe
+$cMelber, Henning (Ed.)
+*260  $aUppsala, Sweden
+$bNordic Africa Institute
+$cAug 2004
+*300  $a39 pp 
+$c210 x 300 mm
+*440  $aCurrent African Issues
+$v27
+*500  $aNordic Africa Institute, http://www.nai.uu.se/
+*520  $aDescription: The current situation in Zimbabwe under the ZANU-PF government shows increasing signs of abuse of power by those in political control. They also direct their desire to suppress criticism towards the media. Press organs in private ownership have been closed down and journalists have been physically harassed, arrested and expelled. Laws are abused to regulate and manipulate public opinion by a policy of banning. Worldwide condemnation of the growing restrictions upon the freedom of expression goes hand in hand with the protests inside the country against the growing tendencies of totalitarian rule. Current events are critically reflected upon and the background to these developments is summarised in this publication. It is based on some of the contributions to a recent conference on Zimbabwe organised by the Nordic Africa Institute and offers insights into the contested space of public opinion in Zimbabwe. The critical analyses of current developments are there-by complemented with particular reference to the media sector in the ongoing battle for hegemonic control over the public sphere.
+*518  $3Book
+*650  $aZimbabwe 
+*650  $aMass media 
+*650  $aJournalism 
+*650  $aFreedom of information
+*650  $aCivil rights
+*651  $a5467
+*693  $aFreedom of information
+*693  $aFreedom of the press
+^

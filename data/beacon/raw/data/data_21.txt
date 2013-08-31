@@ -1,0 +1,2458 @@
+200000068
+*041  $aspa
+*245  $aVoces de mi Tierra
+*260  $aSanta Cruz, Argentina
+$c2006
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 16 March 2007 / Reporters sans frontières (RSF), Paris
+*505  $aThe programme "Voces de mi Tierra" was withdrawn from LU14 and LRA 59 in July 2006 after it included a report by Pablo Lagalle on the public health risks from mining operations. Lagalle told
+RSF at the time that the decision was taken at the request of a municipal councillor.
+*506  $awithdrawn
+$ba municipal councillor
+$epolitical
+$3radio programme
+*518  $aJuly 2006
+$3radio programme
+*522  $aArgentina
+*651  $a6414
+*691  $apolitical
+*692  $awithdrawn
+^
+200000229
+*041  $abur
+*245  $aMizzima News websites
+*260  $aNew Delhi
+$c2008
+*500  $aIFEX (International Freedom of Expression eXchange) http://www.ifex.org, 17 October 2008 / Mizzima News, New Delhi
+*505  $aThe websites of Mizzima News, an independent Burmese multi-media group based in New Delhi, have been crippled since 9 October 2008 when the group's hosting server suspended the sites after
+they attracted several hacking attempts.
+*506  $asuspended
+$bhosting server dueto hacking
+*518  $a9 October 2008
+$3websites
+*522  $aMyanmar
+*651  $a7516
+*691  $apolitical
+*692  $asuspension
+^
+200000447
+*020  $a9780300114867
+*041  $aeng
+*100  $aHeyman, Steven J
+*240  $lEnglish
+*245  $aFree Speech and Human Dignity
+*260  $aNew Haven, USA
+$bYale University Press
+$c2008
+*500  $a-
+*505  $a-
+*506  $a-
+*518  $a-
+*520  $aSteven J. Heyman presents a theory of the First Amendment that seeks to overcome the conflict between free speech and human dignity. This liberal humanist theory recognizes a strong right to
+freedom of expression while also providing protection against the most serious forms of assaultive speech.
+^
+200000455
+*041  $aeng
+*100  $aMcCormick, John
+*245  $aVersions of Censorship
+*260  $aNew Brunswick
+$bAldineTransaction
+$c2009 [1962]
+*500  $aBibsys
+*650  $acensorship
+*650  $afreedom of expression
+*693  $anone
+^
+200000456
+*041  $aara
+*245  $aFacebook
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 23 February 2011 / IFEX Communiqué Vol 20, No 08, Committee to Protect Journalists (CPJ)
+*505  $aIt is difficult to tell if the shutdowns are deliberate. But CPJ can confirm that where Internet is available, Twitter, Facebook and Al Jazeera's websites have been added to Libya's normal
+political Internet filters.
+*506  $adistribution banned
+$bLibyan government
+*518  $aFebruary2011
+$3website
+*522  $aLibya
+*650  $aTwitter
+*650  $aInternet filters
+*651  $a5337
+*691  $apolitical
+*692  $ablocked
+^
+200000457
+*041  $aara
+*245  $aTwitter
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 23 February 2011 / IFEX Communiqué Vol 20, No 08 Committee to Protect Journalists (CPJ)
+*505  $aIt is difficult to tell if the shutdowns are deliberate. But CPJ can confirm that where Internet is available, Twitter, Facebook and Al Jazeera's websites have been added to Libya's normal
+political Internet filters.
+*506  $adistribution banned
+$bLibyan government
+*518  $aFebruary 2011
+$3website
+*522  $aLibya
+*650  $aFacebook
+*650  $aInternet filters
+*651  $a5337
+*691  $apolitical
+*692  $ablocked
+^
+200000458
+*041  $aara
+*245  $aAl Jazeera
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 23 February 2011 / IFEX Communiqué Vol 20, No 08 Committee to Protect Journalists (CPJ)
+*505  $aAccording to CPJ, Libya's Internet crackdown hasn't shown the same consistency as Egypt's six-day long blackout - connectivity has been intermittent - and it is difficult to tell if the
+shutdowns are deliberate. But CPJ can confirm that where Internet is available, Twitter, Facebook and Al Jazeera's websites have been added to Libya's normal political Internet filters.
+*506  $adistribution banned
+$bLibyan government
+*518  $aFebruary 2011
+$3website
+*522  $aLibya
+*650  $aTwitter
+*650  $aFacebook
+*650  $aInternet filters
+*651  $a5337
+*691  $apolitical
+*692  $acensored
+^
+200000459
+*041  $aara
+*245  $aInternet service
+*500  $aIFEX Communiqué Vol 20, No 07 Committee to Protect Journalists (CPJ)
+*505  $aThe ouster of Egyptian President Hosni Mubarak has reinvigorated protests across the Arab region, resulting in clashes between security forces and protesters in Algeria, Bahrain, Iran and
+Yemen, report the Committee to Protect Journalists (CPJ), Human Rights Watch and IFEX members in the region. In Algeria, security forces prevented journalists from covering anti-government protests in
+major Algerian cities on 12 February. Kamel Amarni, secretary-general of the Algerian National Syndicate, told CPJ that security forces stopped and searched several journalists before confiscating
+their equipment. Internet service was shut down for several hours on the day and Facebook accounts deleted across the country.
+*506  $asecurity forces
+*518  $aFebruary2011
+*522  $aAlgeria
+*651  $a5311
+*691  $apolitical
+*692  $ashut down
+^
+200000460
+*041  $aara
+*245  $aFacebook
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 16 February 2011 / IFEX Communiqué Vol 20, No 07, Committee to Protect Journalists (CPJ)
+*505  $aIn Algeria, security forces prevented journalists from covering anti-government protests in major Algerian cities on 12 February. Kamel Amarni, secretary-general of the Algerian National
+Syndicate, told CPJ that security forces stopped and searched several journalists before confiscating their equipment. Internet service was shut down for several hours on the day and Facebook accounts
+deleted across the country.
+*506  $awebsite hacked
+$bSecurity forces
+*518  $aFebruary 2011
+$3website
+*522  $aAlgeria
+*650  $aprotest
+*650  $aKamel Amarni
+*650  $ajournalist
+*651  $a5311
+*691  $apolitical
+*692  $adeleted
+^
+200000461
+*041  $aara
+*245  $aFacebook
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 9 February 2011 / IFEX Communiqué Vol 20, No 06, Bahrain Center for Human Rights (BCHR)
+*505  $aIn Bahrain, the Bahrain Center for Human Rights (BCHR) reports that the government has taken steps to block news about Bahrain's own "Day of Rage," on 14 February. "In a step that reflects a
+state of confusion, apprehension and anticipation, the Bahraini authorities blocked an online group on Facebook, which calls on people to go out and protest against government policies," said BCHR.
+*506  $aaccess prevented
+$bBahrain Government
+*518  $a14 February 2011
+$3website
+*522  $aBahrain
+*650  $aDay of Rage online
+*650  $agroup protest
+*651  $a7312
+*691  $apolitical
+*692  $ablocked
+^
+200000462
+*041  $atha
+*245  $aWebsites blocked
+*500  $aIFEX Communiqué Vol 20, No 06 Southeast Asian Press Association (SEAPA)
+*505  $aThailand was SEAPA's focus of attention in 2010, mainly due to media being caught in the crossfire between the military and the National United Front of Democracy Against Dictatorship (UDD),
+popularly known as the "Red Shirts". During the political crisis, 91 people died, including two journalists, and 400,000 websites were blocked. While the emergency decree was lifted in December, there
+are still questions about whether the media will be able to operate freely in the post-conflict period, says SEAPA.
+*506  $amilitary; UDD
+*518  $aFebruary2011
+*522  $aThailand
+*651  $a7550
+*691  $apolitical
+*692  $ablocked
+^
+200000463
+*041  $aara
+*245  $aTwitter
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 2 February 2011 / IFEX Communiqué Vol 20, No 05, Committee to Protect Journalists (CPJ)
+*505  $aEgypt shut down Twitter, the video-sharing website Bambuser and some independent online newspapers and most of the country's Internet and cell phone networks. By 30 January, Egypt had shut
+down the operations of the Arabic satellite TV channel Al Jazeera, blaming it for encouraging the Tunisia-inspired protests across the country that have escalated into a call for an end to President
+Hosni Mubarak's three decades of rule. Internet connectivity was almost non-existent in Egypt, with more than 90 percent of connections to the wider Internet shut down over five days.
+*506  $ashut down
+$bEgyptian government
+*518  $aFebruary 2011
+$3website
+*522  $aEgypt
+*650  $aAl Jazeera
+*650  $aBambuser
+*650  $aprotest
+*650  $aPresident Hosni Mubarak
+*651  $a5325
+*691  $apolitical
+*692  $ashut down
+^
+200000464
+*041  $aara
+*245  $aBambuser
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 2 February 2011 / IFEX Communiqué Vol 20, No 05, Committee to Protect Journalists (CPJ
+*505  $aEgypt shut down Twitter, the video-sharing website Bambuser and some independent online newspapers and most of the country's Internet and cell phone networks. By 30 January, Egypt had shut
+down the operations of the Arabic satellite TV channel Al Jazeera, blaming it for encouraging the Tunisia-inspired protests across the country that have escalated into a call for an end to President
+Hosni Mubarak's three decades of rule. Internet connectivity was almost non-existent in Egypt, with more than 90 percent of connections to the wider Internet shut down over five days.
+*506  $ashut down
+$bEgyptian government
+*518  $aFebruary 2011
+$3website
+*522  $aEgypt
+*650  $aTwitter
+*650  $aAl Jazeera
+*650  $aprotest
+*650  $aPresident Hosni Mubarak
+*651  $a5325
+*691  $apolitical
+*692  $ashut down
+^
+200000465
+*041  $aara
+*245  $aAl Jazeera
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 2 February 2011 / IFEX Communiqué Vol 20, No 05, Committee to Protect Journalists (CPJ)
+*505  $aEgypt shut down Twitter, the video-sharing website Bambuser and some independent online newspapers and most of the country's Internet and cell phone networks. By 30 January, Egypt had shut
+down the operations of the Arabic satellite TV channel Al Jazeera, blaming it for encouraging the Tunisia-inspired protests across the country that have escalated into a call for an end to President
+Hosni Mubarak's three decades of rule. Internet connectivity was almost non-existent in Egypt, with more than 90 percent of connections to the wider Internet shut down over five days.
+*506  $ashut down
+$bEgyptian government
+*518  $aFebruary2011
+$3TV channel
+*522  $aEgypt
+*650  $aTwitter
+*650  $aBambuser
+*650  $aprotest
+*650  $aPresident Hosni Mubarak
+*651  $a5325
+*691  $apolitical
+*692  $ashut down
+^
+200000466
+*041  $aegy
+*245  $aEgyiptian Internetnetworks
+*500  $aIFEX Communiqué Vol 20, No 05 Committee to Protect Journalists (CPJ)
+*505  $aEgypt shutting down Twitter, the video-sharing website Bambuser and some independent online newspapers. Then it was most of the country's Internet and cell phone networks. By 30 January, Egypt
+had shut down the operations of the Arabic satellite TV channel Al Jazeera, blaming it for encouraging the Tunisia-inspired protests across the country that have escalated into a call for an end to
+President Hosni Mubarak's three decades of rule. Internet connectivity was almost non-existent in Egypt, with more than 90 percent of connections to the wider Internet shut down over five days.eg
+*506  $aGovernment
+*518  $aFebruary2011
+*522  $aEgypt
+*651  $a5325
+*691  $apolitical
+*692  $ashutting down
+^
+200000467
+*041  $aegy
+*245  $aEgyiptian cellphonenetworks
+*500  $aIFEX Communiqué Vol 20, No 05 Committee to Protect Journalists (CPJ)
+*505  $aEgypt shutting down Twitter, the video-sharing website Bambuser and some independent online newspapers. Then it was most of the country's Internet and cell phone networks. By 30 January, Egypt
+had shut down the operations of the Arabic satellite TV channel Al Jazeera, blaming it for encouraging the Tunisia-inspired protests across the country that have escalated into a call for an end to
+President Hosni Mubarak's three decades of rule. Internet connectivity was almost non-existent in Egypt, with more than 90 percent of connections to the wider Internet shut down over five days.eg
+*506  $aGovernment
+*518  $aFebruary2011
+*522  $aEgypt
+*651  $a5325
+*691  $apolitical
+*692  $ashutting down
+^
+200000468
+*041  $aara
+*245  $aAl Jazeera
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 2 February 2011 / IFEX Communiqué Vol 20, No 05, Committee to Protect Journalists (CPJ)
+*505  $aEgypt shut down Twitter, the video-sharing website Bambuser and some independent online newspapers and most of the country's Internet and cell phone networks. By 30 January, Egypt had shut
+down the operations of the Arabic satellite TV channel Al Jazeera, blaming it for encouraging the Tunisia-inspired protests across the country that have escalated into a call for an end to President
+Hosni Mubarak's three decades of rule. Internet connectivity was almost non-existent in Egypt, with more than 90 percent of connections to the wider Internet shut down over five days.
+*506  $ashut down
+$bEgyptian government
+*518  $a30 January 2011
+$3TV channel
+*522  $aEgypt
+*650  $aTwitter
+*650  $aBambuser
+*650  $aprotest
+*650  $aPresident Hosni Mubarak
+*651  $a5325
+*691  $apolitical
+*692  $ashut down
+^
+200000469
+*041  $aara
+*245  $aAjras al-Huriya
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 2 February 2011 / IFEX Communiqué Vol 20, No 05, Committee to Protect Journalists (CPJ) Arabic Network for Human Rights
+Information (ANHRI)
+*505  $aSecurity officers blocked distribution of the independent daily "Ajras al-Huriya" on 20 January and 31 January, report CPJ and the Arabic Network for Human Rights Information (ANHRI). Sudanese
+authorities also prevented international media from interviewing opposition leaders during the referendum, says CPJ. On 10 January, security agents prevented U.S. government-funded Al-Hurra television
+from conducting an interview with opposition leader Mubarak al-Fadil by cutting the satellite link while al-Fadil was being interviewed. "They don't want us to speak about the consequences and the
+dangers ahead after South Sudan breaks away," al-Fadil told "Sudan Tribune".
+*506  $adistribution prevented
+$bSecurity officers
+*518  $a20 January2011; 31 January 2011
+$3newspaper
+*522  $aSudan
+*650  $aAl-Hurra
+*650  $areferendum
+*650  $aMubarak al-Fadil
+*651  $a5259
+*691  $apolitical
+*692  $ablocked
+^
+200000470
+*041  $aara
+*245  $aAl-Hurra
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 2 February 2011 / IFEX Communiqué Vol 20, No 05, Committee to Protect Journalists (CPJ) Arabic Network for Human Rights
+Information (ANHRI)
+*505  $aSecurity officers blocked distribution of the independent daily "Ajras al-Huriya" on 20 January and 31 January, report CPJ and the Arabic Network for Human Rights Information (ANHRI). Sudanese
+authorities also prevented international media from interviewing opposition leaders during the referendum, says CPJ. On 10 January, security agents prevented U.S. government-funded Al-Hurra television
+from conducting an interview with opposition leader Mubarak al-Fadil by cutting the satellite link while al-Fadil was being interviewed. "They don't want us to speak about the consequences and the
+dangers ahead after South Sudan breaks away," al-Fadil told "Sudan Tribune".
+*506  $adistribution prevented
+$bSecurity agents
+*518  $a10 January 2011
+$3TV channel
+*522  $aSudan
+*650  $aAjras al-Huriya
+*650  $areferendum
+*650  $aMubarak al-Fadil
+*651  $a5259
+*691  $apolitical
+*692  $ablocked
+^
+200000471
+*041  $achi
+*245  $aVoices of Courage
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org/ 2 February 2011, IFJ Press Freedom in China 2010
+*505  $aThe International Federation of Journalists (IFJ) has uncovered a series of orders issued by the Chinese authorities in 2010 that blocked information on public health, disasters, corruption
+and civil unrest, from defective vaccines to deadly explosions.
+*518  $3book
+*522  $aChina
+*650  $apublic health
+*650  $adisasters
+*650  $acorruption
+*650  $acivil unrest
+*651  $a7117
+*693  $acensorship
+^
+200000472
+*041  $ahun
+*245  $aMedia law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 26 January 2011 / IFEX Communiqué Vol 20, No 04
+*505  $aAs Hungary assumes the rotating presidency of the European Union, EU politicians, journalists and a number of IFEX members have banded together against the country's steadfast refusal to scrap
+its new media law, report the International Press Institute (IPI), its affiliate the South and East Europe Media Organisation (SEEMO), and other IFEX members. The law establishes a
+government-appointed media council to ensure "balanced" reporting, and requires all media types to be registered, including online media such as forums and blogs.
+*518  $3law
+*522  $aHungary
+*650  $aEuropean Union
+*650  $amedia council
+*651  $a8029
+*693  $acensorship
+^
+200000473
+*041  $achi
+*245  $aIndependent Chinese PEN Center (ICPC)
+*500  $aIFEX Communiqué Vol 20, No 09
+*505  $aProtest-related online messaging services and articles have been blacked out, say the members. The English service of state-controlled Xinhua News Agency reported on 20 February protests but
+the stories later disappeared from its website. Xinhua's Chinese service did not report on the story at all, and censors have been blocking the words "jasmine" and "Wangfujing" from the Internet, says
+IFJ. ICPC's webmaster was detained and then forced to "travel", and ICPC's website has been shut down in an apparent cyber-attack, reports PEN American Center.
+*506  $aGovernment
+*518  $a20 February2011
+*522  $aChina
+*651  $a7117
+*691  $apolitical
+*692  $ashut down
+^
+200000474
+*041  $achi
+*245  $aIndependent Chinese PEN Center (ICPC)
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 2 March 2011/ IFEX Communiqué Vol 20, No 09, Xinhua News Agency, PEN American Center
+*505  $aMeanwhile, protest-related online messaging services and articles have been blacked out, say the members. The English service of state-controlled Xinhua News Agency reported on 20 February
+protests but the stories later disappeared from its website. Xinhua's Chinese service did not report on the story at all, and censors have been blocking the words "jasmine" and "Wangfujing" from the
+Internet, says IFJ. ICPC's webmaster was detained and then forced to "travel", and ICPC's website has been shut down in an apparent cyber-attack, reports PEN American Center.
+*506  $aaccess prevented
+$bPolice
+*518  $a20 February 2011
+$3website
+*522  $aChina
+*650  $atravel
+*650  $aJasmine Revolution
+*651  $a7117
+*691  $apolitical
+*692  $ashut down
+^
+200000478
+*041  $aara
+*245  $aAl-Mawkif
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 12 January 2011 / IFEX Communiqué Vol 20, No 02, Committee to Protect Journalists (CPJ)
+*505  $aArrested journalists, censored opposition newspapers, denounced Al Jazeera and obstructed reports and broadcasts, report members of the IFEX Tunisia Monitoring Group (IFEX-TMG) and other IFEX
+members. But this time, the authorities have gone even further - harvesting passwords and usernames of bloggers, reporters and political activists to identify protest leaders and delete or compromise
+their email and Facebook accounts. In late December, authorities confiscated from newsstands the 24 December edition of "Al-Mawkif", an opposition weekly, and the 25 December issue of opposition paper
+"Al-Tariq al-Jadid", reports the Committee to Protect Journalists (CPJ). Sofiene Chourabi, a reporter with "Al-Tariq al-Jadid", Security agents stopped and confiscated his equipment and ID, hacked and
+disabled his blog and deleted pages from his Facebook account. Hannibal TV was prevented from airing a programme about the Sidi Bouzid protests, according to CPJ. Nessma Channel, also a pro-government
+private broadcaster, was blocked from re-broadcasting a programme about the street protests. The Tunisian Internet Agency has blocked news websites, blogs, email accounts and Facebook pages carrying
+critical content.
+*506  $aconfiscated
+$bAuthorities
+*518  $a24December2011
+$3newspaper
+*522  $aTunisia
+*650  $aAl Jazeera
+*650  $aHannibal TV
+*650  $aAl-Tariq al-Jadid
+*650  $aNessma Channel
+*651  $a5362
+*691  $apolitical
+*692  $aconfiscated
+^
+200000479
+*041  $aara
+*245  $aAl-Tariqal-Jadid
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 12 January 2011 / IFEX Communiqué Vol 20, No 02, Committee to Protect Journalists (CPJ)
+*505  $aArrested journalists, censored opposition newspapers, denounced Al Jazeera and obstructed reports and broadcasts, report members of the IFEX Tunisia Monitoring Group (IFEX-TMG) and other IFEX
+members. But this time, the authorities have gone even further - harvesting passwords and usernames of bloggers, reporters and political activists to identify protest leaders and delete or compromise
+their email and Facebook accounts. In late December, authorities confiscated from newsstands the 24 December edition of "Al-Mawkif", an opposition weekly, and the 25 December issue of opposition paper
+"Al-Tariq al-Jadid", reports the Committee to Protect Journalists (CPJ). Sofiene Chourabi, a reporter with "Al-Tariq al-Jadid", Security agents stopped and confiscated his equipment and ID, hacked and
+disabled his blog and deleted pages from his Facebook account. Hannibal TV was prevented from airing a programme about the Sidi Bouzid protests, according to CPJ. Nessma Channel, also a pro-government
+private broadcaster, was blocked from re-broadcasting a programme about the street protests. The Tunisian Internet Agency has blocked news websites, blogs, email accounts and Facebook pages carrying
+critical content. CPJ research shows that the Tunisian Internet Agency is "modifying web pages on the fly to steal usernames and passwords for sites such as Facebook, Google and Yahoo!," deleting or
+compromising accounts and even using the information to locate bloggers and their network of contacts.
+*506  $aconfiscated
+$bAuthorities
+*518  $a25december2011
+$3newspaper
+*522  $aTunisia
+*650  $aAl Jazeera
+*650  $aAl-Mawkif
+*650  $aAl-Tariq al-Jadid
+*650  $aFacebook
+*651  $a5362
+*691  $apolitical
+*692  $aconfiscated
+^
+200000480
+*041  $aara
+*245  $aFacebook
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 12 January 2011 / IFEX Communiqué Vol 20, No 02
+*505  $aArrested journalists, censored opposition newspapers, denounced Al Jazeera and obstructed reports and broadcasts, report members of the IFEX Tunisia Monitoring Group (IFEX-TMG) and other IFEX
+members. But this time, the authorities have gone even further - harvesting passwords and usernames of bloggers, reporters and political activists to identify protest leaders and delete or compromise
+their email and Facebook accounts. In late December, authorities confiscated from newsstands the 24 December edition of "Al-Mawkif", an opposition weekly, and the 25 December issue of opposition paper
+"Al-Tariq al-Jadid", reports the Committee to Protect Journalists (CPJ). Sofiene Chourabi, a reporter with "Al-Tariq al-Jadid", Security agents stopped and confiscated his equipment and ID, hacked and
+disabled his blog and deleted pages from his Facebook account. Hannibal TV was prevented from airing a programme about the Sidi Bouzid protests, according to CPJ. Nessma Channel, also a pro-government
+private broadcaster, was blocked from re-broadcasting a programme about the street protests. The Tunisian Internet Agency has blocked news websites, blogs, email accounts and Facebook pages carrying
+critical content. CPJ research shows that the Tunisian Internet Agency is "modifying web pages on the fly to steal usernames and passwords for sites such as Facebook, Google and Yahoo!," deleting or
+compromising accounts and even using the information to locate bloggers and their network of contacts.
+*506  $adeleted
+$bAuthorities
+*518  $aDecember2011
+$3website
+*522  $aTunisia
+*650  $aAl Jazeera
+*650  $aAl-Mawkif
+*650  $aAl-Tariq al-Jadid
+*650  $aFacebook
+*651  $a5362
+*691  $apolitical
+*692  $adeleted
+^
+200000481
+*041  $aara
+*245  $aNessma Channel
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 12 January 2011 / IFEX Communiqué Vol 20, No 02
+*505  $aArrested journalists, censored opposition newspapers, denounced Al Jazeera and obstructed reports and broadcasts, report members of the IFEX Tunisia Monitoring Group (IFEX-TMG) and other IFEX
+members. But this time, the authorities have gone even further - harvesting passwords and usernames of bloggers, reporters and political activists to identify protest leaders and delete or compromise
+their email and Facebook accounts. In late December, authorities confiscated from newsstands the 24 December edition of "Al-Mawkif", an opposition weekly, and the 25 December issue of opposition paper
+"Al-Tariq al-Jadid", reports the Committee to Protect Journalists (CPJ). Sofiene Chourabi, a reporter with "Al-Tariq al-Jadid", Security agents stopped and confiscated his equipment and ID, hacked and
+disabled his blog and deleted pages from his Facebook account. Hannibal TV was prevented from airing a programme about the Sidi Bouzid protests, according to CPJ. Nessma Channel, also a pro-government
+private broadcaster, was blocked from re-broadcasting a programme about the street protests. The Tunisian Internet Agency has blocked news websites, blogs, email accounts and Facebook pages carrying
+critical content. CPJ research shows that the Tunisian Internet Agency is "modifying web pages on the fly to steal usernames and passwords for sites such as Facebook, Google and Yahoo!," deleting or
+compromising accounts and even using the information to locate bloggers and their network of contacts.
+*506  $aprogramme stopped
+$bAuthorities
+*518  $aDecember2011
+$3broadcaster
+*522  $aTunisia
+*650  $aAl Jazeera
+*650  $aAl-Mawkif
+*650  $aAl-Tariq al-Jadid
+*650  $aFacebook
+*651  $a5362
+*691  $apolitical
+*692  $ablocked
+^
+200000482
+*041  $aara
+*245  $aHannibal TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 12 January 2011 / IFEX Communiqué Vol 20, No 02, CPJ. Nessma Channel
+*505  $aArrested journalists, censored opposition newspapers, denounced Al Jazeera and obstructed reports and broadcasts, report members of the IFEX Tunisia Monitoring Group (IFEX-TMG) and other IFEX
+members. But this time, the authorities have gone even further - harvesting passwords and usernames of bloggers, reporters and political activists to identify protest leaders and delete or compromise
+their email and Facebook accounts. In late December, authorities confiscated from newsstands the 24 December edition of "Al-Mawkif", an opposition weekly, and the 25 December issue of opposition paper
+"Al-Tariq al-Jadid", reports the Committee to Protect Journalists (CPJ). Sofiene Chourabi, a reporter with "Al-Tariq al-Jadid", Security agents stopped and confiscated his equipment and ID, hacked and
+disabled his blog and deleted pages from his Facebook account. Hannibal TV was prevented from airing a programme about the Sidi Bouzid protests, according to CPJ. Nessma Channel, also a pro-government
+private broadcaster, was blocked from re-broadcasting a programme about the street protests. The Tunisian Internet Agency has blocked news websites, blogs, email accounts and Facebook pages carrying
+critical content. CPJ research shows that the Tunisian Internet Agency is "modifying web pages on the fly to steal usernames and passwords for sites such as Facebook, Google and Yahoo!," deleting or
+compromising accounts and even using the information to locate bloggers and their network of contacts.
+*506  $aprogramme stopped
+$bAuthorities
+*518  $aDecember2011
+$3TV channel
+*522  $aTunisia
+*650  $aAl Jazeera
+*650  $aAl-Mawkif
+*650  $aAl-Tariq al-Jadid
+*650  $aFacebook
+*651  $a5362
+*691  $apolitical
+*692  $aprogramme stopped
+^
+200000483
+*041  $aara
+*245  $aFacebook
+*500  $aIFEX Communiqué Vol 20, No 02, CPJ. Nessma Channel
+*505  $aArrested journalists, censored opposition newspapers, denounced Al Jazeera and obstructed reports and broadcasts, report members of the IFEX Tunisia Monitoring Group (IFEX-TMG) and other IFEX
+members. But this time, the authorities have gone even further - harvesting passwords and usernames of bloggers, reporters and political activists to identify protest leaders and delete or compromise
+their email and Facebook accounts. In late December, authorities confiscated from newsstands the 24 December edition of "Al-Mawkif", an opposition weekly, and the 25 December issue of opposition paper
+"Al-Tariq al-Jadid", reports the Committee to Protect Journalists (CPJ). Sofiene Chourabi, a reporter with "Al-Tariq al-Jadid", Security agents stopped and confiscated his equipment and ID, hacked and
+disabled his blog and deleted pages from his Facebook account. Hannibal TV was prevented from airing a programme about the Sidi Bouzid protests, according to CPJ. Nessma Channel, also a pro-government
+private broadcaster, was blocked from re-broadcasting a programme about the street protests. The Tunisian Internet Agency has blocked news websites, blogs, email accounts and Facebook pages carrying
+critical content. CPJ research shows that the Tunisian Internet Agency is "modifying web pages on the fly to steal usernames and passwords for sites such as Facebook, Google and Yahoo!," deleting or
+compromising accounts and even using the information to locate bloggers and their network of contacts.
+*506  $aoperaton seized
+$bAuthorities
+*518  $aDecember2011
+$3website
+*522  $aTunisia
+*650  $aAl Jazeera
+*650  $aAl-Mawkif
+*650  $aAl-Tariq
+*650  $aal-Jadid
+*651  $a5362
+*691  $apolitical
+*692  $ablocked
+^
+200000484
+*041  $atha
+*245  $aComputer Crime Act
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 12 January 2011 / IFEX Communiqué Vol 20, No 02, Human Rights Watch Southeast Asian Press Alliance (SEAPA)
+*505  $aEight months after violent clashes between anti-government groups and state security forces. The emergency decree allowed Thai authorities to censor and ban media from disseminating news that
+"causes panic", say Human Rights Watch and SEAPA. Since the April violence, satellite television stations, online television channels, publications, community cstations and more than 1,000 websites
+have been shut down, reports Human Rights Watch. The government has other tools such as the Computer Crime Act to "prosecute those with different political views," the Thai Netizens Network told
+SEAPA. "
+*518  $3law
+*522  $aThailand
+*650  $aemergency decree
+*650  $atelevision stations
+*650  $apublications
+*650  $aradio station
+*651  $a7550
+*693  $ashut down
+^
+200000486
+*041  $akhm
+*245  $aPenal code
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 January 2011 / IFEX Communiqué Vol 20, No 01
+*505  $aThe new penal code went into effect on 10 December and places greater restrictions on free expression, says Human Rights Watch. Article 495 vaguely defines incitement as directly provoking the
+commission of a crime or an act that creates "serious turmoil in society" through public speech, writings, drawings or audio-visual telecommunication. It does not require the alleged incitement to be
+successful for penalties to be imposed, which include prison terms of six months to five years plus fines.
+*518  $3Penal code
+*522  $aCambodia
+*650  $aArticle 495
+*650  $awriting
+*650  $adrawing
+*650  $aaudio-visual
+*650  $atelecommunication
+*650  $apublic speech
+*651  $a7520
+*693  $apolitical censorship
+*693  $afreedom of expression
+^
+200000487
+*041  $aspa
+*245  $aSocial Responsibility in Radio and Television Law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 22 December 2010 / IFEX Communiqué Vol 19, No 50
+*505  $aOn 20 December, an amendment to the Social Responsibility in Radio and Television Law (Ley Resorte), restricting content for radio, television and the Internet was approved by the National
+Assembly and is expected to come into force once Chávez signs it into law. The amendment limits access to websites if they disseminate content that incites violence against the President, and bans
+media from producing messages that may constitute "media manipulations aimed at promoting confusion among citizens or at altering the public order" or those that "ignore the authorities." It also bans
+messages that could "be contrary to the nation's security."
+*518  $3law
+*522  $aVenezuela
+*650  $amedia law
+*650  $aradio
+*650  $atelevision
+*650  $aInternet
+*651  $a6460
+*693  $apolitical
+^
+200000488
+*041  $aspa
+*245  $aNational Organic Telecommunications Law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 22 December 2010 / IFEX Communiqué Vol 19, No 50, Committee to Protect Journalists (CPJ)
+*505  $aThe National Organic Telecommunications Law, will allow for authorities to examine, filter and block Internet traffic to and from Venezuela. The final bill that was passed changes the length
+of broadcast licences from 20 to 15 years and allows CONATEL to withdraw the licences of broadcasters that violate the law more than once, which could force Globovisión, the only surviving critical
+broadcaster, off the air, reports CPJ.
+*518  $3law
+*522  $aVenezuela
+*650  $aInternet traffic
+*650  $aGlobovision
+*650  $afilterblock
+*650  $afiltering
+*651  $a6460
+*693  $apolitical censorship
+*693  $afiltering
+^
+200000489
+*041  $aara
+*245  $aRadio Dabanga
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 22 December 2010 / IFEX Communiqué Vol 19, No 50, Arabic Network for Human Rights Information (ANHRI)
+*505  $aThe Sudanese regime has controlled media coverage of the political and humanitarian crisis in Darfur for years. Outraged by Radio Dabanga's coverage of the Darfur conflict, authorities arrested Radio Dabanga director Abdelrahman Adam Abdelrahman and closed down its office on 30 October, reports ANHRI. Also in November, security forces stormed the office of the Human Rights and Advocacy Network for Democracy (HAND), a coalition of Darfuri groups, and arrested several activists and shut down the office, report ANHRI and Human Rights Watch.
+*506  $ashut down
+$bSudanese regime
+*518  $aDecember2010
+$3Radio broadcaster
+*522  $aSudan
+*650  $aAbdelrahman Adam Abdelrahman
+*650  $aDarfur
+*651  $a5259
+*691  $apolitical
+*692  $ashut down
+^
+^
+200000491
+*041  $afre
+*245  $aCanal+ Horizon
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 8 December 2010 / IFEX Communiqué Vol 19, No 48, Committee to Protect Journalists (CPJ)
+*505  $aThe authorities in Côte d'Ivoire have banned some international news broadcasts and blocked the movement of the media amid continuing chaos following the presidential election, report the
+Media Foundation for West Africa (MFWA), Reporters Without Borders (RSF), Human Rights Watch and the Committee to Protect Journalists (CPJ). In an official statement broadcast on the
+government-controlled TV channel RTI on 2 December, the National Broadcasting Council announced "the immediate suspension of the signals of all international radio and TV news stations carried by the
+Canal+ Horizon satellite service" in order to "preserve social peace, which has been seriously shaken." Earlier this year, Ivorian authorities suspended the satellite broadcasts of France 24 after it
+reported on the violent suppression of opposition demonstrations by security forces, reports CPJ.
+*506  $aprogramme stopped
+$bGovernment
+*518  $a2December2010
+$3satellite service
+*522  $aCôte d'Ivoire
+*650  $aCôte d'Ivoire
+*650  $aelection
+*650  $atelevision
+*650  $aCanal+National Broadcasting Council
+*651  $a5533
+*691  $apolitical
+*692  $astopped
+^
+200000492
+*041  $afre
+*245  $aFrance 24
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 8 December 2010 / IFEX Communiqué Vol 19, No 48, Committee to Protect Journalists (CPJ)
+*505  $aThe authorities in Côte d'Ivoire have banned some international news broadcasts and blocked the movement of the media amid continuing chaos following the presidential election, report the
+Media Foundation for West Africa (MFWA), Reporters Without Borders (RSF), Human Rights Watch and the Committee to Protect Journalists (CPJ). In an official statement broadcast on the
+government-controlled TV channel RTI on 2 December, the National Broadcasting Council announced "the immediate suspension of the signals of all international radio and TV news stations carried by the
+Canal+ Horizon satellite service" in order to "preserve social peace, which has been seriously shaken." Earlier this year, Ivorian authorities suspended the satellite broadcasts of France 24 after it
+reported on the violent suppression of opposition demonstrations by security forces, reports CPJ.
+*506  $asuspended broadcasts
+$bIvorian authorities
+*518  $aDecember2010
+$3broadcast
+*522  $aCôte d'Ivoire
+*650  $aCôted'Ivoire
+*650  $aelection
+*650  $atelevision
+*650  $aCanal+National Broadcasting Council
+*651  $a5533
+*691  $apolitical
+*692  $asuspended
+^
+200000494
+*041  $achi
+*245  $aChina Media Bulletin
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 8 December 2010 / IFEX Communiqué Vol 19, No 48
+*505  $aFreedom House's "China Media Bulletin", a new weekly digest of press freedom and censorship news on China and its neighbours.
+*518  $3magazine
+*522  $aChina
+*650  $apress freedom
+*651  $a7117
+*693  $acensorship
+*693  $afreedom of expression
+^
+200000495
+*041  $aeng
+*245  $aMoscow-based TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 1 December 2010 / IFEX Communiqué Vol 19, No 47, Reporters Without Borders (RSF)
+*505  $aA reporter and cameraman for an English-language, Moscow-based TV channel were arrested while covering protests near the Fort Benning military base in Columbus, Georgia, last week.
+*506  $aaccess prevented
+$bpolice
+*518  $aDecember2010
+$3TV channel
+*522  $aUnited States
+*650  $aWesternHemispheric Institute
+*651  $a6357
+*691  $apolitical
+*692  $ablocked
+^
+200000496
+*041  $aamh
+*245  $aEthiop
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 24 November 2010 / IFEX Communiqué Vol 19, No 46
+*505  $aIn October 2005, the Ethiopian government closed down all independent publications in the country after suffering big losses in the elections. Since then most publications have not been
+allowed to resume functioning - including Agena's independent papers "Ethiop" and "Abay".
+*506  $adistribution banned
+$bEthiopian government
+*518  $aOctober2005
+$3newspaper
+*522  $aEthiopia
+*650  $apublication;election; national
+*651  $a5227
+*691  $apolitical
+*692  $aclosed
+^
+200000497
+*041  $aamh
+*245  $aAbay
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 8 December 2010 / IFEX Communiqué Vol 19, No 46
+*505  $aIn October 2005, the Ethiopian government closed down all independent publications in the country after suffering big losses in the elections. Since then most publications have not been
+allowed to resume functioning - including Agena's independent papers "Ethiop" and "Abay".
+*506  $adistribution banned
+$bEthiopian government
+*518  $aOctober2005
+$3newspaper
+*522  $aEthiopia
+*650  $apublication
+*650  $aelection
+*651  $a5227
+*691  $apolitical
+*692  $aclosed
+^
+200000498
+*041  $achi
+*245  $aBBC
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 10 November 2010 / IFEX Communiqué Vol 19, No 44
+*505  $aNews of the award is practically non-existent in China's media and has been blacked out from international news broadcasts on the BBC and CNN. Instead, Liu is being portrayed as a "traitor"
+and a "criminal" on China's official news agency, Xinhua.
+*506  $aprogramme stopped
+$bGovernment
+*518  $aDecember2010
+$3TV channel
+*522  $aChina
+*650  $aLiu Xiaobo
+*650  $aNobel Peace Prize
+*650  $aXinhua
+*651  $a7117
+*691  $apolitical
+*692  $astopped
+^
+200000499
+*041  $achi
+*245  $aCNN
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 10 November 2010 / IFEX Communiqué Vol 19, No 44
+*505  $aNews of the award is practically non-existent in China's media and has been blacked out from international news broadcasts on the BBC and CNN. Instead, Liu is being portrayed as a "traitor"
+and a "criminal" on China's official news agency, Xinhua.
+*506  $aprogramme stopped
+$bGovernment
+*518  $aDecember2010
+$3TV channel
+*522  $aChina
+*650  $aLiu Xiaobo
+*650  $aNobel Peace Prize
+*650  $aXinhua
+*651  $a7117
+*691  $apolitical
+*692  $astopped
+^
+200000500
+*041  $aara
+*245  $aAl Jazeera
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 3 November 2010/ IFEX Communiqué Vol 19, No 43, Arabic Network for Human Rights Information (ANHRI), Committee to
+Protect Journalists (CPJ)
+*505  $aThe Moroccan government has suspended Al Jazeera for what it alleged was unfair reporting that damaged the country's reputation, report the Arabic Network for Human Rights Information (ANHRI)
+and the Committee to Protect Journalists (CPJ). Morocco has used varied tactics to silence the independent media. "Nichane", an independent Moroccan magazine, was forced to close down earlier this
+year as a result of financial difficulties arising from an advertising boycott, ANHRI reports.
+*506  $aprogramme stopped
+$bMoroccan Government
+*518  $aNovember2010
+$3TV channel
+*522  $aMorocco
+*650  $aunfair reporting
+*650  $asuspended
+*651  $a5344
+*691  $apolitical
+*692  $astopped
+^
+200000501
+*041  $aara
+*245  $aNichane
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 3 November 2010/ IFEX Communiqué Vol 19, No 43, Arabic Network for Human Rights Information (ANHRI), Committee to
+Protect Journalists (CPJ)
+*505  $aThe Moroccan government has suspended Al Jazeera for what it alleged was unfair reporting that damaged the country's reputation, report the Arabic Network for Human Rights Information (ANHRI)and the Committee to Protect Journalists (CPJ). Morocco has used varied tactics to silence the independent media. "Nichane", an independent Moroccan magazine, was forced to close down earlier this year as a result of financial difficulties arising from an advertising boycott, ANHRI reports.
+*506  $aclosed down
+$bMoroccan Government
+*518  $aDecember 2010
+$3magazine
+*522  $aMorocco
+*650  $afinancial difficulties
+*650  $aboycott
+*651  $a5344
+*691  $apolitical
+*692  $aclosed
+^
+200000502
+*041  $abur
+*245  $aMyanmar
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 27 October 2010 / IFEX Communiqué Vol 19, No 42
+*505  $aCandidates have not been given equal access to the media to voice their platforms. Democratic Party (Myanmar), the Union of Myanmar Federation of National Politics and the 88 Generation
+Student Youths (Union of Myanmar) were denied access to the state-controlled media because of "improper" campaign messages. Other parties have complained about having their broadcasts or articles
+censored. The repression of freedom of expression has been heavy for online media. Mizzima, Thailand-based magazine "The Irrawaddy," and Oslo-based "Democratic Voice of Burma", had their website
+hacked, shutting them down anywhere from several hours to several days last month. Internet users on the service provider Bagan Net are having their connections cut frequently.
+*506  $aaccess prevented
+$bGovernment
+*518  $aOctober 2010
+$3political party
+*522  $aBurma
+*650  $aCandidates
+*650  $amedia campaign
+*650  $aonline media
+*651  $a7516
+*691  $apolitical
+*692  $asuspended
+^
+
+200000505
+*041  $abur
+*245  $aThe Irrawaddy
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 27 October 2010 / IFEX Communiqué Vol 19, No 42
+*505  $aFor instance, candidates have not been given equal access to the media to voice their platforms. Democratic Party (Myanmar), the Union of Myanmar Federation of National Politics and the 88
+Generation Student Youths (Union of Myanmar) were denied access to the state-controlled media because of "improper" campaign messages. Other parties have complained about having their broadcasts or
+articles censored. The repression of freedom of expression has been heavy for online media. Mizzima, Thailand-based magazine "The Irrawaddy," and Oslo-based "Democratic Voice of Burma", had their
+website hacked, shutting them down anywhere from several hours to several days last month. Internet users on the service provider Bagan Net are having their connections cut frequently.
+*506  $awebsite hacked
+$bGovernment
+*518  $aOctober 2010
+$3magazine
+*522  $aBurma
+*650  $aCandidates
+*650  $awebsite campaign
+*651  $a7516
+*691  $apolitical
+*692  $ahacked
+^
+200000506
+*041  $abur
+*245  $aDemocratic Voice of Burma
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 27 October 2010 / IFEX Communiqué Vol 19, No 42
+*505  $aFor instance, candidates have not been given equal access to the media to voice their platforms. Democratic Party (Myanmar), the Union of Myanmar Federation of National Politics and the 88
+Generation Student Youths (Union of Myanmar) were denied access to the state-controlled media because of "improper" campaign messages. Other parties have complained about having their broadcasts or
+articles censored. The repression of freedom of expression has been heavy for online media. Mizzima, Thailand-based magazine "The Irrawaddy," and Oslo-based "Democratic Voice of Burma", had their
+website hacked, shutting them down anywhere from several hours to several days last month. Internet users on the service provider Bagan Net are having their connections cut frequently.
+*506  $awebsite hacked
+$bGovernment
+*518  $aOctober 2010
+$3organisation
+*522  $aBurma
+*650  $aCandidates
+*650  $awebsite campaign
+*651  $a7516
+*691  $apolitical
+*692  $ahacked
+^
+200000507
+*041  $aara
+*245  $aGlobal Security
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 27 October 2010/ IFEX Communiqué Vol 19, No 42
+*505  $aThe Information Affairs Authority has blocked websites affiliated with legal opposition societies participating in the elections and has shut down the newsletters of the two main opposition
+societies, al-Wefaq National Islamic Society and the National Democratic Action Society (al-Wa'ad). The websites of BCHR and ANHRI continue to be blocked.
+*506  $aclosed down
+$bInformation Affairs Authority
+*518  $aOctober2010
+$3newsletter
+*522  $aBahrain
+*650  $aopposition
+*650  $aelection
+*651  $a7312
+*691  $apolitical
+*692  $aclosed
+^
+200000508
+*041  $aara
+*245  $aal-Wa'ad
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 27 October 2010/ IFEX Communiqué Vol 19, No 42
+*505  $aThe Information Affairs Authority has blocked websites affiliated with legal opposition societies participating in the elections and has shut down the newsletters of the two main opposition
+societies, al-Wefaq National Islamic Society and the National Democratic Action Society (al-Wa'ad). The websites of BCHR and ANHRI continue to be blocked.
+*506  $aclosed down
+$bInformation Affairs Authority
+*518  $aOctober2010
+$3newsletter
+*522  $aBahrain
+*650  $aopposition
+*650  $aelection
+*651  $a7312
+*691  $apolitical
+*692  $ashut down
+^
+200000509
+*041  $aara
+*245  $aBahrain Centre for Human Rights (BCHR)
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 27 October 2010/ IFEX Communiqué Vol 19, No 42
+*505  $aThe Information Affairs Authority has blocked websites affiliated with legal opposition societies participating in the elections and has shut down the newsletters of the two main opposition
+societies, al-Wefaq National Islamic Society and the National Democratic Action Society (al-Wa'ad). The websites of BCHR and ANHRI continue to be blocked.
+*506  $awebsite blocked
+$bInformation Affairs Authority
+*518  $aOctober2010
+$3website
+*522  $aBahrain
+*650  $aopposition
+*650  $aelection
+*651  $a7312
+*691  $apolitical
+*692  $ablocked
+^
+200000510
+*041  $aara
+*245  $aArabic Network for Human Rights Information (ANHRI)
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 27 October 2010/ IFEX Communiqué Vol 19, No 42
+*505  $aThe Information Affairs Authority has blocked websites affiliated with legal opposition societies participating in the elections and has shut down the newsletters of the two main opposition
+societies, al-Wefaq National Islamic Society and the National Democratic Action Society (al-Wa'ad). The websites of BCHR and ANHRI continue to be blocked.
+*506  $awebsite blocked
+$bInformation Affairs Authority
+*518  $aOctober2010
+$3website
+*522  $aBahrain
+*650  $aopposition
+*650  $aelection
+*651  $a7312
+*691  $apolitical
+*692  $ablocked
+^
+200000511
+*041  $aspa
+*245  $aIn the Line of Fire
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 20 October 2010/ IFEX Communiqué Vol 19, No 41
+*505  $aFive-minute video highlighting self-censorship and the lack of punishment for those who attack the press. Watching "In the Line of Fire", viewers are taken inside the newsroom of Nuevo
+Laredo's newspaper "El Mañana", with bullet marks still on the wall when reporter Jaime Orozco was shot in the back and paralysed. Now, journalists work under the slogan, "No story is worth dying
+for." The documentary, in Spanish with English subtitles (using Google's closed captioning feature), is just one of a series of videos highlighting IAPA's international campaign to end impunity.
+*518  $3video
+*522  $aMexico
+*650  $aEl Mañana
+*650  $aJaime Orozco documentary
+*650  $aInter American Press Association (IAPA)
+*650  $ainternational campaign
+*651  $a6243
+*693  $aself-censorship
+^
+200000512
+*041  $aspa
+*245  $aLaw Against Racism and All Forms of Discrimination
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 13 October 2010/ IFEX Communiqué Vol 19, No 40
+*505  $aBolivia's just-passed law against racism and discrimination has spawned a new outbreak of journalist protests. Bolivia's National Press Association (ANP), an IFEX interim member, argues that
+the law threatens press freedom and imposes censorship because it gives the government the power to shut down media outlets or throw journalists in jail simply for writing about racism. Article 16
+says that "any media outlet that endorses or publishes racist or discriminatory ideas will be liable to economic sanctions and the suspension of its operating licence."
+*506  $3law
+*522  $aBolivia
+*650  $aracism
+*650  $adiscrimination
+*650  $aprotest
+*650  $amedia outlets
+*651  $a6419
+*693  $acensorship
+^
+200000513
+*020  $a0716533383
+*041  $aeng
+*100  $aMartin, Peter
+*245  $aCensorship in the Two Irelands
+*260  $aDublin
+$bIrish Academic Press
+$c2006
+*300  $a256
+*500  $an/a
+*650  $acensorship
+*650  $aIreland
+*650  $aliterature
+*650  $aradio
+*650  $atheatre
+*650  $apolitical censorship
+*693  $apolitical censorship
+^
+200000514
+*020  $a9780253353351
+*041  $aeng
+*100  $aKaur, Raminder
+$eeditor
+*245  $aCensorship in South Asia
+$bCultural Regulation from Sedition to Seduction
+*260  $aBloomington
+$bIndiana University Press
+$c2009
+*300  $a243
+*500  $an/a
+*650  $acensorship
+*650  $aIndia
+*650  $aSouth Asia
+*650  $apolitics
+*650  $areligion
+*650  $amorality
+*650  $ablasphemy
+*693  $apolitical
+*693  $areligious
+*693  $amoral
+^
+200000516
+*020  $a9780791469859
+*041  $aeng
+*100  $aHerrero-Olaizola, Alejandro
+*245  $aThe Censorship Files
+$bLatin American Writers and Franco's Spain
+*260  $aAlbany
+$bState University of New York Press
+$c2007
+*300  $a233
+*500  $an/a
+*650  $acensorship
+*650  $aSpain
+*650  $aLatin American writers
+*650  $a20th century
+*693  $apolitical censorship
+^
+200000517
+*041  $aeng
+*245  $aFreedom of Information Act
+*260  $c2010
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 6 October 2010/ IFEX Communiqué Vol 19, No 39, Center for Media Studies and Peace Building (CEMESP)
+*505  $aLiberian President Ellen Johnson-Sirleaf signed into law the long-awaited freedom of information act this week, the Center for Media Studies and Peace Building (CEMESP) is pleased to report.
+*506  $3law
+*522  $aLiberia
+*650  $aJohnson-Sirleaf, Ellen
+*650  $afreedom of information
+*651  $a5536
+*693  $acensorship
+^
+200000518
+*041  $aeng
+*110  $aPalestinian Centre for Development
+*245  $aThe reality of access to information right in Palestine
+*260  $c2010
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 29 September 2010/ IFEX Communiqué Vol 19, No 38, Palestinian Centre for Development and Media Freedoms (MADA)
+*505  $aIn Palestine, the Palestinian Centre for Development and Media Freedoms (MADA) marked the day by co-releasing a study with the Arabic Network for Freedom of Information called "The reality of
+access to information right in Palestine." The report recommends, among other actions, that the right to information be included in the draft Palestinian constitution and officials of public
+institutions be educated on the importance of right to information.
+*518  $3study
+*522  $aPalestine
+*650  $aRight to Know Day
+*650  $aArab Network
+*650  $aFreedom of Information
+*650  $amedia outlet
+*651  $a7354
+*693  $aaccess to information
+^
+200000519
+*041  $aara
+*245  $aAl-Wefaq Society
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 29 September 2010/ IFEX Communiqué Vol 19, No 38
+*505  $aAuthorities have blocked numerous websites, shut down independent rights groups and threatened rights defenders who have criticised the torture of prominent activists. To prevent independent
+and critical information from being published, the Bahrain Information Affairs Authority has censored the website of Al-Wefaq Society, the largest political society in the country. There has been a
+systematic campaign to create a complete media blackout, says BCHR. Among the blocked websites is BahraniNet.net, known for its rapid media coverage and photos of protests. Most of the blocked
+websites are discussion forums that belong to Shiite villages that continue to deal with unrest and arrests of protesters.
+*506  $awebsite blocked
+$bBahrain Information Affairs Authority
+*518  $aSeptember2010
+*522  $aBahrain
+*650  $ainternet
+*650  $amedia blackout
+*651  $a7312
+*691  $apolitical
+*692  $ablocked
+^
+200000520
+*041  $aara
+*245  $aBahraniNet.net
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 29 September 2010/ IFEX Communiqué Vol 19, No 38
+*505  $aAuthorities have blocked numerous websites, shut down independent rights groups and threatened rights defenders who have criticised the torture of prominent activists. To prevent independent
+and critical information from being published, the Bahrain Information Affairs Authority has censored the website of Al-Wefaq Society, the largest political society in the country. There has been a
+systematic campaign to create a complete media blackout, says BCHR. Among the blocked websites is BahraniNet.net, known for its rapid media coverage and photos of protests. Most of the blocked
+websites are discussion forums that belong to Shiite villages that continue to deal with unrest and arrests of protesters.
+*506  $awebsite blocked
+$bBahrain Information Affairs Authority
+*518  $aSeptember2010
+$3website
+*522  $aBahrain
+*650  $aactivists
+*650  $amedia blockout
+*651  $a7312
+*691  $apolitical
+*692  $ablocked
+^
+200000521
+*041  $aind
+*245  $aDefamation Law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 29 September 2010/ IFEX Communiqué Vol 19, No 38
+*505  $aBudhy Rahman from the Asia Foundation said Indonesia's religious defamation laws "punish the peaceful criticism of ideas and disfavoured political or religious beliefs." Indonesia's blasphemy
+laws were passed in April 2010 and impose jail sentences of up to five years for those who "deviate" from the teachings of the country's official religions. Several IFEX organisations filed an amicus
+curiae brief urging Indonesia's Constitutional Court to repeal the laws, but the laws were ultimately upheld.
+*518  $3law
+*522  $aIndonesia
+*650  $areligion
+*650  $aIndonesia's blasphemy laws
+*651  $a7526
+*693  $afreedom of speech
+^
+^
+200000526
+*041  $afre
+*245  $aTribune d'Afrique
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 1 September 2010/ IFEX Communiqué Vol 19 No. 34, Media Foundation for West Africa (MFWA)
+*505  $aA Togolese court has indefinitely suspended the distribution of a Benin newspaper after crippling it with a defamation charge and heavy fines for publishing an article linking Togolese
+President Faure Essozimna Gnassingbé's brother with drug trafficking, report the Media Foundation for West Africa (MFWA), the Committee to Protect Journalists (CPJ) and Reporters Without Borders
+(RSF). A newspaper photographer covering the court case was violently detained by gendarmes.
+*506  $adistribution banned
+$bGovernment
+*518  $aSeptember2010
+$3newspaper
+*522  $aTogo
+*650  $asuspended
+*650  $adefamation
+*651  $a5561
+*691  $apolitical
+*692  $abanned
+^
+200000528
+*041  $aara
+*245  $aRadio Holy Quran (IQK)
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 25 August 2010/ IFEX Communiqué Vol 19 No. 33,
+*505  $aOn 23 August, Al-Shabaab took over privately owned Radio Holy Quran (IQK) in northern Mogadishu, reports NUSOJ, which fears the station will now be used to spread hate messages. "Al-Shabaab is permanently depriving the Somali people of independent and unbiased information by forcefully taking over privately owned media ventures."
+*506  $aoperaton seized
+$bAl-Shabaab (rebel group)
+*518  $aAugust 2010
+$3Radio station
+*522  $aSomalia
+*650  $aAl-Shabaab
+*650  $aMogadishu
+*651  $a5257
+*691  $apolitical
+*692  $aseized
+^
+200000529
+*041  $aukr
+*245  $aTVi
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 25 August 2010/ IFEX Communiqué Vol 19 No. 33
+*505  $aA Kiev court decided to cancel the allocation of broadcasting frequencies to two privately run TV channels - TVi and 5 Kanal. TVi journalists said a number of topics became "off limits" after
+Yanukovych came to power. In a separate incident, "bloggers were 'invited' for questioning by the security services and asked to sign that they would refrain from saying anything negative about the
+government," said one journalist. Journalists have been assaulted by police and security forces, while courts refuse to defend them.
+*506  $alicense cancelled
+$bcourt
+*518  $aAugust 2010
+$3TV channel
+*522  $aUkraine
+*650  $amedia
+*650  $alicense
+*651  $a8049
+*691  $apolitical
+*692  $acancelled
+^
+200000530
+*041  $aukr
+*245  $a5 Kanal
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 25 August 2010/ IFEX Communiqué Vol 19 No. 33
+*505  $aa Kiev court decided to cancel the allocation of broadcasting frequencies to two privately run TV channels - TVi and 5 Kanal. TVi journalists said a number of topics became "off limits" after
+Yanukovych came to power. In a separate incident, "bloggers were 'invited' for questioning by the security services and asked to sign that they would refrain from saying anything negative about the
+government," said one journalist. Journalists have been assaulted by police and security forces, while courts refuse to defend them.
+*506  $alicense cancelled
+$bcourt
+*518  $aAugust 2010
+$3TV channel
+*522  $aUkraine
+*650  $amedia
+*650  $alicense
+*651  $a8049
+*691  $apolitical
+*692  $acancelled
+^
+200000531
+*041  $aspa
+*245  $aAutocensura y prácticas periodísticas regionales
+*260  $c2010
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 25 August 2010/ IFEX Communiqué Vol 19 No. 33
+*505  $aThe Foundation for Press Freedom (FLIP) has launched a dynamic multimedia report breaking down the causes and consequences of self-censorship in Colombia. Restrictions on access to
+information, government-controlled advertising and sponsorship, and armed conflict have contributed to self-censorship, says the report (in Spanish only.)
+*518  $3report
+*522  $aColombia
+*650  $aFoundation for Press Freedom (FLIP)
+*650  $aself-censorship
+*651  $a6425
+*693  $aself-censorship
+^
+200000532
+*041  $akin
+*245  $aUmuseso
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 18 August 2010/ IFEX Communiqué Vol 19, No 32, Media High Coun
+*505  $aExiled "Umuseso" journalists launched a new weekly, "Newsline", and tried to send it into Rwanda by bus, but police confiscated the paper at the Uganda border. INSI adds that under the
+Genocide Law, anyone who challenges the official version of the 1994 genocide can be imprisoned for 10-25 years.
+*506  $adistribution banned
+$bGovernment
+*518  $aAugust 2010
+$3newspaper
+*522  $aRwanda
+*650  $aGenocide Law
+*651  $a5150
+*691  $apolitical
+*692  $abanned
+^
+200000533
+*041  $akin
+*245  $aNewsline
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 18 August 2010/ IFEX Communiqué Vol 19, No 32
+*505  $aExiled "Umuseso" journalists launched a new weekly, "Newsline", and tried to send it into Rwanda by bus, but police confiscated the paper at the Uganda border. INSI adds that under the
+Genocide Law, anyone who challenges the official version of the 1994 genocide can be imprisoned for 10-25 years.
+*506  $adistribution prevented
+$bGovernment
+*518  $aAugust 2010
+$3newspaper
+*522  $aRawnda
+*650  $aGenocide Law
+*651  $a5150
+*691  $apolitical
+*692  $aconfiscated
+^
+200000534
+*041  $aara
+*245  $aCyber crime law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 18 August 2010/ IFEX Communiqué Vol 19, No 32, Committee to Protect Journalists (CPJ), Arabic Network for Human Rights
+(ANHRI)
+*505  $aJordanian authorities are attacking Internet freedom on all fronts. On 3 August they decreed a provisional cyber crime law, setting up a legislative arsenal to regulate the Internet and punish
+those critical of the state, report the Committee to Protect Journalists (CPJ) and Reporters Without Borders (RSF). The law gives authorities sweeping powers to limit the flow of information and
+control debate prior to presidential elections in November. The government also recently blocked dozens of independent news sites and ordered Internet café owners to install surveillance cameras,
+reports the Arabic Network for Human Rights (ANHRI).
+*518  $3law
+*522  $aJordan
+*650  $aauthorities
+*650  $aprovisional presidential election
+*650  $areligious beliefs
+*650  $amorality
+*651  $a7331
+*693  $acensorship
+^
+200000535
+*041  $arus
+*245  $aOsh TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 18 August 2010/ IFEX Communiqué Vol 19, No 32
+*505  $aUzbek-language broadcaster Osh TV was raided and taken off the air, and its director was temporarily detained. Kyrgyz security service confiscated computers, hard drives, electronic documents
+and digital archives. The raid paralysed the broadcaster, which had just re-started its programming since the violence between the country's Kyrgyz majority and Uzbek minority.
+*506  $aprogramme stopped
+$bGovernment
+*518  $aAugust 2010
+$3TV channel
+*522  $aKyrgysztan
+*650  $aconfiscated computer
+*650  $ahard driver
+*650  $aelectronic document
+*650  $adigital archive
+*651  $a7231
+*691  $apolitical
+*692  $astopped
+^
+200000536
+*041  $aurd
+*245  $aGEO TV
+*260  $c2010
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 11 August 2010/ IFEX Communiqué Vol 19, No 31
+*505  $aA protester hurled shoes at Pakistan's President Asif Ali Zardari in Birmingham, UK, on Saturday, outraged by Zardari's inadequate response to the untold suffering of flood victims in
+Pakistan. The President's party took matters into its own hands and shut down media outlets carrying the story in Pakistan. Operators in Karachi were torched by PPP activists, backed by a contingent
+of police, after operators refused to shut down transmissions of GEO TV and ARY News. After armed PPP activists attacked the Reno Cable Network offices in Karachi and assaulted its staff, the cable
+operator was forced to block its transmissions. PPP activists stole and burned copies of the GEO-associated "Jang" and "The News" newspapers in Karachi and other parts of the country, and threats were
+issued that delivery vans would be incinerated. On 10 August, newspapers continued to be burned, and one delivery van driver was assaulted.
+*506  $aequipment destroyed
+$bpolice (and activists)
+*518  $aAugust 2010
+$3TV channel
+*522  $aPakistan
+*650  $aAsif Ali Zardari
+*650  $aflood victims
+*650  $amedia outlets
+*651  $a7441
+*691  $apolitical
+*692  $adestroyed
+^
+200000541
+*020  $a8779732062
+*041  $adan
+*100  $aChristoffersen, Lisbet
+$eeditor
+*245  $aGudebilleder
+$bYtringsfrihed og reiligion i en globaliseret verden
+*260  $aKøbenhavn
+$bTiderne Skifter Forlag
+$c2006
+*300  $a231 pages
+*500  $an/a
+*650  $areligion
+*650  $afreedom of expression
+*650  $apictures
+*650  $acensorship
+*693  $areligious censorship
+*693  $afreedom of expression
+*693  $acensorship
+^
+^
+200000543
+*041  $aeng
+*245  $aSedition law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 11 August 2010/ IFEX Communiqué Vol 19, No 31
+*505  $aThe sedition law is routinely used against dissident journalists. More than a dozen Ugandan journalists are currently being prosecuted under the law. "The law not only infringes on the rights
+to freedom of expression, conscience and opinion but it bars the public from checking those in power and holding them accountable for their actions," said HRNJ-Uganda, an IFEX interim member.
+*506  $3law
+*522  $aUganda
+*650  $adissident journalists
+*650  $afreedom of expression
+*650  $apress freedom
+*651  $a5263
+*693  $afreedom of expression
+*693  $acensorship
+^
+200000544
+*041  $aeng
+*245  $aFreedom of Information Law
+*260  $c2010
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 28 July 2010/ IFEX Communiqué Vol 19, No 30
+*505  $aThe House of Representatives of Liberia unanimously voted to pass the Liberia Freedom of Information Law on 22 July, thereby making information accessible to all Liberians. The law has been
+forwarded to the Senate and is expected to be signed into law by President Ellen Johnson-Sirleaf by the end of August.
+*518  $3law
+*522  $aLiberia
+*650  $alibrarians
+*650  $aaccess to information
+*651  $a5536
+*693  $aaccess to information
+^
+200000545
+*020  $a9780300140408
+*041  $aeng
+*100  $aNesvik, Martin Austin
+$eauthor
+*245  $aIdeology and Inquisition
+$bThe World of the Censors in Early Mexico
+*260  $aNew Haven
+$bYale University Press
+$c2009
+*300  $a366
+*500  $an/a
+*650  $acensorship
+*650  $areligion
+*650  $aMexico
+*650  $ainquisition
+*693  $areligious censorship
+^
+200000546
+*041  $abel
+*245  $aOrdinance No. 60
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 28 July 2010/ IFEX Communiqué Vol 19, No 30
+*505  $aAuthorities have established new legislation for extensive control over Internet content and access - and censorship at the highest level. Ordinance No. 60, "On measures for improving use of
+the national Internet network," was signed by President Alexander Lukashenka on 1 February and took effect on 1 July. It orders Internet Service Providers (ISPs) to register with the communication and
+information ministry and provide technical details about online information resources, networks and systems. The decree calls for ISPs to identify all the devices (including computers and mobile
+phones) that are being used to connect to the Internet - which allows the government to control online access.
+*518  $3law
+*522  $aBelarus
+*650  $ainternet censorship
+*651  $a8016
+*693  $ainternet censorship
+*693  $aaccess to information
+^
+200000547
+*041  $atur
+*245  $aYouTube
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 28 July 2010/ IFEX Communiqué Vol 19, No 30, IPS Communication Foundation (BIANET)
+*505  $aTurkish Internet law permits authorities to block access to thousands of websites. After blocking access to YouTube in 2008, the Turkish government recently shut down 44 IP addresses that
+offered alternative ways to access the Google-owned video-sharing website, report the IPS Communication Foundation (BIANET) and Reporters Without Borders (RSF). In response, two thousand people took
+to the street in protest against Internet restrictions.
+*506  $aaccess prevented
+$bAuthorities
+*518  $aJuly 2010
+$3website
+*522  $aTurkey
+*650  $ainternet law
+*650  $awebsite
+*651  $a8048
+*691  $apolitical
+*692  $ablocked
+^
+200000548
+*041  $atur
+*245  $aGoogle Maps
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 28 July 2010/ IFEX Communiqué Vol 19, No 30, IPS Communication Foundation (BIANET)
+*505  $aTurkish Internet law permits authorities to block access to thousands of websites. After blocking access to YouTube in 2008, the Turkish government recently shut down 44 IP addresses that offered alternative ways to access the Google-owned video-sharing website, report the IPS Communication Foundation (BIANET) and Reporters Without Borders (RSF). The blocking of the 44 IP addresses, ordered in mid-June, has barred access to other Google services such as Google Maps and Google Analytics. In response, two thousand people took to the street in protest against Internet restrictions.
+*506  $awebsite blocked
+$bGovernment
+*518  $aJuly 2010
+$3website
+*522  $aTurkey
+*650  $aTurkish Internet law
+*650  $awebsite
+*650  $aIP address
+*650  $aprotest
+*651  $a8048
+*691  $apolitical
+*692  $abanned
+^
+200000549
+*041  $atur
+*245  $aGoogle Analytics
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 28 July 2010/ IFEX Communiqué Vol 19, No 30, IPS Communication Foundation (BIANET)
+*505  $aTurkish Internet law permits authorities to block access to thousands of websites. After blocking access to YouTube in 2008, the Turkish government recently shut down 44 IP addresses that offered alternative ways to access the Google-owned video-sharing website, report the IPS Communication Foundation (BIANET) and Reporters Without Borders (RSF). The blocking of the 44 IP addresses, ordered in mid-June, has barred access to other Google services such as Google Maps and Google Analytics.In response, two thousand people took to the street in protest against Internet restrictions.
+*506  $awebsite blocked
+$bGovernment
+*518  $aJuly 2010
+$3website
+*522  $aTurkey
+*650  $aTurkish Internet law
+*650  $awebsite
+*650  $aIP address
+*650  $aprotest
+*651  $a8048
+*691  $apolitical
+*692  $abanned
+^
+200000550
+*041  $aeng
+*100  $aSee, Martyn
+*245  $aEx-political prisoner speaks out in Singapore
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 21 July 2010/ IFEX Communiqué Vol 19, No 29
+*505  $aA film by Singaporean filmmaker Martyn See was banned - effective 14 July - because it was considered "contrary to public interest." The Media Development Authority (MDA), which also made the
+police complaint that led to Shadrake's arrest, ordered See to remove all digital copies of the film uploaded on YouTube and his own blog. The film, "Ex-political prisoner speaks out in Singapore" or
+"Dr. Lim Hock Siew", registered 49,903 views as of 12 July. The video is available here: http://vimeo.com/13265669
+*506  $adistribution banned
+$bGovernment
+*518  $a21 July 2010
+$3video
+*522  $aSingapore
+*650  $aDr. Lim Hock Siew
+*650  $aAlan Shadrake
+*651  $a7546
+*691  $apolitical
+*692  $abanned
+^
+200000551
+*041  $atha
+*245  $aPrachatai
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 21 July 2010/ IFEX Communiqué Vol 19, No 29
+*505  $aThailand's independent online news website, Prachatai, announced on 8 July that it will close down its web board at the end of the month. Prachatai became a critical place for political debate
+after the 2006 coup that ousted then Prime Minister Thaksin Shinawatra. Since April, 2,200 websites have been shut down for violating the Computer Crimes Act, which was also set up to protect the
+royal family. ARTICLE 19 and Index on Censorship report that in January, the Senate had "set up an extraordinary committee to oversee the blocking of further sites, warning that over 10,000 could be
+targeted."
+*506  $ashut down
+$bGovernment
+*518  $aJuly 2010
+$3website
+*522  $aThailand
+*650  $aroyal family
+*650  $ainternet
+*650  $anews
+*650  $ablocking
+*650  $aComputer Crimes Act
+*651  $a7550
+*691  $apolitical
+*692  $ashut down
+^
+200000552
+*041  $atha
+*245  $aComputer Crimes Act
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 21 July 2010/ IFEX Communiqué Vol 19, No 29
+*505  $aThe government has also intensified online restrictions. Thailand's independent online news website, Prachatai, announced on 8 July that it will close down its web board at the end of the
+month. Prachatai became a critical place for political debate after the 2006 coup that ousted then Prime Minister Thaksin Shinawatra. Since April, 2,200 websites have been shut down for violating the
+Computer Crimes Act, which was also set up to protect the royal family. ARTICLE 19 and Index on Censorship report that in January, the Senate had "set up an extraordinary committee to oversee the
+blocking of further sites, warning that over 10,000 could be targeted."
+*522  $aThailand
+*650  $aRoyal family
+*650  $aPrachatai
+*650  $ablocking
+*651  $a7550
+*693  $acensorship
+^
+200000553
+*041  $a-scc
+*245  $aElectronic Communications Law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 21 July 2010/ IFEX Communiqué Vol 19, No 29, International Press Institute (IPI)
+*505  $aSerbian national security and police forces have been given the power to view the contents of citizens' personal email accounts without permission as a result of a new law adopted by parliament on 29 June, reports the International Press Institute (IPI). Serbian parliament accepted the new Electronic Communications Law in order to establish a database on personal electronic communications of citizens. Serbian President Boris Tadic signed the law.
+*522  $aSerbia
+*650  $a electronic communication
+*650  $anational security
+*650  $apolice
+*651  $a8000
+*693  $acensorship
+^
+200000554
+*041  $aara
+*245  $aAl-Hayat al-Jadida
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 21 July 2010/ IFEX Communiqué Vol 19, No 29
+*505  $a"Al-Hayat al-Jadida", "Al-Ayyam", and "Al-Quds" newspapers had been banned since 2008 as part of Israeli sanctions on the Gaza Strip. Israeli authorities recently lifted the ban and allowed
+the three newspapers to enter Gaza on 7 July, but Hamas security forces stopped distributors in Gaza from picking them up.
+*506  $adistribution prevented
+$bIsraeli Government
+*518  $a2008-2010
+$3newspaper
+*522  $aPalestine
+*650  $asanctions
+*650  $aGaza
+*651  $a7354
+*691  $apolitical
+*692  $abanned
+^
+200000555
+*041  $aara
+*245  $aAl-Ayyam
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 21 July 2010/ IFEX Communiqué Vol 19, No 29
+*505  $a"Al-Hayat al-Jadida", "Al-Ayyam", and "Al-Quds" newspapers had been banned since 2008 as part of Israeli sanctions on the Gaza Strip. Israeli authorities recently lifted the ban and allowed
+the three newspapers to enter Gaza on 7 July, but Hamas security forces stopped distributors in Gaza from picking them up.
+*506  $adistribution prevented
+$bGovernment
+*518  $aJuly 2010
+$3newspaper
+*522  $aPalestine
+*650  $aAl-Hayat al-Jadida
+*650  $aAl-Quds
+*650  $aHamas
+*650  $aIsraeli
+*650  $aGaza
+*651  $a7354
+*691  $apolitical
+*692  $astopped
+^
+200000556
+*041  $aara
+*245  $aAl-Quds
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 21 July 2010/ IFEX Communiqué Vol 19, No 29
+*505  $a"Al-Hayat al-Jadida", "Al-Ayyam", and "Al-Quds" newspapers had been banned since 2008 as part of Israeli sanctions on the Gaza Strip. Israeli authorities recently lifted the ban and allowed
+the three newspapers to enter Gaza on 7 July, but Hamas security forces stopped distributors in Gaza from picking them up.
+*506  $adistribution prevented
+$bIsraeli Government
+*518  $a2008-2010
+$3newspaper
+*522  $aPalestine
+*650  $asanctions
+*650  $aGaza
+*651  $a7354
+*691  $apolitical
+*692  $abanned
+^
+200000557
+*041  $aita
+*245  $aGag law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 14 July 2010/ IFEX Communiqué Vol 19, No 28
+*505  $aThe gag law, passed in June by the government of Prime Minister Silvio Berlusconi, will limit a journalist's freedom to investigate and restrict magistrates' criminal probes. Journalists would
+risk jail and publishers could be fined up to 450,000 Euros for reporting the contents of wiretaps before a defendant is sent to trial. As well, it limits the number of days police are allowed to
+intercept communications.
+*518  $3law
+*522  $aItaly
+*650  $amedia law
+*650  $acriminal investigations
+*651  $a8033
+*693  $afreedom of expression
+^
+^
+200000560
+*041  $akin
+*245  $aUmuvugizi
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 30 June 2010/ IFEX Communiqué Vol 19, No 26
+*505  $aIn a climate of political repression weeks before Rwandan presidential elections. Authorities have already tried to close "Umuvugizi", one of only two independent newspapers in Rwanda.
+"Umuvugizi" and "Umuseso" were suspended in April for six months and both papers' chief editors fled the country after receiving threats. After the newspaper moved online this spring, domestic access
+to its website was blocked, said CPJ.
+*506  $ashut down
+$bGovernment
+*518  $aJune 2010
+$3newspaper
+*522  $aRwanda
+*650  $aelection
+*650  $aonline newspaper
+*651  $a5150
+*691  $apolitical
+*692  $abanned
+^
+200000561
+*041  $akin
+*245  $aUmuseso
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 30 June 2010/ IFEX Communiqué Vol 19, No 26
+*505  $aIn a climate of political repression weeks before Rwandan presidential elections. Authorities have already tried to close "Umuvugizi", one of only two independent newspapers in Rwanda.
+"Umuvugizi" and "Umuseso" were suspended in April for six months and both papers' chief editors fled the country after receiving threats. After the newspaper moved online this spring, domestic access
+to its website was blocked, said CPJ.
+*506  $adistribution banned
+$bGovernment
+*518  $aJune 2010
+$3newspaper
+*522  $aRawnda
+*650  $aelection
+*650  $aUmuvugizi
+*650  $aonline newspaper
+*651  $a5150
+*691  $apolitical
+*692  $abanned
+^
+200000562
+*041  $afre
+*245  $aMedia law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 30 June 2010/ IFEX Communiqué Vol 19, No 26, Media Foundation for West Africa (MFWA)
+*505  $aForeign journalists and media outlets must now seek clearance from Niger's communications ministry and pay large, non-refundable fees prior to entering the country to work on films or
+documentaries, reports the Media Foundation for West Africa (MFWA). This new media law, issued on 3 June, also stipulates that journalists must submit final versions of their work to the ministry.
+*518  $3law
+*522  $aNiger
+*650  $afilm
+*650  $amedia law
+*651  $a5547
+*693  $acensorship
+^
+200000563
+*041  $aspa
+*245  $aINFORME SOBRE LIBERTAD DE PRENSA EN EL PROCESO ELECTORAL PRESIDENCIAL 2010
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 30 June 2010/ IFEX Communiqué Vol 19, No 26
+*505  $aThe Foundation for Press Freedom (FLIP) has released a new report detailing the press freedom situation in Colombia during the presidential electoral process in March and June. Highlights how
+the work of journalists was affected while covering political campaigns and rallies, as well as first- and second-round election days (30 March and 20 June). The report is available here:
+http://ifex.org/colombia/2010/06/24/informe-libertad-de-prensa-proceso-electoral-presidencial-2010.pdf
+*522  $aColombia
+*650  $acampaign
+*650  $arallie
+*650  $aelection
+*651  $a6421
+*693  $acensorship
+^
+200000564
+*041  $aara
+*245  $aInsult and Libel
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 23 June 2010/ IFEX Communiqué Vol 19, No 25
+*505  $aAs part of a series of guides, ANHRI also produced two legal booklets: "Insult and Libel" and "False News and Rumours." The second and most recent book includes the definition of news and when news is considered false, as well as what a rumour is, and when news and rumours are considered crimes under the law. It also provides critical answers to questions like: "What should I say in prosecution interrogation?", "Do I have the right not to disclose my source of information?", and "Do the police have the right to search a journalist?"
+*518  $3series
+*522  $aEgypt
+*650  $abooklet
+*650  $aFalse News and Rumours
+*651  $a5325
+*693  $acensorship
+^
+200000565
+*041  $aara
+*245  $aFalse News and Rumours
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 23 June 2010/ IFEX Communiqué Vol 19, No 25
+*505  $aAs part of a series of guides, ANHRI also produced two legal booklets: "Insult and Libel" and "False News and Rumours." The second and most recent book includes the definition of news and when
+news is considered false, as well as what a rumour is, and when news and rumours are considered crimes under the law. It also provides critical answers to questions like: "What should I say in
+prosecution interrogation?", "Do I have the right not to disclose my source of information?", and "Do the police have the right to search a journalist?"
+*518  $3series
+*522  $aEgypt
+*650  $abooklet
+*650  $aInsult and Libel
+*651  $a5325
+*693  $acensorship
+^
+200000566
+*041  $arus
+*245  $aMezon TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 16 June 2010/ IFEX Communiqué Vol 19, No 24, International Media Support (IMS)
+*505  $aLocal media are being trampled by the fallout of the revolution. Osh residents now only have access to state television channel KTR and several Russian television channels, reported the
+independent news agency Zpress. Mezon TV and Osh TV were stopped from broadcasting, says the independent news site "Ferghana". The buildings of Osh TV and JTR TV in Osh and Jalal-Abad were burnt down,
+reports International Media Support (IMS).
+*506  $aprogramme stopped
+$bGovernment
+*518  $aJune 2010
+$3TV channel
+*522  $aKyrgysztan
+*650  $achannel KTR
+*650  $aJTR TV
+*650  $aZpress
+*650  $aOsh TV
+*650  $aJalal-Abad
+*651  $a7231
+*691  $apolitical
+*692  $astopped
+^
+200000567
+*041  $arus
+*245  $aOsh TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 16 June 2010/ IFEX Communiqué Vol 19, No 24, International Media Support (IMS)
+*505  $aLocal media are being trampled by the fallout of the revolution. Osh residents now only have access to state television channel KTR and several Russian television channels, reported the
+independent news agency Zpress. Mezon TV and Osh TV were stopped from broadcasting, says the independent news site "Ferghana". The buildings of Osh TV and JTR TV in Osh and Jalal-Abad were burnt down,
+reports International Media Support (IMS).
+*506  $aprogramme stopped
+$bGovernment
+*518  $aJune 2010
+$3TV channel
+*522  $aKyrgysztan
+*650  $arevolution
+*650  $aZpress
+*650  $aKTR TV
+*650  $aMezon TV
+*650  $aJTR TV
+*651  $a7231
+*691  $apolitical
+*692  $astopped
+^
+^
+^
+200000571
+*041  $atur
+*245  $aMore Difficult Decisions than Death
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 16 June 2010/ IFEX Communiqué Vol 19, No 24
+*505  $aProminent publisher Ragip Zarakolu (Belge) and writer N. Mehmet Güler were each facing a prison sentence of more than seven years for respectively publishing and writing the novel "More Difficult Decisions than Death", report the International Publishers Association (IPA) and International PEN. The novel was banned immediately after it was released. Another book by Güler, "KCK File/Global State and Kurds without State", published by Belge, was also banned. Elsewhere, on 8 June, the European Court of Human Rights (ECHR) unanimously imposed a 3,000 Euro fine on Turkey after it ruled that the seizure of the book "Tarkan: The Star Phenomenon" violated freedom of expression. Originally published in 2001, the book remained banned for close to three years.
+*506  $adistribution banned
+$bGovernment
+*518  $aJune 2010
+$3novel
+*522  $aTurkey
+*650  $aRagip Zarakolu
+*650  $aN. Mehmet Güler
+*650  $aKCK File/Global State and Kurds without State
+*650  $aTarkan: The Star Phenomenon
+*651  $a8048
+*691  $apolitical
+*692  $abanned
+^
+200000572
+*100  $aGüler, N. Mehmet
+$eauthor
+*245  $aKCK File/Global State and Kurds without State
+*260  $bBelge
+$c2010
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 16 June 2010/ IFEX Communiqué Vol 19, No 24
+*505  $aProminent publisher Ragip Zarakolu (Belge) and writer N. Mehmet Güler were each facing a prison sentence of more than seven years for respectively publishing and writing the novel "More Difficult Decisions than Death", report the International Publishers Association (IPA) and International PEN. The novel was banned immediately after it was released. Another book by Güler, "KCK File/Global State and Kurds without State", published by Belge, was also banned. Elsewhere, on 8 June, the European Court of Human Rights (ECHR) unanimously imposed a 3,000 Euro fine on Turkey after it ruled that the seizure of the book "Tarkan: The Star Phenomenon" violated freedom of expression. Originally published in 2001, the book remained banned for close to three years. The book was presented at the Diyarbakir Book Fair, South Eastern Turkey, in May 2010, where it was seized by police, and subsequently banned. Zaraklolu and Güler deny the accusation that the book promotes violence and state that they are both committed to greater understanding about and a peaceful resolution to Kurdish issues. See also http://humanrightshouse.org/Articles/14754.html
+*506  $adistribution banned
+$bGovernment
+*518  $a2010
+$3book
+*522  $aTurkey
+*650  $aRagip Zarakolu
+*650  $anovel
+*651  $a8048
+*691  $apolitical
+*692  $abanned
+*692  $asiezed
+^
+200000573
+*041  $atur
+*100  $aSapan, Özcan
+$eeditor
+*240  $aTarkan – yýldýz olgusu
+*245  $aTarkan: The anatomy of a star
+*260  $c2001
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 16 June 2010/ IFEX Communiqué Vol 19, No 24
+*505  $aElsewhere, on 8 June, the European Court of Human Rights (ECHR) unanimously imposed a 3,000 Euro fine on Turkey after it ruled that the seizure of the book "Tarkan: The Star Phenomenon"
+violated freedom of expression. Originally published in 2001, the book remained banned for close to three years.
+*506  $adistribution banned
+$bGovernment
+*518  $a2001-2004
+$3book
+*522  $aTurkey
+*650  $acourt case
+*650  $asuppressed
+*651  $a8048
+*691  $apolitical
+*692  $abanned
+*692  $asiezed
+^
+200000574
+*041  $aita
+*245  $aGag law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 16 June 2010/ IFEX Communiqué Vol 19, No 24, Index on Censorship and the International Press Institute (IPI)
+*505  $aDespite massive protest from both independent Italian journalists and those close to Prime Minister Silvio Berlusconi, the Italian Senate approved a gag law on phone taps on 10 June. The
+"legge bavaglio" criminalises journalists found guilty of publishing the contents of phone taps, serving them with huge fines and harsh prison terms, report Index on Censorship and the International
+Press Institute (IPI). The law limits journalists' ability to provide vital information to the public.
+*518  $3law
+*522  $aItaly
+*650  $aSilvio Berlusconi
+*650  $alegge bavaglio
+*651  $a8033
+*693  $acensorship
+^
+200000575
+*041  $aeng
+*245  $aUmuvugizi
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 16 June 2010/ IFEX Communiqué Vol 19, No 24
+*505  $aEditor John Bosco Gasasira's newspaper "Umuvugizi" was suspended by the Media High Council in April for six months. This ensures the paper will not appear on newsstands until after
+presidential elections. The website of the same name, established after Gasasira went into exile in Uganda, has been blocked in Rwanda since 3 June. The weekly "Umuseso" was also suspended in April.
+The Media High Council is seeking a court order to ban both publications indefinitely, arguing their articles are abusive toward officials and undermine national security, according to news reports.
+*506  $adistribution prevented
+$bGovernment
+*518  $aApril-September 2010
+$3newspaper
+*522  $aRawnda
+*650  $aMedia High Council
+*650  $aonline newspaper
+*651  $a5150
+*691  $apolitical
+*692  $asuspended
+^
+^
+200000577
+*041  $aeng
+*245  $aUmuvugizi
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 16 June 2010/ IFEX Communiqué Vol 19, No 24
+*505  $aEditor John Bosco Gasasira's newspaper "Umuvugizi" was suspended by the Media High Council in April for six months. This ensures the paper will not appear on newsstands until after
+presidential elections. The website of the same name, established after Gasasira went into exile in Uganda, has been blocked in Rwanda since 3 June. The weekly "Umuseso" was also suspended in April.
+The Media High Council is seeking a court order to ban both publications indefinitely, arguing their articles are abusive toward officials and undermine national security, according to news reports.
+*506  $awebsite blocked
+$bGovernment
+*518  $aJune 2010
+$3website
+*522  $aRawnda
+*650  $aMedia High Council
+*651  $a5150
+*691  $apolitical
+*692  $ablocked
+^
+200000578
+*041  $aeng
+*245  $aUmuseso
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 16 June 2010/ IFEX Communiqué Vol 19, No 24
+*505  $aEditor John Bosco Gasasira's newspaper "Umuvugizi" was suspended by the Media High Council in April for six months. This ensures the paper will not appear on newsstands until after
+presidential elections. The website of the same name, established after Gasasira went into exile in Uganda, has been blocked in Rwanda since 3 June. The weekly "Umuseso" was also suspended in April.
+The Media High Council is seeking a court order to ban both publications indefinitely, arguing their articles are abusive toward officials and undermine national security, according to news reports.
+*506  $adistribution banned
+$bGovernment
+*518  $aJune 2010
+$3newspaper
+*522  $aRawnda
+*650  $aJohn Bosco Gasasira
+*650  $aMedia High Council
+*650  $aUganda
+*650  $aUmuvugizi
+*651  $a5150
+*691  $apolitical
+*692  $asuspended
+^
+200000579
+*041  $aeng
+*245  $aChannel One
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 9 June 2010/ IFEX Communiqué Vol 19, No 23
+*505  $aIn April, the Bangladeshi government banned the country's only private television station, the pro-opposition Channel One. On 1 June Facebook was blocked. RSF reports that it was restored on 5
+June following the social-networking website's agreement to withdraw cartoons of Mohammed as well as cartoons of certain Bangladeshi politicians that were considered offensive. Mahbub Alam Rodin, a
+young man who had allegedly posted the satirical images, was arrested for insulting the country's leaders.
+*506  $aprogramme stopped
+$bGovernment
+*518  $aJune 2010
+$3TV station
+*522  $aBangladesh
+*650  $aMahbub Alam Rodin
+*651  $a7413
+*691  $apolitical
+*692  $abanned
+^
+200000580
+*041  $aeng
+*245  $aFacebook
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 9 June 2010/ IFEX Communiqué Vol 19, No 23
+*505  $aIn April, the Bangladeshi government banned the country's only private television station, the pro-opposition Channel One. On 1 June Facebook was blocked. RSF reports that it was restored on 5
+June following the social-networking website's agreement to withdraw cartoons of Mohammed as well as cartoons of certain Bangladeshi politicians that were considered offensive. Mahbub Alam Rodin, a
+young man who had allegedly posted the satirical images, was arrested for insulting the country's leaders.
+*506  $awebsite blocked
+$bGovernment
+*518  $aJune 1-5, 2010
+$3website
+*522  $aBangladesh
+*650  $aMahbub Alam Rodin
+*651  $a7413
+*691  $apolitical
+*692  $ablocked
+^
+200000581
+*041  $avie
+*245  $aBBC
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 2 June 2010/ IFEX Communiqué Vol 19, No 22
+*505  $aThe Vietnamese government manages information flow in many ways. In the last six months, Vietnamese BBC service and Facebook have been blocked. In addition, Internet cafe owners are required
+to obtain photo identification from Internet users, monitor and store information about their online activities, and block access to banned websites.
+*506  $aprogrammestopped
+$bGovernment
+*518  $aJune 2010
+$3TV broadcast
+*522  $aVietnam
+*650  $aBBC
+*650  $anews
+*651  $a7553
+*691  $apolitical
+*692  $ablocked
+^
+200000582
+*041  $avie
+*245  $aFacebook
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 2 June 2010/ IFEX Communiqué Vol 19, No 22
+*505  $aThe Vietnamese government manages information flow in many ways. In the last six months, Vietnamese BBC service and Facebook have been blocked. In addition, Internet cafe owners are required
+to obtain photo identification from Internet users, monitor and store information about their online activities, and block access to banned websites.
+*506  $awebsite blocked
+$bGovernment
+*518  $aJune 2010
+$3website
+*522  $aVietnam
+*650  $ainternet
+*650  $ainformation
+*651  $a7553
+*691  $apolitical
+*692  $ablocked
+^^
+200000585
+*041  $aurd
+*245  $aFacebook
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 26 May 2010/ IFEX Communiqué Vol 19, No 21
+*505  $aCaricatures of Prophet Mohammed on Facebook sparked outrage and censorship in Pakistan last week. Authorities embarked on a large-scale crackdown of the Internet, blocking up to 1,000 sites,
+including Facebook, YouTube and Flickr, report the Pakistan Press Foundation (PPF), ARTICLE 19 and Reporters Without Borders (RSF).
+*506  $awebsite blocked
+$bGovernment
+*518  $aMay 2010
+$3website
+*522  $aPakistan
+*650  $aProphet Mohammed
+*650  $acaricatures
+*650  $aYouTube
+*650  $aFlickr
+*651  $a7441
+*691  $areligious
+*692  $ablocked
+^
+200000586
+*041  $aurd
+*245  $aYouTube
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 26 May 2010/ IFEX Communiqué Vol 19, No 21
+*505  $aCaricatures of Prophet Mohammed on Facebook sparked outrage and censorship in Pakistan last week. Authorities embarked on a large-scale crackdown of the Internet, blocking up to 1,000 sites,
+including Facebook, YouTube and Flickr, report the Pakistan Press Foundation (PPF), ARTICLE 19 and Reporters Without Borders (RSF).
+*506  $awebsite blocked
+$bGovernment
+*518  $aMay 2010
+$3website
+*522  $aPakistan
+*650  $aProphet Mohammed
+*650  $aFacebook
+*650  $aFlickr
+*650  $acaricatures
+*651  $a7441
+*691  $areligious
+*692  $ablocked
+^
+200000587
+*041  $aurd
+*245  $aFlickr
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 26 May 2010/ IFEX Communiqué Vol 19, No 21
+*505  $aCaricatures of Prophet Mohammed on Facebook sparked outrage and censorship in Pakistan last week. Authorities embarked on a large-scale crackdown of the Internet, blocking up to 1,000 sites,
+including Facebook, YouTube and Flickr, report the Pakistan Press Foundation (PPF), ARTICLE 19 and Reporters Without Borders (RSF).
+*506  $awebsite blocked
+$bGovernment
+*518  $aMay 2010
+$3website
+*522  $aPakistan
+*650  $aProphet Mohammed
+*650  $aFacebook
+*650  $aYouTube
+*650  $acaricatures
+*651  $a7441
+*691  $areligious
+*692  $ablocked
+^
+200000588
+*041  $aeng
+*245  $aReview of Free Expression
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 May 2010/ IFEX Communiqué Vol 19, No 18
+*505  $aCanadian Journalists for Free Expression (CJFE) launched its first annual Review of Free Expression on World Press Freedom Day. Articles in the report cover defamation law, deadly attacks on journalists in the ethnic press, police impersonating journalists, government tactics to deny access to information, and Canadian journalists who have been imprisoned and tortured while reporting in Iran and Somalia, among other issues. You can read the original here: http://www.ifex.org/canada/2010/05/03/review2009.pdf
+*518  $3review
+*522  $aCanada
+*650  $aCanadian Journalists for Free Expression (CJFE)
+*650  $afree expression rights
+*651  $a6322
+*693  $acensorship
+^
+200000589
+*041  $aspa
+*245  $aRadio la Voz
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 May 2010/ IFEX Communiqué Vol 19, No 18, Instituto Prensa y Sociedad (IPYS)
+*505  $aIndex on Censorship carried a report by Peruvian journalist Carlos Flores Borja on 3 May, describing his ongoing fight for justice after his radio station, Radio la Voz, was shut down for
+covering a government massacre in June 2009. Flores Borja reported on the story of 3,000 indigenous Indians protesting the Peruvian government's plans to appropriate their land for minerals, gas and
+oil. According to indigenous groups, 50 protesters were killed and up to 400 disappeared. Radio la Voz was closed, but over 100 broadcast stations began covering the story. Flores Borja is now
+involved in a legal battle to bring Radio la Voz back on air with the help of a lawyer provided by the Instituto Prensa y Sociedad(IPYS).
+*506  $aclosed down
+$bPeruvian government
+*518  $aMay 2010
+$3Radio station
+*522  $aPeru
+*650  $aindigenous groups
+*650  $aland
+*651  $a6448
+*691  $apolitical
+*692  $ashut down
+^
+200000590
+*041  $aurd
+*245  $aRadio Pakistan
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 21 April 2010/ IFEX Communiqué Vol 19, No 16
+*505  $aIn February, insurgents forced state-owned Radio Pakistan to stop retransmitting Pashto-language programmes produced by the US government's Voice of America radio station by threatening to
+blow up Radio Pakistan's installations for broadcasting US "propaganda."
+*506  $aprogramme stopped
+$bGovernment
+*518  $aApril 2010
+$3Radio station
+*522  $aPakistan
+*650  $aVoice of America
+*650  $abroadcasting
+*650  $aUnited States of America
+*651  $a7441
+*691  $apolitical
+*692  $astopped
+^
+^
+200000593
+*041  $atha
+*245  $aPeople's Television(PTV)
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 14 April 2010/ IFEX Communiqué Vol 19, No 15, Reporters Without Borders (RSF)
+*505  $aPrime Minister Abhisit Vejjajiva ordered security forces to block the signal of the People's Television (PTV) satellite news station and 37 websites for reasons of national security. PTV,
+which is aligned with the United Front for Democracy Against Dictatorship (UDD), had been broadcasting support for anti-government protests for weeks, says Reporters Without Borders (RSF). UDD
+protesters pressured ThaiCom to restore PTV broadcasts on 11 April, reports CPJ. News sites shut down include the independent pratchatai.com known for its diversity of information and
+norporchorusa.com which is linked to the red shirts. On 11 April, red shirt demonstrators seized broadcasting vans belonging to TV Thai and Channel 9 and surrounded a Channel 3 broadcasting van,
+chasing its staff away from the protest area.
+*506  $aprogramme stopped
+$bSecurity forces
+*518  $aApril 2010
+$3TV station
+*522  $aThailand
+*650  $ared shirts
+*650  $aprotests
+*651  $a7550
+*691  $apolitical
+*692  $ashut down
+^
+200000594
+*041  $atha
+*245  $apratchatai.com
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 14 April 2010/ IFEX Communiqué Vol 19, No 15, Without Borders (RSF)
+*505  $aPrime Minister Abhisit Vejjajiva ordered security forces to block the signal of the People's Television (PTV) satellite news station and 37 websites for reasons of national security. PTV,
+which is aligned with the United Front for Democracy Against Dictatorship (UDD), had been broadcasting support for anti-government protests for weeks, says Reporters Without Borders (RSF). UDD
+protesters pressured ThaiCom to restore PTV broadcasts on 11 April, reports CPJ. News sites shut down include the independent pratchatai.com known for its diversity of information and
+norporchorusa.com which is linked to the red shirts. On 11 April, red shirt demonstrators seized broadcasting vans belonging to TV Thai and Channel 9 and surrounded a Channel 3 broadcasting van,
+chasing its staff away from the protest area.
+*506  $awebsite blocked
+$bGovernment
+*518  $aApril 2010
+$3website
+*522  $aThailand
+*650  $ared shirts
+*650  $aprotests
+*651  $a7550
+*691  $apolitical
+*692  $ashut down
+^
+200000595
+*041  $atha
+*245  $anorporchorusa.com
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 14 April 2010/ IFEX Communiqué Vol 19, No 15, Without Borders (RSF)
+*505  $aPrime Minister Abhisit Vejjajiva ordered security forces to block the signal of the People's Television (PTV) satellite news station and 37 websites for reasons of national security. PTV,
+which is aligned with the United Front for Democracy Against Dictatorship (UDD), had been broadcasting support for anti-government protests for weeks, says Reporters Without Borders (RSF). UDD
+protesters pressured ThaiCom to restore PTV broadcasts on 11 April, reports CPJ. News sites shut down include the independent pratchatai.com known for its diversity of information and
+norporchorusa.com which is linked to the red shirts. On 11 April, red shirt demonstrators seized broadcasting vans belonging to TV Thai and Channel 9 and surrounded a Channel 3 broadcasting van,
+chasing its staff away from the protest area.
+*506  $awebsite blocked
+$bGovernment
+*518  $aApril 2010
+$3website
+*522  $aThailand
+*650  $ared shirts
+*650  $aprotests
+*651  $a7550
+*691  $apolitical
+*692  $ashut down
+^
+^
+200000600
+*041  $aara
+*245  $aElBaradei and the Dreamof the Green Revolution.
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 14 April 2010/ IFEX Communiqué Vol 19, No 15
+*505  $aThe International Publishers' Association (IPA) reports that an Egyptian publisher, Ahmed Mahana, was arrested on 3 April and released days later for publishing a book that calls for political
+change in the country: "ElBaradei and the Dream of the Green Revolution." Mahana's home was raided and copies of the book were confiscated.
+*506  $adistribution banned
+*518  $aApril 2010
+$3book
+*522  $aEgypt
+*650  $arevolution
+*650  $apolitics
+*651  $a5325
+*691  $apolitical
+*692  $aconfiscated
+^
+200000601
+*041  $aara
+*245  $aBBC
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 14 April 2010/ IFEX Communiqué Vol 19, No 15
+*505  $aMilitants have intensified censorship in Somalia. Al-Shabaab has banned BBC and Voice of America programmes that are re-broadcast through local FM stations in regions under its control, report
+the National Union of Somali Journalists (NUSOJ), the Committee to Protect Journalists (CPJ) and Reporters Without Borders (RSF). The militia sees the programming as "Christian propaganda" that
+violates Islam. And another insurgent group has imposed an edict on radio stations in the capital, Mogadishu, to not air music or songs.
+*506  $aprogramme stopped
+$bAl-Shababb
+*518  $aApril 2010
+$3radio broadcast
+*522  $aSomalia
+*650  $aAl-Shabaab
+*650  $areligion
+*650  $aradio
+*651  $a5257
+*691  $areligion
+*691  $apolitical
+*692  $abanned
+^
+200000602
+*041  $aara
+*245  $aVoice of America
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 14 April 2010/ IFEX Communiqué Vol 19, No 15
+*505  $aMilitants have intensified censorship in Somalia. Al-Shabaab has banned BBC and Voice of America programmes that are re-broadcast through local FM stations in regions under its control, report
+the National Union of Somali Journalists (NUSOJ), the Committee to Protect Journalists (CPJ) and Reporters Without Borders (RSF). The militia sees the programming as "Christian propaganda" that
+violates Islam. And another insurgent group has imposed an edict on radio stations in the capital, Mogadishu, to not air music or songs.
+*506  $aprogramme stopped
+$bAl-Shabaab
+*518  $aApril 2010
+$3radio broadcast
+*522  $aSomalia
+*650  $aradio
+*650  $areligion
+*650  $aAl-Shabaab
+*651  $a5257
+*691  $areligious
+*691  $apolitical
+*692  $abanned
+^
+200000603
+*041  $arus
+*245  $aRadio Azattyk
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 7 April 2010/ IFEX Communiqué Vol 19, No 14
+*505  $aOn 10 March, several radio and television stations across the country dropped programming from the Kyrgyz service of the US government-funded Radio Free Europe/Radio Liberty (RFE/RL), also
+known as Radio Azattyk. Authorities had threatened to revoke their licenses if they did not comply. Radio Azattyk recently reported on money-laundering charges filed in Italy against a businessman
+with investments in Kyrgyzstan and connections to President Kurmanbek Bakiyev's family. The report prompted calls for Bakiyev's resignation. Radio Azattyk's website is also inaccessible. On 1 April,
+police raided the offices of a Web-based independent television channel, Stan TV, and seized its computers, while authorities sealed the outlet's premises, reports CPJ.
+*506  $alicense cancelled
+$bGovernment
+*518  $aMarch 10, 2010
+$3Radio broadcast
+*522  $aKyrgysztan
+*650  $aRadio Free Europe( RFE)
+*650  $aRadio Liberty (RL)
+*650  $aKurmanbek Bakiyev
+*650  $aStan TV
+*651  $a7231
+*691  $apolitical
+*692  $acancelled
+^
+200000604
+*041  $arus
+*245  $aStan TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 7 April 2010/ IFEX Communiqué Vol 19, No 14
+*505  $aOn 1 April, police raided the offices of a Web-based independent television channel, Stan TV, and seized its computers, while authorities sealed the outlet's premises, reports CPJ.
+*506  $aequipement destroyed
+$bPolice
+*518  $aMarch 10, 2010
+$3TV station
+*522  $aKyrgysztan
+*650  $ainternet
+*650  $atelevision
+*650  $apolitics
+*651  $a7231
+*691  $apolitical
+*692  $aseized
+^
+^
+200000612
+*041  $aara
+*245  $aAl-Quds TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 17 March 2010/ IFEX Communiqué Vol 19, No 11
+*505  $aJust hours after Mustafa Sabri, former bureau chief of the newspaper "Filastine", was released from prison on bail, he was prevented from giving an interview at his home with Al-Quds TV
+station about the role of the Palestinian Journalists' Syndicate.
+*506  $aaccess prevented
+$bGovernment
+*518  $aMarch 2010
+$3TV station
+*522  $aPalestine
+*650  $aMustafa Sabri
+*650  $ainterview
+*650  $aFilastine
+*650  $aPalestinian Journalists' Syndicate
+*651  $a7354
+*691  $apolitical
+*692  $aprohibited
+^
+200000613
+*041  $atur
+*245  $aMed TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 17 March 2010/ IFEX Communiqué Vol 19, No 11, Communication Foundation (BIANET)
+*505  $aTurkish authorities' censorship also extends to Kurdish media throughout Europe. In Belgium, police raided 25 locations with alleged connections to the PKK. The Turkish Foreign Ministry has
+attempted to block television broadcasts via satellite, also targeting those who appear on the stations. "As a result of Turkish influence, the broadcasting of Med TV and Medya TV was recently blocked
+in England and France," reports BIANET.
+*506  $aprogramme stopped
+$bTurkish authorities
+*518  $aMarch 2010
+$3TV broadcast
+*522  $aTurkey
+*522  $aEngland
+*522  $aFrance
+*650  $aMedya TV
+*650  $aPKK
+*650  $aKurdish media
+*650  $aTurkish Foreign Ministry
+*651  $a8048
+*691  $apolitical
+*692  $ablocked
+^
+200000614
+*041  $atur
+*245  $aMedya TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 17 March 2010/ IFEX Communiqué Vol 19, No 11, Communication Foundation (BIANET)
+*505  $aTurkish authorities' censorship also extends to Kurdish media throughout Europe. In Belgium, police raided 25 locations with alleged connections to the PKK. The Turkish Foreign Ministry has
+attempted to block television broadcasts via satellite, also targeting those who appear on the stations. "As a result of Turkish influence, the broadcasting of Med TV and Medya TV was recently blocked in England and France," reports BIANET.
+*506  $aprogramme stopped
+$bTurkish authorities
+*518  $aMarch 2010
+$3TV broadcast
+*522  $aTurkey
+*522  $aEngland
+*522  $aFrance
+*650  $aMed TV
+*650  $aKurdish Media
+*650  $aPKK
+*650  $aTurkish Foreign Ministry
+*651  $a8048
+*691  $apolitical
+*692  $ablocked
+^
+200000615
+*041  $aeng
+*110  $aUgandan Parliament
+*245  $aThe Whistleblowers Bill
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 10 March 2010/ IFEX Communiqué Vol 19, No 10
+*505  $aThe Ugandan parliament has passed a bill that protects individuals who disclose information on corruption or law-breaking in government or private bodies, reports ARTICLE 19. But Ugandan journalists are fighting for the right to do their jobs as press freedom violations escalated in the country in 2009 with countless radio stations shut down, say local rights groups.
+*518  $3law
+*522  $aUganda
+*650  $acorruption
+*650  $alaw-breaking
+*650  $aUgandan parliament
+*651  $a5263
+*693  $acensorship
+^
+200000616
+*041  $akhm
+*110  $aReporters Without Borders (RSF)
+*245  $aPrime Minister, you promised that no more journalists would go to prison
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 10 March 2010/ IFEX Communiqué Vol 19, No 10
+*505  $aThe report, "Prime Minister, you promised that no more journalists would go to prison", is based on the findings of an RSF delegate who went to Cambodia last December to evaluate the press
+freedom situation and try to influence authorities to decriminalise press offences. RSF spoke to the information minister, diplomats, newspaper publishers, journalists, opposition politicians and
+representatives of human rights organisations.
+*518  $3report
+*522  $aCambodia
+*650  $aReporters Without Borders (RSF)
+*650  $apress freedom
+*651  $a7520
+*693  $acensorship
+^
+200000617
+*041  $afre
+*245  $aFrance 24
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 3 March 2010/ IFEX Communiqué Vol 19, No 9
+*505  $aFrench TV news station France 24 was suspended after its coverage of the incident and opposition newspapers have been threatened. Early last month, the private daily "Le Patriote" was shut down for three days because of articles critical of the government. The newspaper's editor has recently received threatening phone calls and, in 2004, its premises were set on fire during political turmoil.
+*506  $aservice interrupted
+$bGovernment
+*518  $aMarch 2010
+$3Television station
+*522  $aCôte d'Ivoire
+*650  $aIvory Coast
+*650  $aopposition
+*651  $a5533
+*691  $apolitical
+*692  $asuspended
+^
+200000618
+*041  $afre
+*245  $aLe Patriote
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 3 March 2010/ IFEX Communiqué Vol 19, No 9
+*505  $aFrench TV news station France 24 was suspended after its coverage of the incident and opposition newspapers have been threatened. Early last month, the private daily "Le Patriote" was shut
+down for three days because of articles critical of the government. The newspaper's editor has recently received threatening phone calls and, in 2004, its premises were set on fire during political
+turmoil.
+*506  $adistribution banned
+$bGovernment
+*518  $aMarch 2010
+$3newspaper
+*522  $aCôte d'Ivoire
+*650  $aopposition
+*651  $a5533
+*691  $apolitical
+*692  $ashut down
+^
+200000619
+*041  $afre
+*245  $aRadio France Internationale (RFI)
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 3 March 2010/ IFEX Communiqué Vol 19, No 9
+*505  $aJournaliste en Danger (JED) launched a campaign on 23 February 2010 to restore the FM signal of French public radio station Radio France Internationale (RFI) in the Democratic Republic of Congo: "Release the info, reopen RFI." JED is asking you to sign a petition, which will be sent to President Joseph Kabila. In July 2009, the DRC government shut down RFI's FM signal throughout the .
+country.
+*506  $aprogramme stopped
+$bGovernment
+*518  $aJuly 2009
+$3Radio broadcaster
+*522  $aDemocratic Republic of Congo
+*650  $aDemocratic Republic of Congo
+*650  $aJournaliste en Danger (JED)
+*651  $a5123
+*691  $apolitical
+*692  $ashut down
+^
+200000620
+*020  $a9788497041713
+*041  $aspa
+$hspa
+*100  $aRuiz Bautista, Eduardo
+*245  $aLos señores del libro
+$bPropagandistas, censores y bibliotecarios en el primer franquismo
+*260  $aGijón
+$bEdiciones Trea, S.L.
+$c2005
+*500  $an/a
+*650  $acensorship
+*650  $abooks
+*650  $alibrarians
+*650  $apropagandists
+*650  $aSpain
+*693  $apolitical censorship
+^
+200000621
+*041  $aara
+*245  $aYouTube
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 24 February 2010/ IFEX Communiqué Vol 19, No 8
+*505  $aYouTube is no longer available after the posting of videos showing demonstrations by the relatives of prisoners killed in Abu Salim prison in 1996 and videos of family members of Mu'ammar
+al-Gaddafi, Libya's leader, at parties.
+*506  $awebsite blocked
+$bGovernment
+*518  $aFebruary2010
+$3website
+*522  $alibya
+*650  $avideos
+*650  $aprisoners
+*651  $a5337
+*691  $apolitical
+*692  $ablocked
+^
+200000622
+*041  $aspa
+*245  $aPrinting Press Law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 24 February 2010/ IFEX Communiqué Vol 19, No 8
+*505  $aProvisions were removed from the 1902 Printing Press Law last December but only made public February 2010. The ruling was made during a defamation case against José Luis Jiménez Robleto, a reporter with the "San José-daily Diario Extra". Jiménez Robleto was accused by a former official after publishing a story on alleged embezzlement. The journalist had been sentenced to 50 days in prison in 2004 based on the archaic press law; his conviction was later overturned.
+*518  $3law
+*522  $aCosta Rica
+*650  $adefamation
+*650  $aRobleto, JoséLuis Jiménez
+*650  $ajournalist
+*651  $a6226
+*693  $acensorship|freedom of speech
+^
+^
+200000624
+*041  $aspa
+*245  $aRCTV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 28 January 2010/ IFEX Communiqué Vol 19, No 4, Committee to Protect Journalists (CPJ)
+*505  $aThe National Telecommunications Commission (CONATEL) recently targeted 24 TV stations, demanding they broadcast official messages from the President, called cadenas, report Instituto Prensa y Sociedad (IPYS), the Inter American Press Association (IAPA) and other IFEX members. The cadenas violate the right of independent media to decide on its own content, says Reporters Without Borders (RSF). Chávez's speeches can last for hours. Six stations refused to air the speeches, including RCTV Internacional, the most popular station in Venezuela, report the Committee to Protect Journalists (CPJ) and other IFEX members. The director of CONATEL then told cable television operators that if they did not stop broadcasting RCTV they would face sanctions, says IPYS. RCTV is known for its critical coverage of the President and his government. RCTV has functioned as a paid subscription channel since July 2007, after the Venezuelan government removed it from public airwaves, report IFEX
+members.
+*506  $aservice interrupted
+$bGovernment
+*518  $aJanuary2010
+$3TV station
+*522  $aVenezuela
+*650  $aCONATEL
+*650  $apresident
+*651  $a6460
+*691  $apolitical
+*692  $asuspended
+^
+200000625
+*041  $aara
+*245  $aTunisia: Internet Censorship, A Rearguard Battle
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 20 January 2010/ IFEX Communiqué Vol 19, No 4
+*505  $aThe report, "Tunisia: Internet Censorship, A Rearguard Battle" describes in great detail the multilayered, systematic approach Tunisian authorities have taken to control Internet traffic. It also describes the recent history of online dissent with the formation of new online magazines like "Kalima" and "TUNeZINE" and the violent response of the state. Sites were quickly blocked and online journalists have been persecuted and imprisoned. The full report can be read here: http://www.olpec-marsed.org/fr/Content-pa-list_pages_categories-cid-1.html
+*518  $3report
+*522  $aTunisia
+*650  $aInternet
+*650  $aKalima
+*650  $aTUNeZINE
+*651  $a5362
+*693  $acensorship
+^
+200000626
+*041  $aara
+*245  $aAl Ayyam
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 13 January 2010/ IFEX Communiqué Vol 19, No 2
+*505  $aOn 4 January security forces surrounded the office of "Al Ayyam" where journalists were demonstrating against the banning of the newspaper since May and other press freedom violations, report RSF, the Committee to Protect Journalists (CPJ) and the Yemeni Journalists Syndicat (YJS), an International Federation of Journalists (IFJ) affiliate.
+*506  $aoperaton seized
+$bGovernment
+*518  $aMay 2009
+$3newspaper
+*522  $aYemen
+*650  $amilitary
+*650  $ajournalists
+*651  $a7355
+*691  $apolitical
+*692  $aclosed
+^
+200000627
+*041  $aeng
+$heng
+*100  $aRipoll, Carlos
+*110  $aCuban-American National Foundation, Inc.
+*245  $aThe Cuban Scene
+$bCensors & Dissentors
+*260  $aMiami (?)
+$c1982
+*500  $an/a
+*520  $aThis is a reprint from Partisan Review, Vol XLVII No.4, Boston University, 02215. The reprint was reissued and distributed by the Cuban-American National Foundation, Inc.
+*650  $aCuba
+*650  $acensorship
+*650  $apolitics
+*650  $afreedom of expression
+*693  $apolitical censorship
+^
+200000628
+*020  $a9788202346874
+*041  $anor
+$hnor
+*100  $aAustenå, Ann-Magrit
+*245  $aArven etter Sataniske vers
+$bDen politiske kampen om ytringsfrihet og religion
+*260  $aOslo
+$bCappelen Damm AS
+$c2011
+*300  $a376 p.
+*500  $an/a
+*650  $afreedom of expression
+*650  $areligion
+*650  $aSalman Rushdie
+*650  $aSatanic Verses
+*693  $areligious censorship
+^
+200000629
+*041  $aspa
+$hspa
+*100  $aSegovia, Eduardo
+*245  $aLa historia secreta de Cauce
+$bGloria, pasión y muerte de una revista de oposición
+*260  $aSantiago
+$bPehuén
+$c1990
+*300  $a204 p.
+*500  $aFundación de Documentación y Archivos de la Vicaría de la Solidaridad Solicitar a/por: 15.3.3/S454
+*505  $a0047 Historia de la revista Cauce, que entre los años 1983 y 1986 investigó y denunció los excesos del régimen militar lo que le significó varias querellas y persecuciones del gobierno de
+Pinochet. <LIBERTAD DE EXPRESION> <PROCESADOS POR OFENSAS A LAS FFAA>
+*520  $aHistoria de la revista Cauce, que entre los años 1983 y 1986 investigó y denunció los excesos del régimen militar lo que le significó varias querellas y persecuciones del gobierno de Pinochet.
+<LIBERTAD DE EXPRESION> <PROCESADOS POR OFENSAS A LAS FFAA>
+*650  $afreedom of expression
+*650  $aChile
+*650  $aopposition
+*693  $afreedom of expression
+^
+200000630
+*020  $a9780932088079
+*041  $aeng
+$heng
+*100  $aRipoll, Carlos
+$eauthor
+*245  $aThe Heresy of Words in Cuba
+$bFreedom of Expression and Information
+*260  $aNew York
+$bFreedom House
+$c1985
+*300  $a55 p.
+*500  $an/a
+*650  $aCuba
+*650  $afreedom of expression
+*650  $acensorship
+*693  $acensorship
+^
+

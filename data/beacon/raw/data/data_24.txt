@@ -1,0 +1,3762 @@
+
+^
+200000650
+*041  $afre
+*245  $aLe Nouveau Réveil
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 2 March 2011 / IFEX Communiqué Vol 20, No 09, Committee to Protect Journalists (CPJ)
+*505  $aPresident Laurent Gbagbo and his rival Alassane Ouattara target partisan media outlets and journalists. The development followed Friday's decision by the Gbagbo-controlled National Press
+Council, the official print media regulator, to suspend the pro-Ouattara daily "Le Nouveau Réveil", for a week over its 22 February issue, which alleged that Gbagbo loyalists had used rocket-propelled
+grenades against Ouattara supporters during a demonstration the day before.
+*506  $a-
+$bNational Press Council
+*518  $aFebruary2011
+$3Newspaper
+*522  $aCote d'Ivoire
+*650  $aLe Nouveau Réveil
+*650  $ademonstration
+*651  $a5533
+*691  $aPolitical
+*692  $aSuspended
+*700  $aGbagbo,Laurent
+$ePresident
+*700  $aOuattara,Alassane
+$ePolitician
+^
+200000651
+*041  $aara
+*245  $aAl-Jazeera
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 16 March 2011 / IFEX Communiqué Vol 20, No 11, Committee to Protect Journalists (CPJ), Reporters Without Borders (RSF)
+*505  $aAfter inviting foreign journalists into Libya, pro-Muammar Qaddafi forces have made every effort to impose a news blackout. Al-Jazeera's popularity in the region and its relentless and heroic
+coverage of events in Libya have made it a target of the regime. Both Al-Jazeera and Al-Hurra broadcasts have been jammed.
+*506  $a-
+$bAuthority
+*518  $aMarch 2011
+$3Television
+*522  $aLibya
+*650  $aAl-Jazeera
+*650  $aAl-Hurra
+*651  $a5337
+*691  $aPolitical
+*692  $aBlocked
+*700  $aQaddafi,Muammar
+$eLeader
+^
+200000652
+*041  $aara
+*245  $aAl-Hurra
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 16 March 2011 / IFEX Communiqué Vol 20, No 11, Committee to Protect Journalists (CPJ), Reporters Without Borders (RSF)
+*505  $aAfter inviting foreign journalists into Libya, pro-Muammar Qaddafi forces have made every effort to impose a news blackout. Al-Jazeera's popularity in the region and its relentless and heroic
+coverage of events in Libya have made it a target of the regime. Both Al-Jazeera and Al-Hurra broadcasts have been jammed.
+*506  $a-
+$bArmed forces
+*518  $aMarch 2011
+$3Television
+*522  $aLibya
+*650  $aAl-Jazeera
+*650  $aAl-Hurra
+*651  $a5337
+*691  $aPolitical
+*692  $aBlocked
+*700  $aQaddafi,Muammar
+$eLeader
+^
+200000653
+*041  $atha
+*245  $aComputer Crime Act
+*250  $aKingdom of Thailand
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 23 March 2011 / IFEX Communiqué Vol 20, No 12, Southeast Asian Press Alliance (SEAPA)
+*505  $aThailand's criminal court has sentenced three web designer for violating the country's stiff computer crime laws, the Southeast Asian Press Alliance (SEAPA). Chiranuch Premchaiporn stands
+accused of 10 different violations of the country's draconian 2007 Computer Crime Act, each of which carries a maximum penalty of five years in prison.The case centres on comments posted by anonymous
+users of a Prachatai web forum that authorities have charged were defamatory of the Thai monarchy. According to CPJ, in a December report, Thailand's iLaw Project said the government ordered 38,868
+websites and web pages blocked in 2010 for publishing anti-royal content. Overall, the government took down 44,000 web addresses, including Prachatai, the group said.
+*518  $3law
+*522  $aThailand
+*650  $aPremchaiporn,Chiranuch
+*650  $aPrachatai
+*650  $adefamation
+*651  $a7550
+*693  $acensorship
+^
+200000654
+*041  $atha
+*245  $aPrachatai
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 23 March 2011 / IFEX Communiqué Vol 20, No 12, Southeast Asian Press Alliance (SEAPA)
+*505  $aThailand's criminal court has sentenced three web designer for violating the country's stiff computer crime laws, the Southeast Asian Press Alliance (SEAPA). Chiranuch Premchaiporn stands
+accused of 10 different violations of the country's draconian 2007 Computer Crime Act, each of which carries a maximum penalty of five years in prison.The case centres on comments posted by anonymous
+users of a Prachatai web forum that authorities have charged were defamatory of the Thai monarchy. According to CPJ, in a December report, Thailand's iLaw Project said the government ordered 38,868
+websites and web pages blocked in 2010 for publishing anti-royal content. Overall, the government took down 44,000 web addresses, including Prachatai, the group said.
+*506  $a-
+$bAuthorites
+*518  $aMarch 2011
+$3Websites
+*522  $aThailand
+*650  $aComputer Crime Act
+*650  $a2007
+*651  $a7550
+*691  $apolitical
+*692  $aBlocked
+*700  $aPremchaiporn,Chiranuch
+$eweb designer
+^
+200000655
+*041  $aara
+*245  $aOrient TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 2 March 2011 / IFEX Communiqué Vol 20, No 30, Human Rights Watch
+*505  $aSyrian President Bashar al-Assad has released 260 political prisoners and promised security forces would stop shooting demonstrators. According to CPJ and IPI, the Syrian authorities have also
+resorted to censorship. Orient TV, a private, Dubai-based satellite channel that extensively covered protests in Daraa, has been jammed since 25 March.
+*506  $a-
+$bAuthorites
+*518  $a25 March 2011
+$3Television
+*522  $aSyria
+*650  $aBashar al-Assad
+*650  $aprotest
+*650  $aOrient TV
+*650  $aDubai
+*651  $a7348
+*691  $aPolitical
+*692  $aBlocked
+^
+200000656
+*041  $afre
+*245  $aX-Solaire
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 30 March 2011 / IFEX Communiqué Vol 20, No 13
+*505  $aThe radio stations X-Solaire, Metropolys and Providence, which were closed down on 29 December 2010 by the Posts and Telecommunications' Regulatory Authority (ART&P). ART&P allege they were
+operating illegally because they did not have the required registration documents and standard broadcasting equipment.
+*506  $a-
+$bPosts and Telecommunications' Regulatory Authority
+*518  $a29 December 2010
+$3Radio
+*522  $aTogo
+*650  $aMetropolys
+*650  $aProvidence
+*651  $a5561
+*691  $aPolitical
+*692  $aClosed
+*700  $aGnassingbé,Faure
+$ePresident of Togo
+^
+200000657
+*041  $afre
+*245  $aMetropolys
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 30 March 2011 / IFEX Communiqué Vol 20, No 13
+*505  $aThe radio stations X-Solaire, Metropolys and Providence, which were closed down on 29 December 2010 by the Posts and Telecommunications' Regulatory Authority (ART&P). ART&P allege they were
+operating illegally because they did not have the required registration documents and standard broadcasting equipment.
+*506  $a-
+$bPosts and Telecommunications' Regulatory Authority
+*518  $a29 December 2010
+$3Radio
+*522  $aTogo
+*650  $aMetropolys
+*650  $aProvidence
+*651  $a5561
+*691  $aPolitical
+*692  $aClosed
+*700  $aGnassingbé,Faure
+$ePresident of Togo
+^
+200000658
+*041  $afre
+*245  $aProvidence
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 30 March 2011 / IFEX Communiqué Vol 20, No 13
+*505  $aThe radio stations X-Solaire, Metropolys and Providence, which were closed down on 29 December 2010 by the Posts and Telecommunications' Regulatory Authority (ART&P). ART&P allege they were
+operating illegally because they did not have the required registration documents and standard broadcasting equipment.
+*506  $a-
+$bPosts and Telecommunications' Regulatory Authority
+*518  $a29 December 2010
+$3Radio
+*522  $aTogo
+*650  $aMetropolys
+*650  $aProvidence
+*651  $a5561
+*691  $aPolitical
+*692  $aClosed
+*700  $aGnassingbé,Faure
+$ePresident of Togo
+^
+200000659
+*041  $afre
+*245  $aRadio-TélévisionIvoirienne
+$bRTI
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 6 April 2011 / IFEX Communiqué Vol 20, No 14
+*505  $aForces loyal to Ouattara, who is internationally recognised to have won the November 2010 presidential election, announced that they took control of the Abidjan headquarters of state-owned
+Radio-Télévision Ivoirienne (RTI) on 31 March and cut its signal.
+*506  $a-
+$bArmed forces
+*518  $a31 March 2011
+$3RadioTelevision
+*522  $aCote d'Ivoire
+*650  $apropaganda
+*651  $a5533
+*691  $aPolitical
+*692  $aStopped
+*700  $aGbagbo,Laurent
+$ePresident
+*700  $aOuattara,Alassane
+$ePolitician
+^
+200000660
+*041  $afre
+*245  $aL'Intelligent d'Abidjan
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 6 April 2011 / IFEX Communiqué Vol 20, No 14
+*505  $aOn 15 March, security forces loyal to Gbagbo surrounded the offices of the pro-Ouattara daily "L'Intelligent d'Abidjan", preventing the publication of the 16 March edition, says MFWA.
+*506  $a-
+$bSecurity forces
+*518  $a15 March 2011
+$3Newspaper
+*522  $aCote d'Ivoire
+*650  $apropaganda
+*651  $a5533
+*691  $apolitical
+*692  $ablocked
+*700  $aGbagbo,Laurent
+$ePresident
+*700  $aOuattara,Alassane
+$ePolitician
+^
+200000661
+*041  $afre
+*245  $aLe Jour Plus
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 6 April 2011 / IFEX Communiqué Vol 20, No 14
+*505  $aMFWA reports that on 18 March the pro-Ouattara daily "Le Jour Plus" was banned from publishing for 26 days for "insulting" and "humiliating" the "head of state" (Gbagbo) by publishing
+statements from top officials of Ouattara's government.
+*506  $a-
+$bAuthorites
+*518  $a18 March 2011
+$3Newspaper
+*522  $aCote d'Ivoire
+*650  $apropaganda
+*651  $a5533
+*691  $aPolitical
+*692  $aBanned
+*700  $aGbagbo,Laurent
+$ePresident
+*700  $aOuattara,Alassane
+$ePolitician
+^
+200000662
+*041  $aara
+*245  $aAkhbar Al-Yom
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 6 April 2011 / IFEX Communiqué Vol 20, No 14
+*505  $aThe authorities have obstructed newspaper distribution that contained coverage of the protests, say the members. Copies of the 17 and 18 March issues of "Akhbar Al-Yom" were seized at the
+airport in Sana'a to prevent them being sent around the country. On 15 March, the authorities prevented distribution of the latest issue of the Aden-based newspaper "Al-Oumana" in the capital.
+*506  $a-
+$bAuthorites
+*518  $a17-18 March 2011
+$3Newspaper
+*522  $aYemen
+*650  $aAl-Oumana
+*650  $apolitical unrest
+*651  $a7355
+*691  $aPolitical
+*692  $aSeized
+^
+200000663
+*041  $aara
+*245  $aAl-Oumana
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 6 April 2011 / IFEX Communiqué Vol 20, No 14
+*505  $aThe authorities have obstructed newspaper distribution that contained coverage of the protests, say the members. Copies of the 17 and 18 March issues of "Akhbar Al-Yom" were seized at the
+airport in Sana'a to prevent them being sent around the country. On 15 March, the authorities prevented distribution of the latest issue of the Aden-based newspaper "Al-Oumana" in the capital.
+*506  $a-
+$bAuthorites
+*518  $a15 March 2011
+$3Newspaper
+*522  $aYemen
+*650  $aAkhbar Al-Yom
+*650  $apolitical unrest
+*651  $a7355
+*691  $aPolitical
+*692  $aDistribution prevented
+^
+200000664
+*041  $aeng
+*245  $aLeaping Over the Firewall
+$bA Review of Censorship Circumvention Tools
+*250  $aFreedom House
+*260  $aWashington, D.C.
+$c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 13 April 2011 / IFEX Communiqué Vol 20, No 15
+*505  $a"Leaping Over the Firewall: A Review of Censorship Circumvention Tools" compares 11 circumvention tools, as well as other solutions to bypass censorship, and how effective they are in some of
+the most censored regions in the world: China, Iran, Burma and Azerbaijan. The full report can be reached here: http://freedomhouse.org/uploads/special_report/97.pdf
+*518  $3Report
+*522  $aUniversal
+*650  $ablocking
+*650  $ainternet freedom
+*650  $acircumvention
+*650  $asecurity
+*651  $a0000
+*693  $aCensorship
+^
+200000665
+*041  $atha
+*245  $aKon Thai Huajai Diew Kan
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 4 May 2011 / IFEX Communiqué Vol 20, No 18
+*505  $aAuthorities in Thailand shut down 13 radio stations in and around Bangkok for allegedly airing a speech that was considered defamatory to the royal family. On 26 April, security officials led
+by the military's Internal Security Operations Command raided the stations, seized their equipment and arrested at least three station personnel, including Lek Suphan, a host at 105.75 MHz Ruam Jai
+Thai. According to SEAPA, about 300 Red Shirt protesters tried to prevent police from taking away equipment from one Bangkok station, FM 89.85 Kon Thai Huajai Diew Kan.
+*506  $a-
+$bAuthorites
+*518  $a4 May 2011
+$3Radio
+*522  $aThailand
+*650  $aUnited Front for Democracy Against Dictiatorship (UDD)
+*650  $aRed Shirts
+*650  $aRuam Jai Thai
+*651  $a7550
+*691  $apolitical
+*692  $aSeized
+*700  $aPrompan,Jatuporn
+$ePolitician
+^
+200000666
+*041  $atha
+*245  $aRuam Jai Thai
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 4 May 2011 / IFEX Communiqué Vol 20, No 18
+*505  $aAuthorities in Thailand shut down 13 radio stations in and around Bangkok for allegedly airing a speech that was considered defamatory to the royal family. On 26 April, security officials led
+by the military's Internal Security Operations Command raided the stations, seized their equipment and arrested at least three station personnel, including Lek Suphan, a host at 105.75 MHz Ruam Jai
+Thai. According to SEAPA, about 300 Red Shirt protesters tried to prevent police from taking away equipment from one Bangkok station, FM 89.85 Kon Thai Huajai Diew Kan.
+*506  $a-
+$bAuthorites
+*518  $a26 April 2011
+$3Radio
+*522  $aThailand
+*650  $aUnited Front for Democracy Against Dictiatorship (UDD)
+*650  $aRed Shirts
+*650  $aKon Thai Huajai Diew Kan
+*651  $a7550
+*691  $aPolitical
+*692  $aSeized
+*700  $aPrompan,Jatuporn
+$ePolitician
+^
+200000667
+*041  $abul
+*245  $aBulgarian penal code
+*250  $aRepublic of Bulgaria
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 4 May 2011 / IFEX Communiqué Vol 20, No 18, East Europe Media Organisation (SEEMO)
+*505  $aBulgaria's Parliament has adopted changes to the penal code that have introduced jail time for journalists and writers who instigate hatred, discrimination or violence - and could be used to
+impose controls on the media. SEEMO also expressed concern at amendments that will limit access to Bulgaria's Business Registry. "Under the new provisions, journalists will have no free access to a
+very important source of information, previously used to uncover corruption and irregularities in companies," SEEMO said.
+*518  $3law
+*522  $aBulgaria
+*650  $aamendments
+*651  $a8015
+*693  $acensorship
+^
+200000668
+*041  $aeng
+*100  $aPayne, Julie
+*245  $aCJFE's second annual Review of Free Expression in Canada
+*250  $aCanadian Journalists for Free Expression (CJFE)
+*260  $aRichmond
+$c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 18 May 2011 / IFEX Communiqué Vol 20, No 20
+*505  $aAccording to CJFE, "More than half of the federal institutions surveyed for their performance on access to information ranked below average and five failed outright." Forty-four percent of
+federal access to information requests aren't met within the required 30-day limit, while it takes an average of 395 days to resolve an access to information complaint. The report is accessible online
+here: http://cjfe.org/resources/features/review-free-expression-canada-2011
+*518  $3Report
+*522  $aCanada
+*650  $aStephen Harper
+*650  $aG20
+*650  $aWikiLeaks
+*651  $a6322
+*693  $aFreedom of expression
+^
+200000669
+*041  $aara
+*245  $aOmaima Al Najjar/blog
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 25 May 2011 / IFEX Communiqué Vol 20, No 21, Arabic Network for Human Rights Information (ANHRI)
+*505  $aAccording to the Arabic Network for Human Rights Information (ANHRI), the blog of Saudi blogger and activist Omaima Al Najjar was blocked after she supported al-Sharif online.
+*506  $a-
+$bAuthorites
+*518  $a25 May 2011
+$3Websites
+*522  $aSaudi Arabia
+*650  $aal-Sharif
+*650  $ablog
+*651  $a7345
+*691  $aPolitical
+*692  $aBlocked
+^
+200000670
+*041  $aeng
+*245  $aFreedom of Information Law
+*250  $aFederal Republic of Nigeria
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 1 June 2011 / IFEX Communiqué Vol 20, No 22, Media Rights Agenda (MRA)
+*505  $aNigeria is the second country in West Africa, along with Liberia, to have a right to information law. Under the new law, institutions spending public funds will have to reveal the facts about
+their operations and expenditure and citizens will have the right to access information about their activities. Whistleblowers who report on wrongdoing by their employers or organisations will be
+protected from reprisals. The law also makes provisions aimed at meeting the information needs of illiterate and disabled applicants. Plus, the law gives government bodies a week to produce requested
+information and makes it a criminal offense to destroy records.
+*518  $3law
+*522  $aNigeria
+*650  $apublic funds
+*650  $aaccess to information
+*650  $adisabled applicants
+*651  $a5548
+*693  $aFreedom of information
+*700  $aJonathan,Goodluck
+$ePresident of Nigeria
+^
+200000671
+*041  $aara
+*245  $aSuhail TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 1 June 2011 / IFEX Communiqué Vol 20, No 22
+*505  $aIn the midst of rising violence, both military forces loyal to President Ali Abdullah Saleh and opposition and tribal gunmen are targeting media outlets in exchanges of gunfire. Gunmen loyal
+to Saleh opened machine gun and mortar fire on the private satellite broadcaster Suhail TV. The station is owned by a member of the al-Ahmar family. The attack destroyed computers, cameras and
+archives.
+*506  $a-
+$bAuthorities
+*518  $a25 May 2011
+$3Television
+*522  $aYemen
+*650  $aal-Ahmar
+*650  $aarchives
+*650  $acomputers
+*651  $a7355
+*691  $apolitical
+*692  $aConfiscated
+*700  $aSaleh,Ali Abdullah
+$ePresident
+^
+200000672
+*041  $aara
+*245  $aAl-Oula
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 1 June 2011 / IFEX Communiqué Vol 20, No 22
+*505  $aOn 21 May, editorial trainee Hasaan Saeed was stabbed several times after he refused to allow a group of armed men into the locked offices of "Al-Oula", an independent daily in Sana'a. Twelve
+thousands copies of "Al-Oula" were confiscated at a government checkpoint at the entrance to the capital on 19 May. Recently, other independent and opposition dailies have been seized at checkpoints
+throughout the country.
+*506  $a-
+$bArmed forces
+*518  $a21 May 2011
+$3Newspaper
+*522  $aYemen
+*650  $aSana'a
+*650  $acheck points
+*651  $a7355
+*691  $aPolitical
+*692  $aConfiscated
+*700  $aSaeed,Hasaan
+$eTrainee
+^
+200000673
+*041  $afre
+*245  $aRadio Yopougon
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 1 June 2011 / IFEX Communiqué Vol 20, No 22
+*505  $aAlassane Ouattara was officially sworn in as President on 21 May. Local journalists said the FRCI fighters later burned down the community station, Radio Yopougon, forcing the station's staff
+into hiding, including the editor, Paule-Benedicte Tagro Guyemane.
+*506  $a-
+$bArmed forces
+*518  $a1 June 2011
+$3Radio
+*522  $aCôte d'Ivoire
+*650  $aRepublican Forces of Côte d Ivoire
+*650  $aradio
+*650  $ajournalists
+*651  $a5533
+*691  $aPolitical
+*692  $aDestroyed
+*700  $aOuattara, Alassane
+$ePresident
+^
+200000674
+*041  $afre
+*245  $aPrestige Mag
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 1 June 2011 / IFEX Communiqué Vol 20, No 22
+*505  $aIn a positive turn, "Notre Voie", a daily that supports former President Gbagbo's FPI, was available on newsstands again on 23 May in Abidjan for the first time since Gbagbo was ousted in
+April. According to the Media Foundation for West Africa (MFWA), the printing press of the publishers of "Notre Voie" was destroyed by arsonists in late April. Other pro-Gbagbo newspapers such as "Le
+Nouveau Courrier d'Abidjan", "Le Quotidien d'Abidjan" and "Prestige Mag" are expected to resume publishing.
+*506  $a-
+$bAuthorities
+*518  $a1 June 2011
+$3Newspaper
+*522  $aCôte d'Ivoire
+*650  $aNotre Voie
+*650  $aLeNouveau Courrier d'Abidjan
+*650  $aLe Quotidien d'Abidjan
+*650  $aPrestige Mag
+*651  $a5533
+*691  $aPolitical
+*692  $aSuspended
+^
+200000675
+*041  $aspa
+*245  $aVanguardia
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 8 June 2011 / IFEX Communiqué Vol 20, No 23
+*505  $aIn Saltillo, Coahuila state on 30 May, a grenade was lobbed at the headquarters of an independent and prestigious newspaper, the "Vanguardia" - the oldest and largest newspaper in the city. No
+one was injured, but the newspaper did not report the grenade in its print or online editions due to fear of more attacks. The paper has received threats in the past for its reports.
+*506  $a-
+$bArmed forces
+*518  $a30 May 2011
+$3Newspaper
+*522  $aMexico
+*650  $aSaltillo, Coahuila
+*650  $aattack
+*650  $aCalderón,Felipe
+*651  $a6243
+*691  $aPolitical
+*692  $aBlocked
+*700  $aCalderón,Felipe
+$ePresident of Mexico
+^
+200000676
+*041  $aafr
+*245  $aSecrecy Bill
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 15 June 2011 / IFEX Communiqué Vol 20, No 24
+*505  $aSouth Africa's Parliamentary Committee is ramming through an unconstitutional secrecy bill that could allow government institutions to operate without public scrutiny, and deter the media from
+exposing corruption. The "protection of information" bill gives nearly every state body - from the National Art Gallery to every university in South Africa - the right to classify its information
+based on a vague definition of "national security". Citizens could be denied information on where their taxes are going, for example, as well other crucial information they may need to make important
+decisions.
+*518  $3Law
+*522  $alegislation
+*650  $aParliamentary Committee
+*650  $aRight2Know
+*651  $a5458
+*693  $aFreedom of information
+*700  $aKasrils,Ronnie
+$ePolitician
+^
+200000677
+*041  $amon
+*245  $aFreedom of Information Law
+*250  $aMongolia
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 22 June 2011 / IFEX Communiqué Vol 20, No 25, Globe International
+*505  $aAfter a five-year debate, Mongolia's Parliament passed a freedom of information law last week, joining nearly 90 other countries that provide legal protection for the right to information.
+Under the law, which will come into effect on 1 December, Globe says any citizen or legal body has the right to seek information from government institutions and authorities about their activities,
+human resources, budget, finance and procurement of goods and services with state funds.
+*518  $3law
+*522  $aMongolia
+*650  $alegal protection
+*650  $aElbegdorj,Tsakhia
+*651  $a7138
+*693  $afreedom of information
+^
+200000678
+*041  $aara
+*245  $aScars of Oppression Run Deep
+$bAssessing the Critical Requirements for Freedom of Expression in Tunisia's Democratic Transition
+*250  $aIFEX-TMG
+*260  $aToronto
+$c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 1 June 2011 / IFEX Communiqué Vol 20, No 22, IFEX Tunisian Monitoring Group
+*505  $aThe report found that remnants of Ben Ali's regime can be readily found in the media industry, such as an outdated legislative framework and even some of his cronies.
+*518  $3Report
+*522  $aTunisia
+*650  $abroadcasting
+*650  $alaw
+*650  $amedia
+*650  $aregulation
+*651  $a5362
+*693  $aFreedom of Expression
+*700  $aBen Ali,Zine El Abidine
+$ePresident of Tunisia
+^
+200000679
+*041  $afre
+*245  $aRadioTélévision Lubumbashi JUA
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 29 June 2011 / IFEX Communiqué Vol 20, No 26, Journaliste en danger (JED)
+*505  $aFour days earlier, Radio Télévision Lubumbashi JUA, a private network owned by Jean-Claude Muyambo, was raided and partly set ablaze by supporters of the provincial governor Moïse Katumbi.
+*506  $a-
+$bArmed forces
+*518  $a29 June 2011
+$3Radio/Television
+*522  $aCongo, Democratic Republic of
+*650  $aMuyambo Kyassa,Jean-Claude
+*650  $aKatumbi Chapwe,Moïse
+*650  $aradio
+*650  $atelevision
+*651  $a5123
+*691  $apolitical
+*692  $adestroyed
+*700  $aMuyambo Kyassa,Jean-Claude
+$ePolitician
+*700  $aKatumbi Chapwe,Moïse
+$eBusinessman
+^
+200000680
+*041  $aamh
+*245  $aAnti-terrorist law
+*250  $aFederal Democratic Republic of Ethiopia
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 29 June 2011 / IFEX Communiqué Vol 20, No 26
+*505  $aEnacted in July 2009, the anti-terrorism law contains an overly broad definition of acts of terrorism that could be used to suppress non-violent peaceful protests, and greatly expands police
+powers of search, seizure and arrest. The law also carries sentences of up to 20 years in prison, and provides for holding "terrorist suspects" for up to four months without charge.
+*518  $3Law
+*522  $aEthiopia
+*650  $aseizure
+*650  $aJuly 2009
+*650  $aterrorism
+*651  $a5227
+*693  $aFreedom of information
+^
+200000681
+*041  $abel
+*245  $aFacebook
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 6 July 2011 / IFEX Communiqué Vol 20, No 27
+*505  $aHere's how Belarus's Independence Day on 3 July was marked this year: the authorities used tear gas and arrested more than 300 journalists and anti-government protesters in Minsk and other
+cities, and blocked access to Facebook, Twitter and other social networking sites used by the organisers. Eager to avoid protests on the national holiday, the government on Saturday began blocking
+access to the social media sites, including VKontakte, a Russian version of Facebook. RSF says those trying to connect to VKontakte were reportedly redirected to websites containing malware.
+*506  $a-
+$bAuthorities
+*518  $a3 July 2011
+$3Websites
+*522  $aBelarus
+*650  $aIndependence Day
+*650  $aVKontakte
+*650  $aTwitter
+*651  $a8016
+*691  $aPolitical
+*692  $aBlocked
+*700  $aLukashenko,Alexander
+$ePresident
+^
+200000682
+*041  $abel
+*245  $aTwitter
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 6 July 2011 / IFEX Communiqué Vol 20, No 27
+*505  $aHere's how Belarus's Independence Day on 3 July was marked this year: the authorities used tear gas and arrested more than 300 journalists and anti-government protesters in Minsk and other
+cities, and blocked access to Facebook, Twitter and other social networking sites used by the organisers. Eager to avoid protests on the national holiday, the government on Saturday began blocking
+access to the social media sites, including VKontakte, a Russian version of Facebook. RSF says those trying to connect to VKontakte were reportedly redirected to websites containing malware.
+*506  $a-
+$bAuthorities
+*518  $a3 July 2011
+$3Websites
+*522  $aBelarus
+*650  $aIndependence Day
+*650  $aVKontakte
+*650  $aTwitter
+*651  $a8016
+*691  $aPolitical
+*692  $aBlocked
+*700  $aLukashenko,Alexander
+$ePresident
+^
+200000683
+*041  $abel
+*245  $aVKontakte
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 6 July 2011 / IFEX Communiqué Vol 20, No 27
+*505  $aHere's how Belarus's Independence Day on 3 July was marked this year: the authorities used tear gas and arrested more than 300 journalists and anti-government protesters in Minsk and other
+cities, and blocked access to Facebook, Twitter and other social networking sites used by the organisers. Eager to avoid protests on the national holiday, the government on Saturday began blocking
+access to the social media sites, including VKontakte, a Russian version of Facebook. RSF says those trying to connect to VKontakte were reportedly redirected to websites containing malware.
+*506  $a-
+$bAuthorities
+*518  $a3 July 2011
+$3Websites
+*522  $aBelarus
+*650  $aIndependence Day
+*650  $aVKontakte
+*650  $aTwitter
+*651  $a8016
+*691  $aPolitical
+*692  $aBlocked
+*700  $aLukashenko,Alexander
+$ePresident
+^
+200000684
+*041  $aara
+*245  $aAjras Al-Hurriya
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 13 July 2011 / IFEX Communiqué Vol 20, No 28
+*505  $aJust a few hours before South Sudan's independence, the popular Arabic daily "Ajras Al-Hurriya" and five English-language newspapers were suspended - a worrying start to the relationship
+between north and south, report the Arabic Network for Human Rights Information (ANHRI) and Index on Censorship. The other suspended papers are "Khartoum Monitor", "Juba Post", "Sudan Tribune", "The
+Advocate" and "The Democrat".
+*506  $a-
+$bAuthorities
+*518  $a13 July 2011
+$3Newspaper
+*522  $aSudan
+*650  $aKhartoum Monitor
+*650  $aJubaPost
+*650  $aSudan Tribune
+*650  $aThe Advocate
+*650  $aThe Democrat
+*651  $a5259
+*691  $aPolitical
+*692  $aSuspended
+^
+200000685
+*041  $aara
+*245  $aKhartoum Monitor
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 13 July 2011 / IFEX Communiqué Vol 20, No 28
+*505  $aJust a few hours before South Sudan's independence, the popular Arabic daily "Ajras Al-Hurriya" and five English-language newspapers were suspended - a worrying start to the relationship
+between north and south, report the Arabic Network for Human Rights Information (ANHRI) and Index on Censorship. The other suspended papers are "Khartoum Monitor", "Juba Post", "Sudan Tribune", "The
+Advocate" and "The Democrat".
+*506  $a-
+$bAuthorities
+*518  $a13 July 2011
+$3Newspaper
+*522  $aSudan
+*650  $aJuba Post
+*650  $aSudanTribune
+*650  $aThe Advocate
+*650  $aThe Democrat
+*650  $aAjras Al-Hurriya
+*651  $a5259
+*691  $aPolitical
+*692  $aSuspended
+^
+200000686
+*041  $aara
+*245  $aJuba Post
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 13 July 2011 / IFEX Communiqué Vol 20, No 28
+*505  $aJust a few hours before South Sudan's independence, the popular Arabic daily "Ajras Al-Hurriya" and five English-language newspapers were suspended - a worrying start to the relationship
+between north and south, report the Arabic Network for Human Rights Information (ANHRI) and Index on Censorship. The other suspended papers are "Khartoum Monitor", "Juba Post", "Sudan Tribune", "The
+Advocate" and "The Democrat".
+*506  $a-
+$bAuthorities
+*518  $a13 July 2011
+$3Newspaper
+*522  $aSudan
+*650  $aKhartoum Monitor
+*650  $aAjrasAl-Hurriya
+*650  $aSudan Tribune
+*650  $aThe Advocate
+*650  $aThe Democrat
+*651  $a5259
+*691  $aPolitical
+*692  $aSuspended
+^
+200000687
+*041  $aara
+*245  $aSudan Tribune
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 13 July 2011 / IFEX Communiqué Vol 20, No 28
+*505  $aJust a few hours before South Sudan's independence, the popular Arabic daily "Ajras Al-Hurriya" and five English-language newspapers were suspended - a worrying start to the relationship
+between north and south, report the Arabic Network for Human Rights Information (ANHRI) and Index on Censorship. The other suspended papers are "Khartoum Monitor", "Juba Post", "Sudan Tribune", "The
+Advocate" and "The Democrat".
+*506  $a-
+$bAuthorities
+*518  $a13 July 2011
+$3Newspaper
+*522  $aSudan
+*650  $aKhartoum Monitor
+*650  $aJubaPost
+*650  $aAjras Al-Hurriya
+*650  $aThe Advocate
+*650  $aThe Democrat
+*651  $a5259
+*691  $aPolitical
+*692  $aSuspended
+^
+200000688
+*041  $aara
+*245  $aThe Advocate
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 13 July 2011 / IFEX Communiqué Vol 20, No 28
+*505  $aJust a few hours before South Sudan's independence, the popular Arabic daily "Ajras Al-Hurriya" and five English-language newspapers were suspended - a worrying start to the relationship
+between north and south, report the Arabic Network for Human Rights Information (ANHRI) and Index on Censorship. The other suspended papers are "Khartoum Monitor", "Juba Post", "Sudan Tribune", "The
+Advocate" and "The Democrat".
+*506  $a-
+$bAuthorities
+*518  $a13 July 2011
+$3Newspaper
+*522  $aSudan
+*650  $aKhartoum Monitor
+*650  $aJubaPost
+*650  $aSudan Tribune
+*650  $aAjras Al-Hurriya
+*650  $aThe Democrat
+*651  $a5259
+*691  $aPolitical
+*692  $aSuspended
+^
+200000689
+*041  $aara
+*245  $aThe Democrat
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 13 July 2011 / IFEX Communiqué Vol 20, No 28
+*505  $aJust a few hours before South Sudan's independence, the popular Arabic daily "Ajras Al-Hurriya" and five English-language newspapers were suspended - a worrying start to the relationship
+between north and south, report the Arabic Network for Human Rights Information (ANHRI) and Index on Censorship. The other suspended papers are "Khartoum Monitor", "Juba Post", "Sudan Tribune", "The
+Advocate" and "The Democrat".
+*506  $a-
+$bAuthorities
+*518  $a13 July 2011
+$3Newspaper
+*522  $aSudan
+*650  $aKhartoum Monitor
+*650  $aJubaPost
+*650  $aSudan Tribune
+*650  $aThe Advocate
+*650  $aAjras Al-Hurriya
+*651  $a5259
+*691  $aPolitical
+*692  $aSuspended
+^
+200000690
+*041  $aheb
+*245  $aAnti-boycott law
+*250  $aState of Israel
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 20 July 2011 / IFEX Communiqué Vol 20, No 29
+*505  $aIsrael has violated the right to free expression by approving a law that penalises individuals and organisations that call for boycotting Israel. The law, approved in a 47-to-38 vote by
+Parliament on 11 July, makes it a punishable offence to publicly call for a boycott - economic, cultural or academic - against Israel, its institutions or any area under its control, a reference to
+the occupied Palestinian territories of East Jerusalem, the West Bank and Gaza.
+*518  $3Law
+*522  $aIsrael
+*650  $a11 July 2011
+*650  $aboycott
+*650  $aPalestine
+*650  $alaw
+*650  $aParliament
+*651  $a7329
+*693  $aFreedom of Expression
+^
+200000691
+*041  $aeng
+*245  $aAmnesty TV
+*260  $c2011
+*300  $a8:07 Sec
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 20 July 2011 / IFEX Communiqué Vol 20, No 29
+*505  $aThe first episode, which aired on 14 July, features Jimmy Wales, the founder of Wikipedia, talking about Internet freedom in front of a group of school children. There's also a birthday
+message from Burmese democracy leader Aung San Suu Kyi and a valiant attempt to get ambassadors from Iran, China, North Korea, Saudi Arabia and the U.S. to sign Amnesty's 50th birthday card. The
+program is available here: http://tv.amnesty.org.uk/
+*518  $3Television
+*522  $aUniversal
+*650  $aWikipedia
+*650  $ainternet
+*651  $a0000
+*693  $aFreedom of expression
+*700  $aWales,Jimmy
+$eFounder
+*700  $aSan Suu Kyi,Aung
+$eLeader
+^
+200000692
+*041  $akhm
+*245  $aThe Water and Fire News
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 10 August 2011 / IFEX Communiqué Vol 20, No 31
+*505  $aTwo newspapers critical of the Cambodian ruling were shut down permanently. Newspapers "The Water and Fire News" and "The World News" are owned by the same publisher and were ordered to stop
+publishing as of 3 August.
+*506  $a-
+$bAuthority
+*518  $a3 August 2011
+$3Newspaper
+*522  $aCambodia
+*650  $aThe World News
+*650  $aCambodian People's Party
+*651  $a7520
+*691  $aPolitical
+*692  $aShut down
+^
+200000693
+*041  $akhm
+*245  $aThe World News
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 10 August 2011 / IFEX Communiqué Vol 20, No 31
+*505  $aTwo newspapers critical of the Cambodian ruling were shut down permanently. Newspapers "The Water and Fire News" and "The World News" are owned by the same publisher and were ordered to stop
+publishing as of 3 August.
+*506  $a-
+$bAuthority
+*518  $a3 August 2011
+$3Newspaper
+*522  $aCambodia
+*650  $aThe Water and FireNews
+*650  $aCambodian People's Party
+*651  $a7520
+*691  $aPolitical
+*692  $aShut down
+^
+200000694
+*245  $aElectronics Transactions Law
+*250  $aRepublic of the Union of Myanmar
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 17 August 2011 / IFEX Communiqué Vol 20, No 32
+*505  $aBars a citizen from electronically disseminating information considered to be a threat to the security of the junta.
+*518  $3Law
+*522  $aBurma
+*650  $adissemination
+*651  $a7516
+*693  $aFreedom of Expression
+*700  $aZeya,Sithu
+$eJournalist
+^
+200000695
+*041  $aeng
+*245  $aCommentary to the declaration on human rights defenders
+*250  $aUnited Nations Special Rapporteur Margaret Sekaggya
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 17 August 2011 / IFEX Communiqué Vol 20, No 32
+*505  $aAn essential guide to the right to defend human rights, aimed at supporting increasing understanding of the UN Declaration on human rights defenders and awareness of the dangers they face.
+*518  $3Guide
+*522  $aUniversal
+*650  $ahuman rights
+*650  $aUnited Nations
+*650  $aactivists
+*651  $a0000
+*693  $aFreedom of Expression
+^
+200000696
+*041  $aeng
+*245  $aCompanies that cooperate with dictatorships must be sanctioned (RSF)
+*250  $aReporters Without Borders (RSF)
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 14 September 2011 / IFEX Communiqué Vol 20, No 35
+*505  $aAccording to a new report by Reporters Without Borders (RSF), these companies and many other technology heavyweights are collaborating with dictatorships that jail bloggers and censor the
+Internet - and they deserve to be sanctioned. Cisco is also named in RSF's report - for allegedly provided China with the technology to identify and censor political dissidents. Read the full report
+here: http://en.rsf.org/companies-that-cooperate-with-02-09-2011,40914.html
+*518  $3Report
+*522  $aUniversal
+*650  $aBahrain
+*650  $aEuropean Union
+*650  $aChina
+*650  $aThailand
+*650  $aLibya
+*650  $aSyria
+*651  $a0000
+*693  $aCensorship
+^
+200000697
+*041  $aara
+*245  $aAl-Jazeera Mubasher Misr
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 21 September 2011 / IFEX Communiqué Vol 20, No 37, Committee to Protect Journalists (CPJ)
+*505  $aSupreme Council of the Armed Forces (SCAF)'s Ministry of Information raided and shut down Al-Jazeera Mubasher Misr (Al-Jazeera's Egypt affiliate), after the government failed to issue the
+station a license four months after it applied for one, report ANHRI, CIHRS, EOHR and others. Equipment was seized and a technical engineer was arrested. Such shut downs are likely to continue as the
+government has issued a "freeze" on any new licenses for satellite stations.
+*506  $a-
+$bGovernment
+*518  $a21 September 2011
+$3Television
+*522  $aEgypt
+*650  $aMinistry of Information
+*650  $aSupreme Council of the Armed Forces (SCAF)
+*650  $alicenses
+*650  $aEquipment
+*650  $aseized
+*651  $a5325
+*691  $aPolitical
+*692  $aShut down
+^
+200000698
+*041  $aeng
+*245  $aAccess to Information Declaration (APAI)
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 28 September 2011 / IFEX Communiqué Vol 20, No 38
+*505  $aAccess to Information Declaration (APAI) was adopted on 19 September at the Pan African Conference on Access to Information. The 14 principles of the Declaration provide guidance to African
+countries on enacting access to information laws and promoting government transparency on a daily basis. The APAI also highlights the importance of the right to information in fighting corruption and
+promoting health and education.
+*518  $3Declaration
+*522  $aAfrica
+*650  $a19 September 2011
+*650  $aconference
+*650  $access to information
+*651  $a5000
+*693  $aAccess to Information
+^
+200000699
+*041  $aspa
+*245  $aTelesangay TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 28 September 2011 / IFEX Communiqué Vol 20, No 38, Andean Foundation for Media Observation & Study (FUNDAMEDIOS)
+*505  $aIn August, the license of opposition party member-owned TV station Telesangay was suspended. In early September, seven radio stations were slapped with a fine for failing to notify the
+Telecommunications Superintendent that they would be simultaneously broadcasting the same program - ironically, a program on freedom of expression.
+*506  $a-
+$bGovernment
+*518  $aAugust 2011
+$3Television
+*522  $aEcuador
+*650  $alicenses
+*650  $afreedom of expression
+*651  $a6430
+*691  $aPolitical
+*692  $aSuspended
+^
+200000700
+*041  $aara
+*245  $aAl Wasat
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 October 2011 / IFEX Communiqué Vol 20, No 39
+*505  $aThe "Al Wasat," which the government shut down in April, for its non-sectarian coverage at a time when authorities are attempting to paint the protests simply as a Shiite-vs-Sunni conflict.
+*506  $a-
+$bGovernment
+*518  $aApril 2011
+$3Newspaper
+*522  $aBahrain
+*650  $anon-sectarian
+*650  $aShiite
+*650  $aSunni
+*651  $a7312
+*691  $aPolitical
+*692  $aShut down
+^
+200000701
+*041  $aspa
+*245  $aTelecommunications Act
+*250  $aBolivarian Republic of Venezuela
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 12 October 2011 / IFEX Communiqué Vol 20, No 40
+*505  $aTelecommunications Act that gives the authorities power to revoke broadcasting licenses under the vague justification of security and national interests.
+*518  $3Act
+*522  $aVenezuela
+*650  $abroadcasting
+*650  $alicenses
+*651  $a6460
+*693  $aLegislation
+^
+200000702
+*041  $afre
+*245  $aMedia law
+*250  $aRepublic of Cameroon
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 12 October 2011 / IFEX Communiqué Vol 20, No 40
+*505  $aDelegation met with communication minister Issa Tchiroma Bakary to encourage Cameroon to decriminalise defamation and update its 15-year-old media legislation to include provisions for online
+media, give journalists autonomy from the will of political figures and protect access to information and the confidentiality of sources, among other necessary amendments. A press freedom mission that
+concluded both the country's media laws and democratic participation require a major overhaul.
+*518  $3Law
+*522  $aCameroon
+*650  $alegislation
+*650  $aonlinemedia
+*650  $aaccess to information
+*651  $a5118
+*693  $aFreedom of Information
+^
+200000703
+*041  $aeng
+*245  $aCasting a Wider Net
+$bLessons Learned in Delivering BBC Content on the Censored Internet
+*250  $aUniversity of Toronto
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 12 October 2011 / IFEX Communiqué Vol 20, No 40
+*505  $aThe University of Toronto report offers broadcasters guidelines on how to detect and circumvent Internet blocking. Among its recommendations, the report suggests news broadcasters educate
+their audiences on how to access their content safely, implement software and traffic monitoring strategies that can detect censoring in real time, and collaborate with other companies and academic
+stakeholders to deliver news in restricted environments.
+*518  $3Report
+*522  $aCanada
+*650  $abroadcasters
+*650  $ainternet
+*650  $ablocking
+*651  $a6322
+*693  $aCensorship
+^
+200000704
+*041  $aeng
+*245  $aWorld Press Freedom Review 2011
+*250  $aWorld Association of Newspapers and News Publishers (WAN-IFRA)
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 19 October 2011 / IFEX Communiqué Vol 20, No 40
+*505  $a"World Press Freedom Review 2011" describes the frightening and enraging level of violence, censorship and intimidation journalists have struggled against between January and September 2011.
+The full document can be download via the following link: http://www.wan-ifra.org/articles/2011/10/06/world-press-freedom-review-2011 WAN-IFRA also released a powerful film to accompany the review.
+"Imagine a world in which there is no right to inform, report, investigate, challenge or express an opinion," the film narrates, while depicting the horror of attacks against the media. "For over 5.5
+billion people, this is the reality of their world today." Watch it below. Can be watched here: http://www.youtube.com/watch?v=KDUZIf0Mj74&feature=player_embedded#!
+*518  $3Review
+*522  $aUniversal
+*650  $aviolence
+*650  $acensorship
+*650  $aintimidation
+*651  $a0000
+*693  $aFreedom of Expression
+^
+200000705
+*041  $aara
+*245  $aAl-Hurra
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 19 October 2011 / IFEX Communiqué Vol 20, No 41
+*505  $aSecurity forces simultaneously descended on broadcasters Al-Hurra and 25 TV at 7pm. At 25 TV, they smashed doors and windows and searched the premises as well as frisked journalists for
+footage from the protests, a 25 TV presenter told ANHRI. Reporters Without Borders (RSF) says staff at both locations were held at gunpoint. While the stations' broadcasts were cut off until 1am.
+*506  $a-
+$bSecurity forces
+*518  $a19 October 2011
+$3Television
+*522  $aEgypt
+*650  $a25 TV
+*650  $aprotests
+*651  $a5325
+*691  $aPolitical
+*692  $aBlocked
+^
+200000706
+*041  $aara
+*245  $a25 TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 19 October 2011 / IFEX Communiqué Vol 20, No 41
+*505  $aSecurity forces simultaneously descended on broadcasters Al-Hurra and 25 TV at 7pm. At 25 TV, they smashed doors and windows and searched the premises as well as frisked journalists for
+footage from the protests, a 25 TV presenter told ANHRI. Reporters Without Borders (RSF) says staff at both locations were held at gunpoint. While the stations' broadcasts were cut off until 1am.
+*506  $a-
+$bSecurity forces
+*518  $a19 October 2011
+$3Television
+*522  $aEgypt
+*650  $aAl-Hurra
+*650  $aprotests
+*651  $a5325
+*691  $aPolitical
+*692  $aBlocked
+^
+200000707
+*041  $aeng
+*245  $aYahoo
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 19 October 2011 / IFEX Communiqué Vol 20, No 41
+*505  $aIn other troubling news, emails containing the words "Occupy Wall Street" were blocked in Yahoo's email service, reports RSF, sourcing news blog ThinkProgress. According to "Fast Company",
+Yahoo admitted to the fact that Occupy protest-related emails were not getting through but claimed the problem was "not intentional" and would be resolved.
+*506  $a-
+$bAuthority
+*518  $a19 October 2011
+$3Websites
+*522  $aUnited States
+*650  $aOccupy Wall Street
+*650  $aprotests
+*650  $aemails
+*651  $a6357
+*691  $aPolitical
+*692  $aBlocked
+^
+200000708
+*041  $aeng
+*100  $aLa Rue,Frank
+*245  $aPromotion and protection of the right to freedom of opinion and expression
+*250  $aUN General Assembly
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 26 October 2011 / IFEX Communiqué Vol 20, No 42
+*505  $aThe UN Special Rapporteur on freedom of expression, Frank La Rue, released a report to the UN General Assembly this month highlighting trends in Internet use and censorship and guiding
+governments in Internet regulation and distribution policies. The document makes clear that under international law, only child pornography, incitement to violence or genocide and hate speech can be
+censored on the Internet. The report is available online: http://www.ohchr.org/Documents/Issues/Opinion/A.66.290.pdf
+*518  $3Report
+*522  $aUniversal
+*650  $aInternet
+*650  $acensorship
+*650  $aregulation
+*650  $adistribution
+*651  $a0000
+*693  $aFreedom of Expression
+^
+200000709
+*041  $apor
+*245  $aFreedom of Information Law
+$bFOI
+*250  $aFederative Republic of Brazil
+*260  $c2011
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 2 November 2011 / IFEX Communiqué Vol 20, No 43
+*505  $aUnder the law, all public bodies and all levels of government will be required to release certain information to the entire public through the Internet, public hearings and citizens'
+information services. Individual information requests must additionally be responded to within a designated time period.
+*518  $3Law
+*522  $aBrazil
+*650  $alegislation
+*650  $aclassified information
+*651  $a6420
+*693  $aFreedom of information|
+*700  $aRousseff,Dilma
+$ePresident of Brazil
+^
+200000710
+*245  $aUAE Hewar
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 9 November 2011 / IFEX Communiqué Vol 20, No 44
+*505  $aThe charges stem from posts on online forum UAE Hewar that criticised government policies, the groups report. However, the forum was banned at the time so one of the key arguments of the
+defence lawyers is that few people would have seen the posts.
+*506  $a-
+$bAuthority
+*518  $a9 November 2011
+$3Websites
+*522  $aUnited Arab Emirates
+*650  $agovernment
+*650  $apolicies
+*651  $a7352
+*691  $aPolitical
+*692  $aBlocked
+*700  $aMansoor,Ahmed
+^
+200000711
+*041  $aeng
+*245  $aShaiata community radio
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 9 November 2011 / IFEX Communiqué Vol 20, No 44
+*505  $aWith political tensions running high surrounding the election, other media outlets have also fallen victim to political rivalries. Power FM, Power TV, Love FM, Love TV, Kings FM, Clar TV and
+the Shaiata community radio station were each separately instructed to halt all broadcasts pending a 10 November hearing of a petition filed by the Government of Liberia, reports CEMESP. In between
+the first and second election days, staff at Love FM and Love TV in Monrovia, which support the CDC, reportedly received numerous death threats, according to RSF. On 17 October, unknown arsonists
+threw a petrol bomb at the stations, destroying a storeroom and causing them to go off the air for several hours.
+*506  $a-
+$bAuthority
+*518  $a9 November 2011
+$3Radio
+*522  $aLiberia
+*650  $aelection
+*650  $amedia
+*651  $a5536
+*691  $aPolitical
+*692  $aStopped
+^
+200000712
+*041  $aeng
+*245  $aClar TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 9 November 2011 / IFEX Communiqué Vol 20, No 44
+*505  $aWith political tensions running high surrounding the election, other media outlets have also fallen victim to political rivalries. Power FM, Power TV, Love FM, Love TV, Kings FM, Clar TV and
+the Shaiata community radio station were each separately instructed to halt all broadcasts pending a 10 November hearing of a petition filed by the Government of Liberia, reports CEMESP. In between
+the first and second election days, staff at Love FM and Love TV in Monrovia, which support the CDC, reportedly received numerous death threats, according to RSF. On 17 October, unknown arsonists
+threw a petrol bomb at the stations, destroying a storeroom and causing them to go off the air for several hours.
+*506  $a-
+$bAuthority
+*518  $a9 November 2011
+$3Television
+*522  $aLiberia
+*650  $aelection
+*650  $amedia
+*651  $a5536
+*691  $aPolitical
+*692  $aStopped
+^
+200000713
+*041  $aeng
+*245  $aKings FM
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 9 November 2011 / IFEX Communiqué Vol 20, No 44
+*505  $aWith political tensions running high surrounding the election, other media outlets have also fallen victim to political rivalries. Power FM, Power TV, Love FM, Love TV, Kings FM, Clar TV and
+the Shaiata community radio station were each separately instructed to halt all broadcasts pending a 10 November hearing of a petition filed by the Government of Liberia, reports CEMESP. In between
+the first and second election days, staff at Love FM and Love TV in Monrovia, which support the CDC, reportedly received numerous death threats, according to RSF. On 17 October, unknown arsonists
+threw a petrol bomb at the stations, destroying a storeroom and causing them to go off the air for several hours.
+*506  $a-
+$bAuthority
+*518  $a9 November 2011
+$3Radio
+*522  $aLiberia
+*650  $aelection
+*650  $amedia
+*651  $a5536
+*691  $aPolitical
+*692  $aStopped
+^
+200000714
+*041  $aeng
+*245  $aLove TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 9 November 2011 / IFEX Communiqué Vol 20, No 44
+*505  $aWith political tensions running high surrounding the election, other media outlets have also fallen victim to political rivalries. Power FM, Power TV, Love FM, Love TV, Kings FM, Clar TV and
+the Shaiata community radio station were each separately instructed to halt all broadcasts pending a 10 November hearing of a petition filed by the Government of Liberia, reports CEMESP. In between
+the first and second election days, staff at Love FM and Love TV in Monrovia, which support the CDC, reportedly received numerous death threats, according to RSF. On 17 October, unknown arsonists
+threw a petrol bomb at the stations, destroying a storeroom and causing them to go off the air for several hours.
+*506  $a-
+$bAuthority
+*518  $a17 October 2011
+$3Television
+*522  $aLiberia
+*650  $aelection
+*650  $amedia
+*651  $a5536
+*691  $aPolitical
+*692  $aDestroyed
+^
+200000715
+*041  $aeng
+*245  $aLove FM
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 9 November 2011 / IFEX Communiqué Vol 20, No 44
+*505  $aWith political tensions running high surrounding the election, other media outlets have also fallen victim to political rivalries. Power FM, Power TV, Love FM, Love TV, Kings FM, Clar TV and
+the Shaiata community radio station were each separately instructed to halt all broadcasts pending a 10 November hearing of a petition filed by the Government of Liberia, reports CEMESP. In between
+the first and second election days, staff at Love FM and Love TV in Monrovia, which support the CDC, reportedly received numerous death threats, according to RSF. On 17 October, unknown arsonists
+threw a petrol bomb at the stations, destroying a storeroom and causing them to go off the air for several hours.
+*506  $a-
+$bAuthority
+*518  $a17 October 2011
+$3Radio
+*522  $aLiberia
+*650  $aelection
+*650  $amedia
+*651  $a5536
+*691  $aPolitical
+*692  $aDestroyed
+^
+200000716
+*041  $aeng
+*245  $aPower TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 9 November 2011 / IFEX Communiqué Vol 20, No 44
+*505  $aWith political tensions running high surrounding the election, other media outlets have also fallen victim to political rivalries. Power FM, Power TV, Love FM, Love TV, Kings FM, Clar TV and
+the Shaiata community radio station were each separately instructed to halt all broadcasts pending a 10 November hearing of a petition filed by the Government of Liberia, reports CEMESP. In between
+the first and second election days, staff at Love FM and Love TV in Monrovia, which support the CDC, reportedly received numerous death threats, according to RSF. On 17 October, unknown arsonists
+threw a petrol bomb at the stations, destroying a storeroom and causing them to go off the air for several hours.
+*506  $a-
+$bAuthority
+*518  $a9 November 2011
+$3Television
+*522  $aLiberia
+*650  $aelection
+*650  $amedia
+*651  $a5536
+*691  $aPolitical
+*692  $aStopped
+^
+200000717
+*041  $aeng
+*245  $aPower FM
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 9 November 2011 / IFEX Communiqué Vol 20, No 44
+*505  $aWith political tensions running high surrounding the election, other media outlets have also fallen victim to political rivalries. Power FM, Power TV, Love FM, Love TV, Kings FM, Clar TV and
+the Shaiata community radio station were each separately instructed to halt all broadcasts pending a 10 November hearing of a petition filed by the Government of Liberia, reports CEMESP. In between
+the first and second election days, staff at Love FM and Love TV in Monrovia, which support the CDC, reportedly received numerous death threats, according to RSF. On 17 October, unknown arsonists
+threw a petrol bomb at the stations, destroying a storeroom and causing them to go off the air for several hours.
+*506  $a-
+$bAuthority
+*518  $a9 November 2011
+$3Radio
+*522  $aLiberia
+*650  $aelection
+*650  $amedia
+*651  $a5536
+*691  $aPolitical
+*692  $aStopped
+^
+200000718
+*041  $aara
+*245  $aJasad al-Thaqafa
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 28 February 2007 / IFEX Communiqué Vol 16, Issue 09
+*505  $aA desire to punish government critics appeared in Saudi Arabia to prevent their views from reaching a foreign audience.A high-ranking Ministry of Interior official promised to investigate the
+bans. During the visit several liberal Internet sites became inaccessible from within Saudi Arabia, including Jasad al-Thaqafa, al-Hurriya and Wadi Najran.
+*506  $a-
+$bGovernment
+*518  $a28 February2007
+$3Websites
+*522  $aSaudi Arabia
+*650  $aal-Hurriya
+*650  $aWadiNajran
+*650  $acritics
+*651  $a7345
+*691  $aPolitical
+*692  $aBlocked
+^
+200000719
+*041  $aara
+*245  $aal-Hurriya
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 28 February 2007 / IFEX Communiqué Vol 16, Issue 09
+*505  $aA desire to punish government critics appeared in Saudi Arabia to prevent their views from reaching a foreign audience.A high-ranking Ministry of Interior official promised to investigate the
+bans. During the visit several liberal Internet sites became inaccessible from within Saudi Arabia, including Jasad al-Thaqafa, al-Hurriya and Wadi Najran.
+*506  $a-
+$bGovernment
+*518  $a28 February 2007
+$3Websites
+*522  $aSaudi Arabia
+*650  $aal-Thaqafa
+*650  $aWadiNajran
+*650  $acritics
+*651  $a7345
+*691  $aPolitical
+*692  $aBlocked
+^
+200000720
+*041  $aara
+*245  $aWadi Najran
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 28 February 2007 / IFEX Communiqué Vol 16, Issue 09
+*505  $aA desire to punish government critics appeared in Saudi Arabia to prevent their views from reaching a foreign audience.A high-ranking Ministry of Interior official promised to investigate the
+bans. During the visit several liberal Internet sites became inaccessible from within Saudi Arabia, including Jasad al-Thaqafa, al-Hurriya and Wadi Najran.
+*506  $a-
+$bGovernment
+*518  $a28 February2007
+$3Website
+*522  $aSaudi Arabia
+*650  $aal-Hurriya
+*650  $aal-Thaqafa
+*650  $acritics
+*651  $a7345
+*691  $aPolitical
+*692  $aBlocked
+
+
+
+^
+200000724
+*041  $aeng
+*100  $aMathurine,Jude
+*245  $aLeis da Midia na SADC:Mocambique
+$bA handbook for media practitioner
+*250  $aKonrad Adenauer Stiftung (KAS)
+*260  $aJohannesburg
+$c2006
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 30 January 2007 / IFEX Communiqué Vol 16 Issue 05
+*505  $aThe foundation has launched "Leis da Midia na SADC: Mocambique", a comprehensive and summary of laws affecting the press in Mozambique. It is available in English and Portuguese. Available
+online here: http://www.kas.de/wf/doc/kas_9875-1522-2-30.pdf?070110144458
+*518  $3Book
+*522  $aMozambique
+*650  $alaws
+*650  $apress
+*651  $a5445
+*693  $aLegislation
+^
+200000725
+*041  $afre
+*100  $aMathurin,Jude
+*245  $aRevue du Droit des Medias
+$bRepublique Democratique du Congo
+*250  $aKonrad Adenauer Stiftung (KAS)
+*260  $aJohannesburg
+$c2006
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 30 January 2007 / IFEX Communiqué Vol 16 Issue 05
+*505  $a"Revue du Droit des Medias: Republique Democratique du Congo" (available in French), is the only freely available and updated reference for journalists, media managers, politicians and
+scholars that considers the impact of DRC's new constitution (passed in April 2006) on existing laws affecting freedom of expression. The online version can be read here:
+http://www.kas.de/medien-afrika/en/publications/9885/
+*518  $3Book
+*522  $aMozambique
+*650  $ajournalists
+*650  $amedia
+*650  $aconstitution
+*651  $a5445
+*693  $aFreedom of expression
+^
+200000726
+*041  $aspa
+$hspa
+*245  $ala Revista de Hoy
+*500  $aFundación de Documentación y Archivos de la Vicaría de la Solidaridad. http://www.archivovicaria.cl/inicio.htm
+*505  $aSolicitar a/por:CD:00560.00 Filippi Muratto, Emilio (Carta al Presidente de la Comisión Interamericana de Derechos Humanos de la OEA). Santiago: s.e., 1979. 22 p. 1979 Fotocopia El Director de
+la Revista Hoy se dirige al Presidente de la Comisión Interamericana de Derechos Humanos de la OEA para formular denuncia por la violación de los artículos 4o. de la Declaración Americana de los
+Derechos y Deberes del Hombre y 1o., 13o. y 24o. de la Convención Americana sobre Derechos Humanos configurada por la suspención arbitraria de la publicación de la Revista Hoy a través de la
+resolución 3550/647 del 22 de Junio de 1979 del JeFe de Zona. Además, se adjunta borrador esta carta; Acta de notificación de Carabineros, y declaración pública de Emilio Filippi. <CENSURA DE MEDIOS
+DE COMUNICACION> <LIBERTAD DE PRENSA> <DERECHO A LA LIBERTAD DE EXPRESION> <DECLARACION PUBLICA> <CARTA>
+*506  $aSuspended
+$bResolution 3550/647 Jefe del Zona
+*518  $a22 June1979
+$3Magazine
+*522  $aChile
+*650  $apress freedom
+*650  $aletter
+*650  $aEmilio Filippi Muratto
+*650  $amagazine
+*651  $a6424
+*691  $aPolitical
+*692  $aSuspended
+*700  $aFilippi Muratto, Emilio
+^
+200000727
+*041  $aeng
+*245  $aFiji Times
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 December 2006 / IFEX Communiqué Vol 15 Issue 48, Reporters sans frontières (RSF)
+*505  $aThe country's leading daily newspaper, the "Fiji Times", suspended publication on 5 December after being threatened by the military with censorship, reports RSF. An article on its website said
+armed soldiers came to the newspaper and asked it not to publish any "hostile propaganda" about the new military leadership.
+*506  $a-
+$bAuthorities
+*518  $a5 December2006
+$3Newspaper
+*522  $aFiji
+*650  $amilitary
+*650  $athreats
+*650  $apropaganda
+*651  $a9014
+*691  $aPolitical
+*692  $aSuspended
+^
+200000728
+*041  $aeng
+*245  $aFiji Daily Post
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 December 2006 / IFEX Communiqué Vol 15 Issue 48, International Press Institute (IPI)
+*505  $aAnother newspaper, the "Fiji Daily Post", has been forced to cease publication of its print edition following death threats against management and staff by coup officers, reports IPI. The
+paper had leaked details of the coup plotters' plans two days prior to the takeover.
+*506  $a-
+$bAuthorities
+*518  $a5 December 2006
+$3Newspaper
+*522  $aFiji
+*650  $acoup
+*650  $amilitary
+*651  $a9014
+*691  $aPolitical
+*692  $aStopped
+^
+200000729
+*041  $aspa
+$hspa
+*100  $aMac Hale, Tomás P.
+*245  $aDiagnóstico sobre la libertad de expresión en Chile, hoy
+$bIntervención ante la Asociación Nacional de Prensa
+*260  $aSantiago
+$bs.e.
+$c1979
+*300  $a11 p.
+*500  $aFundación de Documentación y Archivos de la Vicaría de la Solidaridad. http://www.archivovicaria.cl/inicio.htm
+*520  $aSolicitar a/por: CD:00570.00 Intervención del Sr. Mac Hale ante la Asociación Nacional de Prensa, se dirige a los directores y ejecutivos de los medios de prensa escrita del país haciendo un
+diagnóstico que abarca: legislación periodística; anteproyecto constitucional y libertad de expresión; régimen audiovisual; medidas de cambio necesarias en la legislación, y la responsabilidad
+periodística. <LIBERTAD DE PRENSA> <CENSURA DE MEDIOS DE COMUNICACION> <DERECHO A LA LIBERTAD DE EXPRESION> <ANALISIS JURIDICO>
+*522  $aChile
+*650  $acensorship
+*650  $amedia
+*650  $alegislation
+*651  $a6424
+*693  $aCensorship
+^
+200000730
+*041  $aeng
+*245  $aRadio Fiji
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 December 2006 / IFEX Communiqué Vol 15 Issue 48, International Press Institute (IPI)
+*505  $aThe country's two privately-owned radio stations, Radio Fiji and Communications Fiji, have also received visits from the military, which has imposed prior censorship on all news bulletins,
+notes IPI. Soldiers are reportedly still posted outside their offices.
+*506  $a-
+$bAuthorities
+*518  $a5 December2006
+$3Radio
+*522  $aFiji
+*650  $aCommunications
+*650  $amilitary
+*650  $acensorship
+*650  $a news
+*651  $a9014
+*691  $aPolitical
+*692  $aCensored
+^
+200000731
+*041  $aeng
+*245  $aCommunications Fiji
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 December 2006 / IFEX Communiqué Vol 15 Issue 48, International Press Institute (IPI)
+*505  $aThe country's two privately-owned radio stations, Radio Fiji and Communications Fiji, have also received visits from the military, which has imposed prior censorship on all news bulletins,
+notes IPI. Soldiers are reportedly still posted outside their offices.
+*506  $a-
+$bAuthorities
+*518  $a5 December 2006
+$3Radio
+*522  $aFiji
+*650  $aRadio
+*650  $amilitary
+*650  $acensorship
+*650  $anews
+*651  $a9014
+*691  $aPolitical
+*692  $aCensored
+^
+200000732
+*041  $aspa
+*245  $aLey de Transparencia y Acceso a la Información Pública
+$bTransparency and Access to Public Information Law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 December 2006 / IFEX Communiqué Vol 15 Issue 48
+*505  $aThe law provides for the establishment of an independent body called the National Institute for Access to Public Information (Instituto Nacional de Acceso a la Información Pública, IAIP) that
+will process public requests for government information and oversee the law's implementation.
+*518  $3Law
+*522  $aHonduras
+*650  $aaccess to information
+*651  $a6239
+*693  $aAccess to information
+^
+200000733
+*041  $apor
+*245  $aPress law
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 December 2006 / IFEX Communiqué Vol 15 Issue 48
+*505  $aA new press law passed in May 2006 will not provide adequate protection for media to report freely in the run-up to the elections. Although it abolishes the state monopoly over television
+broadcasting and calls for the creation of a public broadcaster, it sets out licensing procedures for private broadcasting that are too bureaucratic and largely subject to the discretion of government
+officials.
+*518  $3Law
+*522  $aAngola
+*650  $amedia
+*650  $aprotection
+*650  $aelection
+*651  $a5412
+*693  $aFreedom of expression
+^
+200000734
+*041  $aeng
+*245  $aFreedom of Information Bill
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 December 2006 / IFEX Communiqué Vol 15 Issue 48
+*505  $aPassed on 15 November 2006, the Freedom of Information Bill had been pending since 1999, when it was first introduced in the lower House of Representatives. Under the bill, anyone who destroys
+or falsifies public records can be sentenced to jail for up to three years.
+*518  $3Law
+*522  $aNigeria
+*650  $aHouse of Representatives
+*650  $alegislation
+*651  $a5548
+*693  $aFreedom of information
+^
+200000735
+*041  $aeng
+*100  $aSimons,Daniel
+*245  $aDefamation ABC
+$bA simple introduction to key concepts of defamation law
+*250  $aArticle 19
+*260  $aLondon
+$c2006
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 28 November 2006 / IFEX Communiqué Vol 15 Issue 47
+*505  $aIt is designed to give campaigners a user-friendly introduction to criminal and civil defamation law, international standards regarding defamation and freedom of expression, and possible legal
+remedies and alternatives. Available online here: http://www.article19.org/data/files/pdfs/tools/defamation-abc.pdf
+*518  $3Book
+*522  $aUnited Kingdom
+*650  $ainternational standards
+*650  $adefamation
+*650  $aStatute of limitations
+*650  $alaw
+*651  $a8051
+*693  $aFreedom of expression
+^
+200000736
+*041  $aper
+*245  $aBBC
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 14 November 2006 / IFEX Communiqué Vol 15 Issue 45, Organization for Security and Cooperation in Europe (OSCE)
+*505  $aPresident Imomali Rakhmonov was re-elected for a third term on 6 November 2006, with a reported 74.6 percent of the vote.The Organization for Security and Cooperation in Europe (OSCE) says the
+electoral process, which leading opposition parties boycotted, did not meet democratic standards. State-controlled television, the main source of news and information in Tajikistan, covered
+Rakhmonov's campaign extensively and uncritically. In contrast, other candidates were "practically invisible in most areas" of the country, according to the OSCE. In January 2006, government
+regulators suspended the BBC's FM broadcasts and, in July, formally denied the BBC an FM licence. The last independent TV station was shut down in May 2005.
+*506  $a-
+$bAuthorities
+*518  $aJanuary 2006
+$3Radio
+*522  $aTajikistan
+*650  $aboycott
+*650  $aelection
+*650  $aparties
+*651  $a7241
+*691  $aPolitical
+*692  $aSuspended
+*700  $aRakhmonov,Imomali
+$ePresident
+
+^
+200000737
+*041  $aara
+*245  $aAl-Tagheir
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 14 November 2006 / IFEX Communiqué Vol 15 Issue 45
+*505  $aYemen's presidential elections of 20 September 2006 were marred by media freedom violations. Security forces in Aden confiscated almost 1,000 copies of the opposition "Al-Tagheir" newspaper
+three days before the vote.
+*506  $a-
+$bArmed forces
+*518  $a20 September 2006
+$3Newspaper
+*522  $aYemen
+*650  $amedia
+*650  $aelection
+*651  $a7355
+*691  $aPolitical
+*692  $aConfiscated
+
+^
+200000739
+*041  $aara
+*245  $aAl-Sharqiya TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 7 November 2006 / IFEX Communiqué Vol 15 Issue 44
+*505  $aRSF notes that last week, 50 police officers raided the Baghdad studios of Al-Sharqiya TV and threatened to close it down if it broadcast programmes about the recent conviction of former Iraqi
+dictator Saddam Hussein.
+*506  $a-
+$bPolice
+*518  $a8 November2006
+$3Television
+*522  $aIraq
+*650  $araid
+*650  $aBaghdad
+*651  $a7328
+*691  $aPolitical
+*692  $aThreatened
+*700  $aHussein,Saddam
+$epresident
+^
+200000740
+*041  $aara
+*245  $aAl-Zawraa TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 7 November 2006 / IFEX Communiqué Vol 15 Issue 44, Committee to Protect Journalists (CPJ)
+*505  $aIraqi security forces also raided the studios of two Sunni-owned satellite channels on 5 November following an order by the interior ministry to close the stations indefinitely, reported CPJ.
+The Iraqi government, led by Shiite Prime Minister Nuri Kamal Al-Maliki, accused Al-Zawraa TV in Baghdad and Saleheddin TV in Tikrit inciting sectarian violence in the hours after Saddam was sentenced
+to death.
+*506  $a-
+$bAuthorities
+*518  $a5 November2006
+$3Television
+*522  $aIraq
+*650  $araid
+*650  $aSunni
+*650  $asatellite TV
+*651  $a7328
+*691  $aPolitical
+*692  $aClosed
+*700  $aAl-Maliki,Nuri Kamal
+$ePrime Minister
+^
+200000741
+*041  $aara
+*245  $aSaleheddin TV
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 7 November 2006 / IFEX Communiqué Vol 15 Issue 44, Committee to Protect Journalists (CPJ)
+*505  $aIraqi security forces also raided the studios of two Sunni-owned satellite channels on 5 November following an order by the interior ministry to close the stations indefinitely, reported CPJ.
+The Iraqi government, led by Shiite Prime Minister Nuri Kamal Al-Maliki, accused Al-Zawraa TV in Baghdad and Saleheddin TV in Tikrit inciting sectarian violence in the hours after Saddam was sentenced
+to death.
+*506  $a-
+$bAuthorities
+*518  $a5 November 2006
+$3Television
+*522  $aIraq
+*650  $aAl-Zawraa TV
+*650  $araid
+*650  $asatellite TV
+*651  $a7328
+*691  $aPolitical
+*692  $aClosed
+*700  $aAl-Maliki,Nuri Kamal
+$ePrime Minister
+^
+200000742
+*041  $aeng
+*245  $aPrinting Presses and Publications Act
+*260  $c1984
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 31 October 2006 / IFEX Communiqué Vol 15 Issue 43, Southeast Asian Press Alliance (SEAPA)
+*505  $aThe Printing Presses and Publications Act (1984) requires that all periodicals obtain a permit from the internal security minister before they can publish. The permit is subject to renewal
+annually and can be revoked without judicial review.
+*518  $3Law
+*522  $aMalaysia
+*650  $apermits
+*650  $apublishing
+*651  $a7536
+*693  $aFreedom of expression
+^
+200000743
+*041  $aeng
+*245  $aSedition Act
+*260  $c1948
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 31 October 2006 / IFEX Communiqué Vol 15 Issue 43
+*505  $aThe Sedition Act (1948) criminalises any speech that has a "seditious tendency." Those found guilty can be jailed for up to three years or fined RM5,000 (approx. US$1,360).
+*518  $3Law
+*522  $aMalaysia
+*650  $asedition
+*650  $alegislation
+*651  $a7536
+*693  $aFreedom of expression
+^
+200000744
+*041  $aeng
+*245  $aOfficial Secrets Act
+*260  $c1972
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 31 October 2006 / IFEX Communiqué Vol 15 Issue 43
+*505  $aThe Official Secrets Act (1972) allows for official documents, information or materials to be classified as top secret, the reasons for which cannot be questioned in court.
+*518  $3Law
+*522  $aMalaysia
+*650  $aaccess to information
+*650  $aclassified
+*650  $atop secret
+*651  $a7536
+*693  $aFreedom of information
+^
+200000745
+*041  $aeng
+*245  $aInternal Security Act
+*260  $c1960
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 31 October 2006 / IFEX Communiqué Vol 15 Issue 43
+*505  $aThe Internal Security Act (1960), among others, empowers the police to prohibit the publication, circulation and possession of subversive publications or documents that incite violence, breach
+of laws, breach of peace and which are prejudicial to the national interest or security of the country. It also allows for detention without trial of persons deemed a threat to national security.
+*518  $3Law
+*522  $aMalaysia
+*650  $acensorship
+*650  $acirculation
+*650  $aviolence
+*650  $anational security
+*651  $a7536
+*693  $aCensorship
+^
+200000746
+*041  $aeng
+*100  $aChan,Geoffrey*100$aKay,Rachael
+*245  $aCampaigning for Freedom of Expression
+$bA Handbook for Advocates
+*250  $aIDEACCESS
+*260  $aToronto
+$c2005
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 19 September 2006 / IFEX Communiqué Vol 15 Issue 37
+*505  $aFEX is pleased to announce the publication of the Russian-language version of "Campaigning for Freedom of Expression: A Handbook for Advocates". The handbook contains best practices in
+campaigning, online resources and practical tools that can be applied anywhere in the world. Available in english here:http://www.ifex.org/download/en/IFEXCampaignHandbook.pdf
+*518  $3Book
+*522  $aCanada
+*650  $acampaigning
+*650  $aresources
+*650  $atools
+*651  $a6322
+*693  $aFreedom of expression
+^
+200000747
+*041  $aeng
+*245  $aAnti-Terrorism (No.2) Act
+*440  $v2005
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 September 2006 / IFEX Communiqué Vol 15 Issue 35
+*505  $aThe legislation gives police more powers to obtain documents that relate to a terrorism offence, or serious offence, with no protection for a journalist's professional privilege. Federal
+police can force journalists to hand over information if it will help in the investigation of a "serious offence," including information pertaining to the identity of a confidential source.
+*518  $3Law
+*522  $aAustralia
+*650  $adocuments
+*650  $aterrorism
+*650  $ajournalists
+*651  $a9012
+*693  $aFreedom of expression
+^
+200000748
+*041  $aara
+*245  $aBahrain Online
+$bhttp://bahrainonline.org/
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 September 2006 / IFEX Communiqué Vol 15 Issue 35, Egyptian Organization for Human Rights (EOHR)
+*505  $aAs Bahrain prepares to hold parliamentary elections in October 2006. Authorities continue to block access to the country's eight most active opposition websites and forums, including Bahrain
+Online (http://bahrainonline.org/).
+*506  $a-
+$bAuthorities
+*518  $a5 September 2006
+$3Websites
+*522  $aBahrain
+*650  $aelections
+*650  $aopposition
+*650  $awebsites
+*651  $a7312
+*691  $aPolitical
+*692  $aBlocked
+^
+200000749
+*041  $aeng
+*245  $aThe Independent
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 5 September 2006 / IFEX Communiqué Vol 15 Issue 35, Reporters sans frontières (RSF)
+*505  $aPrivate newspaper, "The Independent", has been regularly targeted by authorities, notes RSF. Its printing press was set on fire in 2004 by men suspected of being members of the National Guard.
+The paper's headquarters have been sealed and it has been illegally prevented from publishing since 28 March 2006.
+*506  $a-
+$bArmed forces
+*518  $a5 September 2006
+$3Newspaper
+*522  $aGambia
+*650  $aprinting press
+*650 $fire
+*651  $a5529
+*691  $aPolitical
+*692  $aShut down
+^
+200000750
+*041  $aeng
+*245  $aRace to the Bottom
+$bCorporate Complicity in Chinese Internet Censorship
+*250  $aHuman Rights Watch
+*260  $aNew York
+$c2006
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 15 August 2006 / IFEX Communiqué Vol 15 Issue 32
+*505  $aDocuments how extensive corporate and private sector cooperation including by some of the world s major Internet companies enables this system of censorship. Available here:
+http://www.hrw.org/reports/2006/08/09/race-bottom
+*518  $3Book
+*522  $aChina
+*650  $aCensorship
+*650  $aInternet
+*650  $aprivate sector
+*651  $a7117
+*693  $aFreedom of expression
+^
+200000751
+*041  $achi
+*245  $aLife Week
+$bShiji Zhongguo
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 8 August 2006 / IFEX Communiqué Vol 15 Issue 31
+*505  $aChina's Communist party has launched a new crackdown on the Internet.The crackdown began on 25 July 2006, when authorities closed the websites of Century China (Shiji Zhongguo) and the chat
+forum of the magazine "Life Week" (Sanlian Shenghuo Zhoukan).
+*506  $a-
+$bAuthorities
+*518  $a25 July 2006
+$3Websites
+*522  $aChina
+*650  $amagazine
+*650  $acrackdown
+*651  $a7117
+*691  $aPolitical
+*692  $aClosed
+
+^
+200000752
+*041  $achi
+*245  $aBlog daqi
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 8 August 2006 / IFEX Communiqué Vol 15 Issue 31
+*505  $aChina's Communist party has launched a new crackdown on the Internet. On 28 July, two blogs belonging to Tibetan poet Woeser (also known as Oser and, in Chinese, Wei Se) were shut down by
+their host providers without explanation.
+*506  $a-
+$bAuthorities
+*518  $a28 July2006
+$3Websites
+*522  $aChina
+*650  $aOser
+*650  $aWei Se
+*650  $aTibet
+*651  $a7117
+*691  $aPolitical
+*692  $aShut down
+*700  $aWoeser,Tsering
+$epoet*700$aLixiong,Wang$bwriter
+^
+200000753
+*041  $achi
+*245  $aDijin democracy
+$bwww.Dijin-democracy.net
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 8 August 2006 / IFEX Communiqué Vol 15 Issue 31
+*505  $aChina's Communist party has launched a new crackdown on the Internet. Wang Lixiong, an independent Chinese writer's website (http://www.Dijin-democracy.net), has also been shut down.
+*506  $a-
+$bAuthorities
+*518  $a8 August 2006
+$3Websites
+*522  $aChina
+*650  $aCommunist Party
+*650  $acrackdown
+*651  $a7117
+*691  $aPolitical
+*692  $aShut down
+*700  $aLixiong,Wang
+$ewriter
+^
+200000754
+*041  $achi
+*245  $ae-Wik
+$bwww.eeeeee.org/wiki/
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 8 August 2006 / IFEX Communiqué Vol 15 Issue 31, Reporters sans frontières (RSF)
+*505  $aChina's Communist party has launched a new crackdown on the Internet. Since late July, e-Wik (http://www.eeeeee.org/wiki/), a Chinese collaborative encyclopedia based on the popular website
+Wikipedia, has ceased functioning.
+*506  $a-
+$bAuthorities
+*518  $a8 August 2006
+$3Websites
+*522  $aChina
+*650  $aCommunist Party
+*650  $acrackdown
+*650  $aFalun Gong
+*650  $aSouthern Democratic Alliance
+*651  $a7117
+*691  $aPolitical
+*692  $aShut down
+^
+200000755
+*041  $achi
+*245  $aPolls
+$bZhongguo guoqing zixun
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 8 August 2006 / IFEX Communiqué Vol 15 Issue 31
+*505  $aChina's Communist Party has launched a new crackdown on the Internet. Authorities withdrew the operating license of the website Polls (Zhongguo guoqing zixun) on 3 August. The website
+(http://www.s007s.com/) had recently asked visitors to "cast votes" on the question: "Do you think the General Secretary of the Communist Party of China should be chosen from among several candidates
+in differential voting?" Nearly 75 per cent of those polled had answered yes.
+*506  $a-
+$bAuthorities
+*518  $a3 August 2006
+$3Websites
+*522  $aChina
+*650  $alicense
+*650  $aCommunist Party
+*650  $acrackdown
+*650  $apoll
+*650  $aGeneral Secretary
+*651  $a7117
+*691  $aPolitical
+*692  $aWithdrawn
+^
+200000756
+*041  $apor
+*245  $aImprensa Livre
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 1 August 2006 / IFEX Communiqué Vol 15 Issue 30, Reporters Sans Frontières (RSF)
+*505  $aIn São Sebastião, gunmen stormed the offices of the daily newspaper "Imprensa Livre" on 18 May, beat employees and set fire to that day's print run.
+*506  $a-
+$b
+*518  $a1 August 2006
+$3Newspaper
+*522  $aBrazil
+*650  $aSão Sebastião
+*650  $afire
+*650$violence
+*651  $a8045
+*691  $aPolitical
+*692  $aDestroyed
+^
+200000757
+*041  $atur
+*245  $aAnti-terrorism law
+*440  $v29 June 2006
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 18 July 2006 / IFEX Communiqué Vol 15 Issue 28
+*505  $aRSF says the amendments to the 1991 Law on the Fight against Terrorism, passed by parliament on 29 June, could lead to arbitrary prosecutions of journalists covering "terrorist organisations"
+and will particularly impact pro-Kurdish media.
+*518  $3Law
+*522  $aTurkey
+*650  $aamendments
+*650  $aterrorism
+*650  $amedia
+*651  $a8048
+*693  $aFreedom of expression
+^
+200000758
+*041  $aeng
+*100  $aEsposito,John
+*245  $aWhat Everyone Needs to Know about Islam
+*250  $aOxford University Press
+*260  $aUSA
+$c2002
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 18 July 2006 / IFEX Communiqué Vol 15 Issue 28
+*505  $aSince mid-June, Malaysian authorities have banned 18 books on Islam and religion on the grounds that they could "disrupt peace and harmony".
+*506  $a-
+$bAuthorities
+*518  $a18 July2006
+$3Book
+*522  $aMalaysia
+*650  $aIslam
+*651  $a7536
+*691  $aReligion
+*692  $aBanned
+^
+200000759
+*041  $aeng
+*100  $aArmstrong,Karen
+*245  $aThe Battle for God
+$bFundamentalism in Judaism, Christianity and Islam.
+*250  $aHarper Collins
+*260  $c2001
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 18 July 2006 / IFEX Communiqué Vol 15 Issue 28
+*505  $aSince mid-June, Malaysian authorities have banned 18 books on Islam and religion on the grounds that they could "disrupt peace and harmony".
+*506  $a-
+$bAuthorities
+*518  $a18 July2006
+$3Book
+*522  $aMalaysia
+*650  $aJudaism
+*650  $aChristianity
+*650  $aIslam
+*651  $a7536
+*691  $aReligion
+*692  $aBanned
+^
+200000760
+*041  $aeng
+*245  $aPrinting Presses and Publication Act
+*260  $c1984
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 18 July 2006 / IFEX Communiqué Vol 15 Issue 28
+*505  $aSince mid-June, Malaysian authorities have banned 18 books on Islam and religion on the grounds that they could "disrupt peace and harmony". The ban is in accordance with the Printing Presses
+and Publication Act of 1984, which many observers consider "an oppressive tool" used to curb freedom of expression.
+*518  $3Law
+*522  $aMalaysia
+*650  $abanned
+*650  $abooks
+*650  $aIslam
+*651  $a7536
+*693  $aFreedom of expression
+^
+200000761
+*041  $abur
+*245  $aPrinters and Publishers Registration Act
+*260  $c1989
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 27 July 2006 / IFEX Communiqué Vol 15 Issue 25
+*505  $aUnder Burma's 1962 Printers and Publishers Registration Act, which was amended in 1989, offenders face a jail term of up to seven years and a fine of up to 30,000 Kyat (approx. US$5), notes
+SEAPA. The Act requires that all books, periodicals, song lyrics and motion picture scripts be submitted to the Press Scrutiny Board for approval.
+*518  $3Law
+*522  $aBurma
+*650  $aPress Scrutiny Board
+*650  $acensorship
+*650  $a1962
+*651  $a7516
+*693  $aFreedom of expression
+^
+200000762
+*041  $aara
+*245  $aPalestine Television
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 13 July 2006 / IFEX Communiqué Vol 15 Issue 23
+*505  $aA growing struggle between warring factions within the Palestinian Authority is making Palestinian media outlets more prone to attacks. They also destroyed broadcasting equipment, archives,
+computers and furniture worth more than US$1 million, making the studio unusable.
+*506  $a-
+$bAuthorities
+*518  $a13 July 2006
+$3Television
+*522  $aPalestinian Territory
+*650  $aKhan Younis
+*650  $aGaza Strip
+*651  $a7354
+*691  $aPolitical
+*692  $aDestroyed
+^
+200000763
+*041  $aara
+*245  $aBattle of Reform in Syria
+*250  $aCairo Institute for Human Rights Studies
+*260  $c2006
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 13 July 2006 / IFEX Communiqué Vol 15 Issue 23
+*505  $aThe Cairo Institute for Human Rights Studies has published a new report that chronicles the struggle of pro-democracy advocates against censorship in Syria. "Battle of Reform in Syria"
+examines the country's emerging civil society movement and explores the impact of repression on Syrian society.
+*518  $3Book
+*522  $aSyria
+*650  $areport
+*650  $acensorship
+*650  $asocial movement
+*650  $areform
+*651  $a7348
+*693  $aFreedom of expression
+^
+200000764
+*041  $afre
+*245  $aKinshasa-based broadcaster Radiotélévision Message de Vie (RTMV)
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 6 July 2006 / IFEX Communiqué Vol 15 Issue 22
+*505  $aThe Democratic Republic of Congo (DRC) prepares to hold elections. On 22 May 2006, armed assailants stormed into the offices of the Kinshasa-based broadcaster Radiotélévision Message de Vie
+(RTMV). They destroyed equipment and forced the station off the air. Sources said the assailants were state security agents dressed in civilian clothes.
+*506  $a-
+$bArmed forces
+*518  $a22 May 2006
+$3Television
+*522  $aCongo
+*650  $aattack
+*650  $aequipment
+*650  $astate security agents
+*650  $aelections
+*651  $a5123
+*691  $aPolitical
+*692  $aShut down
+^
+200000765
+*041  $aeng
+*245  $aSecrecy Act
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 23 May 2006 / IFEX Communiqué Vol 15 Issue 20
+*505  $aAs many as 32 "unfriendly" media laws currently exist in Swaziland. Secrecy Act, which forbids journalists from publishing information the government considers secret.
+*518  $3Law
+*522  $aSwaziland
+*650  $amedia law
+*651  $a5460
+*693  $aFreedom of expression
+^
+200000766
+*041  $aeng
+*245  $aANNUAL REPORT OF THE OFFICE OF THE SPECIAL RAPPORTEUR FOR FREEDOM OF EXPRESSION
+*250  $aOrganization of American States
+*500  $aIFEX (International Freedom of Expression Exchange) http://www.ifex.org 23 May 2006 / IFEX Communiqué Vol 15 Issue 20
+*505  $aThe report documents violations recorded during 2005 in 35 countries in North, Central and South America, and the Caribbean. It also includes a legal analysis of public demonstrations as a
+form of freedom of expression, a report on access to information laws in the region, and a comparative study of the use of exit polls during elections in Europe and the Americas.
+*518  $3Book
+*522  $aAmericas
+*650  $areport
+*650  $aNorth America
+*650  $aCentral America
+*650  $aCaribbean
+*650  $aEurope
+*650  $ainformation laws
+*650  $aelections
+*651  $a6000
+*693  $aFreedom of expression
+^
+200000767
+*041  $aspa
+$hspa
+*100  $aMönckeberg, M. Olivia
+$eauthor
+*245  $aLibertad de expresión en Chile 1979
+*260  $aSantiago
+$bs.e.
+$c1979
+*300  $a14 p.
+*500  $aFundación de Documentación y Archivos de la Vicaría de la Solidaridad. http://www.archivovicaria.cl/inicio.htm
+*520  $aSolicitar a/por: CD:00579.00 Análisis de la libertad de expresión en Chile, a partir de la instauración del Gobierno Militar, como reflexión de la suspensión de la Revista Hoy. Se incluyen
+referencias a los problemas anteriores a la suspensión del semanario, las disposiciones restrictivas, advertencias y autocensura. Además contiene anexo con referencias periodísticas sobre la libertad
+de expresión desde junio de 1977. <DERECHO A LA LIBERTAD DE EXPRESION> <LIBERTAD DE PRENSA> <CENSURA DE MEDIOS DE COMUNICACION> <JUNTA MILITAR DE GOBIERNO>
+*522  $a6424
+*650  $afreedom of expression
+*650  $amilitary coup
+*650  $apress freedom
+*693  $aFreedom of expression
+*700  $aGonzález Camus, Ignacio
+$eAuthors
+*700  $aMoreno Laval, Jaime
+*700  $aSantibañez, Abraham
+^
+200000768
+*041  $aspa
+$hspa
+*100  $aPortales, Diego
+*245  $aTelevisión chilena. Censura o libertad
+$bEl caso de la visita de Juan Pablo II
+*260  $aSantiago: Pehuén
+$bImpreso General
+$c1988
+*300  $a287 p.
+*500  $aFundación de Documentación y Archivos de la Vicaría de la Solidaridad. http://www.archivovicaria.cl/inicio.htm
+*520  $aSolicitar a/por: 15/S586 En el capítulo se refiere el proceso contra René Silva E., en 1967, entonces director del diario El Mercurio, por publicar carta apócrifa y guardar secreto
+profesional. <PROCESOS CONTRA PERIODISTAS> <SECRETO PROFESIONAL> <LIBERTAD DE EXPRESION>
+*650  $atelevision
+*650  $acensorship
+*650  $aJuan Pablo II
+*651  $a6424
+*693  $aCensorship
+*700  $aHirmas, M.Eugenia
+*700  $aAltamirano, Juan Carlos
+*700  $aEgaña, Juan Pablo
+^
+200000769
+*041  $aspa
+$hspa
+*110  $aColegiode Periodistas de Chile A.G.
+*245  $aLas batallas por lalibertad de expresión (1979-1986)
+$bprincipales declaraciones, documentos, discursos,comunicados de prensa sobre el tema de la libertad de expresión, desde el tercer congreso nacional de El Tabo hasta la demanda de los periodistas
+*260  $aSantiago, se.
+$bImpreso General
+$c1986
+*300  $a239 p.
+*500  $aFundación de Documentación y Archivos de la Vicaría de la Solidaridad. http://www.archivovicaria.cl/inicio.htm
+*520  $aSolicitar a/por: CD:00103.00 Las batallas por la libertad de expresión (1979-1986): principales declaraciones, documentos, discursos, comunicados de prensa sobre el tema de la libertad de
+expresión, desde el tercer congreso nacional de El Tabo hasta la demanda de los periodistas. Santiago: Colegio de Periodistas, A.G., julio 1986. 239 p. <LIBERTAD DE EXPRESION> <LEY SOBRE ABUSOS DE
+PUBLICIDAD> <ESTADO DE EXCEPCION> <PERIODISTA> <LIBERTAD DE PRENSA>
+*650  $apress freedom
+*650  $ajournalism
+*650  $alegislation
+*651  $a6424
+*693  $aFreedom of expression
+^
+200000770
+*041  $aspa
+$hspa
+*110  $aAsociación Americana de Juristas
+*245  $aChile
+$bInforme. Buenos Aires: Rama Argentina de la Asociación Americana de Juristas
+$cCuadernos de la Asociación Americana de Juristas, n. 2
+*260  $c1987
+*300  $a184 p.
+*500  $aFundación de Documentación y Archivos de la Vicaría de la Solidaridad. http://www.archivovicaria.cl/inicio.htm
+*520  $aSolicitar a/por: CD:00246.00 Contiene informe sobre la misión de la A.A.J. en Chile. Ilegitimidad de la Constitución de 1980. Caso Cánovas. Detenidos-Desaparecidos y detenidos ejecutados. El
+caso del ministro Carlos Cerda, que sometió a proceso a decenas de militares. Justicia Militar. El exilio y el caso de los retornados legal y clandestinamente. Las relegaciones administrativas. Caso
+jóvenes quemados. Problemática de presos políticos. Posición del Colegio de Abogados. Libertad de Prensa. <CONSTITUCION POLITICA DE 1980> <JUSTICIA MILITAR> <LIBERTAD DE PRENSA>
+<INFORME-ORGANIZACIONES INTERNACIONALES>
+*650  $apress freedom
+*650  $aconstitution
+*651  $a6424
+*693  $aLegislation
+^
+200000771
+*041  $ahun
+*100  $aGyörffy,Gábor
+*245  $aKommunista cenzúra a XX. században
+*300  $ap. 1120-1127.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aCommunist censorship in the twentieth century.
+*518  $3Book
+*522  $aHungary
+*650  $acensorship
+*650  $acommunism
+*651  $a8029
+*693  $aCensorship
+^
+200000772
+*020  $a9639109134
+*041  $ahun
+*100  $aSzörényi,László
+*245  $aDelfinárium
+$bfilológiai groteszkek
+*260  $aBudapest
+$bHelikon
+$ccop. 2010
+*300  $a232 p.
+*500  $aHungarian National Bibliography, National Széchényi Library
+*505  $aDolphinarium, philological grotesque.
+*518  $3Book
+*522  $aHungary
+*650  $aliterary history
+*650  $acensorship
+*650  $apublishing
+*650  $aPost 1945
+*651  $a8029
+*693  $aCensorship
+^
+200000773
+*020  $a9789630964692
+*041  $ahun
+*100  $aBarbier,Frédéric
+*245  $aA modern Európaszületése
+$bGutenberg Európája
+*260  $aBudapest
+$bKossuthOSZK
+$ccop. 2010
+*300  $a348 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aThe Birth of Modern Europe, Gutenberg Europe.
+*518  $3Book
+*522  $aHungary
+*650  $acultural history
+*650  $abook history
+*650  $aMiddle Ages
+*651  $a8029
+*693  $aFreedom of Expression
+*700  $aBalázs,Péter
+$eTranslator
+^
+200000774
+*020  $a9789632005706
+*041  $ahun
+*100  $aGranasztói,Olga
+*245  $aFrancia könyvek magyarolvasói
+$ba tiltott irodalom fogadtatása Magyarországon, 1770-1810
+*260  $aBudapest
+$bOSZKUniversitas
+$c2009
+*300  $a319 p.
+*500  $ahungarian national bibliography, nathional széchenyi library
+*505  $aHungarian readers of French books, the reception of prohibited literature in Hungary, 1770-1810.
+*518  $3Book
+*522  $aHungary
+*650  $abook culture
+*650  $acensorship
+*650  $aprivate library
+*650  $acultural history
+*650  $a18th century
+*651  $a8029
+*693  $aCensorship
+^
+200000775
+*020  $a978963870499
+*041  $ahun
+*100  $aBényei,Miklós
+*245  $aM&#369;vel&#337;désitörekvések az erdélyi reformországgy&#369;léseken, 1834-1848
+*260  $aDebrecen
+$bErdély-történeti Alapítvány
+$c2008
+*300  $a270 p.
+*440  $aErdély-történeti könyvek
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aEducational Efforts to reform the country rallies in Transylvania, 1834-1848.
+*518  $3Book
+*522  $aHungary
+*650  $aparliament
+*650  $aeducationpolicy
+*650  $acultural life
+*650  $aage of Reform
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000776
+*020  $a978963066386
+*041  $ahun
+*100  $aNolik,Antal
+*245  $aA lefagyasztott hadsereg
+*260  $a[Budapest]
+$b[Dobó G.]
+$ccop. 2009
+*300  $a248 p.
+*440  $aCenzúra könyvek
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aadventure story, The Frozen army.
+*518  $3Book
+*522  $aHungary
+*650  $aBeyond the borders
+*650  $aliterature
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000777
+*041  $ahun
+*245  $aCenzúra könyvek
+*260  $a[Budapest]
+$b[Dobó G.]
+$c[2009]-
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aCensorship of books.
+*518  $3Book series
+*522  $aHungary
+*650  $abooks
+*650  $aHungary
+*650  $acensorship
+*651  $a8029
+*693  $aCensorship
+^
+200000778
+*020  $a9789637524936
+*041  $ahun
+*100  $aNemere,István
+*245  $aTiltott könyvek
+*260  $aGyöngyös
+$bPallas
+$c2008
+*300  $a223 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aBanned books.
+*522  $aHungary
+*650  $aHistory
+*650  $aWorld literature
+*650  $acensorship
+*651  $a8029
+*693  $aCensorship
+^
+200000779
+*020  $a9789637615542
+*041  $ahun
+*100  $aPogányné Rózsa,Gabriella
+$qPogányné Rózsa Gabriella
+*245  $aA könyvkultúra kutatásának kútf&#337;i
+$ba könyv-, az írás-, a nyomdászat történet, a könyvtártudomány és a könyvkereskedelem szakirodalmi forrásai
+*260  $aBudapest
+$bHatágú Síp Alapítvány
+$c2008
+*300  $a199 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aThe wellspring of research of the book culture. The book, writing, printing the story, the book trade and library science literature.
+*518  $3Book
+*522  $aHungary
+*650  $alibrary science
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000780
+*020  $a9632167479
+*041  $ahun
+*100  $aSz&#337;ke,György
+*245  $aHatalom és kultúra II.
+$bCenzúra és textológia
+*260  $aBudapest
+$bNemzetközi Magyarságtudományi Társaság
+$c2004
+*300  $a589 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aPower and Culture. Available online, in the Hungarian Electronic Library: http://mek.niif.hu/04900/04927/pdf/hatalom2.pdf
+*518  $3Book
+*522  $aHungary
+*650  $aliterature
+*650  $ahistory
+*651  $a8029
+*693  $aCensorship
+*700  $aJózsef,Attila
+$epoet
+^
+200000781
+*020  $a9789632005331
+*041  $ahun
+*100  $aGranasztói,Olga
+*245  $aVeszedelmes olvasmányok
+$berotikus illusztrációk a 18. századi francia irodalombankiállítás az Országos Széchényi Könyvtár, a Tony Fekete Magángy&#369;jtemény, a Bibliothèque nationale de France, az Österreichische
+Nationalbibliothek és a Biblioteca Jude&#355;ean&#259;
+*260  $aBudapest
+$bOSZKKossuth
+$c2007
+*300  $a196 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aDangerous Reading, erotic illustrations in the 18th century French literature, exhibition at the National Széchenyi Library, Tony Black Private Collection of the Bibliothèque nationale de
+France, Österreichische Nationalbibliothek and the Biblioteca Jude&#355;ean&#259;.
+*522  $aHungary France Austria Romania
+*650  $acultural history
+*650  $aHistory
+*650  $aFrench Literature
+*650  $aerotic literature
+*650  $abook art
+*650  $a18th century
+*651  $a8029
+*651  $a8023
+*651  $a8013
+*651  $a8043
+*693  $aFreedom of expression
+^
+200000782
+*020  $a9630612941
+*041  $ahun
+*100  $aGauland,Ágnes
+$d1977-
+*245  $aFábry cenzúra nélkül
+*260  $a[Budapest]
+$bPrivate Press.
+$ccop. 2006
+*300  $a224 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aSándor Fábry without censorship. Host of the popular television talk show, The Esti Showder.
+*518  $3Book
+*522  $aHungary
+*650  $acelebrity
+*650  $ashow
+*650  $amillennium
+*651  $a8029
+*693  $aFreedom of Expression
+*700  $aFábry,Sándor
+$ehumorist
+^
+200000783
+*041  $ahun
+*100  $aMecsnóber,Tekla
+*245  $aJames Joyce és az angolszász cenzúra
+*300  $ap. 252-281.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aJames Joyce and the Anglo-Saxon censorship.
+*518  $3Book
+*522  $aHungary
+*650  $aJames Joyce
+*650  $aCensorship
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000784
+*020  $a9633897238
+*041  $ahun
+*100  $aBarbier,Frédéric
+$d1952-
+*240  $lhungarian
+*245  $aA könyv története
+*260  $aBudapest
+$bOsiris
+$c2005
+*300  $a400 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aThe history of book.
+*518  $3Book
+*522  $aHungary
+*650  $abook history
+*651  $a8029
+*693  $aFreedom of Expression
+*700  $aBalázs,Péter
+$eTranslator
+^
+200000785
+*020  $a9633895979
+*041  $ahun
+*100  $aCseh, Gerg&#337; Bendegúz
+*245  $aZárt, bizalmas,számozott II.
+$bIrodalom-, sajtó- és tájékoztatáspolitika, 1962-1979
+*260  $aBudapest
+$bOsiris
+$c2004
+*300  $a720 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aClosed, confidential, numbered, Literature, media and information policy, 1962-1979.
+*518  $3Book
+*522  $aHungary
+*650  $acultural policy
+*650  $acensorship
+*650  $aKádár era
+*651  $a8029
+*693  $aCensorship
+^
+200000786
+*041  $ahun
+*100  $aMelinda,Kalmár
+*245  $aZárt, bizalmas,számozott
+*260  $aBudapest
+$bOsiris
+$c2004-
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aClosed, confidential, numbered.
+*518  $3Book
+*522  $aHungary
+*650  $acultural policy
+*650  $acensorship
+*650  $aKádár era
+*651  $a8029
+*693  $aCensorship
+^
+200000787
+*020  $a9638174102
+*041  $ahun
+*100  $aKoltay,András
+$d1978-
+*245  $aJogtörténeti tanulmányok Dr. Horváth Attila tiszteletére
+*260  $aBudapestNyíregyháza
+$bIn-forma
+$c2003
+*300  $a129 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aOutline of development of the Hungarian media law. Legal historical studies in honor of Dr. Attila Horvath.
+*518  $3Book
+*522  $aHungary
+*650  $amedia law
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000788
+*020  $a9632004701
+*041  $ahun
+*100  $aMonok,István
+$d1956-
+*245  $aA könyvtárak és a hatalom
+$btanulmányok és dokumentumok
+*260  $aBudapest
+$bOSZKGondolat
+$c2003
+*300  $a210 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aLibraries and power, Studies and Documents.
+*518  $3Book
+*522  $aHungary
+*650  $aLibraries
+*650  $aDocuments
+*651  $a8029
+*693  $aFreedom of expression
+^
+200000789
+*020  $a9633893771
+*041  $ahun
+*100  $aBart,István
+$d1944-
+*245  $aVilágirodalom és könyvkiadás a Kádár-korszakban
+*260  $aBudapest
+$bOsiris
+$c2002
+*300  $a170 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aWorld Literature and publishing in the Kádár era.
+*518  $3Book
+*522  $aHungary
+*650  $aKádár era
+*650  $aLiterature
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000790
+*041  $ahun
+*100  $aKontra,Miklós
+$d1950-
+*245  $aMihálynapi köszönt&#337;
+$bKicenzúráz - a cenzúra nem (tört)?
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aWho censored - censorship is not broken?
+*518  $3Book
+*522  $aHungary
+*650  $aCensorship
+*651  $a8029
+*693  $aCensorship
+^
+200000791
+*020  $a9631418278
+*041  $ahun
+*100  $aHaraszti,Miklós
+$d1945-
+*245  $aA cenzúra esztétikája
+*260  $aBudapest
+$bMagvet&#337;
+$c1991
+*300  $a144 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aThe aesthetics of censorship.
+*518  $3Book
+*522  $aHungary
+*650  $aCensorship
+*650  $aAesthetics
+*651  $a8029
+*693  $aCensorship
+^
+200000792
+*041  $ahun
+*100  $aMarkovits,Györgyi
+$d1919-1985
+*245  $aSzáll a tavasz..."
+$b"Óvták a népet ragályos verseimt&#337;l..." Illegális, üldözött, kéziratos irodalom és a cenzúra
+*260  $aBudapest
+$bMagvet&#337;
+$c1984
+*300  $ap. 103-115.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aIllegal, persecuted, manuscripts and literary censorship.
+*518  $3Book
+*522  $aHungary
+*650  $aLiterature
+*650  $aCensorhip
+*650  $aManuscripts
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000793
+*020  $a9630539861
+*041  $ahun
+*100  $aRévész,Mihály
+$d1945-
+*245  $aA sajtószabadság érvényesülése Magyarországon, 1867-1875
+*260  $aBudapest
+$bAkadémia
+$c1986
+*300  $a253 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aThe press freedoms in Hungary, 1867-1875.
+*518  $3Book
+*522  $aHungary
+*650  $aPress freedom
+*650  $aHungary
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000794
+*020  $a963053536X
+*041  $ahun
+*100  $aMarkovits,Györgyi
+$d1919-1985
+*245  $aA magyar írók harca a cenzúra ellen, 1919-1944
+*260  $aBudapest
+$bAkadémia
+$c1985
+*300  $a247 p., [52] t.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aThe Hungarian writers struggle against censorship, 1919-1944
+*518  $3Book
+*522  $aHungary
+*650  $aWriters
+*650  $aHungary
+*650  $aCensorship
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000795
+*020  $a9630345323
+*041  $ahun
+*100  $aEngelmayer,Ákos
+$d1938-
+*245  $aLengyel nyár, magyar &#337;sz
+$bAz 56-os magyar forradalom visszhangja, emléke és szerepe a hetvenes, nyolcvanas évek cenzúra nem látta (illegális) lengyel sajtójában és könyvkiadványaiban
+*260  $aBudapest
+$bOrszágos Lengyel Kisebbségi Önkormányzat
+$c1997
+*300  $ap. 55-65.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aThe echoes of the 1956 Hungarian Revolution, and the role of memory in the seventies and eighties saw no censorship (illegal) in the Polish press and book publications.
+*518  $3Book
+*522  $aHungary
+*650  $aPoland
+*650  $aRevolution
+*650  $aPress
+*650  $aBooks
+*651  $a8029
+*651  $a8041
+*693  $aFreedom of Expression
+^
+200000796
+*020  $a9638006056
+*041  $ahun
+*100  $aEcsedy,Judit
+$d1946-
+*245  $aTitkos nyomdahely&#369; régi magyar könyvek, 1539-1800
+*260  $aBudapest
+$bBorda Antikvárium
+$c1996
+*300  $a246 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aSecret printing place of the old Hungarian books, 1539-1800.
+*518  $3Book
+*522  $aHungary
+*650  $aBooks
+*650  $aPrinting
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000797
+*020  $a9633791502
+*041  $ahun
+*100  $aDomokos,Mátyás
+$d1928-2006
+*245  $aLeletmentés
+$bkönyvek sorsa a "nemlétez&#337;" cenzúra korában, 1948-1989
+*260  $aBudapest
+$bOsiris
+$c1996
+*300  $a249 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aFindings Save: The fate of books in the "non-existent" censorship era, 1948-1989.
+*518  $3Book
+*522  $aHungary
+*650  $aBooks
+*650  $aCensorship
+*651  $a8029
+*693  $aCensorship
+^
+200000798
+*020  $a9638294175
+*041  $ahun
+*100  $aCsorba,Béla
+$d1950-
+*245  $aCeruza vagy cenzúra
+$b[publicisztikai írások]
+*260  $aBudapest
+$bHatodik Síp Alapítvány
+$c1995
+*300  $a154, [3] p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aPencil or censorship: journalistic writings.
+*518  $3Book
+*522  $aHungary
+*650  $aJournalism
+*650  $aCensorship
+*651  $a8029
+*693  $aCensorship
+^
+200000799
+*020  $a9637988416
+*041  $ahun
+*100  $aBényei,Miklós
+$d1943-
+*245  $aReformkori országgy&#369;lések a sajtószabadságról
+*260  $aDebrecen[!Nyíregyháza]
+$bStúdium
+$c1994
+*300  $a164 p.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aFormer Reform diets freedom of the press.
+*518  $3Book
+*522  $aHungary
+*650  $aReform
+*650  $aPress freedom
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000800
+*020  $a963761527X
+*041  $ahun
+*100  $aSchermann,Egyed
+$d1869-1945
+*245  $aAdalékok az állami könyvcenzura történetéhez Magyarországon Mária Terézia haláláig
+*260  $aBudapest
+$bHatágú Síp Alapítvány
+$c[1994]
+*300  $a57 p.
+*440  $aAntikvár-tár
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aAdditions to the public history of book censorship in Hungary, Maria Theresa's death.
+*518  $3Book
+*522  $aHungary
+*650  $aHistory
+*650  $aCensorship
+*650  $aHungary
+*651  $a8029
+*693  $aCensorship
+*700  $aMaria, Theresa Walburga Amalia Christina
+$d1717-1780
+$efemale ruler of the Habsburg dominions
+^
+200000801
+*020  $a963001615X
+*041  $ahun
+*100  $aLandeszmann,György
+$eeditor
+*245  $aEmlékkönyv dr. Schweitzer József születésnapjára
+$bHetven év
+*260  $aBudapest
+$bBZSH
+$c1992
+*300  $ap. 39-50.
+*500  $aHungarian National Bibliography, National Széchenyi Library
+*505  $aKeepsake dr. Joseph Schweitzer's birthday. Seventy years. Freedom of expression and censorship, among the Jewish people.
+*518  $3Book
+*522  $aHungary
+*650  $aDr. Joseph Schweitzer
+*650  $aJews
+*650  $aFreedom of expression
+*651  $a8029
+*693  $aCensorship
+*700  $aCarmilly-Weinberger,Moshe
+$d1908-
+$eauthor
+^
+200000802
+*041  $ahun
+*100  $aBalassa,Zsolt
+*245  $aA 3T és a sajtóirányítás
+*260  $c2011
+*300  $a86 p.
+*500  $aNational Széchenyi Library, Thesis, Eötvös Loránd University (Budapest), Faculty of Arts, 2011
+*505  $aThe 3T and media management.
+*518  $3Book
+*522  $aHungary
+*650  $acensorship
+*650  $aPress history (Hungary)
+*650  $a1960
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000803
+*041  $ahun
+*100  $aAlexovics,Vazul
+$d1742-1796
+*245  $aA' könyvek' szabadosolvasásáról két f&#337;-tzikkely
+$c[Alexovits Bazil]
+*260  $aPestenn
+$bPatzkó Ferentz' bet&#369;ivel
+$c1792
+*300  $a[16],278, [2] p.
+*500  $aNational Széchenyi Library
+*505  $aThe 'books' liberal reading of the two main articles. Voltaire, Bayle Rousseau's writings and distance-keeping.
+*518  $3Book
+*522  $aHungary
+*650  $aLiteracy
+*650  $aHistory
+*651  $a8029
+*693  $aFreedom of Information
+*700  $aRousseau,Jean-Jacques
+$d1712-1778
+*700  $aBayle,Pierre
+$d1647-?
+*700  $aVoltaire
+$d1694-1778
+^
+200000804
+*041  $ahun
+*100  $aAra-Kovács,Attila
+$d1953-
+$eeditor
+*245  $aEllenpontok
+*260  $aNew York
+$bCommitte for Human Rights in Rumania
+$c1982
+*500  $aNational Széchenyi Library
+*505  $aIn 1982, Oradea in Transylvania published samizdat journals in the United States distributed version.
+*518  $3Book
+*522  $aHungary
+*650  $apolicy
+*650  $aresistance movement
+*650  $aSamizdat journals
+*651  $a8029
+*693  $aCensorship
+^
+200000805
+*020  $a9637153004
+*041  $ahun
+*100  $aPéterfalvi,Attila
+$d1957-
+$eeditor
+*245  $aFreedom of information
+$btowards open governments in the new democracies speeches from the conference 4-7 May 1992 Budapest ...
+*260  $aBudapest
+$bSchool of Public Administration
+$c1992
+*300  $a98 p.
+*500  $aNational Széchenyi Library, Budapest School of Public Administration 1992-
+*518  $3Book
+*522  $aHungary
+*650  $aPrivacy Policy
+*650  $aConference
+*650  $aNew democracies
+*651  $a8029
+*693  $aFreedom of Information
+^
+200000806
+*020  $a9639563293
+*041  $ahun
+*100  $aBalázs,István
+$d1949-
+$ecomposer
+*245  $aMár megint egy új lap!
+$b1988-tól az EU-ig els&#337; évfolyam els&#337; számok tükrében
+*260  $aBudapest
+$bAnimus
+$c2004
+*300  $a304 p., [8] t.
+*500  $aNational Széchenyi Library
+*505  $aAgain a new page! From 1988 until the first year of the EU in light of first figures.
+*518  $3Book
+*522  $aHungary
+*650  $aJournal Issue
+*650  $aEuropean Union
+*651  $a8029
+*693  $aFreedom of Information
+*700  $aDebreczeni,József
+$d1955-
+$econtributor
+*700  $aKéri,László
+$d1951-
+$econtributor
+^
+200000807
+*020  $a9739694675
+*041  $ahun
+*100  $aBalázs,Mihály
+$d1948-
+*245  $aEmlékkönyv Jakó Zsigmond születésének nyolcvanadik évfordulójára
+$bJános Zsigmond fejedelem és a cenzúra
+*260  $aKolozsvár
+$bErdélyi Múzeum-Egyesület
+$c1996
+*300  $ap. 25-37.
+*500  $aNational Széchenyi Library
+*518  $3Book
+*522  $aHungary
+*650  $aHistory
+*650  $acensorship
+*650  $aPublishing
+*650  $aPrinting (Hungary)
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000808
+*020  $a9732608366
+*041  $ahun
+*100  $aBalázs,Sándor
+$d1928-
+*245  $aKiáltó szó
+$bvolt egyszer egy szamizdat
+*260  $aKolozsvár
+$bKriterion
+$c2005
+*300  $a299 p.
+*500  $aNational Széchenyi Library
+*505  $aVoice of one crying : There was once a samizdat
+*518  $3Book
+*522  $aHungary
+*650  $apress history
+*650  $aHungarian exiles
+*650  $aPost-1945
+*650  $apolitical transformation
+*650  $aHungarian exile literature
+*651  $a8029
+*693  $aCensorship
+^
+200000809
+*020  $a9789737605672
+*041  $ahun
+*100  $aBanu,Georges
+*245  $aA felügyelt színpad
+*260  $aKolozsvár
+$bKoinónia
+$c2007
+*300  $a184 p.
+*500  $aNational Széchenyi Library
+*505  $aThe supervised stage
+*518  $3Book
+*522  $aHungary
+*650  $aTheater
+*650  $aHistory
+*650  $aWorld Literature
+*650  $aSupervision
+*650  $acultural policy
+*651  $a8029
+*693  $aCensorship
+^
+200000810
+*041  $ahun
+*100  $aBékey,Mária Kamilla
+*245  $aKönyv- és könyvtár megsemmisítés az egyetemes könyv- és könyvtár-történetben
+*260  $c2009
+*300  $a39 p.
+*500  $aNational Széchenyi Library, Thesis, Eötvös Loránd University (Budapest). Faculty of Arts, 2009
+*505  $aDestruction of books and libraries in the universal library and book history.
+*518  $3Book
+*522  $aHungary
+*650  $aHistory
+*650  $aCensorship
+*650  $awar damage
+*650  $aLibraries
+*651  $a8029
+*693  $aCensorship
+^
+200000811
+*041  $ahun
+*100  $aBeöthy,Balázs
+$eeditor
+*245  $aHelyettes szomjazók magazinja
+$b[világnézettségi magazin]
+*260  $a[Budapest]
+$b[s.n.]
+$c[1984]-[1985]
+*500  $aNational Széchenyi Library
+*518  $3Book
+*522  $aHungary
+*650  $aliterature
+*650  $aKádár era
+*650  $aFine Art
+*650  $amodern art
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000812
+*041  $ahun
+*100  $aBerec,Eszter
+*245  $aSzamizdat politikai folyóiratok Magyarországon a hetvenes évekt&#337;l a rendszerváltásig
+*260  $c2001
+*300  $a56, [9] p.
+*500  $aNational Széchenyi Library, Thesis, [Eötvös Loránd University (Budapest). Faculty of Arts], 2001
+*505  $aSamizdat political periodicals in Hungary from the seventies to the political transformation.
+*518  $3Book
+*522  $aHungary
+*650  $acensorship
+*650  $aperiodicals
+*650  $aHungarian Press History
+*650  $aLiterature and political
+*651  $a8029
+*693  $aCensorship
+^
+200000813
+*041  $ahun
+*100  $aBere noj,Aleksandr Fedoseevi&#269;
+*245  $aCarskaâ cenzura i bor&#697; ba bol&#697ševikov za svobodu pe&#269;ati 1895-1914
+*260  $aLeningrad
+$bUniv.
+$c1967
+*300  $a286 p.
+*500  $aNational Széchenyi Library
+*518  $3Book
+*522  $aHungary
+*651  $a8029
+*693  $aCensorship
+^
+200000814
+*041  $ahun
+*100  $aBessenyei,Ágnes
+*245  $aA Tridenti Zsinat jelent&#337;sége az egyetemes könyvtörténetben
+*260  $c2009
+*500  $aNational Széchenyi Library, Thesis, Eötvös Loránd University (Budapest). Faculty of Arts, 2009
+*505  $aThe Council of Trent, the significance of the universal history books.
+*518  $3Book
+*522  $aHungary
+*650  $aHistory of censorship
+*650  $aBook History
+*650  $atypography
+*650  $areligious literature
+*650  $a16th century
+*651  $a8029
+*693  $aCensorship
+^
+200000815
+*041  $ahun
+*100  $aBessenyei,Ágnes
+*245  $aA Tridenti Zsinat jelent&#337;sége az egyetemes könyvtörténetben
+*260  $c2009
+*300  $a38, [2] p.
+*500  $aNational Széchenyi Library, Thesis, Eötvös Loránd University (Budapest). Faculty of Arts, 2009
+*505  $aThe Council of Trent, the significance of the universal history books.
+*518  $3Book
+*522  $aHungary
+*650  $aHistory
+*650  $acensorship
+*650  $a books
+*650  $atypography
+*650  $areligious literature
+*650  $a16th century
+*651  $a8029
+*693  $aCensorship
+^
+200000816
+*041  $ahun
+*100  $aBokros,Péter
+$eeditor
+*245  $aI M
+$bzsarumagazin exluziv[!] különkiadás Ifjúsági magazin ...
+*260  $aBudapest
+$bOziris Kiadó
+$c1984
+*500  $aNational Széchenyi Library
+*505  $aCop Magazine: Exclusive special edition, magazine for young people.
+*518  $3Book
+*522  $aHungary
+*650  $ayouth 
+*650  $apolitics
+*650  $ahome affairs
+*650  $ademocracy
+*650  $aKádár era
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000817
+*041  $ahun
+*100  $aBokros,Péter
+$eeditor
+*245  $aInconnu press
+$balkalmi eseményújság Inconnu Group Hungary
+*260  $aSzolnok
+$bArteria Kiadó
+$c1984-1986
+*500  $aNational Széchenyi Library
+*505  $aIllegally distributed document.
+*506  $a-
+$bAuthorities
+*518  $a1984
+$3Book
+*522  $aHungary
+*650  $aart
+*650  $apolitics
+*650  $apress freedom
+*650  $aKádár era
+*651  $a8029
+*691  $aPolitical
+*692  $aBanned
+^
+200000818
+*041  $ahun
+*100  $aBüchler,József
+$d1886-1958
+$eeditor
+*245  $aSzociáldemokrata röpirat
+*260  $aBudapest
+$b[s.n.]
+$c1932
+*500  $aNational Széchenyi Library
+*505  $aThe pamphlet replaced the banned Népszava (people's voice).
+*518  $3Book
+*522  $aHungary
+*650  $afreedom of expression
+*651  $a8029
+*693  $aCensorship
+^
+200000819
+*041  $ahun
+*100  $aBüky,Barna
+$d1934-
+$eeditor
+*245  $aBeszélgetés DemszkyGáborral, az AB Független Kiadó vezet&#337;jével a szamizdatról, mint üzemr&#337;l, mint
+*260  $aMünchen
+$bSZER
+$c1988
+*500  $aNational Széchenyi Library
+*505  $aIllegally distributed document. Interview with Gabor Demszky, AB Head of the Independent Publisher about samizdat and "entrepreneurship".
+*506  $a-
+$bAuthorities
+*518  $a1988. aug. 27.
+$3microfilm
+*522  $aHungary
+*650  $afreedom of expression
+*650  $asamizdat
+*651  $a8029
+*691  $aPolitical
+*692  $aBanned
+*700  $aDemszky,Gábor
+$d1952-
+$einterviewed
+^
+200000820
+*041  $ahun
+*100  $aBüky,Barna
+$d1934-
+$eeditor
+*245  $aKonrád György esszéi
+$bvisszatekintés a szamizdatra - Hatalom és erkölcs
+*260  $aMünchen
+$bSZER
+$c1990
+*500  $aNational Széchenyi Library
+*505  $aIllegally distributed document. George Konrád's essays, review of the samizdat - Power and Morality. Election, party leader's program.
+*506  $a-
+$bAuthorities
+*518  $a1990. 03. 28.
+$3Microfilm
+*522  $aHungary
+*650  $amorality
+*650  $aelection
+*651  $a8029
+*691  $aPolitical
+*692  $aBanned
+*700  $aKonrád,György
+$d1933-
+^
+200000821
+*020  $a963001615X
+*041  $ahun
+*100  $aCarmilly-Weinberger,Moshe
+$d1908-
+*245  $aHetven év
+$bSzólásszabadság és cenzúra a zsidó nép körében
+*260  $aBudapest
+$bBZSH
+$c1992
+*300  $ap. 39-50.
+*500  $aNational Széchenyi Library
+*505  $aSeventy years. Freedom of expression and censorship, among the Jewish people.
+*518  $3Book
+*522  $aHungary
+*650  $aJews
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000822
+*041  $ahun
+*100  $aCsáky,S. Piroska
+$d1938-
+*245  $aSajtóviszonyok Vajdaságban (1918-1929)
+*260  $aNovi Sad
+$bMagyar Nyelv, Irodalom és Hungarológiai Kutatások Intézete
+$c1981
+*300  $ap. 399-410.
+*500  $aNational Széchenyi Library
+*505  $aConditions Press Vojvodina
+*518  $3Book
+*522  $aHungary
+*650  $aHistory
+*650  $acensorship
+*650  $aLegislation
+*650  $aPress (Hungary)
+*650  $aYugoslavia
+*651  $a8029
+*651  $a8053
+*693  $aFreedom of Expression
+^
+200000823
+*041  $ahun
+*100  $aCs&#369;rös,Éva
+*245  $aMagyarország és Erdély egyházi cenzúrája a kezdetekt&#337;l Mária Terézia uralkodásának végéig
+*260  $c2001
+*300  $a46 p.
+*500  $aNational Széchenyi Library, Thesis, Eötvös Loránd University (Budapest). Teacher Training College, 2001
+*518  $3Book
+*522  $aHungary
+*650  $aHistory
+*650  $acensorship
+*650  $aPrinting
+*651  $a8029
+*693  $aCensorship
+^
+200000824
+*041  $ager
+*100  $aDessewffy,József
+$d1771-1843
+*245  $aUeber Pressfreiheit und Büchercensur im Allgemeinen und mit besonderer Beziehung auf Ungarn
+*260  $aLeipzig
+$bWeygand
+$c1831
+*300  $a64 p.
+*500  $aNational Széchenyi Library
+*505  $aAbout press freedom and censorship of books in general and with special reference to Hungary.
+*518  $3Book
+*522  $aHungary
+*650  $abook censorship
+*650  $aintellectual freedom
+*650  $a19th century
+*651  $a8029
+*693  $aCensorship
+^
+200000825
+*041  $ahun
+*100  $aDida,Frigyes
+$eeditor
+*245  $aPofon
+$birodalmi és társadalomtudományi id&#337;szakos magánkiadvány
+*260  $a[Budapest]
+$bElsötétítés Kiadó
+$c[1986]
+*500  $aNational Széchenyi Library
+*505  $aIllegally distributed document. Literary and social science periodical published privately.
+*506  $a-
+$bAuthorities
+*518  $a1986
+$3Newspaper
+*522  $aHungary
+*650  $aliterature
+*650  $asocial science
+*650  $aKádár era
+*651  $a8029
+*691  $aPolitical
+*692  $aBanned
+^
+200000826
+*041  $ahun
+*100  $aDiószegi,Olga
+$eeditor
+*245  $aÉgtájak között
+*260  $a[Budapest]
+$bVox Humana Kör
+$c[1984]
+*500  $aNational Széchenyi Library
+*505  $aIllegally distributed document.
+*506  $a-
+$bAuthorities
+*518  $a[1984]-1989
+$3Newspaper
+*522  $aEuropeHungary
+*650  $aculture
+*650  $apolicy
+*650  $aenvironment protection
+*650  $aKádár era
+*651  $a8000
+*651  $a8029
+*691  $aPolitical
+*692  $aBanned
+^
+200000827
+*041  $ahun
+*100  $aVajkovics,Imre
+$d1715-1796
+*245  $aDissertatio de potestate principium saecularium in censuram librorum
+*260  $aColocae
+$bTyp. Neuner
+$c1791
+*300  $a[8], 56 p.
+*500  $aNational Széchenyi Library
+*505  $aDissertation from the power of the secular principle in the censur of books.
+*518  $3Book
+*522  $aHungary
+*650  $abook censorship
+*651  $a8029
+*693  $aCensorship
+^
+200000828
+*041  $ahun
+*100  $aEsztergályos,János
+$eeditor
+*245  $aNévtelen újság
+$ba Magyarországi Szociáldemokrata Párt kiadása
+*260  $aBudapest
+$bMagyarországi Szociáldemokrata Párt
+$c1932
+*500  $aNational Széchenyi Library
+*505  $aReleased instead of the banned Népszava (people's voice).
+*518  $3Newspaper
+*522  $aHungary
+*650  $a People's Voice
+*650  $aNewspaper
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000829
+*041  $ahun
+*100  $aFerencz,Kornélia
+*245  $aA nem hivatásos könyvkiadás Csíkszeredában a diktatúra idején
+$b1944-1989
+*260  $c2007
+*300  $a48 p.
+*500  $aNational Széchenyi Library, Thesis, Eötvös Loránd University (Budapest). Faculty of Arts, 2007
+*505  $aThe non-professional book publishing Csikszereda in time of dictatorship.
+*518  $3Book
+*522  $aHungary
+*650  $apublishing
+*650  $adictatorship
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000830
+*041  $afre
+*100  $aDucreux,Marie-Élizabeth
+$eeditor
+*245  $aLibri prohibiti
+$bla censure dans l'espace habsbourgeois 1650-1850
+*300  $a244 p.
+*500  $aNational Széchenyi Library
+*505  $aCensorship in space Habsburg 1650-1850
+*518  $3Book
+*522  $aHungary
+*650  $aHistory
+*650  $acensorship
+*650  $acollections
+*650  $alibrary science
+*651  $a8029
+*693  $aCensorship
+*700  $aSvato ,Martin
+$d1853-1917
+$eeditor
+^
+200000831
+*020  $a9630612941
+*041  $ahun
+*100  $aGauland,Ágnes
+$d1977-
+*245  $aFábry cenzúra nélkül
+*260  $a[Budapest]
+$bMagánkiad.
+$ccop. 2006
+*300  $a224 p.
+*500  $aNational Széchenyi Library
+*505  $aFábry without censorship.
+*518  $3Television
+*522  $aHungary
+*650  $ashow
+*650  $amillennium
+*651  $a8029
+*693  $aFreedom of Expression
+*700  $aFábry,Sándor
+$d1953-
+^
+200000832
+*100  $aGombócz,Márta
+*245  $aCenzúra és cenzorok a reformkor végén
+*260  $c2001
+*300  $a76 p.
+*500  $aNational Széchenyi Library, Thesis, [Eötvös Loránd University (Budapest). Faculty of Arts], 2001
+*505  $aCensorship and censors at the end of the reform.
+*518  $3Book
+*522  $aHungary
+*650  $aHistory
+*650  $acensorship
+*650  $areform
+*651  $a8029
+*693  $aCensorship
+^
+200000833
+*041  $ahun
+*100  $aGy&#337;rffy,Gábor
+$d1971-
+*245  $aCenzúra és propaganda a kommunista Romániában
+$ba romániai magyar nyilvánosság korlátozása a kommunista diktatúra id&#337;szakában
+*260  $aKolozsvár
+$bKorunkKomp-Press
+$c2009
+*300  $a230 p.
+*500  $aNational Széchenyi Library
+*505  $aCensorship and propaganda in communist Romania.
+*518  $3Book
+*522  $aHungary
+*650  $acensorship
+*650  $apropaganda
+*650  $aRomania
+*650  $aCommunism
+*651  $a8029
+*693  $aCensorship
+^
+200000834
+*020  $a9631418278
+*041  $ahun
+*100  $aHaraszti,Miklós
+$d1945-
+*245  $aA cenzúra esztétikája
+*260  $aBudapest
+$bMagvet&#337;
+$c1991
+*300  $a144 p.
+*500  $aNational Széchenyi Library
+*505  $aThe aesthetics of censorship.
+*518  $3Book
+*522  $aHungary
+*650  $aaesthetics
+*650  $acensorship
+*651  $a8029
+*693  $aCensorship
+^
+200000835
+*041  $ahun
+*100  $aHaraszti,Miklós
+$eeditor
+*245  $aKülön-beszél&#337;
+$ba Beszél&#337; különszáma
+*260  $a[Budapest]
+$b[ABF]
+$c1984
+*500  $aNational Széchenyi Library
+*505  $aIllegally distributed document. Beszél&#337;-speaking. Special issue of the Beszél&#337;.
+*506  $a-
+$bAuthorities
+*518  $a1984
+$3Book
+*522  $aHungary
+*650  $apolicy
+*650  $aKádár era
+*651  $a8029
+*691  $aPolitical
+*692  $aBanned
+^
+200000836
+*100  $aHavasi,Attila
+*245  $aA debreceni nyomda a felvilágosodás id&#337;szakában
+*260  $c2005
+*300  $a95 p.
+*500  $aNational Széchenyi Library, thesis, Eötvös Loránd University (Budapest). Faculty of Arts, 2005
+*505  $aThe Enlightenment period of printing in Debrecen.
+*518  $3Book
+*522  $aHungary
+*650  $acensorship
+*650  $aPublishing
+*650  $aHistory
+*650  $aprinting
+*650  $aprinting (Hungary)
+*651  $a8029
+*693  $aCensorship
+^
+200000837
+*041  $ahun
+*100  $aHeckenast,Dezs&#337;
+$d1910-1989
+*245  $aHeckenast Gusztáv
+$begy fejezet a magyar irodalmi élet történetéb&#337;l
+*260  $aBudapest
+$bSpitzer Ny.
+$c1936
+*300  $a46 p.
+*440  $aSpecimina dissertationum Facultatis Philosophicae Regiae Hungaricae Universitatis Elisabethinae Quinqueecclesiensis
+*500  $aNational Széchenyi Library
+*505  $aA chapter in the history of Hungarian literary life.
+*518  $3Book
+*522  $aHungary
+*650  $aHistory
+*650  $acensorship
+*650  $abiography
+*650  $aPublishing
+*650  $aPrinting (Hungary)
+*650  $aHungarian Press History
+*651  $a8029
+*693  $aFreedom of Information
+^
+200000838
+*020  $a9639539201
+*041  $ahun
+*100  $aHodosán,Róza
+$d1954-
+*245  $aSzamizdat történetek
+*260  $aBudapest
+$bNoran
+$c2004
+*300  $a243, [3] p., [8] t.
+*500  $aNational Széchenyi Library
+*505  $aIllegally distributed document. Samizdat stories.
+*506  $a-
+$bAuthorities
+*518  $a2004
+$3Book
+*522  $aHungary
+*650  $aHome Affairs
+*650  $aHungarian literature
+*650  $a20th century
+*650  $aSamizdat literature
+*651  $a8029
+*691  $aPolitical
+*692  $aBanned
+^
+200000839
+*041  $ahun
+*100  $aHossó,Zoltánné
+*245  $aCenzúra a 19. századi Magyarországon
+*260  $c2003
+*300  $a54 p.
+*500  $aNational Széchenyi Library, Thesis, Eötvös József College (Baja). Faculty of Education, 2003
+*505  $aCensorship in the 19th century in Hungary.
+*518  $3Book
+*522  $aHungary
+*650  $aHistory
+*650  $acensorship
+*650  $aPress History (Hungary)
+*651  $a8029
+*693  $aCensorship
+^
+200000840
+*041  $ahun
+*100  $aIllés,László
+$d1934-
+$eeditor
+*245  $aA rádió zavarás anatómiája
+$blátogatás a székesfehérvári adóállomás egykor titkos részlegében
+*260  $aMünchen
+$bSZER
+$c1991[?]
+*440  $aEmlékezés a 40 éves Szabad Európa Rádió kezdetére
+*500  $aNational Széchenyi Library
+*505  $aRadio Free Europe. Remembering 40 Years of Radio Free Europe beginning.
+*518  $3Radio
+*522  $aHungary
+*650  $aRadio Free Europe
+*650  $aradio engineering
+*650  $aemigration
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000841
+*041  $ahun
+*100  $aTalatzko,Johann
+$epublishes
+*245  $aSeine k. k. apostolische Majestät haben die Aufhebung der Censur und ... zu beschliessen geruht
+*260  $aWien
+$bJohann Talatzko Freiherr von Gestieticz
+$c1848
+*500  $aNational Széchenyi Library
+*505  $aHis Imperial and Royal Apostolic Majesty, the abolition of censorship, and ... deigned to decide.
+*506  $a-
+*518  $3Newspaper
+*522  $aHungary
+*650  $a1848 Revolution
+*650  $a1848 War
+*651  $a8029
+*693  $aCensorship
+^
+200000842
+*041  $ahun
+*100  $aLászló,Levente
+$d1937-
+$eeditor
+*245  $aHogyan látja a magyar sajtó problémáit egy laptulajdonos
+$bInterjú Varga Istvánnal, a Pesti Hírlap tulajdonosával
+*260  $aMünchen
+$bSZER
+$c1992
+*440  $aGondolatforgató
+*500  $aNational Széchenyi Library
+*505  $aRadio Free Europe. How do you see the problems of a Hungarian newspaper publisher. Interview with Istvan Varga, owner of the Pesti Hirlap.
+*518  $a1992. febr. 9.
+$3Radio
+*522  $aHungary
+*650  $apress history
+*650  $anewspapers
+*650  $apublishing
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000843
+*041  $ahun
+*100  $aKézdi,Pál
+$eeditor
+*245  $aMilyen utat tett meg a magyar tömegtájékoztatás a nyugati úton a rendszerváltás óta
+*260  $aMünchen
+$bSZER
+$c1992
+*440  $aNyugati úton
+*500  $aNational Széchenyi Library
+*505  $aThe changing world around us. The western way of the Hungarian media, since the regime.
+*518  $a1992. jan. 24.
+$3Microfilm
+*522  $aHungary
+*650  $apolitical transformation
+*650  $aPress Freedom
+*650  $apublic resource
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000844
+*041  $ahun
+*100  $aKis,Pál
+*245  $aA' sajtó' szabadsága
+*260  $aBécs
+$bHaykul Ny.
+$c1832
+*300  $a96 p.
+*500  $aNational Széchenyi Library
+*505  $aThe 'press' freedom.
+*518  $3Book
+*522  $aHungary
+*650  $apress freedom
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000845
+*041  $ahun
+*100  $aKiss,Antal
+*245  $aSzózat a néphez az átalakulás érdekében
+*260  $aPozsonyban
+$bWéber S. Lajos
+$c[1848]
+*300  $a15 p.
+*500  $aNational Széchenyi Library
+*505  $aThe word to the people, to transition.
+*518  $3Book
+*522  $aHungary
+*650  $a1848 Revolution
+*650  $a1848 War
+*650  $apress freedom
+*650  $apolicy
+*651  $a8029
+*693  $aFreedom of Expression
+^
+200000846
+*041  $ahun
+*100  $aKiss,Tamás Zoltán
+$d1963-
+*245  $aA betiltott Don Quijote
+*300  $ap. 137-144.
+*440  $aDél-Európa vonzásában
+*500  $aNational Széchenyi Library
+*505  $aThe banned Don Quixote. Attracting Southern Europe.
+*518  $3Book
+*522  $aHungary
+*650  $aDon Quixote
+*650  $aSouthern Europe
+*651  $a8029
+*693  $aCensorship
+^
+200000847
+*041  $ahun
+*100  $aKochis,Pál Zoltán
+$eeditor
+*245  $aTúlélés
+*260  $a[Budapest]
+$b[Kochis Pál Zoltán]
+$c1988-
+*500  $aNational Széchenyi Library
+*505  $aIllegally distributed document.
+*506  $a-
+$bAuthorities
+*518  $a1988-[1989]
+$3Book
+*522  $aHungary
+*650  $aenvironment
+*650  $aalternative energy
+*650  $aorganic farming
+*650  $aKádár era
+*651  $a8029
+*691  $aPolitical
+*692  $aBanned
+^
+200000848
+*041  $ahun
+*100  $aKochis,Pál Zoltán
+$eeditor
+*245  $aTúlélés
+$balternatív és környezetvéd&#337; csoportok tájékoztató hálózata nyílt tér jelleg&#369; kiadvány a megjelent írások nem szükségképpen találkoznak minden csoport egyetértésével
+*260  $a[Budapest]
+$b[Kochis Pál Zoltán]
+$c[1988]-[1989]
+*500  $aNational Széchenyi Library
+*505  $aIllegally distributed document. Survival. Information providing system of the alternativ environment protection groups. The published writings not necessarily met with all groups agreement.
+*506  $a-
+$bAuthorities
+*518  $a1988. jún. 29.
+$3Book
+*522  $aHungary
+*650  $a environmental protection
+*650  $aalternative movement
+*650  $aKádár era
+*651  $a8029
+*691  $aPolitical
+*692  $aBanned
+^
+200000849
+*020  $a9630183838
+*041  $ahun
+*100  $aKoltay,Gábor
+$d1950-
+*245  $aSzép volt fiúk...
+$bEgy (majdnem végleg) betiltott film története
+*260  $a[Budapest]
+$bBp. M&#369;vészeti Hetek és Szabadtéri Színpadok Ig.
+$c1987
+*300  $a228 p.
+*500  $aNational Széchenyi Library
+*505  $aWell done boys ...An (almost permanently) banned film history
+*518  $3Television
+*522  $aHungary
+*650  $afilm
+*650  $ahistory
+*651  $a8029
+*693  $aCensorship
+^
+200000850
+*041  $ahun
+*100  $aKorossy,Zsuzsa
+*245  $aSajtópolitika a Rákosi-korszakban
+$b1948-1953
+*260  $c2005
+*300  $a83, [53] p.
+*500  $aNational Széchenyi Library, Thesis, Eötvös Loránd University (Budapest). Faculty of Arts, 2005
+*505  $aMedia Policy for the Rakosi era. 1948-1953
+*518  $3Book
+*522  $aHungary
+*650  $aBibliography
+*650  $aPeriodicals
+*650  $aHungarian Press
+*650  $aHistory
+*651  $a8029
+*693  $aFreedom of Information
+^

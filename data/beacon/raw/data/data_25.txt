@@ -1,0 +1,565 @@
+200000632
+*041  $aeng
+$heng
+*100  $aErixon, Fredrik
+*110  $aECIPE OCCASIONAL PAPER
+*245  $aDigital Authoritarianism
+$bHuman Rights, Geopolitics and Commerce
+*250  $aNo. 5/2011
+*260  $c2011
+*300  $a23 p
+*500  $ana
+*520  $aAuthors Fredrik Erixon and Hosuk Lee-Makiyama are Directors of the European Centre for International Political Economy (ECIPE). "Online censorship is about to take centre stage in the campaign
+to improve conditions for human rights, cyber security and commercial freedom of exchange on the Internet. Online censorship may be a recent phenomenon, but censorship is not. Yet the extent and
+impact of censorship has taken new forms, in some instances reached new heights, with the progressive spread of new communication technologies. Censorship and authoritarian control of the Internet has
+a cascading effect, impinging on national security, external relations with foreign powers, human rights and commerce.""The view this paper purports is that foreign actors can help to redress this
+imbalance by taking China to the WTO for flaunting its commitments. Principally, a WTO case against online censorship could not attack the entire system of censorship in China or any other country.
+China, and possibly also other countries, is in violation of its WTO commitments when it uses censorship as a tool of discrimination and when its censorship actions are disproportionate to the stated
+aim of the actions. Hence, the economic rights of other countries get violated by actions to censor the Internet and online communications."
+http://www.ecipe.org/digital-authoritarianism-human-rights-geopolitics-and-commerce/PDF
+*650  $acensorship
+*650  $ainternet
+*650  $aChina
+*693  $ainternet censorship
+^
+200000633
+*041  $aara
+*245  $aAl-Maydan
+*500  $aIFEX Comminiqué Vol. 20 No. 357 September 2011Index on CensorshipThe Arabic Network for Human Rights Information (ANHRI)
+*505  $aOn 4 September, security forces confiscated issues of "Al-Maydan", the bi-weekly paper of the Sudanese Communist Party (SCP), as well as the daily "Al-Jarida", report Index on Censorship and
+the Arabic Network for Human Rights Information (ANHRI).
+*506  $adistribution prevented
+$bSecurity forces
+*518  $a4 September 2010
+$3newspaper
+*522  $a5259
+*650  $anewspaper
+*650  $aSudanese Communist Party
+*651  $aSudan
+*691  $apolitical
+*692  $aconfiscated
+^
+200000634
+*041  $aara
+*245  $aAl-Jarida
+*500  $aIFEX Communiqué Vol. 20 No. 357 September 2011Index on CensorshipThe Arabic Network for Human Rights Information (ANHRI)
+*505  $aOn 4 September, security forces confiscated issues of "Al-Maydan", the bi-weekly paper of the Sudanese Communist Party (SCP), as well as the daily "Al-Jarida", report Index on Censorship and
+the Arabic Network for Human Rights Information (ANHRI).
+*506  $aDistribution prevented
+$bSecurity forces
+*518  $a4 September 2010
+$3newspaper
+*522  $a5259
+*650  $anewspaper
+*650  $aconfiscated
+*651  $aSudan
+*691  $apolitical
+*692  $aconfiscated
+^
+200000635
+*020  $a9781847184740
+*041  $aeng
+$heng
+*100  $aSeruya, Teresa
+$eeditor
+*245  $aTranslation andn Censorship
+$bIn Different Times and Landscapes
+*260  $aNew Castle
+$bCambridge Scholars Publishing
+$c2008
+*300  $a344 p.
+*500  $an/a
+*505  $an/a
+*650  $acensorship
+*650  $aliterature
+*650  $atranslation
+*650  $aPortugal
+*650  $aSpain
+*693  $apolitical
+*693  $amoral
+*693  $areligious
+^
+200000636
+*020  $a9780773446731
+*041  $aeng
+$heng
+*100  $aSorensen, Lars-Morten
+*245  $aCensorship of Japanese Films During the U.S. Occupation of Japan
+*260  $aLewiston
+$bThe Edwin Mellin Press
+$c2009
+*300  $a338 p.
+*500  $an/a
+*505  $an/a
+*650  $acensorship
+*650  $afilm
+*650  $aJapan
+*650  $aoccupation
+*650  $aOzu, Yasujiro
+*650  $aKurosawa, Akira
+*693  $acensorship
+^
+200000637
+*020  $a9780737747614
+*041  $aeng
+$heng
+*100  $aBarbour, Scott
+$eeditor
+*245  $aCensorship
+$bOpposing Viewpoints
+*260  $aDetroit
+$bGreenhaven Press
+$c2010
+*500  $an/a
+*505  $an/a
+*650  $acensorship
+*650  $ajuvenile literature
+*650  $ainternet
+*650  $aUnited States
+*693  $abook censorship
+^
+200000638
+*020  $a9781846821431
+*041  $aeng
+$heng
+*100  $aChuilleanáin, Eiléan
+$eeditor
+*245  $aTranslation and Censorship
+$bPatterns of Communication and Interference
+$cEiléan Ní Chuilleanáin, Cormac o Cuilleanáin & David Parris: Editors
+*260  $aDublin
+$bFour Courts Press
+$c2009
+*300  $a256 p.
+*500  $an/a
+*505  $an/a
+*650  $acensorship
+*650  $atranslation
+*650  $aliterature
+*650  $atranslators
+*693  $aliterature censorship
+^
+200000639
+*020  $a9780199589630
+*041  $aeng
+$heng
+*100  $aBradley, Laura
+*245  $aCooperation & Conflict
+$bGDR Theatre Censorship 1961-1989
+*260  $aOxford
+$bOxford University Press
+$c2010
+*300  $a312 p.
+*500  $an/a
+*505  $an/a
+*650  $acensorship
+*650  $atheatre
+*650  $aEast Germany
+*693  $acensorship
+^
+200000640
+*020  $a99780522854909
+*041  $aeng
+*100  $aLoewenstein, Antony
+*245  $aThe Blogging Revolution
+*260  $aCarlton
+$bMelbourne University Publishing
+$c2008
+*300  $a294 p.
+*500  $an/a
+*505  $an/a
+*650  $afreedom of speech
+*650  $ablogging
+*650  $abloggers
+*650  $ainternett
+*650  $aIran
+*650  $aEgypt
+*650  $aSyria
+*650  $aSaudi Arabia
+*650  $aChina
+*650  $aCuba
+*693  $ainternett censorship
+*693  $afreedom of expression
+^
+200000641
+*020  $a9780313356001
+*041  $aeng
+*100  $aFreedman, Leonard
+$eauthor
+*245  $aThe Offensive Art
+$bPolitical Satire and its censorship around the world from Beerbohm to Borat
+*260  $aWestport
+$bPraeger
+$c2009
+*300  $a200 p.
+*500  $an/a
+*505  $an/a
+*650  $apolitical satire
+*650  $acensorship
+*693  $aPolitical satire
+*693  $aart
+^
+200000642
+*020  $a9781845455705
+*041  $aeng
+*100  $aStark, Gary D.
+$eauthor
+*245  $aBanned in Berlin
+$bLiterary Censorship in Imperial Germany 1871-1918
+*260  $aNew York
+$bBerghahn Books
+$c2009
+*300  $a316
+*500  $an/a
+*505  $an/a
+*650  $aGermany
+*650  $acensorship
+*650  $aliterature
+*650  $aTheater
+*650  $a19th century
+*693  $apolitical censorship
+^
+200000644
+*041  $aeng
+*100  $aSekaggya, Margaret
+*245  $aCommentary to the Declaration on the Right and Responsinility of Individuals, Groups and Organs of Society to Promote and Protect Universally Recognized Human Rights and Fundamental Freedoms
+$bUN Special Rapporteur on the situation of human rights defenders
+*260  $cJuly 2011
+*500  $an/a
+*520  $aThis commentary maps out the rights provided for in the Declaration on human rights defenders and analyses what the different rights entail as well as the different aspects necessary to ensure
+their implementation. The commentary also addresses the most common violations faced by defenders and provides a set of good practices and recommendations to facilitate State‘s implementation of each
+right. The aim of the commentary is twofold: to increase awareness of the rights provided in the Declaration and to serve as a practical tool for defenders and other practitioners working to ensure
+respect for the rights to which they are entitled under this instrument. Despite efforts to implement the Declaration, human rights defenders continue to face numerous violations to their rights. It
+is hoped that this commentary will assist all relevant stakeholders who strive for a safer and more conducive environment for defenders to be able to carry out their work. For any comments or
+suggestions to this commentary please do not hesitate to contact the Special Rapporteur on the situation of human rights defenders at defenders@ohchr.org
+*650  $afreedom of expression
+*650  $ahuman rights
+*693  $afree expression
+^
+200000645
+*041  $afre
+*245  $aLe Défi
+*260  $an/a
+*500  $awww.ifex.org, IFEX Communiqué Vol 20, No 31, Media Foundation for West Africa (MFWA), Reporters Without Borders (RSF)
+*505  $aThe CNC has also been meddling in the media in recent months. In June, it imposed a two-month suspension on "Le Défi", a newspaper critical of Condé's government, report MFWA and RSF. The CNC
+often issues warnings to radio stations, according to the RSF mission report, which notes, "Some fear that the CNC wants to bring certain media into line."
+*506  $aDistribution banned
+$bNational Communications Council (CNC)
+*518  $aJune 2011
+$3newspaper
+*522  $aGuinea
+*650  $anewspaper
+*651  $a5531
+*691  $apolitical
+*692  $asuspended
+^
+200000646
+*041  $a-cam
+*245  $aThe Water and Fire News
+*500  $awww.ifex.org, IFEX Communiqué Vol 20, No 31, Cambodian Centre for Human Rights (CCHR)
+*505  $aTwo newspapers critical of the Cambodian ruling party were shut down permanently, while five men were convicted of "provocation" for distributing pamphlets critical of the state last week,
+reports the Cambodian Centre for Human Rights (CCHR). Newspapers "The Water and Fire News" and "The World News" are owned by the same publisher and were ordered to stop publishing as of 3 August. The
+papers had their licenses revoked as a result of a perceived insult to the Ministry of Information.
+*506  $aclosed down
+$bGovernment
+*518  $a3 August 2011
+$3newspaper
+*522  $aCambodia
+*650  $anewspaper
+*650  $acensorship
+*650  $aCambodia
+*651  $a7520
+*691  $apolitical
+*692  $ashut down
+^
+200000647
+*041  $a-cam
+*245  $aThe World News
+*500  $awww.ifex.org, IFEX Communiqué Vol 20, No 31, Cambodian Centre for Human Rights (CCHR)
+*505  $aTwo newspapers critical of the Cambodian ruling party were shut down permanently, while five men were convicted of "provocation" for distributing pamphlets critical of the state last week,
+reports the Cambodian Centre for Human Rights (CCHR). Newspapers "The Water and Fire News" and "The World News" are owned by the same publisher and were ordered to stop publishing as of 3 August. The
+papers had their licenses revoked as a result of a perceived insult to the Ministry of Information.
+*506  $ashut down
+$bGovernment
+*518  $a3 August 2011
+$3newspaper
+*522  $aCambodia
+*650  $anewspaper
+*650  $acensorship
+*650  $aCambodia
+*651  $a7520
+*691  $apolitical
+*692  $aClosed down
+^
+200000649
+*020  $a9789004158078
+*041  $aeng
+*100  $avan de Beek, A
+$eeditor
+*245  $aFreedom of Religion
+*260  $aLeiden
+$bBrill
+$c2010
+*300  $a269 p.
+*500  $an/a
+*505  $an/a
+*650  $afreedom of religion
+*650  $areligion
+*650  $alaw
+*650  $aHungary
+*650  $aTransylvania
+*650  $aRomania
+*650  $aIndonesia
+*693  $afreedom of religion
+^
+200000767
+*041  $aspa
+$hspa
+*100  $aMönckeberg, M. Olivia
+$eauthor
+*245  $aLibertad de expresión en Chile 1979
+*260  $aSantiago
+$bs.e.
+$c1979
+*300  $a14 p.
+*500  $aFundación de Documentación y Archivos de la Vicaría de la Solidaridad. http://www.archivovicaria.cl/inicio.htm
+*520  $aSolicitar a/por: CD:00579.00 Análisis de la libertad de expresión en Chile, a partir de la instauración del Gobierno Militar, como reflexión de la suspensión de la Revista Hoy. Se incluyen
+referencias a los problemas anteriores a la suspensión del semanario, las disposiciones restrictivas, advertencias y autocensura. Además contiene anexo con referencias periodísticas sobre la libertad
+de expresión desde junio de 1977. <DERECHO A LA LIBERTAD DE EXPRESION> <LIBERTAD DE PRENSA> <CENSURA DE MEDIOS DE COMUNICACION> <JUNTA MILITAR DE GOBIERNO>
+*522  $a6424
+*650  $afreedom of expression
+*650  $amilitary coup
+*650  $apress freedom
+*693  $aFreedom of expression
+*700  $aGonzález Camus, Ignacio
+$eAuthors
+*700  $aMoreno Laval, Jaime
+*700  $aSantibañez, Abraham
+^
+200000768
+*041  $aspa
+$hspa
+*100  $aPortales, Diego
+*245  $aTelevisión chilena. Censura o libertad
+$bEl caso de la visita de Juan Pablo II
+*260  $aSantiago: Pehuén
+$bImpreso General
+$c1988
+*300  $a287 p.
+*500  $aFundación de Documentación y Archivos de la Vicaría de la Solidaridad. http://www.archivovicaria.cl/inicio.htm
+*520  $aSolicitar a/por: 15/S586 En el capítulo se refiere el proceso contra René Silva E., en 1967, entonces director del diario El Mercurio, por publicar carta apócrifa y guardar secreto
+profesional. <PROCESOS CONTRA PERIODISTAS> <SECRETO PROFESIONAL> <LIBERTAD DE EXPRESION>
+*650  $atelevision
+*650  $acensorship
+*650  $aJuan Pablo II
+*651  $a6424
+*693  $aCensorship
+*700  $aHirmas, M.Eugenia
+*700  $aAltamirano, Juan Carlos
+*700  $aEgaña, Juan Pablo
+^
+200000770
+*041  $aspa
+$hspa
+*110  $aAsociación Americana de Juristas
+*245  $aChile
+$bInforme. Buenos Aires: Rama Argentina de la Asociación Americana de Juristas
+$cCuadernos de la Asociación Americana de Juristas, n. 2
+*260  $c1987
+*300  $a184 p.
+*500  $aFundación de Documentación y Archivos de la Vicaría de la Solidaridad. http://www.archivovicaria.cl/inicio.htm
+*520  $aSolicitar a/por: CD:00246.00 Contiene informe sobre la misión de la A.A.J. en Chile. Ilegitimidad de la Constitución de 1980. Caso Cánovas. Detenidos-Desaparecidos y detenidos ejecutados. El
+caso del ministro Carlos Cerda, que sometió a proceso a decenas de militares. Justicia Militar. El exilio y el caso de los retornados legal y clandestinamente. Las relegaciones administrativas. Caso
+jóvenes quemados. Problemática de presos políticos. Posición del Colegio de Abogados. Libertad de Prensa. <CONSTITUCION POLITICA DE 1980> <JUSTICIA MILITAR> <LIBERTAD DE PRENSA>
+<INFORME-ORGANIZACIONES INTERNACIONALES>
+*650  $apress freedom
+*650  $aconstitution
+*651  $a6424
+*693  $aLegislation
+^
+200001116
+*020  $a9780199812264
+*041  $aeng
+$heng
+*100  $aMarshall, Paul
+*245  $aSilenced
+$bHow apostasy and blasphemy codes are choking freedom worldwide
+*260  $aOxford
+$bOxford University Press
+$c2011
+*300  $a448 p.
+*500  $aBIBSYS Bibliotekbasen
+*518  $3Book
+*650  $aBlasphemy
+*650  $aFreedom of expression
+*650  $aReligion
+*693  $aCensorship
+*700  $aShea, Nina
+$eauthor
+^
+200001120
+*020  $a9163195577
+*041  $aswe
+$hswe
+*110  $aNättverket den hemliga trägården - världens barnböcker
+*245  $aDen hemliga trägården N. 3
+$bDet är tur att generaler inte läser barnböcker
+$cEn id\eskrift från n¨tverket Den hemlige trägården om världens barnböcker under tider av censur, diktatur och förtryck
+*260  $aStockholm
+$bBarnängens världsbibliotek
+$c2006
+*300  $a76
+*500  $an/a
+*650  $acensorship
+*650  $adictatorship
+*650  $achildren's literature
+*693  $aCensorship
+^
+200001121
+*020  $a9163195577
+*041  $aswe
+$hswe
+*110  $aNättverket den hemliga trägården - världens barnböcker
+*245  $aDen hemliga trägården N. 3
+$bDet är tur att generaler inte läser barnböcker
+$cEn id\eskrift från n¨tverket Den hemlige trägården om världens barnböcker under tider av censur, diktatur och förtryck
+*260  $aStockholm
+$bBarnängens världsbibliotek
+$c2006
+*300  $a76
+*500  $an/a
+*650  $acensorship
+*650  $adictatorship
+*650  $achildren's literature
+*693  $aCensorship
+^
+200001128
+*041  $afre
+$hfre
+*245  $aL'Alternative
+*500  $ahttp://www.ifex.org/cote_divoire/2012/09/24/cote_divoire_lift/, Media Foundation for West Africa (MFWA)
+*505  $a(MFWA/IFEX) - 24 September 2012 - On 17 September, 2012, Côte d'Ivoire's statutory press regulatory body - The National Press Council (CNP) - lifted suspension sanctions it had imposed on six
+privately-owned pro-Gbagbo newspapers. The suspensions had been put in place after the media outlets jointly republished an article that was originally published by Notre Voie, also a pro-Gbagbo
+daily. On 12 September, the CNP suspended Le Nouveau Courrier, LG Info, Le Temps, Aujourd'hui and Le Quotidien d'Abidjan for six publications each. Meanwhile, L'Alternative was suspended for 12
+publications, for knowingly reproducing the article, thus reinforcing the notion of "existence of two governments in Cote d'Ivoire."
+*506  $aTemporary suspension
+$bThe National Press Council (CNP)
+*518  $a7-September 2012
+$3Newspaper
+*522  $aCote d' Ivoire
+*650  $anewspapers
+*650  $ajournalism
+*650  $acensorship
+*651  $a5533
+*691  $aPolitical
+*692  $aSuspended
+^
+200001129
+*041  $ager
+$hger
+*245  $aTwitter
+$bBesseres Hannover
+*500  $aBBC News, 18 October 2012 Last updated at 07:57 GMT http://www.bbc.co.uk/news/technology-19988662
+*505  $aAccording to BBC News, "Twitter has blocked access to a neo-Nazi account at the request of the German government." The tweets of the banned group Besseres Hannover will no longer be visible to
+users in Germany although the rest of the world will be able to view them.
+*506  $aBlocked
+$bGerman police
+*518  $a8 October 2012
+$3Website
+*522  $aGermany
+*650  $aTwitter
+*650  $aNeo-Nazis
+*651  $a8025
+*691  $aPolitical
+*692  $aBlocked
+^
+200001130
+*041  $arus
+$hrus
+*245  $aLaw on the Protection of Children From Information Detrimental to Their Health and Development
+*260  $c2012
+*500  $ahttp://www.ifex.org/russia/2012/11/02/fwd_russia_internet_access/ Reporters Without Borders 2 November 2012
+*505  $a(RSF/IFEX) - 1 November 2012 - A state blacklist of blocked websites and Internet addresses becomes official today, as the final section of the Law on the Protection of Children From
+Information Detrimental to Their Health and Development takes effect.
+*522  $aRussia
+*650  $aRussia
+*650  $alaw
+*650  $alegislation
+*651  $a8064
+*693  $aLegislation
+^
+200001131
+*041  $afre
+$hfre
+*245  $aRadio Ngoma FM
+*500  $ahttp://www.ifex.org/democratic_republic_of_congo/2012/11/02/radio_ngoma_fm_drc_fermee/ Journaliste en danger 2 November 2012
+*505  $a(JED/IFEX) - Kinshasa, 29 October 2012 JED is angered over the decision of a mayor in North Kivu province to close a community radio station after the station aired comments by the leader of a
+local armed movement. Radio Ngoma FM, a community radio station based in Beni, about 300 kilometres from Goma, capital of North Kivu province, was closed indefinitely on 27 October 2012 by Beni mayor
+Bwanakawa Masumbuko, who accused the station of "broadcasting information susceptible of disturbing the peace and fomenting political disharmony".
+*518  $a19 October 2012
+$3Radio
+*522  $aDemocratic Republic of Congo
+*651  $a5300
+*691  $aPolitical
+*692  $aShut down
+^
+200001132
+*041  $afre
+$hfre
+*245  $aRadio Ngoma FM
+*500  $ahttp://www.ifex.org/democratic_republic_of_congo/2012/11/02/radio_ngoma_fm_drc_fermee/ Journaliste en danger 2 November 2012
+*505  $a(JED/IFEX) - Kinshasa, 29 October 2012 JED is angered over the decision of a mayor in North Kivu province to close a community radio station after the station aired comments by the leader of a
+local armed movement. Radio Ngoma FM, a community radio station based in Beni, about 300 kilometres from Goma, capital of North Kivu province, was closed indefinitely on 27 October 2012 by Beni mayor
+Bwanakawa Masumbuko, who accused the station of "broadcasting information susceptible of disturbing the peace and fomenting political disharmony".
+*518  $a19 October 2012
+$3Radio
+*522  $aDemocratic Republic of Congo
+*651  $a5100
+*691  $aPolitical
+*692  $aShut down
+^
+200001133
+*041  $aeng
+$heng
+*110  $aCenter for Constitutional Rights and the National Lawyers Guild
+$ePublishers
+*245  $aJailhouse Lawyer's Handbook
+$bHow to Bring a Federal Lawsuit to Challenge Biolations of Your Rights in Prison
+*250  $a5th Edition
+*260  $c2010
+*500  $aThe Huffington Post Books http://www.huffingtonpost.com/2010/07/22/virginia-prison-sued-for_n_655820.html The Associated Press
+*505  $a"Two civil rights organizations are suing Virginia prison officials because they banned inmates from receiving a book teaching them how to file lawsuits against prisons. National Lawyers Guild
+and the Center for Constitutional Rights sued state Department of Corrections Director Gene Johnson, officials at Coffeewood Correctional Center and members of the department's Publication Review
+Committee on Wednesday in federal court in Charlottesville."
+*506  $aDistribution prevented
+$bCoffeewood Correctional Center (Virginia, USA)
+*518  $3Book
+*522  $aUSA
+*650  $aPrison
+*650  $aPrisoners
+*650  $aLaw
+*651  $a6357
+*691  $aPolitical
+*692  $aBanned
+^
+200001134
+*041  $aeng
+$heng
+*245  $aDowntown Abbey
+*500  $aIFEX http://www.ifex.org/international/2012/11/09/artist_alert_october/ Article 19
+*505  $aGREECE: GAY KISS BROADCAST CENSORED Greek state television decided on 17 October to censor a kiss between two men from a scene in the popular imported British drama, Downton Abbey. The
+state-run NET channel said it had to edit out the scene to comply with "parental guidance rules" which applied at the 10pm screening slot and would screen the full programme at a later date. The
+opposition party claimed the omission was clearly an act of homophobia and discrimination.
+*506  $aedited
+$bNET channel
+*518  $a17 October 2012
+$3Television
+*522  $aGreece
+*650  $aKiss
+*650  $aEdit
+*650  $atelevision
+*650  $adrama
+*651  $a8051
+*691  $aMoral
+*692  $aSuppressed
+^
