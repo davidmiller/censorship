@@ -192,6 +192,14 @@ class Field362(SubField):
         }
 
 
+class Field440(SubField):
+    name = 'Series Statement/Added Entry-Title'
+    subfields = {
+        '$a': 'Series Title',
+        '$v': 'Volume Number'
+        }
+
+
 class Field500(SubField):
     name = 'General Note'
     subfields = {
