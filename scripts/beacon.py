@@ -53,10 +53,82 @@ class Field(object):
             fid = 740
             val = string[5:]
 
+        # There are some other corruptions wrt countries.
+        # Can't find a pattern so hard coding for now.
+        if string == ('*650 $aIndonesia'):
+            fid = 650
+            val = "$aIndonesia"
+
+        # 98020206
+        if string == '*041 $aeng':
+            fid = '041'
+            val = '$aeng'
+
+        # 9904450
+        if string == '*041  fre':
+            fid = '041'
+            val = '$afre'
+
+        # 9910747
+        if string == '*041  lit':
+            fid = '041'
+            val = '$alit'
+
+        # 9919074
+        if string == '*651  $5458':
+            fid = '651'
+            val = '$a5458'
+
+        # 9912757
+        if string == '*651  8023':
+            fid = '651'
+            val = '$a8023'
+        # 98020280
+        if string == '*651  a6357':
+            fid = '651'
+            val = '$a6357'
+
+        if string == '*020  $10.00 (pbk.)':
+            fid = '020'
+            val = '$a$10.00 (pbk.)'
+
         subklass_name = 'Field{0}'.format(fid)
         if subklass_name in globals():
             return globals()[subklass_name](fid, val)
-        print subklass_name
+        nofields = [
+            # Ignore the extra French (?) geographic area fields for now.
+            # c.f. 9912890
+            '043',
+            '710',
+            '899',
+            # Weird german extra fields (98020201)
+            '029',
+            '093',
+            # Possibly investigate this UK cost field (98020204)
+            '350',
+            # Possibly investigate this UK ID field (98020215)
+            '092',
+            # These are US generic ID fields 9913178
+            '019',
+            # Possibly investigate UK name(?) fields (98020215)
+            '761',
+            # Possibly investigate this UK ID field (98020217)
+            '090',
+            # Who knows? (9913337)
+            '782',
+            # Meh (98020258)
+            '793',
+            # Some publisher (98020271)
+            '265',
+            # Some bool (9913198)
+            '741',
+            # Nonsense 9912760
+            '690',
+            ]
+        if fid in nofields:
+            return Field(fid, val)
+        print subklass_name, fid
+        print string, string == '*041 $aeng'
         raise ValueError('No Subklass')
 
     def parse_subfields(self):
@@ -83,17 +155,21 @@ class Field(object):
                             raise
                         self.subvals[self.subfields[last_subcode]] += line
                     else:
+                        print self.__class__
                         raise
             else:
                 try:
                     self.subvals[self.subfields[last_subcode]] += line
                 except KeyError:
+                    print self.__class__
                     raise
 
         for subcode, subfield in self.subfields.items():
             meth = getattr(self, 'parse_{0}'.format(subcode[1:]), None)
             if meth:
-                self.subvals[subfield] = meth(self.subvals[subfield])
+                if subfield in self.subvals:
+                    self.subvals[subfield] = meth(self.subvals[subfield])
+
 
 
 class SubField(Field):
@@ -105,19 +181,108 @@ class SubField(Field):
             )
 
 
+class Field003(SubField):
+    name = "Control Number Identifier"
+    subfields = {
+        '$a': "Control Number Identifier"
+        }
+
+
+class Field005(SubField):
+    name = "Date and Time of Latest Transaction"
+    subfields = {
+        '$a': "Date Time"
+        }
+
+
+class Field010(SubField):
+    name = "Library of Congress Control Number"
+    subfields = {
+        '$a': "LC control number",
+        '$o': 'UNKNOWN NUMER',
+        }
+
+
+class Field015(SubField):
+    name = "National Bibliography Number"
+    subfields = {
+        '$a': "National bibliography"
+        }
+
+
 class Field020(SubField):
     name = 'International Standard Book Number'
     subfields = {
-        '$a': 'International Standard Book Number'
+        '$a': 'International Standard Book Number',
+        '$c': 'Terms of availability',
+        '$z': 'Cancelled/Invalid ISBN',
+        '$8': 'Field link and sequence number',
+        }
+
+
+class Field022(SubField):
+    name = 'International Standard Serial Number'
+    subfields = {
+        '$a': 'International Standard Serial Number',
+        }
+
+
+class Field035(SubField):
+    name = 'System Control Number'
+    subfields = {
+        '$a': 'System control number'
+        }
+
+
+class Field040(SubField):
+    name = 'Cataloging Source'
+    subfields = {
+        '$a': 'Original cataloging agency',
+        '$b': 'Language of cataloging',
+        '$c': 'Transcribing agency',
+        '$d': 'Modifying agency'
         }
 
 
 class Field041(SubField):
     name = 'Language code of text/sound track or separate title'
-    subfields = {'$a':'Language code of text/sound track or separate title'}
+    subfields = {
+        '$a':'Language code of text/sound track or separate title',
+        '$e': 'Language code of librettos',
+        '$h': 'Language code of original',
+        }
 
     def parse_a(self, value):
         return LANGS.get(value)
+
+
+class Field042(SubField):
+    name = 'Authentication Code'
+    subfields = {
+        '$a': 'Authentication code'
+        }
+
+
+class Field050(SubField):
+    name = 'Library of Congress Call Numbe'
+    subfields = {
+        '$a': 'Classification Number',
+        '$b': 'Item Number'
+        }
+
+
+class Field082(SubField):
+    name = 'Dewey Decimal Classification Number'
+    subfields = {
+        '$a': 'Classification Number'
+        }
+
+
+class Field086(SubField):
+    name = 'Government Document Classification Number'
+    subfields = {
+        '$a': 'Classification Number'
+        }
 
 
 class Field100(SubField):
@@ -130,7 +295,87 @@ class Field100(SubField):
 class Field110(SubField):
     name = 'Main Entry-Corporate Name'
     subfields = {
-        '$a': 'Corporate Name'
+        '$a': 'Corporate Name',
+        '$6': 'Linkage',
+        }
+
+
+class Field111(SubField):
+    name = 'Main Entry-Meeting Name'
+    subfields = {
+        '$a': 'Meeting Name',
+        '$6': 'Linkage',
+        }
+
+
+class Field130(SubField):
+    name = 'Main Entry-Uniform Title'
+    subfields = {
+        '$a': 'Uniform Title',
+        '$6': 'Linkage',
+        }
+
+
+
+class Field210(SubField):
+    name = 'Abbreviated Title'
+    subfields = {
+        '$a': 'Abbreviated Title',
+        '$6': 'Linkage',
+        }
+
+
+class Field222(SubField):
+    name = 'Key Title'
+    subfields = {
+        '$a': 'Key Title',
+        '$6': 'Linkage',
+        }
+
+
+class Field240(SubField):
+    name ='Uniform Title'
+    subfields = {
+        '$a': 'Uniform Title',
+        '$l': 'Language of a work',
+        # We think german extra title field (9911083)
+        '$w': 'Extra Title',
+        }
+
+    def parse_l(self, value):
+        real_languages = [
+            'English',
+            'French'
+            ]
+        if value in LANGS:
+            return LANGS[value]
+        if value in real_languages:
+            return value
+        return countries[value]
+
+
+class Field245(SubField):
+    name ='Title Statement'
+    subfields = {
+        '$a': 'Title',
+        '$6': 'Linkage',
+        }
+
+
+class Field246(SubField):
+    name ='Varying form of Title'
+    subfields = {
+        '$a': 'Title proper/short title',
+        '$b': 'Remainder of title',
+        '$c': 'EXTRA BEACON FIELD',
+        }
+
+
+class Field250(SubField):
+    name ='Edition Statement'
+    subfields = {
+        '$a': 'Edition',
+        '$b': 'Remainder of edition statement'
         }
 
 
@@ -139,34 +384,15 @@ class Field260(SubField):
     subfields = {
         '$a': 'Place of publication, distribution, etc',
         '$b': 'Name of publisher, distributor, etc.',
-        '$c': 'Date of publication, distribution, etc.'
+        '$c': 'Date of publication, distribution, etc.',
+        '$6': 'Linkage'
         }
 
 
-class Field240(SubField):
-    name ='Uniform Title'
+class Field263(SubField):
+    name = 'Projected Publication Date'
     subfields = {
-        '$a': 'Uniform Title',
-        '$l': 'Language of a work'
-        }
-
-    def parse_l(self, value):
-        if value in LANGS:
-            return LANGS[value]
-        return countries[value]
-
-
-class Field245(SubField):
-    name ='Title Statement'
-    subfields = {
-        '$a': 'Title'
-        }
-
-
-class Field250(SubField):
-    name ='Edition Statement'
-    subfields = {
-        '$a': 'Edition'
+        '$a': 'Projected publication date'
         }
 
 
@@ -174,6 +400,7 @@ class Field300(SubField):
     name = 'Physical Description'
     subfields = {
         '$a': 'Extent',
+        '$b': 'Other Physical Details',
         '$c': 'Dimensions'
         }
 
@@ -200,10 +427,24 @@ class Field440(SubField):
         }
 
 
+class Field490(SubField):
+    name = "Series Statement"
+    subfields = {
+        '$a': 'Series Statement',
+        '$v': 'Volume/sequential designation'
+        }
+
 class Field500(SubField):
     name = 'General Note'
     subfields = {
         '$a': 'General Note'
+        }
+
+
+class Field502(SubField):
+    name = 'Dissertation Note'
+    subfields = {
+        '$a': 'Dissertation Note'
         }
 
 
@@ -234,6 +475,22 @@ class Field506(SubField):
         '$3': 'Materials Specified'
         }
 
+
+class Field510(SubField):
+    name = 'Citation/References Note'
+    subfields = {
+        '$a': 'Name of source',
+        '$c': 'Location within source'
+        }
+
+
+class Field515(SubField):
+    name = 'Numbering Peculiarities Note'
+    subfields = {
+        '$a': 'Numbering Peculiarities Note'
+        }
+
+
 class Field518(SubField):
     name = 'Date/Time and Place of an Event Note'
     subfields = {
@@ -251,6 +508,46 @@ class Field520(SubField):
         }
 
 
+class Field533(SubField):
+    name = 'Reproduction Note'
+    subfields = {
+        '$a': 'Type of reproduction',
+        '$b': 'Place of reproduction',
+        '$c': 'Agency responsible for reproduction',
+        '$d': 'Date of reproduction',
+        '$e': 'Physical description of reproduction',
+        '$f': 'Series statement of reproduction'
+        }
+
+
+class Field546(SubField):
+    name = 'Language Note'
+    subfields = {
+        '$a': 'Language Note'
+        }
+
+
+class Field580(SubField):
+    name = 'Linking Entry Complexity Note'
+    subfields = {
+        '$a': 'Linking Entry Complexity Note'
+        }
+
+
+class Field610(SubField):
+    name = 'Subject Added Entry-Corporate Name'
+    subfields = {
+        '$a': 'Corporate name or jurisdiction name as entry element',
+        }
+
+
+class Field630(SubField):
+    name = 'Subject Added Entry-Uniform Title'
+    subfields = {
+        '$a': 'Uniform Title',
+        }
+
+
 class Field650(SubField):
     name = 'Subject Added Entry-Topical Term'
     subfields = {
@@ -262,8 +559,12 @@ class Field650(SubField):
 class Field651(SubField):
     name = 'Country'
     subfields = {
-        '$a': 'Country'
+        '$a': 'Country',
+        '$x': 'Geographic Subdivision',
+        '$y': 'Chronological Subdivision',
+        '$6': 'Linkage',
         }
+
     countries = {
         8048: 'Turkey',
         5311: 'Algeria',
@@ -338,11 +639,68 @@ class Field651(SubField):
         8060: 'Lithuania',
         8059: 'Latvia',
         8057: 'Estonia',
+        6357: 'United States',
+        8046: 'Sweeden',
+        8051: 'United Kingdom',
+        6322: 'Canada',
+        6138: 'Haiti',
+        8050: 'USSR (until December 1991)',
+        5531: 'Guinea',
+        8013: 'Austria',
+        8028: 'Greenland',
+        5000: 'Africa',
+        6414: 'Argentina',
+        6127: 'Cuba',
+        5117: 'Burundi',
+        8029: 'Hungary',
+        5422: 'Comoros',
+        8011: 'Albania',
+        6430: 'Ecuador',
+        8018: 'Cyprus',
+        6420: 'Brazil',
+        7130: 'Japan',
+        8015: 'Bulgaria',
+        8000: 'Europe',
+        0000: 'Universal',
+        6459: 'Uruguay',
+        8043: 'Romania',
+        8052: 'Holy See (Vatican)',
+        6243: 'Mexico',
+        5547: 'Niger',
+        7124: 'Hong Kong Special Administrative Region of China',
+        6000: 'Americas',
+        7520: 'Cambodia',
+        5467: 'Zimbabwe',
+        8042: 'Portugaul',
+        8100: 'Eastern Europe',
+        8033: 'Italy',
+        7000: 'Asia',
+        6200: 'Central America',
+        6236: 'Guatemala',
+        8039: 'Northern Ireland',
+        8024: 'German Democratic Republic (from 1949 until October 1991)',
+        8019: 'Czechoslovakia (until December 1992)',
+        8056: 'Czech Republic',
+        6429: 'COUNTRY UNKNOWN',
+        7151: 'Tibet (China)',
+        7144: 'Korea, Republic of',
+        5100: 'Middle Africa',
+        7215: 'Armenia',
+        9021: 'New Zealand',
+        5400: 'Southern Africa',
 
         }
 
     def parse_a(self, val):
-        return self.countries[int(val)]
+        try:
+            ccode = int(val)
+            return self.countries[int(val)]
+        except ValueError:
+            inverted = dict([ (v, k) for k, v in self.countries.iteritems( ) ])
+            if val in inverted:
+                return inverted[val]
+            raise ValueError("I have no idea what to make of " + val)
+
 
 class Field691(SubField):
     name = 'Reason for censorship'
@@ -374,11 +732,74 @@ class Field700(SubField):
         }
 
 
+class Field711(SubField):
+    name = 'Added Entry-Meeting Name'
+    subfields = {
+        '$a': 'Meeting name or jurisdiction name as entry element',
+        '$c': 'Location of meeting',
+        '$d': 'Date of meeting',
+        '$n': 'Number of part/section/meeting'
+        }
+
+
+class Field730(SubField):
+    name = 'Added Entry-Uniform Title'
+    subfields = {
+        '$a': 'Uniform Title',
+        '$n': 'Number of part/section of a work',
+        }
+
+
 class Field740(SubField):
     name = 'Added Entry-Uncontrolled Related/Analytical Title'
     subfields = {
         '$a': 'Uncontrolled related/analytical title'
         }
+
+
+class Field752(SubField):
+    name = 'Added Entry-Hierarchical Place Name'
+    subfields = {
+        '$a': 'Country or larger entity',
+        '$d': 'City',
+        }
+
+
+class Field770(SubField):
+    name = 'Supplement/Special Issue Entry'
+    subfields = {
+        '$t': 'Title',
+        '$l': 'UNKNOWN NUMBER',
+        }
+
+
+class Field780(SubField):
+    name = 'Preceding Entry'
+    subfields = {
+        '$a': 'Main entry heading'
+        }
+
+
+class Field785(SubField):
+    name = 'Succeeding Entry'
+    subfields = {
+        '$t': 'Title'
+        }
+
+
+class Field830(SubField):
+    name = 'Series Added Entry-Uniform Title'
+    subfields = {
+        '$a': 'Uniform Title'
+        }
+
+
+class Field880(SubField):
+    name = 'Alternative Graphic Representation'
+    subfields = {
+        '$a': 'Alternative Graphic Representation'
+        }
+
 
 
 class Record(object):
@@ -388,7 +809,9 @@ class Record(object):
 
     def __str__(self):
         fields = "\n".join(str(f) for f in self.fields)
-        return "<Normarc Record Object> {record_id}\n{fields}".format(
+        return """=======================================
+<Normarc Record Object> {record_id}\n{fields}
+=======================================""".format(
             record_id=self.record_id,
             fields=fields)
 
