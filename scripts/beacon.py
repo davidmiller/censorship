@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Processing script to convert Beacon data from NORMARC format.
 """
@@ -40,9 +41,19 @@ class Field(object):
         Format is:
         *(<?Field ID>\d{3})(<?Frist indicator>[\d ])(<?Second indicator>[\d ])(<?Field>.*)
         """
+        if string.startswith('*260  a[Xianggang :'):
+            return klass('260', string)
+        if string.startswith('*260 [Hong Kong :'):
+            return klass('260', string)
+        if string.startswith('*100 $aElkin-Koren, Niva'):
+            string = '*100 ' + string[4:]
+
         # We don't do anything with indicators, so dump 'em
         fid = string[1:4]
         val = string[6:]
+
+        if val.startswith('$$'):
+            val = val[1:]
 
         # Some records, notably 98019558
         # don't actually conform to the standard with
@@ -92,6 +103,74 @@ class Field(object):
             fid = '020'
             val = '$a$10.00 (pbk.)'
 
+            # 9908675
+        if string.startswith('**650  $aCensorship'):
+            fid = '650'
+            val = '$aCensorship'
+
+        if string == '*500 $aSource: Department of Customs and Excise, Australia: List of prohibited publications':
+            fid = '650'
+            val = '$aSource: Department of Customs and Excise, Australia: List of prohibited publications'
+
+        if string.startswith('*650$ Government and the press'):
+            fid = '650'
+            val = '$aGovernment and the press'
+
+        if string == '*651  4a7124':
+            fid = '651'
+            val = '$a7124'
+
+        if string == '*505 $aPolish poems':
+            fid = '505'
+            val = '$aPolish poems'
+
+        if string == '*041':
+            fid = '041'
+            val = '$a '
+
+        if string == '*651  4a8023':
+            fid = '651'
+            val = '$a8023'
+
+        if string == '*041  4alit':
+            fid = '041'
+            val = '$alit'
+
+        if string.startswith('*518  ') and string.endswith('a1966-1992'):
+            fid = '518'
+            val = '$a1966-1992'
+
+        if string == '**505  $aJur is pseudonym for Jerzy Eysymontt':
+            fid = '505'
+            val = '$aJur is pseudonym for Jerzy Eysymontt'
+
+        if string == '*041 $acat':
+            fid = '041'
+            val = '$acat'
+
+        if string.startswith('*651  ') and string.endswith('a8051'):
+            fid = '651'
+            val = '$a8051'
+
+        if string.startswith('*300 $a'):
+            fid = string[1:4]
+            val = '$' + string[6:]
+
+        if string == '**041  $apol':
+            fid = '041'
+            val = '$apol'
+
+        if string == '*0041  $apol':
+            fid = '041'
+            val = '$apol'
+
+        if string == '*260  $$aOslo':
+            fid = '260'
+            val = '$aOslo'
+
+
+
+
         subklass_name = 'Field{0}'.format(fid)
         if subklass_name in globals():
             return globals()[subklass_name](fid, val)
@@ -124,11 +203,40 @@ class Field(object):
             '741',
             # Nonsense 9912760
             '690',
+            # Data error? 9913273
+            '701',
+            # Odd extra title field (9911725)
+            '640',
+            # Extra censorship date? 9927445
+            '528',
+            # 98020438 ??
+            '796',
+            # 9912850 ?
+            '797',
+            # 9912850
+            '799',
+            # 9928964
+            '096',
+            # 98020654
+            '555',
+            # 9913217
+            '501',
+            # 9918659
+            '551',
+            # 98020649
+            '399',
+            # 98020795
+            '212',
+            # 9928986
+            '641',
+            #9710212
+            '094',
+
             ]
         if fid in nofields:
             return Field(fid, val)
         print subklass_name, fid
-        print string, string == '*041 $aeng'
+        print string
         raise ValueError('No Subklass')
 
     def parse_subfields(self):
@@ -161,6 +269,7 @@ class Field(object):
                 try:
                     self.subvals[self.subfields[last_subcode]] += line
                 except KeyError:
+                    print line
                     print self.__class__
                     raise
 
@@ -214,8 +323,15 @@ class Field020(SubField):
     name = 'International Standard Book Number'
     subfields = {
         '$a': 'International Standard Book Number',
+        '$b': 'Unknown NORMARC field',
         '$c': 'Terms of availability',
+        '$g': 'Unknown NORMARC field',
         '$z': 'Cancelled/Invalid ISBN',
+        '$1': 'Unknown NORMARC field',
+        '$2': 'Unknown NORMARC field',
+        '$3': 'Unknown NORMARC field',
+        '$4': 'Unknown NORMARC field',
+        '$5': 'Unknown NORMARC field',
         '$8': 'Field link and sequence number',
         }
 
@@ -227,10 +343,41 @@ class Field022(SubField):
         }
 
 
+class Field025(SubField):
+    name = 'Overseas Acquisition Number'
+    subfields = {
+        '$a': 'Overseas Acquisition Number',
+        }
+
+
+class Field030(SubField):
+    name = 'CODEN Designation'
+    subfields = {
+        '$a': 'CODEN',
+        }
+
+
+class Field032(SubField):
+    name = 'Postal Registration Number'
+    subfields = {
+        '$a': 'Postal Registration Number',
+        '$b': 'Source agency assigning Number'
+        }
+
+
 class Field035(SubField):
     name = 'System Control Number'
     subfields = {
-        '$a': 'System control number'
+        '$a': 'System control number',
+        '$k': 'Unknown NORMARC Field'
+        }
+
+
+class Field037(SubField):
+    name = 'Source of Acquisition'
+    subfields = {
+        '$a': 'Source of Acquisition',
+        '$b': 'Source of stock number/acquisition'
         }
 
 
@@ -247,9 +394,11 @@ class Field040(SubField):
 class Field041(SubField):
     name = 'Language code of text/sound track or separate title'
     subfields = {
-        '$a':'Language code of text/sound track or separate title',
+        '$a': 'Language code of text/sound track or separate title',
+        '$d': 'Language code of sung or spoken text',
         '$e': 'Language code of librettos',
         '$h': 'Language code of original',
+        '$l': 'Unknown NORMARC code'
         }
 
     def parse_a(self, value):
@@ -263,11 +412,56 @@ class Field042(SubField):
         }
 
 
+class Field045(SubField):
+    name = 'Time Period of content'
+    subfields = {
+        '$a': 'Time period code'
+        }
+
+
 class Field050(SubField):
-    name = 'Library of Congress Call Numbe'
+    name = 'Library of Congress Call Number'
     subfields = {
         '$a': 'Classification Number',
         '$b': 'Item Number'
+        }
+
+
+class Field051(SubField):
+    name = 'Library of Congress Copy, Issue, Offprint Statement'
+    subfields = {
+        '$a': 'Classification Number',
+        '$b': 'Item Number',
+        '$c': 'Copy Information'
+        }
+
+
+class Field055(SubField):
+    name = 'Classification Numbers Assigned in Canada'
+    subfields = {
+        '$a': 'Classification Numbers Assigned in Canada',
+        }
+
+
+class Field060(SubField):
+    name = 'National Library of Medicine Call Number'
+    subfields = {
+        '$a': 'Classification Number'
+        }
+
+
+class Field072(SubField):
+    name = 'Subject Category Code'
+    subfields = {
+        '$a': 'Subject Category Code',
+        '$2': 'Source'
+        }
+
+
+class Field074(SubField):
+    name = 'GPO Item Number'
+    subfields = {
+        '$a': 'GPO Item Number'
         }
 
 
@@ -288,7 +482,9 @@ class Field086(SubField):
 class Field100(SubField):
     name = 'Main Entry-Personal Name'
     subfields = {
-        '$a': 'Personal Name'
+        '$a': 'Personal Name',
+        '$w': 'Unknown NORMARC field',
+        '$6': 'Linkage'
         }
 
 
@@ -337,7 +533,9 @@ class Field240(SubField):
     name ='Uniform Title'
     subfields = {
         '$a': 'Uniform Title',
+        '$b': 'Unknown NORMARC field',
         '$l': 'Language of a work',
+        '$k': 'Form subheading',
         # We think german extra title field (9911083)
         '$w': 'Extra Title',
         }
@@ -347,6 +545,15 @@ class Field240(SubField):
             'English',
             'French'
             ]
+        #        1001967
+        if value == 'hol':
+            return 'French'
+        if value == 'English.':
+            return 'English'
+        if value == 'tschech':
+            return value
+        if value == 'Chinese.':
+            return 'Chinese'
         if value in LANGS:
             return LANGS[value]
         if value in real_languages:
@@ -358,6 +565,8 @@ class Field245(SubField):
     name ='Title Statement'
     subfields = {
         '$a': 'Title',
+        '$c': ' Statement of responsibility, etc. ',
+        '$2': 'Unknown NORMARC field',
         '$6': 'Linkage',
         }
 
@@ -368,6 +577,7 @@ class Field246(SubField):
         '$a': 'Title proper/short title',
         '$b': 'Remainder of title',
         '$c': 'EXTRA BEACON FIELD',
+        '$6': 'Linkage'
         }
 
 
@@ -376,6 +586,13 @@ class Field250(SubField):
     subfields = {
         '$a': 'Edition',
         '$b': 'Remainder of edition statement'
+        }
+
+
+class Field257(SubField):
+    name = 'Country of Producing Entity'
+    subfields = {
+        '$a': 'Country of Producing Entity'
         }
 
 
@@ -396,6 +613,13 @@ class Field263(SubField):
         }
 
 
+class Field264(SubField):
+    name = 'Production, Publication, Distribution, Manufacture, and Copyright Notice'
+    subfields = {
+        '$a': 'Place of production, publication, distribution, manufacture'
+        }
+
+
 class Field300(SubField):
     name = 'Physical Description'
     subfields = {
@@ -408,14 +632,40 @@ class Field300(SubField):
 class Field310(SubField):
     name = 'Current Publication Frequency'
     subfields = {
-        '$a': 'Current publication frequency'
+        '$a': 'Current publication frequency',
+        '$P': 'Unknown NORMARC Field'
+        }
+
+
+class Field321(SubField):
+    name = 'Former Publication Frequency'
+    subfields = {
+        '$a': 'Former publication frequency',
+        '$b': 'Dates of former publication frequency'
         }
 
 
 class Field362(SubField):
     name = 'Dates of Publication and/or Sequential Designation'
     subfields = {
-        '$a': 'Dates of Publication and/or Sequential Designation'
+        '$a': 'Dates of Publication and/or Sequential Designation',
+        '$V': 'Unknown NORMARC field'
+        }
+
+
+class Field400(SubField):
+    name = 'Series Statement/Added Entry-Personal Name'
+    subfields = {
+        '$a': 'Personal Name'
+        }
+
+
+class Field410(SubField):
+    name = 'Series Statement/Added Entry-Corporate Name'
+    subfields = {
+        '$a': 'Corporate name or jurisdiction name as entry element',
+        '$t': 'Title of a work',
+        '$v': 'Volume/sequential designation',
         }
 
 
@@ -423,7 +673,9 @@ class Field440(SubField):
     name = 'Series Statement/Added Entry-Title'
     subfields = {
         '$a': 'Series Title',
-        '$v': 'Volume Number'
+        '$v': 'Volume Number',
+        '$4': 'Unknown NORMARC field',
+        '$6': 'Linkage'
         }
 
 
@@ -431,13 +683,16 @@ class Field490(SubField):
     name = "Series Statement"
     subfields = {
         '$a': 'Series Statement',
-        '$v': 'Volume/sequential designation'
+        '$v': 'Volume/sequential designation',
+        '$6': 'Linkage'
         }
+
 
 class Field500(SubField):
     name = 'General Note'
     subfields = {
-        '$a': 'General Note'
+        '$a': 'General Note',
+        '$e': 'Unknown NORMARC Field'
         }
 
 
@@ -451,14 +706,20 @@ class Field502(SubField):
 class Field503(SubField):
     name = 'Censorship Note'
     subfields = {
-        '$a': 'Note'
+        '$a': 'Note',
+        '$b': 'Note',
+        '$6': 'Note'
         }
 
 
 class Field505(SubField):
     name = 'Formatted Contents Note'
     subfields = {
-        '$a': 'Formatted contents note'
+        '$a': 'Formatted contents note',
+        '$b': 'Unknown NORMARC field',
+        '$c': 'Unknown NORMARC field',
+        '$e': 'Unknown NORMARC field',
+        '$3': 'Unknown NORMARC field'
         }
 
 
@@ -476,11 +737,25 @@ class Field506(SubField):
         }
 
 
+class Field508(SubField):
+    name = 'Creation/Production Credits Note'
+    subfields = {
+        '$a': 'Creation/Production Credits Note'
+        }
+
+
 class Field510(SubField):
     name = 'Citation/References Note'
     subfields = {
         '$a': 'Name of source',
         '$c': 'Location within source'
+        }
+
+
+class Field511(SubField):
+    name = 'Participant or Performer Note'
+    subfields = {
+        '$a': 'Participant or Performer Note',
         }
 
 
@@ -496,8 +771,11 @@ class Field518(SubField):
     subfields = {
         # Note this is overloaded to mean Period of censorship in Beacon
         '$a': 'Date/Time and Place of an Event Note',
+        '$b': 'Unknown NORMARC field',
+        '$1': 'Unknown NORMARC field',
         # Note this is overloaded to mean Type of Material in Beaon
-        '$3': 'Materials specified'
+        '$3': 'Materials specified',
+        '$c': 'Unknown NORMARC field'
         }
 
 
@@ -505,6 +783,13 @@ class Field520(SubField):
     name = 'Summary, Etc.'
     subfields = {
         '$a': 'Summary, Etc'
+        }
+
+
+class Field522(SubField):
+    name = 'Geographic Coverage Note'
+    subfields = {
+        '$a': 'Geographic Coverage Note'
         }
 
 
@@ -520,10 +805,26 @@ class Field533(SubField):
         }
 
 
+class Field541(SubField):
+    name = 'Immediate Source of Acquisition Note'
+    subfields = {
+        '$a': 'Immediate Source of Acquisition Note',
+        '$d': 'Date of acquisition'
+        }
+
+
 class Field546(SubField):
     name = 'Language Note'
     subfields = {
-        '$a': 'Language Note'
+        '$a': 'Language Note',
+        '$6': 'Linkage'
+        }
+
+
+class Field550(SubField):
+    name = 'Issuing Body Note'
+    subfields = {
+        '$a': 'Issuing Body Note'
         }
 
 
@@ -534,10 +835,26 @@ class Field580(SubField):
         }
 
 
+class Field581(SubField):
+    name = 'Publications About Described Materials Note'
+    subfields = {
+        '$a': 'Publications About Described Materials Note'
+        }
+
+
 class Field610(SubField):
     name = 'Subject Added Entry-Corporate Name'
     subfields = {
         '$a': 'Corporate name or jurisdiction name as entry element',
+        }
+
+
+class Field611(SubField):
+    name = 'Subject Added Entry-Meeting Name'
+    subfields = {
+        '$a': 'Meeting name or jurisdiction name as entry element',
+        '$c': 'Location of meeting',
+        '$t': 'Title of a work'
         }
 
 
@@ -555,13 +872,17 @@ class Field650(SubField):
         '$z': 'Geographic subdivision'
         }
 
+
 # Beacon country code
 class Field651(SubField):
+    # source for this is found at
+    # http://books.google.co.uk/books?id=eUxo7yIUHRAC&dq=USSR+(until+December+1991)+8050
     name = 'Country'
     subfields = {
         '$a': 'Country',
         '$x': 'Geographic Subdivision',
         '$y': 'Chronological Subdivision',
+        '$s': 'Unknown NORMARC Field',
         '$6': 'Linkage',
         }
 
@@ -688,10 +1009,100 @@ class Field651(SubField):
         7215: 'Armenia',
         9021: 'New Zealand',
         5400: 'Southern Africa',
+        7413: 'Bangladesh',
+        6425: 'Colombia',
+        6246: 'Panama',
+        7312: 'Bahrain',
+        8022: 'Finland',
+        8049: 'Ukraine',
+        5519: 'Cape Verde',
+        7437: 'Maldives',
+        6460: 'Venezuela',
+        7300: 'Western Asia',
+        5150: 'Rwanda',
+        5445: 'Mozambique',
+        8055: 'Croatia',
+        7241: 'Tajikistan',
+        5556: 'Sierra Leone',
+        9000: 'Oceana',
+        8062: 'Moldova, Republic of',
+        5257: 'Somalia',
+        7542: 'Philippines',
+        6400: 'South America',
+        7328: 'Iraq',
+        7546: 'Singapore',
+        8047: 'Switzerland',
+        8074: 'Macedonia, the former Yugoslav Republic of',
+        8066: 'Slovenia',
+        6231: 'El Salvador',
+        7121: "Korea, Democratic People's Republic of",
+        6226: 'Costa Rica',
+        5854: 'Unknown',
+        5165: 'Zaire (from 1971 until 1997)',
+        7322: 'Yemen, Democratic (Until 1990)',
+        6245: 'Nicaragua',
+        7138: 'Mongolia',
+        8030: 'Iceland',
+        8036: 'Malta',
+        5438: 'Madagascar',
+        7523: 'East Timor',
+        8021: 'Faroe Islands',
+        5200: 'Eastern Africa',
+        5530: 'Ghana',
+        7125: 'Unknown',
+        7533: "Lao People's Democratic Republic",
+        6432: 'Falkland Islands',
+        6100: 'Caribbean',
+        8065: 'Slovakia',
+        5300: 'Northern Africa',
+        5561: 'Togo',
+        6300: 'Northern America',
+        5500: 'Western Africa',
+        6140: 'Jamaica',
+        6327: 'Unknown',
+        7411: 'Afghanistan',
+        5126: 'Equitorial Guinea',
+        6326: 'Unknown',
+        7250: 'Uzbekistan',
+        5121: 'Chad',
+        5263: 'Uganda',
+        5554: 'Senegal',
+        7225: 'Georgia',
+        7550: 'Thailand',
+        7248: 'Turkmenistan',
+        5514: 'Benin',
+        6129: 'Dominican Republic',
+        6447: 'Paraguay',
+        7149: 'Taiwan',
+        6419: 'Bolivia',
+        6239: 'Honduras',
+        5224: 'Dijibouti',
+        9029: 'Tonga',
+        5455: 'Seychelles',
+        9033: 'Wallis and Futuna Islands',
+        7525: 'Unknown',
+        9014: 'Fiji',
+        7414: 'Bhutan',
+        6437: 'Guyana',
+        6454: 'Suriname',
+        5435: 'Lesotho',
+        5415: 'Botswana',
+        5120: 'Central African Republic',
+        6118: 'Bermuda',
+        8090: 'Unknown',
+        6421: 'Unknown',
 
         }
 
     def parse_a(self, val):
+        natural = [
+            'Burma',
+            'Congo, Democratic Republic of',
+            'Myanmar',
+            'Serbia'
+            ]
+        if val in natural:
+            return val
         try:
             ccode = int(val)
             return self.countries[int(val)]
@@ -701,6 +1112,13 @@ class Field651(SubField):
                 return inverted[val]
             raise ValueError("I have no idea what to make of " + val)
 
+
+class Field655(SubField):
+    name = 'Index Term-Genre/Form'
+    subfields = {
+        '$a': 'Genre/form data or focus term',
+        '$2': 'Source of term'
+        }
 
 class Field691(SubField):
     name = 'Reason for censorship'
@@ -728,7 +1146,8 @@ class Field700(SubField):
     name = 'Added Entry-Personal Name'
     subfields = {
         '$a': 'Personal name',
-        '$e': 'Relator term'
+        '$e': 'Relator term',
+        '$6': 'Linkage'
         }
 
 
@@ -773,17 +1192,34 @@ class Field770(SubField):
         }
 
 
+class Field773(SubField):
+    name = 'Host Item Entry'
+    subfields = {
+        '$t': 'Title',
+        }
+
+
 class Field780(SubField):
     name = 'Preceding Entry'
     subfields = {
-        '$a': 'Main entry heading'
+        '$a': 'Main entry heading',
+        '$t': 'Title'
         }
 
 
 class Field785(SubField):
     name = 'Succeeding Entry'
     subfields = {
-        '$t': 'Title'
+        '$a': 'Main entry heading',
+        '$t': 'Title',
+        }
+
+
+class Field810(SubField):
+    name = 'Series Added Entry-Corporate Name'
+    subfields = {
+        '$a': 'Corporate name or jurisdiction name as entry element',
+        '$t': 'Title of a work'
         }
 
 
@@ -791,6 +1227,13 @@ class Field830(SubField):
     name = 'Series Added Entry-Uniform Title'
     subfields = {
         '$a': 'Uniform Title'
+        }
+
+
+class Field850(SubField):
+    name = 'Holding Institution'
+    subfields = {
+        '$a': 'Holding Institution'
         }
 
 
@@ -819,6 +1262,11 @@ class Record(object):
 class NormarcReader(object):
     def __init__(self, path):
         self.path = path
+        with self.path.open('r') as fh:
+            for i, l in enumerate(fh.readlines()):
+                pass
+        self.lines = i
+        self._read = 0
 
     def __iter__(self):
         """
@@ -834,11 +1282,29 @@ class NormarcReader(object):
         Exceptions: StopIteration
         """
         end = False
-        rid = int(self.path.readline())
+        invalid = False
+        rid_line = self.path.readline()
+        if rid_line == '':
+            raise StopIteration()
+        if rid_line == '\r\n':
+            raise StopIteration()
+        if rid_line == '^\n':
+            raise StopIteration()
+
+        try:
+            rid = int(rid_line)
+        except ValueError:
+            rid = 'Unparsable'
+
+        self._read += 1
         fields = []
         field = []
         while not end:
             line = self.path.readline()
+            if line == '':
+                end = True
+                continue
+            self._read += 1
             # Record ends
             if line.startswith('^'):
                 end = True
@@ -862,6 +1328,19 @@ def main():
     Exceptions:
     """
     for fname in sorted(BEACONRAW):
+        if fname in ['data_01.txt', 'data_02.txt',
+                     'data_03.txt', 'data_04.txt',
+                     'data_05.txt', 'data_06.txt',
+                     'data_07.txt', 'data_08.txt',
+                     'data_09.txt', 'data_10.txt',
+                     'data_11.txt', 'data_12.txt',
+                     'data_13.txt', 'data_14.txt',
+                     'data_15.txt', 'data_16.txt',
+                     'data_17.txt', 'data_18.txt',
+                     'data_19.txt', 'data_20.txt',
+                     'data_21.txt', 'data_22.txt',
+                     'data_23.txt', 'data_24.txt']:
+            continue
         fname = BEACONRAW/fname
         mreader = NormarcReader(fname)
         items = 0
@@ -871,8 +1350,12 @@ def main():
                 items += 1
         except:
             print '** Items:', items
+            perc = int(mreader._read / float(mreader.lines) * 100)
+            print '** Read:', mreader._read, '/', mreader.lines, perc, '%'
             raise
         break
+    print '** Items:', items
+
     return 0
 
 
