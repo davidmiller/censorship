@@ -2,6 +2,7 @@
 """
 Processing script to convert Beacon data from NORMARC format.
 """
+import json
 import sys
 import csv
 
@@ -33,6 +34,18 @@ class Field(object):
             value=self.value
             )
 
+    def to_dict(self):
+        """
+        Serialise this field to dict
+        """
+        return dict(
+            field_id=self.field_id,
+            name=self.name,
+#            value=self.value,
+            subfields=self.subfields.values(),
+            subvals=self.subvals
+        )
+    
     @classmethod
     def fromstring(klass, string):
         """
@@ -565,7 +578,7 @@ class Field245(SubField):
     name ='Title Statement'
     subfields = {
         '$a': 'Title',
-        '$c': ' Statement of responsibility, etc. ',
+        '$c': 'Statement of responsibility, etc. ',
         '$2': 'Unknown NORMARC field',
         '$6': 'Linkage',
         }
@@ -1251,12 +1264,21 @@ class Record(object):
         self.fields = fields
 
     def __str__(self):
-        fields = "\n".join(str(f) for f in self.fields)
+        fields = '    ' + "\n\n    ".join(str(f) for f in self.fields)
         return """=======================================
 <Normarc Record Object> {record_id}\n{fields}
 =======================================""".format(
             record_id=self.record_id,
             fields=fields)
+
+
+    def to_dict(self):
+        """
+        Serialise the record to JSON.
+        """
+        return dict(record_id=self.record_id, 
+                    fields=[f.to_dict() for f in self.fields])
+
 
 
 class NormarcReader(object):
@@ -1327,34 +1349,24 @@ def main():
     Return:
     Exceptions:
     """
+    items = 0
     for fname in sorted(BEACONRAW):
-        if fname in ['data_01.txt', 'data_02.txt',
-                     'data_03.txt', 'data_04.txt',
-                     'data_05.txt', 'data_06.txt',
-                     'data_07.txt', 'data_08.txt',
-                     'data_09.txt', 'data_10.txt',
-                     'data_11.txt', 'data_12.txt',
-                     'data_13.txt', 'data_14.txt',
-                     'data_15.txt', 'data_16.txt',
-                     'data_17.txt', 'data_18.txt',
-                     'data_19.txt', 'data_20.txt',
-                     'data_21.txt', 'data_22.txt',
-                     'data_23.txt', 'data_24.txt']:
-            continue
         fname = BEACONRAW/fname
         mreader = NormarcReader(fname)
-        items = 0
         try:
             for record in mreader:
-                print record
+                print json.dumps(record.to_dict(), indent=2)
                 items += 1
         except:
             print '** Items:', items
             perc = int(mreader._read / float(mreader.lines) * 100)
             print '** Read:', mreader._read, '/', mreader.lines, perc, '%'
-            raise
-        break
-    print '** Items:', items
+            # TODO: deal with encoding issues
+            #print record
+            #raise
+            
+        #break
+#    print '** Items:', items
 
     return 0
 
