@@ -1353,21 +1353,24 @@ def main():
     for fname in sorted(BEACONRAW):
         fname = BEACONRAW/fname
         mreader = NormarcReader(fname)
+        records = []
         try:
             for record in mreader:
-                print json.dumps(record.to_dict(), indent=2)
+#                print json.dumps(record.to_dict(), indent=2)
+                records.append(record.to_dict())
                 items += 1
         except:
-            print '** Items:', items
-            perc = int(mreader._read / float(mreader.lines) * 100)
-            print '** Read:', mreader._read, '/', mreader.lines, perc, '%'
+            pass
+            # print '** Items:', items
+            # perc = int(mreader._read / float(mreader.lines) * 100)
+            # print '** Read:', mreader._read, '/', mreader.lines, perc, '%'
             # TODO: deal with encoding issues
             #print record
-            #raise
+#            raise
             
         #break
 #    print '** Items:', items
-
+    print json.dumps(records, indent=2)
     return 0
 
 
